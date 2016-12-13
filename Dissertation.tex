@@ -1,0 +1,142 @@
+% Dissertation Kai Husmann
+% LaTeX Vorlage von Nikolas von Lüpke, Version 1.1
+
+\documentclass[
+a4paper,
+12pt,
+titlepage,
+%tablecaptionabove,
+twoside,
+openany,
+%pointlessnumbers,
+%fleqn, 
+bibtotoc,
+headings=twolinechapter,
+headings=normal,
+headinclude]{scrbook}
+
+
+%% Deutsche Anpassungen %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[ngerman,british]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+
+\usepackage{natbib}
+\usepackage{multibib}
+\usepackage{url} 
+%Schönere Tablellen
+\usepackage{booktabs}
+\usepackage[pdftex]{graphicx}%Mit diesem package können pdf,png und jpg Graphiken eingelesen werden und direkt pdfs erzeugt werden
+\usepackage{picins}
+\usepackage{subfig}
+\usepackage{multirow}
+%\usepackage{subfigure}
+%%Packages for Headings
+\usepackage{fancyhdr}
+%% Packages für korrekte Einheiten:
+\usepackage[squaren]{SIunits}
+
+\usepackage[dvips]{rotating}
+
+\usepackage{pdfpages}
+
+%% Packages für Formeln %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+%% Package für Zeilennummerierung
+\usepackage{lineno}
+\usepackage {longtable}
+%% Absatzformatierung
+\setlength{\parskip}{1.0ex plus 1.0ex minus 0.5ex}
+\setlength{\parindent}{0.5cm}
+%Querformat für den Anhang
+\usepackage{lscape}
+\usepackage{array}
+
+\usepackage{chapterbib}
+
+
+\typearea[1.5cm]{15}
+
+\usepackage{acronym} %für Abkürzungsverzeichnis
+
+\usepackage[colorlinks=true,linkcolor=black,citecolor=black,urlcolor=black, pdfauthor={Kai Husmann}, pdftitle={Applied Statistical Models in Bio-Economy}]{hyperref}
+%,backref=page
+%Zur Verlinkung des Literaturverzeichnisses mit den Textstellen bei hyperref Optionen [backref] einfügen%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% DOKUMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\thispagestyle{empty}
+\input{Deckblatt}
+\input{Referees}
+%\input{leereseite}
+\pagestyle{empty}
+\cleardoublepage
+\thispagestyle{empty}
+\input{Acknowledgements}
+%\pagestyle{empty}
+%\thispagestyle{empty}
+\cleardoublepage
+\pagenumbering{roman}
+%\input{Zusammenfassung}
+%\input{Abstract}
+%% Inhaltsverzeichnis %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{tocdepth}{1}
+\tableofcontents
+%\thispagestyle{plain}
+%\newpage
+%\listoffigures
+%\thispagestyle{plain}
+%\newpage
+%\listoftables
+%\thispagestyle{plain}
+%\newpage
+%\thispagestyle{plain}
+% \input{Abkuerzungsverzeichnis}
+%\thispagestyle{plain}
+\cleardoublepage
+
+
+%Definiert die Länge der Kopfzeile
+\pagestyle{fancy} \renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancyhead{} \fancyfoot{}
+\setlength{\headheight}{30pt}
+\renewcommand{\chaptermark}[1]{\markboth{\small\ \thechapter.\ \ #1}{}} 
+\renewcommand{\sectionmark}[1]{\markright{\small\thesection.\ #1}{}}
+\fancyhead[LE]{\rightmark} \fancyhead[RO]{\leftmark}
+\fancyfoot[LE]{\thepage} \fancyfoot[RO]{\thepage}
+
+\pagenumbering{arabic}
+\input{Introduction}
+\cleardoublepage
+\input{hzb}
+\cleardoublepage
+\input{bm}
+\cleardoublepage
+\input{beech_crowns}
+\cleardoublepage
+\input{opt}
+\cleardoublepage
+\input{Discussion}
+\cleardoublepage
+\input{Summary}
+\cleardoublepage
+\input{Zusammenfassung}
+\cleardoublepage
+\input{Literatur}
+\cleardoublepage
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\pagebreak
+\pagestyle{empty}
+\input{Curriculum}
+\cleardoublepage
+\pagestyle{empty}
+%\input{EidesstattlicheErklaerung}
+\end{document}
+
