@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Dissertation.aux
+The style file: apalike2.bst
+Database file #1: Dissertation.bib
+Warning--there's a number but no volume in akaike_1981
+Warning--empty publisher in altherr_1978
+Warning--empty publisher in bmel_2011
+Warning--empty publisher in bmel_2014
+Warning--there's a number but no volume in gaffrey_1999
+Warning--can't use both author and editor fields in gauer_2012
+Warning--empty publisher in haarhaus_2012
+Warning--empty publisher in mantau_2012
+Warning--empty publisher in mfacp_2004
+Warning--there's a number but no volume in mohring_1997
+Warning--empty publisher in Schanz_1996
+You've used 56 entries,
+            2229 wiz_defined-function locations,
+            828 strings with 13689 characters,
+and the built_in function-call counts, 19758 in all, are:
+= -- 1906
+> -- 718
+< -- 55
++ -- 236
+- -- 230
+* -- 1615
+:= -- 3494
+add.period$ -- 171
+call.type$ -- 56
+change.case$ -- 368
+chr.to.int$ -- 56
+cite$ -- 67
+duplicate$ -- 816
+empty$ -- 1436
+format.name$ -- 312
+if$ -- 3853
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 79
+newline$ -- 283
+num.names$ -- 171
+pop$ -- 373
+preamble$ -- 1
+purify$ -- 393
+quote$ -- 0
+skip$ -- 598
+stack$ -- 0
+substring$ -- 1186
+swap$ -- 99
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 278
+warning$ -- 11
+while$ -- 157
+width$ -- 0
+write$ -- 727
+(There were 11 warnings)

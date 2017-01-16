@@ -1,0 +1,870 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Article{akaike_1981,
+  Title                    = {Likelihood of a model and information criteria},
+  Author                   = {Akaike, Hirotugo},
+  Journal                  = {Journal of Econometrics},
+  Year                     = {1981},
+  Number                   = {16},
+  Pages                    = {3--14},
+
+  Doi                      = {10.1016/0304-4076(81)90071-3},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Book{altherr_1978,
+  Title                    = {Statistische {Rindenbeziehungen} als {Hilfsmittel} zur {Ausformung} und {Ausmessung} unentrindeten {Stammholzes}},
+  Author                   = {Altherr, E and Unfried, P and Hrahetzky, V},
+  Year                     = {1978},
+  Series                   = {Mitteilungen der {Forstlichen} {Versuchs}- und {Forschungsanstalt} {Baden}-{Würtemberg}},
+  Volume                   = {90},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Book{bmel_2014,
+  Title                    = {Der {Wald} in {Deutschland} - {Ausgewählte} {Ergebnisse} der dritten {Bundeswaldinventur}},
+  Author                   = {{BMEL}},
+  Year                     = {2014},
+
+  Address                  = {Berlin},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Book{bmel_2011,
+  Title                    = {Waldstrategie 2020},
+  Author                   = {{BMEL}},
+  Year                     = {2011},
+
+  Address                  = {Bonn},
+  Note                     = {Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Article{cancino_2005,
+  Title                    = {Comparison of randomized branch sampling with and without replacement at the first stage},
+  Author                   = {Cancino, Jorge and Saborowski, Joachim},
+  Journal                  = {Silva Fennica},
+  Year                     = {2005},
+  Number                   = {2},
+  Pages                    = {201--216},
+  Volume                   = {39},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Book{Carlowitz_1713,
+  Title                    = {{Sylvicvltvra Oeconomica, Oder Haußwirthliche Nachricht und Naturmäßige Anweisung Zur Wilden Baum-Zucht}},
+  Author                   = {Hans-Carl von Carlowitz},
+  Publisher                = {Johann Friedrich Braun, Leipzig},
+  Year                     = {1713},
+
+  Owner                    = {nluepke},
+  Timestamp                = {2012.11.28}
+}
+
+@Book{chambers_1992,
+  Title                    = {Statistical models in {S}},
+  Author                   = {Chambers, J. M. and Hastie, T. J.},
+  Publisher                = {Chapman \& Hall/CRC},
+  Year                     = {1992},
+
+  Address                  = {Boca Raton, Fla.},
+
+  ISBN                     = {0-534-16765-9 978-0-534-16765-3 0-534-16764-0 978-0-534-16764-6 978-0-412-83040-2 0-412-83040-X},
+  Language                 = {English},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Misc{degenhard_2016,
+  Title                    = {Holzmarkt - {Schnittholznachfrage} stabilisiert},
+
+  Author                   = {Degenhard, Michael},
+  Year                     = {2016},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://www.forstpraxis.de/schnittholznachfrage-stabilisiert},
+  Urldate                  = {2016-06-14}
+}
+
+@Misc{destatis_2016,
+  Title                    = {Statistisches {Bundesamt} {Deutschland} - {GENESIS}-{Online}},
+
+  Author                   = {{DESTATIS}},
+  Month                    = aug,
+  Year                     = {2016},
+
+  Abstract                 = {{\textless}acronym title="Gemeinsames neues statistisches Informationssystem"{\textgreater}GENESIS{\textless}/acronym{\textgreater}-{\textless}span lang="EN-GB"{\textgreater}Online{\textless}/span{\textgreater} ist eine Datenbank, die tief gegliederte Ergebnisse der amtlichen Statistik enthält. Sie wird kontinuierlich ausgebaut. Der Tabellenabruf erfolgt unentgeltlich und kann variabel auf den individuellen Bedarf angepasst werden. Die Abspeicherung der Ergebnisse ist in verschiedenen Formaten möglich. Zusätzliche Nutzungsmöglichkeiten stehen registrierten Kunden gegen eine Jahresgebühr zur Verfügung.},
+  Copyright                = {https://www-genesis.destatis.de:443/genesis/online?Menu=Impressum},
+  File                     = {Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/J97BEAKT/online\;jsessionid=8157F3BD9465AB28DE06B9E4D02A4D53.html:text/html},
+  Language                 = {de},
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13},
+  Type                     = {Text},
+  Url                      = {https://www-genesis.destatis.de/genesis/online;jsessionid=8157F3BD9465AB28DE06B9E4D02A4D53.tomcat_GO_2_1?operation=previous&levelindex=4&levelid=1471595137835&step=4},
+  Urldate                  = {2016-08-19}
+}
+
+@Misc{facg_2014,
+  Title                    = {Shapefile {Germany} with federal states},
+
+  Author                   = {{FACG}},
+  Note                     = {Federal Agency for Cartography and Geodesy},
+  Year                     = {2014},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://www.bkg.bund.de/nn_171320/DE/Bundesamt/Downloads/Kostenlose-Karten/Deutschland-Karten/D-Karten__downloads__node.html__nnn=true},
+  Urldate                  = {2014-03-24}
+}
+
+@Misc{fanc_2010,
+  Title                    = {Map of potential natural vegetation in {Germany}},
+
+  Author                   = {{FANC}},
+  Note                     = {Federal Agency for Nature Conservation},
+  Year                     = {2010},
+
+  Address                  = {Bonn-Bad Godesberg},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Article{fischer_2016,
+  Title                    = {Flächen-Übergangsmatrizen als erweiterte {Auswertung} der {Bundeswaldinventur}: {Darstellung} am {Beispiel} der {Veränderung} der {Bestockungszusammensetzung} in {Niedersachsen} (under review)},
+  Author                   = {Fischer, Christoph and Husmann, Kai},
+  Journal                  = {Allgemeine Forst- und Jagdzeitung},
+  Year                     = {2016},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Article{gaffrey_1999,
+  Title                    = {{RBS}, ein mehrstufiges {Inventurverfahren} zur {Schätzung} von {Baummerkmalen} - {I}. {Schätzung} von {Nadel}- und {Asttrockenmassen} bei 66-jährigen {Douglasien}},
+  Author                   = {Gaffrey, D. and Saborowski, J.},
+  Journal                  = {Allgemeine Forst- und Jagdzeitung},
+  Year                     = {1999},
+  Number                   = {170. Jg 10-11},
+  Pages                    = {177-- 183},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Book{gauer_2012,
+  Title                    = {Waldökologische {Naturräume} {Deutschlands} - {Forstliche} {Wuchsgebiete} und {Wuchsbezirke}},
+  Author                   = {Gauer, Jürgen},
+  Editor                   = {Kroiher, Franz},
+  Publisher                = {Thünen Institut},
+  Year                     = {2012},
+
+  Address                  = {Braunschweig},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Book{Gregoire_2008,
+  Title                    = {{Sampling Strategies for Natural Ressources and the Environment}},
+  Author                   = {T. G. Gregoire and H.T. Valentine},
+  Publisher                = {Chapman \& Hall/CRC. Boca Raton, London, New York.},
+  Year                     = {2008},
+
+  Owner                    = {nluepke},
+  Timestamp                = {2011.10.06}
+}
+
+@Article{gregoire_1995,
+  Title                    = {Sampling {Methods} to {Estimate} {Foliage} and {Other} {Characteristics} of {Individual} {Trees}},
+  Author                   = {Gregoire, Timothy G. and Valentine, Harry T. and Furnival, George M.},
+  Journal                  = {Ecology},
+  Year                     = {1995},
+
+  Month                    = jun,
+  Number                   = {4},
+  Pages                    = {1181},
+  Volume                   = {76},
+
+  Doi                      = {10.2307/1940925},
+  File                     = {JSTOR\: Ecology, Vol. 76, No. 4 (Jun., 1995), pp. 1181-1194:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/W36X3Z54/1940925.html:text/html},
+  ISSN                     = {00129658},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://www.jstor.org/discover/10.2307/1940925?uid=3737864&uid=2&uid=4&sid=21102564354753},
+  Urldate                  = {2013-08-19}
+}
+
+@Book{hansen_2008,
+  Title                    = {Rohholzpotenziale und ihre {Verfügbarkeit} in {Hessen}},
+  Author                   = {Hansen, Jan and Ludwig, Agatha and Spellmann, Hermann and Nagel, Jürgen and Möhring, Bernhard and von Lüpke, Nikolas and Schmidt-Walter, Paul},
+  Publisher                = {NW-FVA},
+  Year                     = {2008},
+
+  Address                  = {Göttingen},
+  Series                   = {Veröffentlichungen der {NW}-{FVA} und der {Abteilung} für {Forstökonomie} der {Georg}-{August}-{Universität} {Universität} {Göttingen}},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Book{hansen_2014,
+  Title                    = {Waldwachstumskundliche {Softwaresysteme} auf {Basis} von {TreeGrOSS}-{Anwendung} und theoretische {Grundlagen}},
+  Author                   = {Hansen, Jan and Nagel, Jürgen},
+  Publisher                = {Niedersächsische Staats-und Universitätsbibliothek},
+  Year                     = {2014},
+
+  Address                  = {Göttingen},
+
+  ISBN                     = {978-3-86395-149-8},
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@InProceedings{hildebrandt_2014,
+  Title                    = {Establishing a robust sustainability index for the assessment of bioeconomy regions},
+  Author                   = {Hildebrandt, J. and Bezama, A. and Thrän, D.},
+  Booktitle                = {2014 {International} {Conference} and {Utility} {Exhibition} on {Green} {Energy} for {Sustainable} {Development} ({ICUE})},
+  Year                     = {2014},
+  Month                    = mar,
+  Pages                    = {1--4},
+
+  Abstract                 = {The Bioeconomy strategy fosters the integration of the agricultural, chemical, pulp and paper industries and the energy sector for obtaining sustainable bio-based materials and bioenergy. Basically all industrial sectors relying on biomass are facing economic burdens by resource competition. The cascade and coupled use stand as potential solutions for cross-sectoral cooperations to mutually enhance economic competitiveness. However the monitoring of trade-offs between sustainability goals of individual industries and the overall system demands extensive knowledge-based elicitations. The challenge of establishing a sustainability index arising from stakeholder's subjective perceptions of multidimensional issues requires to develop an integrated methodology out of nowadays most accepted and reliable assessment tools. This paper positions a sustainability index tool by reexamining the methodologies with regard to their appropriateness and generic strengths and weaknesses. The proposed combination of reference point approaches with preference-based elicitations is claimed as appropriate for establishing specific utility functions of sub-goals for bioeconomy.},
+  File                     = {IEEE Xplore Abstract Record:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/42SSTHD3/articleDetails.html:text/html;IEEE Xplore Full Text PDF:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/36ZNJ9PU/Hildebrandt et al. - 2014 - Establishing a robust sustainability index for the.pdf:application/pdf},
+  Keywords                 = {agricultural industries, Benchmark testing, bioeconomy region assessment, bioenergy, bioenergy conversion, biomass, Cascade use systems, chemical industries, cross-sectoral cooperations, Educational institutions, energy sector, Indexes, Industries, LCF biorefineries, Life Cycle Sustainability Assessment, Materials, Monitoring, Multi Criteria Analysis, paper industries, pulp industries, renewable materials, Resource competition, Robustness, robust sustainability index tool, stakeholder value, Sustainability Index, sustainable biobased materials, Sustainable development, Wood-based bioeconomy},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Book{hmuklv_2014,
+  Title                    = {Hessen - {Bäume}, {Wälder}, {Lebensräume} : ausgewählte {Ergebnisse} der dritten {Bundeswaldinventur} ({BWI} 3) für {Hessen} - {Deutsche} {Digitale} {Bibliothek}},
+  Author                   = {{HMUKLV}},
+  Publisher                = {Hessisches Ministerium für Umwelt, Klimaschutz, Landwirtschaft und Verbraucherschutz},
+  Year                     = {2014},
+
+  Address                  = {Wiesbaden},
+
+  File                     = {Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/3SSGVHVX/OABDTTQNRBJVF5EFV3LEMQKUTUPZC5BH.html:text/html},
+  ISBN                     = {978-3-89274-369-9},
+  Owner                    = {kai},
+  Shorttitle               = {Hessen - {Bäume}, {Wälder}, {Lebensräume}},
+  Timestamp                = {2016.12.13},
+  Url                      = {http://www.deutsche-digitale-bibliothek.de/item/OABDTTQNRBJVF5EFV3LEMQKUTUPZC5BH},
+  Urldate                  = {2016-05-06}
+}
+
+@Book{hutcheson_2008,
+  Title                    = {Statistical {Modeling} for {Management}},
+  Author                   = {Hutcheson, Graeme D. and Moutinho, Luiz},
+  Publisher                = {SAGE Publications},
+  Year                     = {2008},
+
+  Address                  = {London},
+  Month                    = feb,
+
+  ISBN                     = {0-7619-7012-6},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Book{huxley_1932,
+  Title                    = {Problems of relative growth},
+  Author                   = {Huxley, Julian},
+  Publisher                = {Dial Press},
+  Year                     = {1932},
+
+  Address                  = {New York},
+
+  File                     = {Göttinger Universitätskatalog (GUK) - results/titledata:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/I7IH58AX/SHW.html:text/html},
+  ISBN                     = {0-8018-4659-5},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Article{jessen_1955,
+  Title                    = {Determining the {Fruit} {Count} on a {Tree} by {Randomized} {Branch} {Sampling}},
+  Author                   = {Jessen, Raymond J.},
+  Journal                  = {Biometrics},
+  Year                     = {1955},
+
+  Month                    = mar,
+  Note                     = {ArticleType: research-article / Full publication date: Mar., 1955 / Copyright © 1955 International Biometric Society},
+  Number                   = {1},
+  Pages                    = {99--109},
+  Volume                   = {11},
+
+  Doi                      = {10.2307/3001484},
+  File                     = {JSTOR Full Text PDF:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/W7KDTW3J/Jessen - 1955 - Determining the Fruit Count on a Tree by Randomize.pdf:application/pdf},
+  ISSN                     = {0006-341X},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://www.jstor.org/stable/3001484},
+  Urldate                  = {2012-08-06}
+}
+
+@Article{kuzelka_2012,
+  Title                    = {Spline representation of irregular and malformed stem profiles of broadleaved tree species in {White} {Carpathian} {Mountains}},
+  Author                   = {Kuzelka, Karel and Marusak, Robert},
+  Journal                  = {Beskydy},
+  Year                     = {2012},
+  Number                   = {2},
+  Pages                    = {111--120},
+  Volume                   = {5},
+
+  Doi                      = {10.11118/beskyd201205020111},
+  File                     = {Spline representation of irregular and malformed stem profiles of broadleaved tree species in White Carpathian Mountains Beskydy - The Beskids Bulletin | Mendel University:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/JPH6IVHE/0111.html:text/html},
+  ISSN                     = {1803-2451, 1803-2451},
+  Language                 = {en},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://beskydy.mendelu.cz/5/2/0111/},
+  Urldate                  = {2014-03-24}
+}
+
+@Book{Mandallaz_2008,
+  Title                    = {Sampling Techniques for Forest Inventories},
+  Author                   = {Daniel Mandallaz},
+  Publisher                = {Chapman \& Hall/CRC. Boca Raton, London, New York.},
+  Year                     = {2008},
+
+  Owner                    = {nluepke},
+  Timestamp                = {2011.03.11}
+}
+
+@Book{mantau_2012,
+  Title                    = {Holzrohstoffbilanz {Deutschland}, {Entwicklungen} und {Szenarien} des {Holzaufkommens} und der {Holzverwendung} 1987 bis 2015},
+  Author                   = {Mantau, Uwe},
+  Year                     = {2012},
+
+  Address                  = {Hamburg},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Article{mccormick_2013,
+  Title                    = {The {Bioeconomy} in {Europe}: {An} {Overview}},
+  Author                   = {McCormick, Kes and Kautto, Niina},
+  Journal                  = {Sustainability},
+  Year                     = {2013},
+
+  Month                    = jun,
+  Number                   = {6},
+  Pages                    = {2589--2608},
+  Volume                   = {5},
+
+  Abstract                 = {A bioeconomy can be defined as an economy where the basic building blocks for materials, chemicals and energy are derived from renewable biological resources. This paper provides an overview of the bioeconomy in Europe, examining it from a policy framework and concept perspective. The role of bioenergy in the bioeconomy is discussed particularly through biofuels for transport and biorefineries. The study finds that the definitions of the bioeconomy are evolving and vary depending on the actor, but display similarities such as the emphasis on economic output and a broad, cross-sectoral focus. While there is great optimism about the benefits and opportunities associated with developing an advanced bioeconomy in Europe, significant risks and trade-offs are also expressed. Furthermore, the bioeconomy concept has been criticised for presenting a technical fix and pre-empting alternative visions. To advance a competitive and sustainable bioeconomy, this paper calls for attention on two important themes: participatory governance that engages the general public and key stakeholders in an open and informed dialogue as well as a commitment by government and industry to innovation that drives concerted efforts on sustainable development of the bioeconomy.},
+  Copyright                = {http://creativecommons.org/licenses/by/3.0/},
+  Doi                      = {10.3390/su5062589},
+  File                     = {Full Text PDF:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/7KBPXP3C/McCormick und Kautto - 2013 - The Bioeconomy in Europe An Overview.pdf:application/pdf;Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/F6MMSVR2/2589.html:text/html},
+  Keywords                 = {bioeconomy, bioenergy, Europe},
+  Language                 = {en},
+  Owner                    = {kai},
+  Shorttitle               = {The {Bioeconomy} in {Europe}},
+  Timestamp                = {2016.12.13},
+  Url                      = {http://www.mdpi.com/2071-1050/5/6/2589},
+  Urldate                  = {2016-06-24}
+}
+
+@Book{mfacp_2004,
+  Title                    = {Langfristige ökologische {Waldentwicklung}- {Richtlinie} zur {Baumartenwahl}},
+  Author                   = {{MFACP}},
+  Year                     = {2004},
+
+  Address                  = {Wolfenbüttel},
+  Note                     = {Lower Saxony Ministry of Food, Agriculture and Consumer Protection},
+  Series                   = {Aus dem {Walde} - {Schriftenreihe} {Waldentwicklung} {Niedersachsen}},
+  Volume                   = {54},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Article{miettinen_2014,
+  Title                    = {Whole-tree harvesting with stump removal versus stem-only harvesting in peatlands when water quality, biodiversity conservation and climate change mitigation matter},
+  Author                   = {Miettinen, Jenni and Ollikainen, Markku and Nieminen, Tiina M. and Ukonmaanaho, Liisa and Laurén, Ari and Hynynen, Jari and Lehtonen, Mika and Valsta, Lauri},
+  Journal                  = {Forest Policy and Economics},
+  Year                     = {2014},
+
+  Month                    = oct,
+  Pages                    = {25--35},
+  Volume                   = {47},
+
+  Abstract                 = {This article examines alternative forest harvesting regimes when ecosystem services in terms of water quality, biodiversity conservation and climate change mitigation are included in the analysis. The harvesting regimes are whole-tree harvesting with stump removal and conventional stem-only harvesting. The harvesting regimes are evaluated under two alternative climate policy contexts. The first alternative is a carbon neutral bioenergy policy, which assumes the carbon dioxide (CO2) neutrality of bioenergy and produces substitution benefits, as bioenergy replaces fossil fuels. The second alternative climate policy, a carbon non-neutral bioenergy policy, takes into account the fact that bioenergy causes carbon dioxide emissions, producing substitution costs, and that harvested woody biomass affects the ability of a forest to act as a carbon sink. We extend the traditional Faustmann (1849) rotation model to include nutrient load damage, biodiversity benefits, and climate impacts. The empirical analysis is based on Finnish data from a catchment experiment carried out on drained peatland forests. The empirical results show that under a carbon neutral bioenergy policy, whole-tree harvesting with stump removal produces the highest net social benefits. However, if a carbon non-neutral bioenergy policy is assumed, the net social benefits are greater under stem-only harvesting.},
+  Doi                      = {10.1016/j.forpol.2013.08.005},
+  File                     = {ScienceDirect Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/5AXMUEIX/S1389934113001676.html:text/html},
+  ISSN                     = {1389-9341},
+  Keywords                 = {Biodiversity conservation, Climate policy, Mercury load, Nutrient load, Stem-only harvesting, Whole-tree harvesting},
+  Owner                    = {khusman1},
+  Series                   = {Forests and {Ecosystem} {Services}: {Outlines} for {New} {Policy} {Options}},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S1389934113001676},
+  Urldate                  = {2015-07-28}
+}
+
+@Book{ml_2014,
+  Title                    = {Der {Wald} in {Niedersachsen}: {Ergebnisse} der {Bundeswaldinventur} 3},
+  Author                   = {{ML}},
+  Publisher                = {Niedersächsisches Ministerium für Ernährung, Landwirtschaft und Verbraucherschutz},
+  Year                     = {2014},
+
+  Address                  = {Hannover},
+  Edition                  = {1},
+
+  File                     = {Library Catalog Entry Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/TPEMJMA2/PPN.html:text/html},
+  Keywords                 = {Niedersachsen / Waldinventur / Waldfläche / Holzwirtschaft},
+  Owner                    = {kai},
+  Shorttitle               = {Der {Wald} in {Niedersachsen}},
+  Timestamp                = {2016.12.13}
+}
+
+@Book{ml_2004,
+  Title                    = {Langfristige ökologische {Waldentwicklung}- {Richtlinie} zur {Baumartenwahl}},
+  Author                   = {{ML}},
+  Publisher                = {Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft},
+  Year                     = {2004},
+
+  Address                  = {Wolfenbüttel},
+  Note                     = {Niedersächsisches Ministerium
+für Ernährung, Landwirtschaft und
+Verbraucherschutz},
+  Series                   = {Aus dem {Walde} - {Schriftenreihe} {Waldentwicklung} {Niedersachsen}},
+  Volume                   = {54},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Article{mohring_1997,
+  Title                    = {Betriebswirtschaftliche {Probleme} und {Chancen}},
+  Author                   = {Möhring, Bernhard},
+  Journal                  = {AFZ/ Der Wald},
+  Year                     = {1997},
+  Number                   = {2},
+  Pages                    = {67-- 71},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Book{moller_2007,
+  Title                    = {Umweltrecht - {Planung}, {Wald}, {Naturschutz}, {Jagd}, {Wasser}, {Boden}, {Immissionen}, {Abfall} u.a. - {Kommentare}: {Bundesrecht} und exemplarisch niedersächsisches {Landesrecht} - mit verbundenem {Nutzungsrecht}, {Europarecht}},
+  Author                   = {Möller, Wolfdietrich},
+  Publisher                = {Selbstverlag des Autors},
+  Year                     = {2007},
+  Edition                  = {4b., überarb. u. erw. Aufl.},
+
+  ISBN                     = {3-00-009375-3},
+  Owner                    = {kai},
+  Shorttitle               = {Umweltrecht - {Planung}, {Wald}, {Naturschutz}, {Jagd}, {Wasser}, {Boden}, {Immissionen}, {Abfall} u.a. - {Kommentare}},
+  Timestamp                = {2016.12.13}
+}
+
+@InCollection{nagel_2008,
+  Title                    = {Wachstum, {Behandlung} und {Ertrag} von {Reinbeständen} der {Rotbuche} ({Fagus} sylvatica {L}.) in {Nordwestdeutschland}},
+  Author                   = {Nagel, Ralf-Volker and Spellmann, Hermann},
+  Booktitle                = {Ergebnisse angewandter {Forschung} zur {Buche}},
+  Publisher                = {Universitätsverlag Göttingen},
+  Year                     = {2008},
+
+  Address                  = {Göttingen},
+  Pages                    = {221-- 265},
+  Series                   = {Beiträge aus der {Nordwestdeutschen} {Forstlichen} {Versuchsanstalt}},
+  Volume                   = {3},
+
+  ISBN                     = {978-3-940344-44-1},
+  Language                 = {de},
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Book{niklas_1994,
+  Title                    = {Plant allometry: the scaling of form and process},
+  Author                   = {Niklas, Karl J.},
+  Publisher                = {Univ. of Chicago Press},
+  Year                     = {1994},
+
+  Address                  = {Chicago [u.a.]},
+
+  File                     = {Göttinger Universitätskatalog (GUK) - results/titledata:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/8AB3UUXN/CMD.html:text/html},
+  ISBN                     = {0-226-58080-6},
+  Owner                    = {khusman1},
+  Shorttitle               = {Plant allometry},
+  Timestamp                = {2017.01.13}
+}
+
+@Article{ochs_2007,
+  Title                    = {Struktur und {Rohstoffbedarf} der {Holzwirtschaft}},
+  Author                   = {Ochs, T. and Duschl, C. and Seintsch, B.},
+  Journal                  = {Holz-Zentralblatt},
+  Year                     = {2007},
+  Number                   = {12},
+  Pages                    = {269--271},
+  Volume                   = {133},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@InCollection{pretzsch_2010,
+  Title                    = {Re-{Evaluation} of {Allometry}: {State}-of-the-{Art} and {Perspective} {Regarding} {Individuals} and {Stands} of {Woody} {Plants}},
+  Author                   = {Pretzsch, Hans},
+  Booktitle                = {Progress in {Botany} 71},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2010},
+  Editor                   = {Lüttge, Ulrich and Beyschlag, Wolfram and Büdel, Burkhard and Francis, Dennis},
+  Month                    = jan,
+  Number                   = {71},
+  Pages                    = {339--369},
+  Series                   = {Progress in {Botany}},
+
+  Abstract                 = {Allometry, in its broader sense, is concerned with the size of organisms and its consequences for their shape and functioning. Since the postulation of the allometric equation in the 1930s, allometry, in a narrow sense, refers to analysis and modelling of logarithmic transformed bivariate size data by linear regression techniques. This chapter first points out that allometric research built up a valuable set of hypotheses and biometrical methods for analysing size of organisms and its consequences for their shape and functioning. Then, a summary of the knowledge about allometry of woody plants and populations will unmask the search for overarching general allometric exponents of shape and form development largely as a hunt for a phantom. Tree size development and self-thinning processes in forest stands give evidence that allometric exponents certainly lie in a narrow corridor, but are species specific and superimposed by site conditions, mechanical disturbances, competition, and other types of stress. The discussion states that as long as allometry searches for universal constants to a certain extent, it stills our innate desire to reduce complexity and generalise. However, time is ready to focus on and understand the differences between the species, sites etc. in order to contribute to a better system of understanding. It is concluded that allometry has to draw attention both to the internal size-driven allometric partitioning process and to the external factors, which determine optimal biomass allocation. And at best, allometric research should analyse both factors in order to understand and integrate them. A systematic analysis, ordering and causal explanation of allometric exponents, which reflects an individuals’ tricks and traits of optimising fitness, may provide an important link between plant genetics, physiology, plant biology and population biology. In contrast, application of inaccurate and imprecise general scaling rules can cause considerable flaws in modelling, prognosis and ecosystem management.},
+  Copyright                = {©2010 Springer-Verlag Berlin Heidelberg},
+  File                     = {Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/D2P5E25K/978-3-642-02167-1_13.html:text/html},
+  ISBN                     = {978-3-642-02166-4 978-3-642-02167-1},
+  Keywords                 = {plant ecology, Plant Genetics \& Genomics, Plant Physiology, Plant Sciences, Plant Systematics/Taxonomy/Biogeography},
+  Language                 = {en},
+  Owner                    = {khusman1},
+  Shorttitle               = {Re-{Evaluation} of {Allometry}},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://link.springer.com/chapter/10.1007/978-3-642-02167-1_13},
+  Urldate                  = {2014-10-10}
+}
+
+@Book{r_core_team_2016,
+  Title                    = {R: {A} {Language} and {Environment} for {Statistical} {Computing}},
+  Author                   = {{R Core Team}},
+  Publisher                = {R Foundation for Statistical Computing},
+  Year                     = {2016},
+
+  Address                  = {Vienna, Austria},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13},
+  Url                      = {http://www.R-project.org/}
+}
+
+@Book{ruther_2007,
+  Title                    = {Clusterstudie {Forst} und {Holz} {Niedersachsen}},
+  Author                   = {Rüther, Burkhard and Hansen, Jan and Ludwig, Agatha and Spellmann, Hermann and Nagel, Jürgen and Möhring, Bernard and Dieter, Matthias},
+  Publisher                = {Universitätsdrucke Göttingen},
+  Year                     = {2007},
+
+  Address                  = {Göttingen},
+  Series                   = {Beiträge aus der {Nordwestdeutschen} {Forstlichen} {Versuchsanstalt}},
+  Volume                   = {1},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Book{Schanz_1996,
+  Title                    = {{Forstliche Nachhaltigkeit}},
+  Author                   = {Heiner Schanz},
+  Year                     = {1996},
+  Series                   = {{Schriften aus dem Institut für Forstökonomie der Universität Freiburg}},
+  Volume                   = {4},
+
+  Owner                    = {nluepke},
+  Pages                    = {131},
+  Timestamp                = {2012.12.17}
+}
+
+@Book{schmitz_2008,
+  Title                    = {Die zweite {Bundeswaldinventur} {BWI}2. {Inventur} und {Auswertungsmethoden} zu den {Bundeswaldinventuren} 2001 bis 2002 und 1986 bis 1988},
+  Author                   = {Schmitz, Friedrich and Polley, Heino and Hennig, Petra and Dunger, Karsten and Schwitzgebel, Frank},
+  Publisher                = {vTI (von Thünen Institut)},
+  Year                     = {2008},
+
+  Address                  = {Braunschweig},
+
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13},
+  Urldate                  = {2016-08-05}
+}
+
+@Book{speidel_1984,
+  Title                    = {{Forstliche Betriebswirtschaftslehre}},
+  Author                   = {Gerhard Speidel},
+  Publisher                = {Paul Parey, Hamburg und Berlin},
+  Year                     = {1984},
+  Edition                  = {2},
+
+  Owner                    = {nluepke},
+  Pages                    = {226},
+  Timestamp                = {2012.11.29}
+}
+
+@Book{speidel_1972,
+  Title                    = {Planung im {Forstbetrieb}: {Grundlagen} und {Methoden} der {Forsteinrichtung}},
+  Author                   = {Speidel, Gerhard},
+  Publisher                = {Paul Parey},
+  Year                     = {1972},
+
+  Address                  = {Hamburg, Berlin},
+
+  ISBN                     = {3-490-08716-X},
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Article{sprugel_1983,
+  Title                    = {Correcting for {Bias} in {Log}-{Transformed} {Allometric} {Equations}},
+  Author                   = {Sprugel, D. G.},
+  Journal                  = {Ecology},
+  Year                     = {1983},
+
+  Month                    = feb,
+  Note                     = {ArticleType: research-article / Full publication date: Feb., 1983 / Copyright © 1983 Ecological Society of America},
+  Number                   = {1},
+  Pages                    = {209--210},
+  Volume                   = {64},
+
+  Copyright                = {Copyright © 1983 Ecological Society of America},
+  Doi                      = {10.2307/1937343},
+  File                     = {JSTOR Full Text PDF:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/UBJ8QHZQ/Sprugel - 1983 - Correcting for Bias in Log-Transformed Allometric .pdf:application/pdf},
+  ISSN                     = {0012-9658},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://www.jstor.org/stable/1937343},
+  Urldate                  = {2012-12-03}
+}
+
+@Article{starr_1975,
+  Title                    = {Linear {Breakeven} {Analysis} {Under} {Risk}},
+  Author                   = {Starr, Martin K. and Tapiero, Charles S.},
+  Journal                  = {Operational Research Quarterly (1970-1977)},
+  Year                     = {1975},
+
+  Month                    = dec,
+  Number                   = {4},
+  Pages                    = {847},
+  Volume                   = {26},
+
+  Doi                      = {10.2307/3009241},
+  File                     = {JSTOR\: Operational Research Quarterly (1970-1977), Vol. 26, No. 4 (Dec., 1975), pp. 847-856:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/354G8EUE/3009241.html:text/html},
+  ISSN                     = {00303623},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://www.jstor.org/discover/10.2307/3009241?uid=3737864&uid=2&uid=4&sid=21104311896411},
+  Urldate                  = {2014-10-10}
+}
+
+@Article{stumpf_2012,
+  Title                    = {Critical {Truths} {About} {Power} {Laws}},
+  Author                   = {Stumpf, Michael P. H. and Porter, Mason A.},
+  Journal                  = {Science},
+  Year                     = {2012},
+
+  Month                    = oct,
+  Number                   = {6069},
+  Pages                    = {665--666},
+  Volume                   = {335},
+
+  Doi                      = {10.1126/science.1216142},
+  File                     = {Full Text PDF:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/7U8USSRD/Stumpf und Porter - 2012 - Critical Truths About Power Laws.pdf:application/pdf;Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/HMUQIBGU/665.html:text/html},
+  ISSN                     = {0036-8075, 1095-9203},
+  Language                 = {en},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://www.sciencemag.org/content/335/6069/665},
+  Urldate                  = {2012-10-02}
+}
+
+@Misc{ti_2014,
+  Title                    = {Dritte {Bundeswaldinventur} - {Ergebnisdatenbank}},
+
+  Author                   = {{TI}},
+  Year                     = {2014},
+
+  File                     = {BUNDESWALDINVENTUR ERGEBNISDATENBANK:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/4X5W4AX4/bwi.info.html:text/html},
+  Journal                  = {Thünen Institut},
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13},
+  Url                      = {https://bwi.info/},
+  Urldate                  = {2016-05-06}
+}
+
+@Misc{ti_2014b,
+  Title                    = {Third {National} {Forest} {Inventory} - {Database}},
+
+  Author                   = {{TI}},
+  Year                     = {2014},
+
+  Journal                  = {Thünen Institute},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {https://bwi.info/},
+  Urldate                  = {2016-05-06}
+}
+
+@Article{valentine_1984,
+  Title                    = {Subsampling {Trees} for {Biomass}, {Volume}, or {Mineral} {Content}},
+  Author                   = {Valentine, Harry T. and Tritton, Louise M. and Furnival, George M.},
+  Journal                  = {Forest Science},
+  Year                     = {1984},
+  Number                   = {3},
+  Pages                    = {673--681},
+  Volume                   = {30},
+
+  Abstract                 = {A procedure for estimating aboveground biomass, woody volume, or mineral content of a tree uses randomized branch sampling and importance sampling, a technique of Monte Carlo integration. Both techniques involve sampling with selection probabilities proportional to estimated size and produce unbiased estimates of tree components and their variances. The results of a field test of the procedure for the estimation of fresh weight are presented. Forest Sci. 30: 673-681.},
+  Keywords                 = {Importance Sampling, Monte Carlo Integration, Randomized Branch Sampling},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Book{venables_2002,
+  Title                    = {Modern {Applied} {Statistics} with {S}},
+  Author                   = {Venables, W.N. and Ripley, B.D.},
+  Publisher                = {Springer},
+  Year                     = {2002},
+
+  Address                  = {New York},
+  Edition                  = {4th},
+  Month                    = aug,
+
+  ISBN                     = {0-387-95457-0},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Article{wagstaff_2001,
+  Title                    = {Constrained {K}-{Means} clustering with background knowledge},
+  Author                   = {Wagstaff, K. and Rogers, S. and Schroedl, S. and Cardie, C.},
+  Journal                  = {Proceedings of the 18th International Conference on Machine Learning},
+  Year                     = {2001},
+  Pages                    = {577-- 584},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@Article{warton_2012,
+  Title                    = {smatr 3– an {R} package for estimation and inference about allometric lines},
+  Author                   = {Warton, David I. and Duursma, Remko A. and Falster, Daniel S. and Taskinen, Sara},
+  Journal                  = {Methods in Ecology and Evolution},
+  Year                     = {2012},
+  Number                   = {2},
+  Pages                    = {257--259},
+  Volume                   = {3},
+
+  Abstract                 = {1. The Standardised Major Axis Tests and Routines (SMATR) software provides tools for estimation and inference about allometric lines, currently widely used in ecology and evolution.2. This paper describes some significant improvements to the functionality of the package, now available on R in smatr version 3.3. New inclusions in the package include sma and ma functions that accept formula input and perform the key inference tasks; multiple comparisons; graphical methods for visualising data and checking (S)MA assumptions; robust (S)MA estimation and inference tools.},
+  Copyright                = {© 2011 The Authors. Methods in Ecology and Evolution © 2011 British Ecological Society},
+  Doi                      = {10.1111/j.2041-210X.2011.00153.x},
+  File                     = {Full Text PDF:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/5KP6N8VE/Warton et al. - 2012 - smatr 3– an R package for estimation and inference.pdf:application/pdf;Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/3NAPU7QS/full.html:text/html},
+  ISSN                     = {2041-210X},
+  Keywords                 = {common slope testing, model II regression, principal component analysis, robust estimation, standardised major axis},
+  Language                 = {en},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2011.00153.x/abstract},
+  Urldate                  = {2012-10-05}
+}
+
+@Article{west_1999,
+  Title                    = {The {Fourth} {Dimension} of {Life}: {Fractal} {Geometry} and {Allometric} {Scaling} of {Organisms}},
+  Author                   = {West, G. B.},
+  Journal                  = {Science},
+  Year                     = {1999},
+
+  Month                    = jun,
+  Number                   = {5420},
+  Pages                    = {1677--1679},
+  Volume                   = {284},
+
+  Doi                      = {10.1126/science.284.5420.1677},
+  File                     = {Full Text PDF:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/W35M8X2T/West et al. - 1999 - The Fourth Dimension of Life Fractal Geometry and.pdf:application/pdf;Search Results:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/7EIZFSU2/search.html:text/html;Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/MI4ZID6E/1677.html:text/html},
+  ISSN                     = {00368075, 10959203},
+  Owner                    = {khusman1},
+  Shorttitle               = {The {Fourth} {Dimension} of {Life}},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://han.sub.uni-goettingen.de/han/25/www.sciencemag.org/search?submit=yes&volume=284&firstpage=1677&journal_search_volume_go.x=22&journal_search_volume_go.y=9&andorexactfulltext=and&andorexacttitleabs=and&andorexactfulltext=and&andorexacttitleabs=and},
+  Urldate                  = {2012-04-04}
+}
+
+@Article{west_1997,
+  Title                    = {A {General} {Model} for the {Origin} of {Allometric} {Scaling} {Laws} in {Biology}},
+  Author                   = {West, Geoffrey B. and Brown, James H. and Enquist, Brian J.},
+  Journal                  = {Science},
+  Year                     = {1997},
+
+  Month                    = apr,
+  Number                   = {5309},
+  Pages                    = {122--126},
+  Volume                   = {276},
+
+  Abstract                 = {Allometric scaling relations, including the 3/4 power law for metabolic rates, are characteristic of all organisms and are here derived from a general model that describes how essential materials are transported through space-filling fractal networks of branching tubes. The model assumes that the energy dissipated is minimized and that the terminal tubes do not vary with body size. It provides a complete analysis of scaling relations for mammalian circulatory systems that are in agreement with data. More generally, the model predicts structural and functional properties of vertebrate cardiovascular and respiratory systems, plant vascular systems, insect tracheal tubes, and other distribution networks.},
+  Doi                      = {10.1126/science.276.5309.122},
+  File                     = {Full Text PDF:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/S86SSRMP/West et al. - 1997 - A General Model for the Origin of Allometric Scali.pdf:application/pdf;Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/ZWKT7H5T/122.html:text/html},
+  ISSN                     = {0036-8075, 1095-9203},
+  Language                 = {en},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13},
+  Url                      = {http://www.sciencemag.org/content/276/5309/122},
+  Urldate                  = {2012-09-05}
+}
+
+@Book{wood_2006,
+  Title                    = {Generalized {Additive} {Models}: {An} {Introduction} with {R}},
+  Author                   = {Wood, Simon N.},
+  Publisher                = {Chapman \& Hall/CRC},
+  Year                     = {2006},
+  Month                    = feb,
+
+  Abstract                 = {Now in widespread use, generalized additive models (GAMs) have evolved into a standard statistical methodology of considerable flexibility. While Hastie and Tibshirani's outstanding 1990 research monograph on GAMs is largely responsible for this, there has been a long-standing need for an accessible introductory treatment of the subject that also emphasizes recent penalized regression spline approaches to GAMs and the mixed model extensions of these models. á Generalized Additive Models: An Introduction with R imparts a thorough understanding of the theory and practical applications of GAMs and related advanced models, enabling informed use of these very flexible tools. The author bases his approach on a framework of penalized regression splines, and builds a well-grounded foundation through motivating chapters on linear and generalized linear models. While firmly focused on the practical aspects of GAMs, discussions include fairly full explanations of the theory underlying the methods. Use of the freely available R software helps explain the theory and illustrates the practicalities of linear, generalized linear, and generalized additive models, as well as their mixed effect extensions. The treatment is rich with practical examples, and it includes an entire chapter on the analysis of real data sets using R and the author's add-on package mgcv. Each chapter includes exercises, for which complete solutions are provided in an appendix. Concise, comprehensive, and essentially self-contained, Generalized Additive Models: An Introduction with R prepares readers with the practical skills and the theoretical background needed to use and understand GAMs and to move on to other GAM-related methods and models, such as SS-ANOVA, P-splines, backfitting and Bayesian approaches to smoothing and additive modelling.},
+  ISBN                     = {978-1-58488-474-3},
+  Keywords                 = {Linear models (Statistics), Mathematics / General, Mathematics / Probability \& Statistics / General, Random walks (Mathematics), R (Computer program language), R (Computer program language) - Mathematical models, R (Computer program language)/ Mathematical models},
+  Language                 = {en},
+  Owner                    = {khusman1},
+  Shorttitle               = {Generalized {Additive} {Models}},
+  Timestamp                = {2017.01.13}
+}
+
+@Book{wordehoff_2011,
+  Title                    = {Kohlenstoffstudie {Forst} und {Holz} {Niedersachsen}},
+  Author                   = {Wördehoff, René and Spellmann, Hermann and Evers, Jan and Nagel, Jürgen},
+  Publisher                = {Univ.-Verl. Göttingen},
+  Year                     = {2011},
+
+  Address                  = {Göttingen},
+  Series                   = {Beiträge aus der {Nordwestdeutschen} {Forstlichen} {Versuchsanstalt}},
+  Volume                   = {6},
+
+  Abstract                 = {Die Speicherung von Kohlenstoff in Wäldern ist klimapolitisch ein hochaktuelles Thema, das die niedersächsische Landesregierung mit der vorliegenden Studie aufgreift. Auf der Basis von Inventurdaten und Szenarienrechnungen werden die Mengen an Kohlenstoff hergeleitet, die heute bzw. künftig in niedersächsischen Wäldern und in den aus niedersächsischem Holz hergestellten Produkten gespeichert werden. Die Kohlenstoffstudie richtet sich an alle Betriebe der Forst- und Holzwirtschaft, politische Entscheidungsträger und die interessierte Öffentlichkeit. Sie liefert wichtige Argumente im Kyoto-Folgeprozess und zeigt die Auswirkungen verschiedener waldbaulicher Strategien auf die Kohlenstoffspeicherung in Wäldern und Forstprodukten auf.},
+  File                     = {Library Catalog Entry Snapshot:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/XQWB79NB/PPN.html:text/html},
+  ISBN                     = {978-3-86395-014-9},
+  Keywords                 = {Niedersachsen / Wald / Waldbau / Holzprodukt / Kohlenstoffhaushalt / Klimaänderung / Kyoto-Übereinkommen},
+  Owner                    = {kai},
+  Timestamp                = {2016.12.13}
+}
+
+@Book{haarhaus_2012,
+  Title                    = {{AfL}-{Info} 12/13. {Richtpreise}, {Tarife}, {Kalkulationen}, {Adressen}},
+  Editor                   = {Haarhaus, Michael},
+  Year                     = {2012},
+
+  Address                  = {Wiegersen-Sauensiek},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.01.13}
+}
+
+@comment{jabref-meta: selector_keywords:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
