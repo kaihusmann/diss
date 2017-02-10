@@ -2,15 +2,15 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \select@language {ngerman}
 \contentsline {chapter}{\numberline {2}Zustand und Entwicklung der Rohholzverf\"ugbarkeit in der buchenreichen Mitte Deutschlands}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Einleitung}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}Methodik}{4}{section.2.2}
-\contentsline {section}{\numberline {2.3}Ergebnisse}{5}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Waldfl\"ache}{5}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Alter des Waldes}{7}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Waldeigentum}{9}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.1}Einleitung}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Methodik}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Ergebnisse}{6}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Waldfl\"ache}{6}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Alter des Waldes}{8}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Waldeigentum}{8}{subsection.2.3.3}
 \contentsline {subsection}{\numberline {2.3.4}Nachhaltiges, kontinuierliches Holzpotenzial}{9}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Entwicklung des Rohholzvorrates und des Rohholzpotenzials}{11}{subsection.2.3.5}
-\contentsline {section}{\numberline {2.4}Konsequenzen f\"ur die Nutzung von Buchenholz}{14}{section.2.4}
+\contentsline {subsection}{\numberline {2.3.5}Entwicklung des Rohholzvorrates und des Rohholzpotenzials}{12}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Konsequenzen f\"ur die Nutzung von Buchenholz}{13}{section.2.4}
 \select@language {british}
 \contentsline {chapter}{\numberline {3}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{17}{chapter.3}
 \contentsline {section}{\numberline {3.1}Introduction}{19}{section.3.1}
@@ -44,31 +44,31 @@
 \contentsline {subsection}{\numberline {4.3.2}Economically viable wood volume in the crown}{36}{subsection.4.3.2}
 \contentsline {subsubsection}{\nonumberline Crown type differentiation}{36}{section*.28}
 \contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{37}{section*.31}
-\contentsline {subsection}{\numberline {4.3.3}Allometric relationships}{38}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Discussion}{40}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Estimation of bark thickness}{40}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Economically viable wood volume in the crown}{40}{subsection.4.4.2}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{40}{section*.34}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{40}{section*.35}
-\contentsline {subsection}{\numberline {4.4.3}Allometric relationships}{40}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Conclusions and outlook}{40}{section.4.5}
-\contentsline {chapter}{\numberline {5}Optimisation of Forest Processes}{41}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{43}{section.5.1}
-\contentsline {section}{\numberline {5.2}Materials and Methods}{43}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Data sampling and sample processing}{43}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Biomass functions}{43}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Sensitivity analysis}{43}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Nutrient contents}{43}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}Results}{44}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Biomass functions}{44}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Sensitivity analysis}{44}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Nutrient contents}{44}{subsection.5.3.3}
-\contentsline {section}{\numberline {5.4}Discussion}{44}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Biomass functions}{44}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Sensitivity analysis}{44}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Nutrient contents}{44}{subsection.5.4.3}
-\contentsline {section}{\numberline {5.5}Conclusions}{44}{section.5.5}
-\contentsline {chapter}{\numberline {6}General Discussion}{45}{chapter.6}
-\contentsline {chapter}{\numberline {7}Summary}{47}{chapter.7}
-\contentsline {chapter}{\numberline {8}Zusammenfassung}{49}{chapter.8}
-\contentsline {chapter}{\nonumberline Bibliography}{51}{chapter*.40}
+\contentsline {subsection}{\numberline {4.3.3}Allometric relationships}{41}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Discussion}{43}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Estimation of bark thickness}{43}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Economically viable wood volume in the crown}{43}{subsection.4.4.2}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{43}{section*.38}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{44}{section*.39}
+\contentsline {subsection}{\numberline {4.4.3}Allometric relationships}{45}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Conclusions and outlook}{46}{section.4.5}
+\contentsline {chapter}{\numberline {5}Optimisation of Forest Processes}{49}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{51}{section.5.1}
+\contentsline {section}{\numberline {5.2}Materials and Methods}{51}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Data sampling and sample processing}{51}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Biomass functions}{51}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Sensitivity analysis}{51}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Nutrient contents}{51}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Results}{52}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Biomass functions}{52}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Sensitivity analysis}{52}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Nutrient contents}{52}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Discussion}{52}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Biomass functions}{52}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Sensitivity analysis}{52}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Nutrient contents}{52}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Conclusions}{52}{section.5.5}
+\contentsline {chapter}{\numberline {6}General Discussion}{53}{chapter.6}
+\contentsline {chapter}{\numberline {7}Summary}{54}{chapter.7}
+\contentsline {chapter}{\numberline {8}Zusammenfassung}{55}{chapter.8}
+\contentsline {chapter}{\nonumberline Bibliography}{56}{chapter*.44}

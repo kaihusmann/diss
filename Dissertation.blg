@@ -3,56 +3,48 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Dissertation.aux
 The style file: apalike2.bst
 Database file #1: Dissertation.bib
-Warning--there's a number but no volume in akaike_1981
-Warning--empty publisher in altherr_1978
-Warning--empty publisher in bmel_2011
-Warning--empty publisher in bmel_2014
-Warning--there's a number but no volume in gaffrey_1999
 Warning--can't use both author and editor fields in gauer_2012
 Warning--empty publisher in haarhaus_2012
-Warning--empty publisher in mantau_2012
-Warning--empty publisher in mfacp_2004
-Warning--there's a number but no volume in mohring_1997
-Warning--empty publisher in Schanz_1996
-You've used 56 entries,
+Warning--empty publisher in neumann-spallart_1952
+You've used 68 entries,
             2229 wiz_defined-function locations,
-            828 strings with 13689 characters,
-and the built_in function-call counts, 19758 in all, are:
-= -- 1906
-> -- 718
-< -- 55
-+ -- 236
-- -- 230
-* -- 1615
-:= -- 3494
-add.period$ -- 171
-call.type$ -- 56
-change.case$ -- 368
-chr.to.int$ -- 56
-cite$ -- 67
-duplicate$ -- 816
-empty$ -- 1436
-format.name$ -- 312
-if$ -- 3853
+            902 strings with 16069 characters,
+and the built_in function-call counts, 24099 in all, are:
+= -- 2346
+> -- 872
+< -- 64
++ -- 286
+- -- 280
+* -- 1960
+:= -- 4273
+add.period$ -- 210
+call.type$ -- 68
+change.case$ -- 449
+chr.to.int$ -- 68
+cite$ -- 71
+duplicate$ -- 982
+empty$ -- 1750
+format.name$ -- 378
+if$ -- 4700
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 79
-newline$ -- 283
-num.names$ -- 171
-pop$ -- 373
+missing$ -- 97
+newline$ -- 345
+num.names$ -- 206
+pop$ -- 435
 preamble$ -- 1
-purify$ -- 393
+purify$ -- 478
 quote$ -- 0
-skip$ -- 598
+skip$ -- 728
 stack$ -- 0
-substring$ -- 1186
-swap$ -- 99
-text.length$ -- 12
+substring$ -- 1496
+swap$ -- 112
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 278
-warning$ -- 11
-while$ -- 157
+type$ -- 340
+warning$ -- 3
+while$ -- 195
 width$ -- 0
-write$ -- 727
-(There were 11 warnings)
+write$ -- 892
+(There were 3 warnings)

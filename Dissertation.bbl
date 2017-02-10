@@ -3,7 +3,7 @@
 \bibitem[Akaike, 1981]{akaike_1981}
 Akaike, H. (1981).
 \newblock Likelihood of a model and information criteria.
-\newblock {\em Journal of Econometrics}, (16), 3--14.
+\newblock {\em Journal of Econometrics}, 16, 3--14.
 
 \bibitem[Altherr et~al., 1978]{altherr_1978}
 Altherr, E., Unfried, P., \& Hrahetzky, V. (1978).
@@ -11,11 +11,13 @@ Altherr, E., Unfried, P., \& Hrahetzky, V. (1978).
   {Ausformung} und {Ausmessung} unentrindeten {Stammholzes}}, volume~90 of {\em
   Mitteilungen der {Forstlichen} {Versuchs}- und {Forschungsanstalt}
   {Baden}-{Würtemberg}}.
+\newblock FVA Baden Württemberg.
 
 \bibitem[{BMEL}, 2011]{bmel_2011}
 {BMEL} (2011).
 \newblock {\em Waldstrategie 2020}.
-\newblock Bonn.
+\newblock Bonn: Bundesministerium für Verbraucherschutz, Ernährung und
+  Landwirtschaft.
 \newblock Bundesministerium für Ernährung, Landwirtschaft und
   Verbraucherschutz.
 
@@ -23,7 +25,15 @@ Altherr, E., Unfried, P., \& Hrahetzky, V. (1978).
 {BMEL} (2014).
 \newblock {\em Der {Wald} in {Deutschland} - {Ausgewählte} {Ergebnisse} der
   dritten {Bundeswaldinventur}}.
-\newblock Berlin.
+\newblock Berlin: Bundesministerium für Verbraucherschutz, Ernährung und
+  Landwirtschaft.
+
+\bibitem[Bonyad et~al., 2012]{bonyad_2012}
+Bonyad, A.~E., Sima, A., Bakhshandeh, A., \& H., D. (2012).
+\newblock Evaluation of non-destructive {Meyer} method for determination of
+  bark volume of beech ({Fagus} orientalis {Lipsky}) in different geographical
+  aspects.
+\newblock {\em Caspian Journal of Environmental Sciences}, 10(1), 67--73.
 
 \bibitem[Cancino \& Saborowski, 2005]{cancino_2005}
 Cancino, J. \& Saborowski, J. (2005).
@@ -66,7 +76,7 @@ Gaffrey, D. \& Saborowski, J. (1999).
 \newblock {RBS}, ein mehrstufiges {Inventurverfahren} zur {Schätzung} von
   {Baummerkmalen} - {I}. {Schätzung} von {Nadel}- und {Asttrockenmassen} bei
   66-jährigen {Douglasien}.
-\newblock {\em Allgemeine Forst- und Jagdzeitung}, (170. Jg 10-11), 177-- 183.
+\newblock {\em Allgemeine Forst- und Jagdzeitung}, 170. Jg 10-11, 177-- 183.
 
 \bibitem[Gauer, 2012]{gauer_2012}
 Gauer, J. (2012).
@@ -86,8 +96,15 @@ Gregoire, T.~G., Valentine, H.~T., \& Furnival, G.~M. (1995).
   {Characteristics} of {Individual} {Trees}.
 \newblock {\em Ecology}, 76(4), 1181.
 
+\bibitem[Gruber et~al., 2004]{gruber_2004}
+Gruber, F., Mann, T.~E., Kuhr, M., \& Eichhorn, J. (2004).
+\newblock Kronenwachstum von {Rotbuchen} ({Fagus} sylvatica {L}.) in
+  {Abhängigkeit} von der {Witterung} auf einem kalkbeeinflussten
+  {Basaltstandort} {Zierenberg}.
+\newblock {\em Allgemein Forst- und Jagdzeitung}, 175, 70--77.
+
 \bibitem[Haarhaus, 2012]{haarhaus_2012}
-Haarhaus, M., Ed. (2012).
+Haarhaus, M. (2012).
 \newblock {\em {AfL}-{Info} 12/13. {Richtpreise}, {Tarife}, {Kalkulationen},
   {Adressen}}.
 \newblock Wiegersen-Sauensiek.
@@ -105,6 +122,11 @@ Hansen, J. \& Nagel, J. (2014).
 \newblock {\em Waldwachstumskundliche {Softwaresysteme} auf {Basis} von
   {TreeGrOSS}-{Anwendung} und theoretische {Grundlagen}}.
 \newblock Göttingen: Niedersächsische Staats-und Universitätsbibliothek.
+
+\bibitem[Hempel \& Oppenheim, 1948]{hempel_1948}
+Hempel, C.~G. \& Oppenheim, P. (1948).
+\newblock Studies in the {Logic} of {Explanation}.
+\newblock {\em Philosophy of Science}, 15(2), 135-- 175.
 
 \bibitem[Hildebrandt et~al., 2014]{hildebrandt_2014}
 Hildebrandt, J., Bezama, A., \& Thrän, D. (2014).
@@ -154,7 +176,7 @@ Mandallaz, D. (2008).
 Mantau, U. (2012).
 \newblock {\em Holzrohstoffbilanz {Deutschland}, {Entwicklungen} und
   {Szenarien} des {Holzaufkommens} und der {Holzverwendung} 1987 bis 2015}.
-\newblock Hamburg.
+\newblock Hamburg: Infro und Uni Hanburg.
 
 \bibitem[McCormick \& Kautto, 2013]{mccormick_2013}
 McCormick, K. \& Kautto, N. (2013).
@@ -166,7 +188,7 @@ McCormick, K. \& Kautto, N. (2013).
 \newblock {\em Langfristige ökologische {Waldentwicklung}- {Richtlinie} zur
   {Baumartenwahl}}, volume~54 of {\em Aus dem {Walde} - {Schriftenreihe}
   {Waldentwicklung} {Niedersachsen}}.
-\newblock Wolfenbüttel.
+\newblock Wolfenbüttel: Federal ministry of Food and Agriculture.
 \newblock Lower Saxony Ministry of Food, Agriculture and Consumer Protection.
 
 \bibitem[Miettinen et~al., 2014]{miettinen_2014}
@@ -176,6 +198,11 @@ Miettinen, J., Ollikainen, M., Nieminen, T.~M., Ukonmaanaho, L., Laurén, A.,
   in peatlands when water quality, biodiversity conservation and climate change
   mitigation matter.
 \newblock {\em Forest Policy and Economics}, 47, 25--35.
+
+\bibitem[Mitscherlich, 1970]{mitscherlich_1970}
+Mitscherlich, G. (1970).
+\newblock {\em Form und {Wachstum} von {Baum} und {Bestand}}.
+\newblock Frankfurt a.M.: Sauerländer.
 
 \bibitem[{ML}, 2004]{ml_2004}
 {ML} (2004).
@@ -197,7 +224,7 @@ Miettinen, J., Ollikainen, M., Nieminen, T.~M., Ukonmaanaho, L., Laurén, A.,
 \bibitem[Möhring, 1997]{mohring_1997}
 Möhring, B. (1997).
 \newblock Betriebswirtschaftliche {Probleme} und {Chancen}.
-\newblock {\em AFZ/ Der Wald}, (2), 67-- 71.
+\newblock {\em AFZ/ Der Wald}, 2, 67-- 71.
 
 \bibitem[Möller, 2007]{moller_2007}
 Möller, W. (2007).
@@ -214,6 +241,12 @@ Nagel, R.-V. \& Spellmann, H. (2008).
 \newblock In {\em Ergebnisse angewandter {Forschung} zur {Buche}}, volume~3 of
   {\em Beiträge aus der {Nordwestdeutschen} {Forstlichen} {Versuchsanstalt}}
   (pp.\ 221-- 265). Göttingen: Universitätsverlag Göttingen.
+
+\bibitem[Neumann-Spallart, 1952]{neumann-spallart_1952}
+Neumann-Spallart, O. (1952).
+\newblock {\em Das {Stückmassegesetz} nach {Hilf} in mathematischer
+  {Beleuchtung}}.
+\newblock Wien.
 
 \bibitem[Niklas, 1994]{niklas_1994}
 Niklas, K.~J. (1994).
@@ -233,11 +266,26 @@ Pretzsch, H. (2010).
   Progress in {Botany} 71}, number~71 in Progress in {Botany}  (pp.\ 339--369).
   Springer Berlin Heidelberg.
 
+\bibitem[Pretzsch \& Dieler, 2012]{pretzsch_2012}
+Pretzsch, H. \& Dieler, J. (2012).
+\newblock Evidence of variant intra- and interspecific scaling of tree crown
+  structure and relevance for allometric theory.
+\newblock {\em Oecologia}, 169(3), 637--649.
+
 \bibitem[{R Core Team}, 2016]{r_core_team_2016}
 {R Core Team} (2016).
 \newblock {\em R: {A} {Language} and {Environment} for {Statistical}
   {Computing}}.
 \newblock Vienna, Austria: R Foundation for Statistical Computing.
+
+\bibitem[Roloff, 1986]{roloff_1986}
+Roloff, A. (1986).
+\newblock {\em Morphologie der {Kronenentwicklung} von {Fagus} sylvatica {L}.
+  ({Rotbuche}) unter besonderer {Berücksichtigung} möglicherweise neuartiger
+  {Veränderungen}}.
+\newblock Berichte des {Forschungszentrums} {Waldökosysteme}, {Waldsterben} /
+  {Forschungszentrum} {Waldökosysteme}, {Waldsterben}, {Göttingen}. Göttingen:
+  Forschungszentrum Waldökosysteme, Waldsterben.
 
 \bibitem[Rüther et~al., 2007]{ruther_2007}
 Rüther, B., Hansen, J., Ludwig, A., Spellmann, H., Nagel, J., Möhring, B., \&
@@ -250,6 +298,7 @@ Rüther, B., Hansen, J., Ludwig, A., Spellmann, H., Nagel, J., Möhring, B., \&
 Schanz, H. (1996).
 \newblock {\em {Forstliche Nachhaltigkeit}}, volume~4 of {\em {Schriften aus
   dem Institut für Forstökonomie der Universität Freiburg}}.
+\newblock Kessel.
 
 \bibitem[Schmitz et~al., 2008]{schmitz_2008}
 Schmitz, F., Polley, H., Hennig, P., Dunger, K., \& Schwitzgebel, F. (2008).
@@ -257,6 +306,12 @@ Schmitz, F., Polley, H., Hennig, P., Dunger, K., \& Schwitzgebel, F. (2008).
   {Auswertungsmethoden} zu den {Bundeswaldinventuren} 2001 bis 2002 und 1986
   bis 1988}.
 \newblock Braunschweig: vTI (von Thünen Institut).
+
+\bibitem[Schröter et~al., 2012]{schroter_2012}
+Schröter, M., Härdtle, W., \& Oheimb, G.~v. (2012).
+\newblock Crown plasticity and neighborhood interactions of {European} beech
+  ({Fagus} sylvatica {L}.) in an old-growth forest.
+\newblock {\em European Journal of Forest Research}, 131(3), 787--798.
 
 \bibitem[Speidel, 1972]{speidel_1972}
 Speidel, G. (1972).
@@ -291,10 +346,21 @@ Stumpf, M. P.~H. \& Porter, M.~A. (2012).
 {TI} (2014).
 \newblock Third {National} {Forest} {Inventory} - {Database}.
 
+\bibitem[Umeki, 1995]{umeki_1995}
+Umeki, K. (1995).
+\newblock Importance of {Crown} {Position} and {Morphological} {Plasticity} in
+  {Competitive} {Interaction} in a {Population} of {Xanthium} canadense.
+\newblock {\em Annals of Botany}, 75(3), 259--265.
+
 \bibitem[Valentine et~al., 1984]{valentine_1984}
 Valentine, H.~T., Tritton, L.~M., \& Furnival, G.~M. (1984).
 \newblock Subsampling {Trees} for {Biomass}, {Volume}, or {Mineral} {Content}.
 \newblock {\em Forest Science}, 30(3), 673--681.
+
+\bibitem[Varian, 2010]{varian_2010}
+Varian, H.~R. (2010).
+\newblock {\em Intermediate microeconomics : a modern approach}.
+\newblock New York, NY [u.a.]: Norton, 8. ed., internat. student ed. edition.
 
 \bibitem[Venables \& Ripley, 2002]{venables_2002}
 Venables, W. \& Ripley, B. (2002).
@@ -331,6 +397,11 @@ West, G.~B., Brown, J.~H., \& Enquist, B.~J. (1997).
   in {Biology}.
 \newblock {\em Science}, 276(5309), 122--126.
 
+\bibitem[Wilson, 2000]{wilson_2000}
+Wilson, B.~F. (2000).
+\newblock Apical control of branch growth and angle in woody plants.
+\newblock {\em American journal of botany}, 87(5), 601--607.
+
 \bibitem[Wood, 2006]{wood_2006}
 Wood, S.~N. (2006).
 \newblock {\em Generalized {Additive} {Models}: {An} {Introduction} with {R}}.
@@ -342,5 +413,11 @@ Wördehoff, R., Spellmann, H., Evers, J., \& Nagel, J. (2011).
   of {\em Beiträge aus der {Nordwestdeutschen} {Forstlichen}
   {Versuchsanstalt}}.
 \newblock Göttingen: Univ.-Verl. Göttingen.
+
+\bibitem[Zianis et~al., 2005]{zianis_2005}
+Zianis, D., Muukonen, P., Mäkipää, R., \& Mencuccini, M. (2005).
+\newblock {\em Biomass and stem volume equations for tree species in {Europe}},
+  volume~4.
+\newblock Finnish Society of Forest Science, Finnish Forest Research Institute.
 
 \end{thebibliography}
