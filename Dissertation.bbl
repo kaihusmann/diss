@@ -1,9 +1,29 @@
 \begin{thebibliography}{}
 
+\bibitem[Affleck \& Gregoire, 2015]{affleck_2015}
+Affleck, D. L.~R. \& Gregoire, T.~G. (2015).
+\newblock Generalized and synthetic regression estimators for randomized branch
+  sampling.
+\newblock {\em Forestry}, 88(5), 599--611.
+
 \bibitem[Akaike, 1981]{akaike_1981}
 Akaike, H. (1981).
 \newblock Likelihood of a model and information criteria.
 \newblock {\em Journal of Econometrics}, 16, 3--14.
+
+\bibitem[Albert et~al., 2014]{albert_2014}
+Albert, K., Annighöfer, P., Schumacher, J., \& Ammer, C. (2014).
+\newblock Biomass equations for seven different tree species growing in
+  coppice-with-standards forests in {Central} {Germany}.
+\newblock {\em Scandinavian Journal of Forest Research}, 29(3), 210--221.
+
+\bibitem[Alberti et~al., 2005]{alberti_2005}
+Alberti, G., Candido, P., Peressotti, A., Turco, S., Piussi, P., \& Zerbi, G.
+  (2005).
+\newblock Aboveground biomass relationships for mixed ash ({Fraxinus} excelsior
+  {L}. and {Ulmus} glabra {Hudson}) stands in {Eastern} {Prealps} of {Friuli}
+  {Venezia} {Giulia} ({Italy}).
+\newblock {\em Annals of Forest Science}, 62(8), 831--836.
 
 \bibitem[Altherr et~al., 1978]{altherr_1978}
 Altherr, E., Unfried, P., \& Hrahetzky, V. (1978).
@@ -12,6 +32,20 @@ Altherr, E., Unfried, P., \& Hrahetzky, V. (1978).
   Mitteilungen der {Forstlichen} {Versuchs}- und {Forschungsanstalt}
   {Baden}-{Würtemberg}}.
 \newblock FVA Baden Württemberg.
+
+\bibitem[Augusto et~al., 2000]{augusto_2000}
+Augusto, L., Ranger, J., Ponette, Q., \& Rapp, M. (2000).
+\newblock Relationships between forest tree species, stand production and stand
+  nutrient amount.
+\newblock {\em Annals of Forest Science}, 57(4), 12.
+
+\bibitem[Block et~al., 2013]{block_2013}
+Block, J., Meiwes, K.~J., Bachmann, G., König, W., \& Utermann, J. (2013).
+\newblock Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und
+  {Biomassenutzung}.
+\newblock In {\em Bodenschutz - {Ergänzbares} {Handbuch} der {Maßnahmen} und
+  {Empfehlungen} für {Schutz}, {Pflege} und {Sanierung} von {Böden},
+  {Landschaft} und {Grundwasser}}, volume 1. Lfg. /13  (pp.\ 1-- 50).
 
 \bibitem[{BMEL}, 2011]{bmel_2011}
 {BMEL} (2011).
@@ -35,6 +69,13 @@ Bonyad, A.~E., Sima, A., Bakhshandeh, A., \& H., D. (2012).
   aspects.
 \newblock {\em Caspian Journal of Environmental Sciences}, 10(1), 67--73.
 
+\bibitem[Bunce, 1968]{bunce_1968}
+Bunce, R. G.~H. (1968).
+\newblock Biomass and {Production} of {Trees} in a {Mixed} {Deciduous}
+  {Woodland}: {I}. {Girth} and {Height} as {Parameters} for the {Estimation} of
+  {Tree} {Dry} {Weight}.
+\newblock {\em Journal of Ecology}, 56(3), 759--775.
+
 \bibitem[Cancino \& Saborowski, 2005]{cancino_2005}
 Cancino, J. \& Saborowski, J. (2005).
 \newblock Comparison of randomized branch sampling with and without replacement
@@ -46,6 +87,11 @@ Chambers, J.~M. \& Hastie, T.~J. (1992).
 \newblock {\em Statistical models in {S}}.
 \newblock Boca Raton, Fla.: Chapman \& Hall/CRC.
 
+\bibitem[Cienciala et~al., 2005]{cienciala_2005}
+Cienciala, E., Apltauer, J., Cerny, M., \& Exnerová, Z. (2005).
+\newblock Biomass functions applicable for {European} beech.
+\newblock {\em Journal of Forest Science}, 51(4), 147--154.
+
 \bibitem[Degenhard, 2016]{degenhard_2016}
 Degenhard, M. (2016).
 \newblock Holzmarkt - {Schnittholznachfrage} stabilisiert.
@@ -53,6 +99,14 @@ Degenhard, M. (2016).
 \bibitem[{DESTATIS}, 2016]{destatis_2016}
 {DESTATIS} (2016).
 \newblock Statistisches {Bundesamt} {Deutschland} - {GENESIS}-{Online}.
+
+\bibitem[Ekman et~al., 2013]{ekman_2013}
+Ekman, A., Campos, M., Lindahl, S., Co, M., Börjesson, P., Karlsson, E.~N., \&
+  Turner, C. (2013).
+\newblock Bioresource utilisation by sustainable technologies in new
+  value-added biorefinery concepts - two case studies from food and forest
+  industry.
+\newblock {\em Journal of Cleaner Production}, 57, 46--58.
 
 \bibitem[{FACG}, 2014]{facg_2014}
 {FACG} (2014).
@@ -84,6 +138,13 @@ Gauer, J. (2012).
   {Wuchsgebiete} und {Wuchsbezirke}}.
 \newblock Braunschweig: Thünen Institut.
 
+\bibitem[Geldermann et~al., 2016]{geldermann_2016}
+Geldermann, J., Kolbe, L.~M., Krause, A., Mai, C., Militz, H., Osburg, V.-S.,
+  Schöbel, A., Schumann, M., Toporowski, W., \& Westphal, S. (2016).
+\newblock Improved resource efficiency and cascading utilisation of renewable
+  materials.
+\newblock {\em Journal of Cleaner Production}, 110, 1--8.
+
 \bibitem[Gregoire \& Valentine, 2008]{Gregoire_2008}
 Gregoire, T.~G. \& Valentine, H. (2008).
 \newblock {\em {Sampling Strategies for Natural Ressources and the
@@ -95,6 +156,12 @@ Gregoire, T.~G., Valentine, H.~T., \& Furnival, G.~M. (1995).
 \newblock Sampling {Methods} to {Estimate} {Foliage} and {Other}
   {Characteristics} of {Individual} {Trees}.
 \newblock {\em Ecology}, 76(4), 1181.
+
+\bibitem[Grote et~al., 2003]{grote_2003}
+Grote, R., Schuck, J., Block, J., \& Pretzsch, H. (2003).
+\newblock Oberirdische holzige {Biomasse} in {Kiefern}-/{Buchen}- und
+  {Eichen}-/{Buchen}-{Mischbeständen}.
+\newblock {\em Forstwissenschaftliches Centralblatt}, 122(5), 287--301.
 
 \bibitem[Gruber et~al., 2004]{gruber_2004}
 Gruber, F., Mann, T.~E., Kuhr, M., \& Eichhorn, J. (2004).
@@ -128,6 +195,12 @@ Hempel, C.~G. \& Oppenheim, P. (1948).
 \newblock Studies in the {Logic} of {Explanation}.
 \newblock {\em Philosophy of Science}, 15(2), 135-- 175.
 
+\bibitem[Hennig et~al., 2016]{hennig_2016}
+Hennig, C., Brosowski, A., \& Majer, S. (2016).
+\newblock Sustainable feedstock potential - a limitation for the bio-based
+  economy?
+\newblock {\em Journal of Cleaner Production}, 123, 200--202.
+
 \bibitem[Hildebrandt et~al., 2014]{hildebrandt_2014}
 Hildebrandt, J., Bezama, A., \& Thrän, D. (2014).
 \newblock Establishing a robust sustainability index for the assessment of
@@ -143,6 +216,18 @@ Hildebrandt, J., Bezama, A., \& Thrän, D. (2014).
 \newblock Wiesbaden: Hessisches Ministerium für Umwelt, Klimaschutz,
   Landwirtschaft und Verbraucherschutz.
 
+\bibitem[How et~al., 2016]{how_2016}
+How, B.~S., Tan, K.~Y., \& Lam, H.~L. (2016).
+\newblock Transportation decision tool for optimisation of integrated biomass
+  flow with vehicle capacity constraints.
+\newblock {\em Journal of Cleaner Production}.
+
+\bibitem[Hurmekoski \& Hetemäki, 2013]{hurmekoski_2013}
+Hurmekoski, E. \& Hetemäki, L. (2013).
+\newblock Studying the future of the forest sector: {Review} and implications
+  for long-term outlook studies.
+\newblock {\em Forest Policy and Economics}, 34, 17--29.
+
 \bibitem[Hutcheson \& Moutinho, 2008]{hutcheson_2008}
 Hutcheson, G.~D. \& Moutinho, L. (2008).
 \newblock {\em Statistical {Modeling} for {Management}}.
@@ -152,6 +237,11 @@ Hutcheson, G.~D. \& Moutinho, L. (2008).
 Huxley, J. (1932).
 \newblock {\em Problems of relative growth}.
 \newblock New York: Dial Press.
+
+\bibitem[Jacobsen et~al., 2003]{jacobsen_2003}
+Jacobsen, C., Rademacher, P., Meesenburg, H., \& Meiwes, K.~J. (2003).
+\newblock {\em Gehalte chemischer {Elemente} in {Baumkompartimenten}:
+  {Literaturstudie} und {Datensammlung}}, volume B69.
 
 \bibitem[Jessen, 1955]{jessen_1955}
 Jessen, R.~J. (1955).
@@ -266,6 +356,14 @@ Pretzsch, H. (2010).
   Progress in {Botany} 71}, number~71 in Progress in {Botany}  (pp.\ 339--369).
   Springer Berlin Heidelberg.
 
+\bibitem[Pretzsch et~al., 2014]{pretzsch_2014}
+Pretzsch, H., Block, J., Dieler, J., Gauer, J., Göttlein, A., Moshammer, R.,
+  Schuck, J., Weis, W., \& Wunn, U. (2014).
+\newblock Nährstoffentzüge durch die {Holz}-und {Biomassenutzung} in {Wäldern}.
+  {Teil} 1: {Schätzfunktionen} für {Biomasse} und {Nährelemente} und ihre
+  {Anwendung} in {Szenariorechnungen}.
+\newblock {\em Allgemeine Forst- und Jagdzeitung}, (185), 261--285.
+
 \bibitem[Pretzsch \& Dieler, 2012]{pretzsch_2012}
 Pretzsch, H. \& Dieler, J. (2012).
 \newblock Evidence of variant intra- and interspecific scaling of tree crown
@@ -293,6 +391,12 @@ Rüther, B., Hansen, J., Ludwig, A., Spellmann, H., Nagel, J., Möhring, B., \&
 \newblock {\em Clusterstudie {Forst} und {Holz} {Niedersachsen}}, volume~1 of
   {\em Beiträge aus der {Nordwestdeutschen} {Forstlichen} {Versuchsanstalt}}.
 \newblock Göttingen: Universitätsdrucke Göttingen.
+
+\bibitem[Saborowski \& Gaffrey, 1999]{saborowski_1999}
+Saborowski, J. \& Gaffrey, D. (1999).
+\newblock {RBS}, ein mehrstufiges {Inventurverfahren} zur {Schätzung} von
+  {Baummerkmalen} - {II}. {Modifizierte} {RBS}-{Verfahren}.
+\newblock {\em Allgemein Forst- und Jagdzeitung}, (170. Jg 12), 223-- 227.
 
 \bibitem[Schanz, 1996]{Schanz_1996}
 Schanz, H. (1996).
@@ -342,7 +446,13 @@ Stumpf, M. P.~H. \& Porter, M.~A. (2012).
 \newblock Critical {Truths} {About} {Power} {Laws}.
 \newblock {\em Science}, 335(6069), 665--666.
 
-\bibitem[{TI}, 2014]{ti_2014b}
+\bibitem[Tabacchi et~al., 2011]{tabacchi_2011}
+Tabacchi, G., Cosmo, L.~D., \& Gasparini, P. (2011).
+\newblock Aboveground tree volume and phytomass prediction equations for forest
+  species in {Italy}.
+\newblock {\em European Journal of Forest Research}, 130(6), 911--934.
+
+\bibitem[{TI}, 2014]{ti_2014}
 {TI} (2014).
 \newblock Third {National} {Forest} {Inventory} - {Database}.
 
@@ -356,6 +466,12 @@ Umeki, K. (1995).
 Valentine, H.~T., Tritton, L.~M., \& Furnival, G.~M. (1984).
 \newblock Subsampling {Trees} for {Biomass}, {Volume}, or {Mineral} {Content}.
 \newblock {\em Forest Science}, 30(3), 673--681.
+
+\bibitem[Vallet et~al., 2006]{vallet_2006}
+Vallet, P., Dhôte, J.-F., Moguédec, G.~L., Ravart, M., \& Pignard, G. (2006).
+\newblock Development of total aboveground volume equations for seven important
+  forest tree species in {France}.
+\newblock {\em Forest Ecology and Management}, 229(1-3), 98--110.
 
 \bibitem[Varian, 2010]{varian_2010}
 Varian, H.~R. (2010).
@@ -384,6 +500,11 @@ Warton, D.~I., Duursma, R.~A., Falster, D.~S., \& Taskinen, S. (2012).
 \newblock smatr 3- an {R} package for estimation and inference about allometric
   lines.
 \newblock {\em Methods in Ecology and Evolution}, 3(2), 257--259.
+
+\bibitem[Weis \& Göttlein, 2012]{weis_2012}
+Weis, W. \& Göttlein, A. (2012).
+\newblock Nährstoffnachhaltige {Biomassenutzung}.
+\newblock {\em LWF Aktuell}, 90, 44--47.
 
 \bibitem[West, 1999]{west_1999}
 West, G.~B. (1999).
