@@ -109,6 +109,17 @@
   Timestamp                = {2017.02.28}
 }
 
+@Misc{barton_2016,
+  Title                    = {{MuMIn}: {Multi}-{Model} {Inference}},
+
+  Author                   = {Barton, Kamil},
+  Year                     = {2016},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01},
+  Url                      = {https://CRAN.R-project.org/package=MuMIn}
+}
+
 @InCollection{block_2013,
   Title                    = {Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und {Biomassenutzung}},
   Author                   = {Block, J. and Meiwes, K. J. and Bachmann, G. and König, W. and Utermann, J.},
@@ -264,6 +275,29 @@
   Urldate                  = {2016-08-19}
 }
 
+@Article{diciccio_1996,
+  Title                    = {Bootstrap confidence intervals},
+  Author                   = {DiCiccio, Thomas J. and Efron, Bradley},
+  Journal                  = {Statistical Science},
+  Year                     = {1996},
+
+  Month                    = sep,
+  Number                   = {3},
+  Pages                    = {189--228},
+  Volume                   = {11},
+
+  Doi                      = {10.1214/ss/1032280214},
+  File                     = {Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/NKTGUVPU/1032280214.html:text/html},
+  ISSN                     = {0883-4237, 2168-8745},
+  Keywords                 = {\$BC\_a\$ and ABC methods, Bootstrap-\$t\$, calibration, second-order accuracy},
+  Mrnumber                 = {MR1436647},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01},
+  Url                      = {http://projecteuclid.org.34391.han.sub.uni-goettingen.de/euclid.ss/1032280214},
+  Urldate                  = {2015-09-02},
+  Zmnumber                 = {0955.62574}
+}
+
 @Article{ekman_2013,
   Title                    = {Bioresource utilisation by sustainable technologies in new value-added biorefinery concepts - two case studies from food and forest industry},
   Author                   = {Ekman, Anna and Campos, Monica and Lindahl, Sofia and Co, Michelle and Börjesson, Pål and Karlsson, Eva Nordberg and Turner, Charlotta},
@@ -363,6 +397,26 @@
   Timestamp                = {2017.02.28},
   Url                      = {http://www.sciencedirect.com/science/article/pii/S0959652615013207},
   Urldate                  = {2016-07-07}
+}
+
+@Article{graham_2003,
+  Title                    = {Confronting multicollinearity in ecological multiple regression},
+  Author                   = {Graham, Michael H.},
+  Journal                  = {Ecology},
+  Year                     = {2003},
+
+  Month                    = nov,
+  Number                   = {11},
+  Pages                    = {2809--2815},
+  Volume                   = {84},
+
+  Doi                      = {10.1890/02-3114},
+  ISSN                     = {0012-9658},
+  Keywords                 = {confounding factors, multicollinearity, multiple regression, principal components regression, sequential regression, structural equation modeling},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01},
+  Url                      = {http://www.esajournals.org/doi/abs/10.1890/02-3114},
+  Urldate                  = {2015-11-02}
 }
 
 @Book{Gregoire_2008,
@@ -488,6 +542,20 @@
   Timestamp                = {2017.01.16}
 }
 
+@Article{henderson_2012,
+  Title                    = {Nutrient use efficiency of three fast growing hardwood species across a resource gradient},
+  Author                   = {Henderson, Dawn E and Jose, Shibu and {others}},
+  Journal                  = {Open Journal of Forestry},
+  Year                     = {2012},
+  Number                   = {04},
+  Pages                    = {187},
+  Volume                   = {2},
+
+  Doi                      = {10.4236/ojf.2012.24023},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01}
+}
+
 @Article{hennig_2016,
   Title                    = {Sustainable feedstock potential - a limitation for the bio-based economy?},
   Author                   = {Hennig, Christiane and Brosowski, André and Majer, Stefan},
@@ -540,6 +608,19 @@
   Timestamp                = {2016.12.13},
   Url                      = {http://www.deutsche-digitale-bibliothek.de/item/OABDTTQNRBJVF5EFV3LEMQKUTUPZC5BH},
   Urldate                  = {2016-05-06}
+}
+
+@Article{hochbichler_2006,
+  Title                    = {Biomass functions for estimating needle and branch biomass of spruce ({Picea} abies) and {Scots} pine ({Pinus} sylvestris) and branch biomass of beech ({Fagus} sylvatica) and oak ({Quercus} robur and petraea)},
+  Author                   = {Hochbichler, E. and Bellos, P. and Lick, E.},
+  Journal                  = {Centralblatt für das gesamte Forstwesen (Austrian Journal of Forest Sciences)},
+  Year                     = {2006},
+  Number                   = {123},
+  Pages                    = {35--46},
+
+  ISSN                     = {0008-9583},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01}
 }
 
 @Article{how_2016,
@@ -644,6 +725,38 @@
   Timestamp                = {2017.01.13},
   Url                      = {http://www.jstor.org/stable/3001484},
   Urldate                  = {2012-08-06}
+}
+
+@Book{konig_2012a,
+  Title                    = {Probenvorbereitungsmethoden und {Untersuchungsmethoden}},
+  Author                   = {König, Nils and Fortmann, Heike},
+  Publisher                = {Sektion Waldökosysteforschung der Univ. Göttingen},
+  Year                     = {2012},
+
+  Address                  = {Göttingen},
+  Number                   = {79},
+  Series                   = {[{Berichte} der {Sektion} {Waldökosystemforschung} / {B}] {Berichte} der {Sektion} {Waldökosystemforschung} / {Zentrum} für {Biodiversität} und {Nachhaltige} {Landnutzung} ({CBL}) / {Sektion} {Waldökosystemforschung}. - {Göttingen} : {CBL}, {Sektion} {Waldökosystemforschung}, 2012-},
+
+  File                     = {Library Catalog Entry Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/UZ24CVIE/PPN.html:text/html},
+  Keywords                 = {Umweltanalytik / Dokumentation / Analysenmesstechnik},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01}
+}
+
+@Book{konig_2012b,
+  Title                    = {Elementbestimmungsmethoden und {Qualtätskontrollmethoden}},
+  Author                   = {König, Nils and Fortmann, Heike},
+  Publisher                = {Sektion Waldökosysteforschung der Univ. Göttingen},
+  Year                     = {2012},
+
+  Address                  = {Göttingen},
+  Number                   = {80},
+  Series                   = {[{Berichte} der {Sektion} {Waldökosystemforschung} / {B}] {Berichte} der {Sektion} {Waldökosystemforschung} / {Zentrum} für {Biodiversität} und {Nachhaltige} {Landnutzung} ({CBL}) / {Sektion} {Waldökosystemforschung}. - {Göttingen} : {CBL}, {Sektion} {Waldökosystemforschung}, 2012-},
+
+  File                     = {Library Catalog Entry Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/NHXZ2JVR/PPN.html:text/html},
+  Keywords                 = {Umweltanalytik / Dokumentation / Analysenmesstechnik},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01}
 }
 
 @Article{kuzelka_2012,
@@ -878,6 +991,24 @@ Verbraucherschutz},
   Timestamp                = {2016.12.13}
 }
 
+@Article{parresol_2001,
+  Title                    = {Additivity of nonlinear biomass equations},
+  Author                   = {Parresol, Bernard R},
+  Journal                  = {Canadian Journal of Forest Research},
+  Year                     = {2001},
+  Note                     = {Gedruckt},
+  Number                   = {5},
+  Pages                    = {865--878},
+  Volume                   = {31},
+
+  Doi                      = {10.1139/x00-202},
+  ISSN                     = {0045-5067},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01},
+  Url                      = {http://www.nrcresearchpress.com/doi/abs/10.1139/x00-202},
+  Urldate                  = {2014-03-05}
+}
+
 @InCollection{pretzsch_2010,
   Title                    = {Re-{Evaluation} of {Allometry}: {State}-of-the-{Art} and {Perspective} {Regarding} {Individuals} and {Stands} of {Woody} {Plants}},
   Author                   = {Pretzsch, Hans},
@@ -952,6 +1083,22 @@ Verbraucherschutz},
   Url                      = {http://www.R-project.org/}
 }
 
+@InCollection{rademacher_2011,
+  Title                    = {Elementgehalte in {Baumkompartimenten} von {Fichte}, {Kiefer}, {Buche}, {Eiche} und {Douglasie}},
+  Author                   = {Rademacher, Peter and Schönfelder, Egbert and Meiwes, Karl Josef},
+  Booktitle                = {Forschungsvorhaben: {Möglichkeiten} und {Grenzen} der {Vollbaumnutzung}. {Ergebnisbericht} ({FKZ}: 22015407)},
+  Publisher                = {Fachagentur für Nachwachsende Rohstoffe des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz},
+  Year                     = {2011},
+
+  Address                  = {Göttingen},
+  Pages                    = {125-- 154},
+
+  Language                 = {de},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01},
+  Url                      = {http://www.fnr-server.de/ftp/pdf/berichte/22015407.pdf}
+}
+
 @Book{roloff_1986,
   Title                    = {Morphologie der {Kronenentwicklung} von {Fagus} sylvatica {L}. ({Rotbuche}) unter besonderer {Berücksichtigung} möglicherweise neuartiger {Veränderungen}},
   Author                   = {Roloff, Andreas},
@@ -964,6 +1111,22 @@ Verbraucherschutz},
   File                     = {Göttinger Universitätskatalog (GUK) - results/titledata:/home/kai/.mozilla/firefox/1t7pk6d8.default/zotero/storage/K5TZFRJK/SHW.html:text/html},
   Owner                    = {khusman1},
   Timestamp                = {2017.01.16}
+}
+
+@InCollection{rumpf_2011,
+  Title                    = {Biomasseschätzfunktionen von {Fichte}, {Kiefer}, {Buche} {Eiche} und {Douglasie} für {Nordwestdeutschland}},
+  Author                   = {Rumpf, Sabine and Nagel, Jürgen and Schmidt, Matthias},
+  Booktitle                = {Forschungsvorhaben: {Möglichkeiten} und {Grenzen} der {Vollbaumnutzung}. {Ergebnisbericht} ({FKZ}: 22015407)},
+  Publisher                = {Fachagentur für Nachwachsende Rohstoffe des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz},
+  Year                     = {2011},
+
+  Address                  = {Göttingen},
+  Pages                    = {25-- 124},
+
+  Language                 = {de},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01},
+  Url                      = {http://www.fnr-server.de/ftp/pdf/berichte/22015407.pdf}
 }
 
 @Book{ruther_2007,
@@ -1257,6 +1420,17 @@ It was concluded that the position of neighbours' crowns were important in deter
   ISBN                     = {0-387-95457-0},
   Owner                    = {khusman1},
   Timestamp                = {2017.01.13}
+}
+
+@Article{vitousek_1982,
+  Title                    = {Nutrient cycling and nutrient use efficiency},
+  Author                   = {Vitousek, Peter},
+  Journal                  = {American Naturalist},
+  Year                     = {1982},
+  Pages                    = {553--572},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.01}
 }
 
 @Article{wagstaff_2001,

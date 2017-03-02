@@ -6,49 +6,50 @@ Database file #1: Dissertation.bib
 Warning--empty publisher in block_2013
 Warning--can't use both author and editor fields in gauer_2012
 Warning--empty publisher in haarhaus_2012
+Warning--there's a number but no volume in hochbichler_2006
 Warning--empty publisher in jacobsen_2003
 Warning--empty publisher in neumann-spallart_1952
 Warning--there's a number but no volume in pretzsch_2014
 Warning--there's a number but no volume in saborowski_1999
-You've used 87 entries,
+You've used 98 entries,
             2229 wiz_defined-function locations,
-            1008 strings with 20482 characters,
-and the built_in function-call counts, 32722 in all, are:
-= -- 3174
-> -- 1328
-< -- 72
-+ -- 446
-- -- 440
-* -- 2781
-:= -- 5784
-add.period$ -- 266
-call.type$ -- 87
-change.case$ -- 623
-chr.to.int$ -- 87
-cite$ -- 94
-duplicate$ -- 1256
-empty$ -- 2293
-format.name$ -- 565
-if$ -- 6332
-int.to.chr$ -- 1
+            1064 strings with 22593 characters,
+and the built_in function-call counts, 37168 in all, are:
+= -- 3636
+> -- 1467
+< -- 84
++ -- 491
+- -- 484
+* -- 3145
+:= -- 6528
+add.period$ -- 303
+call.type$ -- 98
+change.case$ -- 698
+chr.to.int$ -- 97
+cite$ -- 106
+duplicate$ -- 1439
+empty$ -- 2623
+format.name$ -- 626
+if$ -- 7238
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 117
-newline$ -- 439
-num.names$ -- 263
-pop$ -- 581
+missing$ -- 129
+newline$ -- 494
+num.names$ -- 296
+pop$ -- 644
 preamble$ -- 1
-purify$ -- 653
+purify$ -- 730
 quote$ -- 0
-skip$ -- 925
+skip$ -- 1064
 stack$ -- 0
-substring$ -- 2097
-swap$ -- 138
-text.length$ -- 16
+substring$ -- 2435
+swap$ -- 175
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 452
-warning$ -- 7
-while$ -- 267
+type$ -- 514
+warning$ -- 8
+while$ -- 307
 width$ -- 0
-write$ -- 1137
-(There were 7 warnings)
+write$ -- 1285
+(There were 8 warnings)

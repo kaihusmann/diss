@@ -39,6 +39,10 @@ Augusto, L., Ranger, J., Ponette, Q., \& Rapp, M. (2000).
   nutrient amount.
 \newblock {\em Annals of Forest Science}, 57(4), 12.
 
+\bibitem[Barton, 2016]{barton_2016}
+Barton, K. (2016).
+\newblock {MuMIn}: {Multi}-{Model} {Inference}.
+
 \bibitem[Block et~al., 2013]{block_2013}
 Block, J., Meiwes, K.~J., Bachmann, G., König, W., \& Utermann, J. (2013).
 \newblock Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und
@@ -100,6 +104,11 @@ Degenhard, M. (2016).
 {DESTATIS} (2016).
 \newblock Statistisches {Bundesamt} {Deutschland} - {GENESIS}-{Online}.
 
+\bibitem[DiCiccio \& Efron, 1996]{diciccio_1996}
+DiCiccio, T.~J. \& Efron, B. (1996).
+\newblock Bootstrap confidence intervals.
+\newblock {\em Statistical Science}, 11(3), 189--228.
+
 \bibitem[Ekman et~al., 2013]{ekman_2013}
 Ekman, A., Campos, M., Lindahl, S., Co, M., Börjesson, P., Karlsson, E.~N., \&
   Turner, C. (2013).
@@ -144,6 +153,11 @@ Geldermann, J., Kolbe, L.~M., Krause, A., Mai, C., Militz, H., Osburg, V.-S.,
 \newblock Improved resource efficiency and cascading utilisation of renewable
   materials.
 \newblock {\em Journal of Cleaner Production}, 110, 1--8.
+
+\bibitem[Graham, 2003]{graham_2003}
+Graham, M.~H. (2003).
+\newblock Confronting multicollinearity in ecological multiple regression.
+\newblock {\em Ecology}, 84(11), 2809--2815.
 
 \bibitem[Gregoire \& Valentine, 2008]{Gregoire_2008}
 Gregoire, T.~G. \& Valentine, H. (2008).
@@ -195,6 +209,12 @@ Hempel, C.~G. \& Oppenheim, P. (1948).
 \newblock Studies in the {Logic} of {Explanation}.
 \newblock {\em Philosophy of Science}, 15(2), 135-- 175.
 
+\bibitem[Henderson et~al., 2012]{henderson_2012}
+Henderson, D.~E., Jose, S., \& {others} (2012).
+\newblock Nutrient use efficiency of three fast growing hardwood species across
+  a resource gradient.
+\newblock {\em Open Journal of Forestry}, 2(04), 187.
+
 \bibitem[Hennig et~al., 2016]{hennig_2016}
 Hennig, C., Brosowski, A., \& Majer, S. (2016).
 \newblock Sustainable feedstock potential - a limitation for the bio-based
@@ -215,6 +235,14 @@ Hildebrandt, J., Bezama, A., \& Thrän, D. (2014).
   {Deutsche} {Digitale} {Bibliothek}}.
 \newblock Wiesbaden: Hessisches Ministerium für Umwelt, Klimaschutz,
   Landwirtschaft und Verbraucherschutz.
+
+\bibitem[Hochbichler et~al., 2006]{hochbichler_2006}
+Hochbichler, E., Bellos, P., \& Lick, E. (2006).
+\newblock Biomass functions for estimating needle and branch biomass of spruce
+  ({Picea} abies) and {Scots} pine ({Pinus} sylvestris) and branch biomass of
+  beech ({Fagus} sylvatica) and oak ({Quercus} robur and petraea).
+\newblock {\em Centralblatt für das gesamte Forstwesen (Austrian Journal of
+  Forest Sciences)}, (123), 35--46.
 
 \bibitem[How et~al., 2016]{how_2016}
 How, B.~S., Tan, K.~Y., \& Lam, H.~L. (2016).
@@ -256,6 +284,26 @@ Kuzelka, K. \& Marusak, R. (2012).
 \newblock Spline representation of irregular and malformed stem profiles of
   broadleaved tree species in {White} {Carpathian} {Mountains}.
 \newblock {\em Beskydy}, 5(2), 111--120.
+
+\bibitem[König \& Fortmann, 2012a]{konig_2012b}
+König, N. \& Fortmann, H. (2012a).
+\newblock {\em Elementbestimmungsmethoden und {Qualtätskontrollmethoden}}.
+\newblock Number~80 in [{Berichte} der {Sektion} {Waldökosystemforschung} /
+  {B}] {Berichte} der {Sektion} {Waldökosystemforschung} / {Zentrum} für
+  {Biodiversität} und {Nachhaltige} {Landnutzung} ({CBL}) / {Sektion}
+  {Waldökosystemforschung}. - {Göttingen} : {CBL}, {Sektion}
+  {Waldökosystemforschung}, 2012-. Göttingen: Sektion Waldökosysteforschung der
+  Univ. Göttingen.
+
+\bibitem[König \& Fortmann, 2012b]{konig_2012a}
+König, N. \& Fortmann, H. (2012b).
+\newblock {\em Probenvorbereitungsmethoden und {Untersuchungsmethoden}}.
+\newblock Number~79 in [{Berichte} der {Sektion} {Waldökosystemforschung} /
+  {B}] {Berichte} der {Sektion} {Waldökosystemforschung} / {Zentrum} für
+  {Biodiversität} und {Nachhaltige} {Landnutzung} ({CBL}) / {Sektion}
+  {Waldökosystemforschung}. - {Göttingen} : {CBL}, {Sektion}
+  {Waldökosystemforschung}, 2012-. Göttingen: Sektion Waldökosysteforschung der
+  Univ. Göttingen.
 
 \bibitem[Mandallaz, 2008]{Mandallaz_2008}
 Mandallaz, D. (2008).
@@ -348,6 +396,12 @@ Ochs, T., Duschl, C., \& Seintsch, B. (2007).
 \newblock Struktur und {Rohstoffbedarf} der {Holzwirtschaft}.
 \newblock {\em Holz-Zentralblatt}, 133(12), 269--271.
 
+\bibitem[Parresol, 2001]{parresol_2001}
+Parresol, B.~R. (2001).
+\newblock Additivity of nonlinear biomass equations.
+\newblock {\em Canadian Journal of Forest Research}, 31(5), 865--878.
+\newblock Gedruckt.
+
 \bibitem[Pretzsch, 2010]{pretzsch_2010}
 Pretzsch, H. (2010).
 \newblock Re-{Evaluation} of {Allometry}: {State}-of-the-{Art} and
@@ -376,6 +430,15 @@ Pretzsch, H. \& Dieler, J. (2012).
   {Computing}}.
 \newblock Vienna, Austria: R Foundation for Statistical Computing.
 
+\bibitem[Rademacher et~al., 2011]{rademacher_2011}
+Rademacher, P., Schönfelder, E., \& Meiwes, K.~J. (2011).
+\newblock Elementgehalte in {Baumkompartimenten} von {Fichte}, {Kiefer},
+  {Buche}, {Eiche} und {Douglasie}.
+\newblock In {\em Forschungsvorhaben: {Möglichkeiten} und {Grenzen} der
+  {Vollbaumnutzung}. {Ergebnisbericht} ({FKZ}: 22015407)}  (pp.\ 125-- 154).
+  Göttingen: Fachagentur für Nachwachsende Rohstoffe des Bundesministeriums für
+  Ernährung, Landwirtschaft und Verbraucherschutz.
+
 \bibitem[Roloff, 1986]{roloff_1986}
 Roloff, A. (1986).
 \newblock {\em Morphologie der {Kronenentwicklung} von {Fagus} sylvatica {L}.
@@ -384,6 +447,15 @@ Roloff, A. (1986).
 \newblock Berichte des {Forschungszentrums} {Waldökosysteme}, {Waldsterben} /
   {Forschungszentrum} {Waldökosysteme}, {Waldsterben}, {Göttingen}. Göttingen:
   Forschungszentrum Waldökosysteme, Waldsterben.
+
+\bibitem[Rumpf et~al., 2011]{rumpf_2011}
+Rumpf, S., Nagel, J., \& Schmidt, M. (2011).
+\newblock Biomasseschätzfunktionen von {Fichte}, {Kiefer}, {Buche} {Eiche} und
+  {Douglasie} für {Nordwestdeutschland}.
+\newblock In {\em Forschungsvorhaben: {Möglichkeiten} und {Grenzen} der
+  {Vollbaumnutzung}. {Ergebnisbericht} ({FKZ}: 22015407)}  (pp.\ 25-- 124).
+  Göttingen: Fachagentur für Nachwachsende Rohstoffe des Bundesministeriums für
+  Ernährung, Landwirtschaft und Verbraucherschutz.
 
 \bibitem[Rüther et~al., 2007]{ruther_2007}
 Rüther, B., Hansen, J., Ludwig, A., Spellmann, H., Nagel, J., Möhring, B., \&
@@ -482,6 +554,11 @@ Varian, H.~R. (2010).
 Venables, W. \& Ripley, B. (2002).
 \newblock {\em Modern {Applied} {Statistics} with {S}}.
 \newblock New York: Springer, 4th edition.
+
+\bibitem[Vitousek, 1982]{vitousek_1982}
+Vitousek, P. (1982).
+\newblock Nutrient cycling and nutrient use efficiency.
+\newblock {\em American Naturalist}, (pp.\ 553--572).
 
 \bibitem[von Carlowitz, 1713]{Carlowitz_1713}
 von Carlowitz, H.-C. (1713).
