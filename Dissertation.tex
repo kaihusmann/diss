@@ -3,7 +3,7 @@
 
 \documentclass[
 a4paper,
-12pt,
+11pt,
 titlepage,
 %tablecaptionabove,
 twoside,
@@ -49,7 +49,7 @@ headinclude]{scrbook}
 
 %% Packages für Pseudocode
 \usepackage{algorithm2e}
-\usepackage{geometry}
+
 
 %% Package für Zeilennummerierung
 \usepackage{lineno}
@@ -68,9 +68,19 @@ headinclude]{scrbook}
 
 \usepackage{acronym} %für Abkürzungsverzeichnis
 
-\usepackage[colorlinks=true,linkcolor=black,citecolor=black,urlcolor=black, pdfauthor={Kai Husmann}, pdftitle={Applied Statistical Models in Bio-Economy}]{hyperref}
+\usepackage[colorlinks=true,linkcolor=black,citecolor=blue,urlcolor=blue, pdfauthor={Kai Husmann}, pdftitle={Applied Statistical Models in Bio-Economy}]{hyperref}
 %,backref=page
 %Zur Verlinkung des Literaturverzeichnisses mit den Textstellen bei hyperref Optionen [backref] einfügen%
+
+
+\usepackage{geometry}
+\geometry{
+	bottom=40mm,
+	left=30mm,
+	right=30mm
+}
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% DOKUMENT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -93,13 +103,13 @@ headinclude]{scrbook}
 %% Inhaltsverzeichnis %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setcounter{tocdepth}{1}
 \tableofcontents
-%\thispagestyle{plain}
-%\newpage
-%\listoffigures
-%\thispagestyle{plain}
-%\newpage
-%\listoftables
-%\thispagestyle{plain}
+\thispagestyle{plain}
+\newpage
+\listoffigures
+\thispagestyle{plain}
+\newpage
+\listoftables
+\thispagestyle{plain}
 %\newpage
 %\thispagestyle{plain}
 % \input{Abkuerzungsverzeichnis}
@@ -117,13 +127,14 @@ headinclude]{scrbook}
 \fancyhead[LE]{\rightmark} \fancyhead[RO]{\leftmark}
 \fancyfoot[LE]{\thepage} \fancyfoot[RO]{\thepage}
 
+
 \pagenumbering{arabic}
 \input{Introduction}
 %\cleardoublepage
 \input{hzb}
 %\cleardoublepage
 \input{bm}
-\cleardoublepage
+%\cleardoublepage
 \input{beech_crowns}
 %\cleardoublepage
 \input{opt}
