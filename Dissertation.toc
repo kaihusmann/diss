@@ -23,52 +23,52 @@
 \contentsline {subsection}{\numberline {3.3.1}Biomass functions}{26}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Sensitivity analysis}{31}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Nutrient contents}{32}{subsection.3.3.3}
-\contentsline {section}{\numberline {3.4}Discussion}{34}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Biomass functions}{34}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Sensitivity analysis}{34}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Nutrient contents}{34}{subsection.3.4.3}
-\contentsline {section}{\numberline {3.5}Conclusions}{34}{section.3.5}
-\contentsline {chapter}{\numberline {4}Modelling the economically viable wood in the crown of European beech trees}{35}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{38}{section.4.1}
-\contentsline {section}{\numberline {4.2}Materials and Methods}{39}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Selection of trees}{39}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Selection of disks}{40}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Selection of branches}{40}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Estimation of wood volume in the stem and in the crown}{42}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Economically viable wood volume in the crown}{42}{subsection.4.2.5}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{42}{section*.31}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{44}{section*.33}
-\contentsline {subsection}{\numberline {4.2.6}Allometric relationships}{47}{subsection.4.2.6}
-\contentsline {section}{\numberline {4.3}Results}{47}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Prediction of bark thickness}{47}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Economically viable wood volume in the crown}{48}{subsection.4.3.2}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{48}{section*.36}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{49}{section*.39}
-\contentsline {subsection}{\numberline {4.3.3}Allometric relationships}{53}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Discussion}{55}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Estimation of bark thickness}{55}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Economically viable wood volume in the crown}{55}{subsection.4.4.2}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{55}{section*.46}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{56}{section*.47}
-\contentsline {subsection}{\numberline {4.4.3}Allometric relationships}{57}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Conclusions and outlook}{58}{section.4.5}
-\contentsline {chapter}{\numberline {5}Optimisation of Forest Processes}{61}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{63}{section.5.1}
-\contentsline {section}{\numberline {5.2}Materials and Methods}{63}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Data sampling and sample processing}{63}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Biomass functions}{63}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Sensitivity analysis}{63}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Nutrient contents}{63}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}Results}{64}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Biomass functions}{64}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Sensitivity analysis}{64}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Nutrient contents}{64}{subsection.5.3.3}
-\contentsline {section}{\numberline {5.4}Discussion}{64}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Biomass functions}{64}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Sensitivity analysis}{64}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Nutrient contents}{64}{subsection.5.4.3}
-\contentsline {section}{\numberline {5.5}Conclusions}{64}{section.5.5}
-\contentsline {chapter}{\numberline {6}General Discussion}{65}{chapter.6}
-\contentsline {chapter}{\numberline {7}Summary}{66}{chapter.7}
-\contentsline {chapter}{\numberline {8}Zusammenfassung}{67}{chapter.8}
-\contentsline {chapter}{\nonumberline Bibliography}{68}{chapter*.52}
+\contentsline {section}{\numberline {3.4}Discussion}{35}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Biomass functions}{35}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Sensitivity analysis}{38}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Nutrient contents}{38}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Conclusions}{39}{section.3.5}
+\contentsline {chapter}{\numberline {4}Modelling the economically viable wood in the crown of European beech trees}{41}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{44}{section.4.1}
+\contentsline {section}{\numberline {4.2}Materials and Methods}{45}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Selection of trees}{45}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Selection of disks}{46}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Selection of branches}{46}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Estimation of wood volume in the stem and in the crown}{48}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Economically viable wood volume in the crown}{48}{subsection.4.2.5}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{48}{section*.33}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{50}{section*.35}
+\contentsline {subsection}{\numberline {4.2.6}Allometric relationships}{53}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.3}Results}{53}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Prediction of bark thickness}{53}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Economically viable wood volume in the crown}{54}{subsection.4.3.2}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{54}{section*.38}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{55}{section*.41}
+\contentsline {subsection}{\numberline {4.3.3}Allometric relationships}{59}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Discussion}{61}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Estimation of bark thickness}{61}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Economically viable wood volume in the crown}{61}{subsection.4.4.2}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{61}{section*.48}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{62}{section*.49}
+\contentsline {subsection}{\numberline {4.4.3}Allometric relationships}{63}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Conclusions and outlook}{64}{section.4.5}
+\contentsline {chapter}{\numberline {5}Optimisation of Forest Processes}{67}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{69}{section.5.1}
+\contentsline {section}{\numberline {5.2}Materials and Methods}{69}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Data sampling and sample processing}{69}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Biomass functions}{69}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Sensitivity analysis}{69}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Nutrient contents}{69}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Results}{70}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Biomass functions}{70}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Sensitivity analysis}{70}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Nutrient contents}{70}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Discussion}{70}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Biomass functions}{70}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Sensitivity analysis}{70}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Nutrient contents}{70}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Conclusions}{70}{section.5.5}
+\contentsline {chapter}{\numberline {6}General Discussion}{71}{chapter.6}
+\contentsline {chapter}{\numberline {7}Summary}{72}{chapter.7}
+\contentsline {chapter}{\numberline {8}Zusammenfassung}{73}{chapter.8}
+\contentsline {chapter}{\nonumberline Bibliography}{74}{chapter*.54}

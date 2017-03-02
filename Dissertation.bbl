@@ -43,6 +43,19 @@ Augusto, L., Ranger, J., Ponette, Q., \& Rapp, M. (2000).
 Barton, K. (2016).
 \newblock {MuMIn}: {Multi}-{Model} {Inference}.
 
+\bibitem[Baskerville, 1972]{baskerville_1972}
+Baskerville, G. (1972).
+\newblock Use of logarithmic regression in the estimation of plant biomass.
+\newblock {\em Canadian Journal of Forest Research}, 2(1), 49--53.
+
+\bibitem[Block \& Meiwes, 2012]{block_2012}
+Block, J. \& Meiwes, K.~J. (2012).
+\newblock Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und
+  {Biomassenutzung}.
+\newblock In {\em Bodenschutz - {Ergänzbares} {Handbuch} der {Maßnahmen} und
+  {Empfehlungen} für {Schutz}, {Pflege} und {Sanierung} von {Böden},
+  {Landschaft} und {Grundwasser}}, volume~13  (pp.\ 1--50).
+
 \bibitem[Block et~al., 2013]{block_2013}
 Block, J., Meiwes, K.~J., Bachmann, G., König, W., \& Utermann, J. (2013).
 \newblock Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und
@@ -86,6 +99,11 @@ Cancino, J. \& Saborowski, J. (2005).
   at the first stage.
 \newblock {\em Silva Fennica}, 39(2), 201--216.
 
+\bibitem[Cerny, 1990]{cerny_1990}
+Cerny, M. (1990).
+\newblock Biomass of {Picea} abies ({L}.) {Karst}. in midwestern {Bohemia}.
+\newblock {\em Scandinavian Journal of Forest Research}, 5(1-4), 83--95.
+
 \bibitem[Chambers \& Hastie, 1992]{chambers_1992}
 Chambers, J.~M. \& Hastie, T.~J. (1992).
 \newblock {\em Statistical models in {S}}.
@@ -108,6 +126,12 @@ Degenhard, M. (2016).
 DiCiccio, T.~J. \& Efron, B. (1996).
 \newblock Bootstrap confidence intervals.
 \newblock {\em Statistical Science}, 11(3), 189--228.
+
+\bibitem[Eckmüllner, 2006]{eckmullner_2006}
+Eckmüllner, O. (2006).
+\newblock Allometric relations to estimate needle and branch mass of {Norway}
+  spruce and {Scots} pine in {Austria}.
+\newblock {\em Austrian Journal of Forest Science}, 123(1-2), 7--15.
 
 \bibitem[Ekman et~al., 2013]{ekman_2013}
 Ekman, A., Campos, M., Lindahl, S., Co, M., Börjesson, P., Karlsson, E.~N., \&
@@ -153,6 +177,13 @@ Geldermann, J., Kolbe, L.~M., Krause, A., Mai, C., Militz, H., Osburg, V.-S.,
 \newblock Improved resource efficiency and cascading utilisation of renewable
   materials.
 \newblock {\em Journal of Cleaner Production}, 110, 1--8.
+
+\bibitem[Genet et~al., 2011]{genet_2011}
+Genet, A., Wernsdörfer, H., Jonard, M., Pretzsch, H., Rauch, M., Ponette, Q.,
+  Nys, C., Legout, A., Ranger, J., Vallet, P., \& Saint-Andre, L. (2011).
+\newblock Ontogeny partly explains the apparent heterogeneity of published
+  biomass equations for {Fagus} sylvatica in central {Europe}.
+\newblock {\em Forest Ecology and Management}, 261(7), 1188--1202.
 
 \bibitem[Graham, 2003]{graham_2003}
 Graham, M.~H. (2003).
@@ -221,6 +252,12 @@ Hennig, C., Brosowski, A., \& Majer, S. (2016).
   economy?
 \newblock {\em Journal of Cleaner Production}, 123, 200--202.
 
+\bibitem[Henningsen \& Hamann, 2007]{henningsen_2007}
+Henningsen, A. \& Hamann, J.~D. (2007).
+\newblock systemfit: {A} {Package} for {Estimating} {Systems} of {Simultaneous}
+  {Equations} in {R}.
+\newblock {\em Journal of Statistical Software}, 23(4), 1--40.
+
 \bibitem[Hildebrandt et~al., 2014]{hildebrandt_2014}
 Hildebrandt, J., Bezama, A., \& Thrän, D. (2014).
 \newblock Establishing a robust sustainability index for the assessment of
@@ -279,6 +316,18 @@ Jessen, R.~J. (1955).
 \newblock ArticleType: research-article / Full publication date: Mar., 1955 /
   Copyright © 1955 International Biometric Society.
 
+\bibitem[Joosten \& Schulte, 2003]{joosten_2003}
+Joosten, R. \& Schulte, A. (2003).
+\newblock Schätzung der {Nährstoffexporte} bei einer intensivierten
+  {Holznutzung} in {Buchenwäldern} ({Fagus} sylvatica).
+\newblock {\em Allgemeine Forstund Jagdzeitung}, 174(9), 157--168.
+
+\bibitem[Konopka et~al., 2015]{konopka_2015}
+Konopka, B., Pajtik, J., \& Seben, V. (2015).
+\newblock Biomass functions and expansion factors for young trees of {European}
+  ash and {Sycamore} maple in the {Inner} {Western} {Carpathians}.
+\newblock {\em Austrian Journal of Forest Science}, 132(1), 1--26.
+
 \bibitem[Kuzelka \& Marusak, 2012]{kuzelka_2012}
 Kuzelka, K. \& Marusak, R. (2012).
 \newblock Spline representation of irregular and malformed stem profiles of
@@ -305,6 +354,17 @@ König, N. \& Fortmann, H. (2012b).
   {Waldökosystemforschung}, 2012-. Göttingen: Sektion Waldökosysteforschung der
   Univ. Göttingen.
 
+\bibitem[Ledermann \& Neumann, 2006]{ledermann_2006}
+Ledermann, T. \& Neumann, M. (2006).
+\newblock Biomass equations from data of old long-term experimental plots.
+\newblock {\em Austrian Journal of Forest Science}, 1/2(123), 47-- 64.
+
+\bibitem[Magee, 1990]{magee_1990}
+Magee, L. (1990).
+\newblock R2 {Measures} {Based} on {Wald} and {Likelihood} {Ratio} {Joint}
+  {Significance} {Tests}.
+\newblock {\em The American Statistician}, 44(3), 250--253.
+
 \bibitem[Mandallaz, 2008]{Mandallaz_2008}
 Mandallaz, D. (2008).
 \newblock {\em Sampling Techniques for Forest Inventories}.
@@ -316,10 +376,23 @@ Mantau, U. (2012).
   {Szenarien} des {Holzaufkommens} und der {Holzverwendung} 1987 bis 2015}.
 \newblock Hamburg: Infro und Uni Hanburg.
 
+\bibitem[Marklund, 1988]{marklund_1988}
+Marklund, L.~G. (1988).
+\newblock {\em Biomass functions for pine, spruce and birch in sweden},
+  volume~45 of {\em Department of {Forest} {Survey} {Report}}.
+\newblock Umea: Swedish University of Agricultural Sciences.
+
 \bibitem[McCormick \& Kautto, 2013]{mccormick_2013}
 McCormick, K. \& Kautto, N. (2013).
 \newblock The {Bioeconomy} in {Europe}: {An} {Overview}.
 \newblock {\em Sustainability}, 5(6), 2589--2608.
+
+\bibitem[Meiwes et~al., 2012]{meiwes_2012}
+Meiwes, K.~J., Rumpf, S., Klinck, U., \& Meesenburg, H. (2012).
+\newblock Vollbaumnutzung: {Untersuchungsergebnisse} zum {Nährelement}-{Export}
+  in {Nordwestdeutschland} und {Ansätze} zur standörtlichen {Bewertung}.
+\newblock {\em Deutscher Verband Forstlicher Forschungsanstalten Sektion
+  Ertragskunde Jahrestagung 2012 Ottenstein}, (pp.\ 88--92).
 
 \bibitem[{MFACP}, 2004]{mfacp_2004}
 {MFACP} (2004).
@@ -371,6 +444,13 @@ Möller, W. (2007).
   und exemplarisch niedersächsisches {Landesrecht} - mit verbundenem
   {Nutzungsrecht}, {Europarecht}}.
 \newblock Selbstverlag des Autors, 4b., überarb. u. erw. aufl. edition.
+
+\bibitem[Müller-Using \& Rademacher, 2004]{muller-using_2004}
+Müller-Using, B. \& Rademacher, P. (2004).
+\newblock Bioelemententzüge bei der {Holznutzung} in {Rein}- und
+  {Mischbeständen} aus {Buche} und {Fichte}.
+\newblock In {\em Berichte des {Forschungszentrums} {Waldökosysteme}}, volume
+  Band 71 of {\em Reihe {B}}  (pp.\ 81--110). Göttingen.
 
 \bibitem[Nagel \& Spellmann, 2008]{nagel_2008}
 Nagel, R.-V. \& Spellmann, H. (2008).
@@ -470,6 +550,13 @@ Saborowski, J. \& Gaffrey, D. (1999).
   {Baummerkmalen} - {II}. {Modifizierte} {RBS}-{Verfahren}.
 \newblock {\em Allgemein Forst- und Jagdzeitung}, (170. Jg 12), 223-- 227.
 
+\bibitem[Sanquetta et~al., 2015]{sanquetta_2015}
+Sanquetta, C.~R., Behling, A., Corte, A. P.~D., Netto, S.~P., Schikowski,
+  A.~B., \& Amaral, M. K.~d. (2015).
+\newblock Simultaneous estimation as alternative to independent modeling of
+  tree biomass.
+\newblock {\em Annals of Forest Science}, 72(8), 1099--1112.
+
 \bibitem[Schanz, 1996]{Schanz_1996}
 Schanz, H. (1996).
 \newblock {\em {Forstliche Nachhaltigkeit}}, volume~4 of {\em {Schriften aus
@@ -488,6 +575,11 @@ Schröter, M., Härdtle, W., \& Oheimb, G.~v. (2012).
 \newblock Crown plasticity and neighborhood interactions of {European} beech
   ({Fagus} sylvatica {L}.) in an old-growth forest.
 \newblock {\em European Journal of Forest Research}, 131(3), 787--798.
+
+\bibitem[Smith, 1993]{smith_1993}
+Smith, R.~J. (1993).
+\newblock Logarithmic transformation bias in allometry.
+\newblock {\em American Journal of Physical Anthropology}, 90(2), 215--228.
 
 \bibitem[Speidel, 1972]{speidel_1972}
 Speidel, G. (1972).
@@ -523,6 +615,14 @@ Tabacchi, G., Cosmo, L.~D., \& Gasparini, P. (2011).
 \newblock Aboveground tree volume and phytomass prediction equations for forest
   species in {Italy}.
 \newblock {\em European Journal of Forest Research}, 130(6), 911--934.
+
+\bibitem[Thurnher et~al., 2013]{thurnher_2013}
+Thurnher, C., Gerritzen, T., Maroschek, M., Lexer, M.~J., \& Hasenauer, H.
+  (2013).
+\newblock Analysing different carbon estimation methods for {Austrian} forests
+  {Eine} {Analyse} unterschiedlicher {Kohlenstoffschätzmethoden} für {Wälder}
+  in Österreich.
+\newblock {\em Austrian Journal of Forest Science}, 3, 141--166.
 
 \bibitem[{TI}, 2014]{ti_2014}
 {TI} (2014).
