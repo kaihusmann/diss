@@ -55,8 +55,13 @@ headinclude]{scrbook}
 \usepackage{lineno}
 \usepackage {longtable}
 %% Absatzformatierung
-\setlength{\parskip}{1.0ex plus 1.0ex minus 0.5ex}
+%\setlength{\parskip}{1.0ex plus 1.0ex minus 0.5ex}
 \setlength{\parindent}{0.5cm}
+
+\setlength{\parskip}{6pt}
+\RequirePackage{setspace}
+\setstretch{1.05}
+
 %Querformat für den Anhang
 \usepackage{lscape}
 \usepackage{array}
@@ -68,6 +73,10 @@ headinclude]{scrbook}
 
 \usepackage{acronym} %für Abkürzungsverzeichnis
 
+%% Links in Farbe
+% Dark blue colour for all links
+\RequirePackage{color}
+\definecolor{link}{rgb}{0.45,0.51,0.67}
 \usepackage[colorlinks=true,linkcolor=black,citecolor=blue,urlcolor=blue, pdfauthor={Kai Husmann}, pdftitle={Applied Statistical Models in Bio-Economy}]{hyperref}
 %,backref=page
 %Zur Verlinkung des Literaturverzeichnisses mit den Textstellen bei hyperref Optionen [backref] einfügen%
@@ -76,8 +85,8 @@ headinclude]{scrbook}
 \usepackage{geometry}
 \geometry{
 	bottom=40mm,
-	left=30mm,
-	right=30mm
+	left=25mm,
+	right=25mm
 }
 
 

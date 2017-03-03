@@ -66,7 +66,7 @@ The data were collected during 2009 and 2014. Altogether 163 trees were destruct
 
 \begin{figure}
 	\center
-	\includegraphics[width=0.75\textwidth]{Grafiken/beech_crowns/Fig_1_plot_locations.eps}
+	\includegraphics[width=0.7\textwidth]{Grafiken/beech_crowns/Fig_1_plot_locations.eps}
 	\caption{Sample site locations. Source of the background map: \citet{facg_2014}.}
 	\label{fig:beech_crowns:fig1}
 \end{figure}
@@ -194,6 +194,12 @@ where crown type 1 represented the reference category $j^{'}$. The model was fit
 \label{subsubsec:beech_crowns:methods:viable:econ_viable}
 As biasedness of the point and the variance estimate do not depend on the number of stages, RBS also allows the volume estimation of specific parts in the crown \citep{cancino_2005}. We used this property to estimate the tree individual viable wood volume in the crown only. For this, we programmed a model that distinguished the economically viable from economically unviable branches in the RBS sample (Algorithm 1). After running the algorithm, only the economically viable branches were then used to estimate the wood volume via the RBS method. The predicted wood volume after application of the separation algorithm thus reflected the economically viable wood volume in the crown.
 
+To distinguish viable from unviable branches, each RBS node and subsequent selected branch segment were aggregated into one \textit{branch structure}. In the event that many nodes occurred in close succession (no branch segments in between), they were regarded as one large node and aggregated with the following node and branch segment to form a large branch structure.
+
+Each of the branch structures were then, starting at the crown base, successively rated in terms of revenue and cost. The revenue was calculated by multiplying wood volume [$\text{m}^3$] (under bark) by timber price [$\text{\euro} \text{m}^{-3}$]. The cost associated with any one branch structure was assumed to be constant per processing step and was interpreted as marginal cost \citep{mohring_1997} of processing this branch structure. Whenever a branch structure had a positive marginal return, it was additionally proofed if the former branch structure was viable. If this was the case, the branch structure was labeled to be economically viable. A branch segment is thus only considered as economically viable if its piece-volume is large enough to have a positive marginal return. If a former branch structure was unviable, the processing costs doubled, because the continuation of processing thereafter would require an additional cut. Each RBS path of every crown thus had a specific break-even point \citep{starr_1975} after which further processing would result in lower marginal returns. The small-end diameter of this last viable branch structure was recorded. The model was programmed in the statistical programming language R \citep{r_core_team_2016}.
+
+After neglecting the unviable branch structures, the tree individual viable wood volume from the crown as well as the variance were estimated by means of RBS. The final small-end diameter of an individual tree was defined as the mean of the end diameter of all 3 paths.
+
 \RestyleAlgo{boxruled}
 \begin{algorithm}[H]
 	initialization of processing $costs$ and $revenue$ by the user\\
@@ -221,15 +227,9 @@ As biasedness of the point and the variance estimate do not depend on the number
 	\hfill \\
 	
 	\textbf{return} ($crown$ $timber$ $volume$, $variance$, $small$-$end$ $diameter$) \\
-\caption{Pseudocode of the of the economically viable wood volume distinguishing model where $N_{paths}$ is the number of paths per tree (in this study always 3) and $N_{structures}$ is the number of branch structures per path.}
-\label{alg:beech_crowns:alg1}
+	\caption{Pseudocode of the of the economically viable wood volume distinguishing model where $N_{paths}$ is the number of paths per tree (in this study always 3) and $N_{structures}$ is the number of branch structures per path.}
+	\label{alg:beech_crowns:alg1}
 \end{algorithm}
-
-To distinguish viable from unviable branches, each RBS node and subsequent selected branch segment were aggregated into one \textit{branch structure}. In the event that many nodes occurred in close succession (no branch segments in between), they were regarded as one large node and aggregated with the following node and branch segment to form a large branch structure.
-
-Each of the branch structures were then, starting at the crown base, successively rated in terms of revenue and cost. The revenue was calculated by multiplying wood volume [$\text{m}^3$] (under bark) by timber price [$\text{\euro} \text{m}^{-3}$]. The cost associated with any one branch structure was assumed to be constant per processing step and was interpreted as marginal cost \citep{mohring_1997} of processing this branch structure. Whenever a branch structure had a positive marginal return, it was additionally proofed if the former branch structure was viable. If this was the case, the branch structure was labeled to be economically viable. A branch segment is thus only considered as economically viable if its piece-volume is large enough to have a positive marginal return. If a former branch structure was unviable, the processing costs doubled, because the continuation of processing thereafter would require an additional cut. Each RBS path of every crown thus had a specific break-even point \citep{starr_1975} after which further processing would result in lower marginal returns. The small-end diameter of this last viable branch structure was recorded. The model was programmed in the statistical programming language R \citep{r_core_team_2016}.
-
-After neglecting the unviable branch structures, the tree individual viable wood volume from the crown as well as the variance were estimated by means of RBS. The final small-end diameter of an individual tree was defined as the mean of the end diameter of all 3 paths.
 
 The model (Algorithm \ref{alg:beech_crowns:alg1}) thus needed timber price [$\text{\euro} \; \text{m}^{-3}$] (under bark) and marginal costs [$\text{\euro} \; \text{processing step}^{-1}$] as input parameters. It was parameterized with commonly used values to ensure realistic results. The revenue was set to 50 $\text{\euro} \; \text{m}^{-3}$ (under bark) to reflect the common price for industrial wood in Germany in 2016 \citep{degenhard_2016}. The fixed cost parameter was based on the European beech wages table from the forest entrepreneurs association \citep{haarhaus_2012}, which assumes an 125 \% entrepreneur fee and 19 \% value added tax. Based on the assumptions that each node occurring represented one processing step and that the costs of each were constant, the costs amounted to 0.35 $\text{\euro} \; \text{processing step}^{-1}$. The model outputs were the economically viable wood from the crown (under bark) [$\text{m}^3$] and small-end diameter [mm].
 
@@ -264,7 +264,7 @@ The double bark thickness regression equation was calculated via a \textit{Gener
 
 \begin{figure}
 	\center
-	\includegraphics[width=0.55\textwidth]{Grafiken/beech_crowns/Fig_3_bark_thickness.eps}
+	\includegraphics[width=0.5\textwidth]{Grafiken/beech_crowns/Fig_3_bark_thickness.eps}
 	\caption{Double bark thickness over disk diameter (over bark) and the fitted linear bark thickness model.}
 	\label{fig:beech_crowns:fig3}
 \end{figure}
@@ -370,7 +370,7 @@ The model output data revealed that the return per $\text{m}^3$ substantially di
 
 \begin{figure}
 	\center
-	\includegraphics[width=0.55\textwidth]{Grafiken/beech_crowns/Fig_4_marginal_return.eps}
+	\includegraphics[width=0.5\textwidth]{Grafiken/beech_crowns/Fig_4_marginal_return.eps}
 	\caption{Marginal return divided by volume (under bark) versus DBH differentiated by crown types.}
 	\label{fig:beech_crowns:fig4}
 \end{figure}
