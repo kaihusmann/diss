@@ -1,4 +1,4 @@
-% Dissertation Kai Husmann
+% Dissertation Kai Husmann, VErsion 2.0
 % LaTeX Vorlage von Nikolas von Lüpke, Version 1.1
 
 \documentclass[
@@ -12,9 +12,11 @@ openany,
 %fleqn, 
 bibtotoc,
 headings=twolinechapter,
-headings=normal,
 headinclude]{scrbook}
 
+% Serifenschriftart in Überschriften
+\usepackage{lmodern}
+\addtokomafont{disposition}{\rmfamily}
 
 %% Deutsche Anpassungen %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[ngerman,british]{babel}
@@ -52,8 +54,8 @@ headinclude]{scrbook}
 
 
 %% Package für Zeilennummerierung
-\usepackage{lineno}
-\usepackage {longtable}
+%\usepackage{lineno}
+
 %% Absatzformatierung
 %\setlength{\parskip}{1.0ex plus 1.0ex minus 0.5ex}
 \setlength{\parindent}{0.5cm}
@@ -63,8 +65,8 @@ headinclude]{scrbook}
 \setstretch{1.05}
 
 %Querformat für den Anhang
-\usepackage{lscape}
-\usepackage{array}
+%\usepackage{lscape}
+%\usepackage{array}
 
 \usepackage{chapterbib}
 \usepackage{float}
