@@ -133,6 +133,18 @@
   Timestamp                = {2017.03.02}
 }
 
+@InCollection{block_2012,
+  Title                    = {Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und {Biomassenutzung}},
+  Author                   = {Block, J. and Meiwes, K. J.},
+  Booktitle                = {Bodenschutz - {Ergänzbares} {Handbuch} der {Maßnahmen} und {Empfehlungen} für {Schutz}, {Pflege} und {Sanierung} von {Böden}, {Landschaft} und {Grundwasser}},
+  Year                     = {2012},
+  Pages                    = {1--50},
+  Volume                   = {13},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.03.02}
+}
+
 @InCollection{block_2013,
   Title                    = {Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und {Biomassenutzung}},
   Author                   = {Block, J. and Meiwes, K. J. and Bachmann, G. and König, W. and Utermann, J.},
