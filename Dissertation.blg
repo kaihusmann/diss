@@ -3,11 +3,6 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Dissertation.aux
 The style file: apalike2.bst
 Database file #1: Dissertation.bib
-Repeated entry---line 543 of file Dissertation.bib
- : @article{grote_2003
- :                    ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "fmfa_2014"
 Warning--empty publisher in block_2012
 Warning--empty publisher in block_2013
 Warning--can't use both author and editor fields in gauer_2012
@@ -20,16 +15,16 @@ Warning--there's a number but no volume in pretzsch_2014
 Warning--there's a number but no volume in saborowski_1999
 You've used 114 entries,
             2229 wiz_defined-function locations,
-            1156 strings with 25602 characters,
-and the built_in function-call counts, 44039 in all, are:
-= -- 4323
+            1154 strings with 25585 characters,
+and the built_in function-call counts, 44030 in all, are:
+= -- 4321
 > -- 1734
 < -- 101
 + -- 581
 - -- 574
 * -- 3765
-:= -- 7691
-add.period$ -- 352
+:= -- 7689
+add.period$ -- 351
 call.type$ -- 114
 change.case$ -- 822
 chr.to.int$ -- 113
@@ -37,13 +32,13 @@ cite$ -- 124
 duplicate$ -- 1692
 empty$ -- 3110
 format.name$ -- 742
-if$ -- 8586
+if$ -- 8584
 int.to.chr$ -- 2
 int.to.str$ -- 0
 missing$ -- 146
-newline$ -- 574
+newline$ -- 573
 num.names$ -- 344
-pop$ -- 740
+pop$ -- 741
 preamble$ -- 1
 purify$ -- 855
 quote$ -- 0
@@ -58,5 +53,5 @@ type$ -- 608
 warning$ -- 10
 while$ -- 372
 width$ -- 0
-write$ -- 1497
-(There was 1 error message)
+write$ -- 1495
+(There were 10 warnings)

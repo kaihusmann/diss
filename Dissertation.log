@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  6 MAR 2017 19:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  7 MAR 2017 12:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1373,12 +1373,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--8
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
@@ -1405,19 +1405,19 @@ to.pdf>
 (epstopdf)                    size: 1315520 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_1_Location
 s-eps-converted-to.pdf Grafiken/bm/Fig_1_Locations.eps>
-(epstopdf)             \includegraphics on input line 84.
+(epstopdf)             \includegraphics on input line 85.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf, id=695, 505.89pt x 650.43pt>
 File: Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf Graphic file (type pdf)
 <use Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf used 
-on input line 84.
+on input line 85.
 (pdftex.def)             Requested size: 318.66948pt x 409.72343pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 91.
+               Default added (so using `tbp') on input line 92.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1431,16 +1431,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [24]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 164.
+               Default added (so using `tbp') on input line 165.
 
 [25]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 200.
+               Default added (so using `tbp') on input line 201.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 250.
+               Default added (so using `tbp') on input line 251.
 
 [26] [27]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_2_Regression_curves.eps>
@@ -1452,7 +1452,7 @@ nverted-to.pdf>
 (epstopdf)                    size: 71516 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_2_Regressi
 on_curves-eps-converted-to.pdf Grafiken/bm/Fig_2_Regression_curves.eps>
-(epstopdf)             \includegraphics on input line 277.
+(epstopdf)             \includegraphics on input line 278.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf, id=822, 578.16pt x 1
@@ -1461,11 +1461,11 @@ File: Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.p
-df used on input line 277.
+df used on input line 278.
 (pdftex.def)             Requested size: 318.66948pt x 597.50302pt.
 
 
-LaTeX Warning: Float too large for page by 32.07385pt on input line 280.
+LaTeX Warning: Float too large for page by 32.07385pt on input line 281.
 
 
 Underfull \vbox (badness 4713) has occurred while \output is active []
@@ -1481,7 +1481,7 @@ verted-to.pdf>
 (epstopdf)                    size: 263049 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_3_Fraction
 _Biomass-eps-converted-to.pdf Grafiken/bm/Fig_3_Fraction_Biomass.eps>
-(epstopdf)             \includegraphics on input line 294.
+(epstopdf)             \includegraphics on input line 295.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf, id=836, 505.89pt x 43
@@ -1490,19 +1490,19 @@ File: Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pd
-f used on input line 294.
+f used on input line 295.
 (pdftex.def)             Requested size: 318.66948pt x 273.14896pt.
  [30]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 307.
+               Default added (so using `tbp') on input line 308.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 335.
+               Default added (so using `tbp') on input line 336.
 
 
-Overfull \hbox (12.31271pt too wide) in paragraph at lines 339--375
+Overfull \hbox (12.31271pt too wide) in paragraph at lines 340--376
  [][] 
  []
 
@@ -1516,7 +1516,7 @@ rted-to.pdf>
 (epstopdf)                    size: 7369 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_4_nutrient
 _eff_1-eps-converted-to.pdf Grafiken/bm/Fig_4_nutrient_eff_1.eps>
-(epstopdf)             \includegraphics on input line 381.
+(epstopdf)             \includegraphics on input line 382.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf, id=857, 650.43pt x 361.
@@ -1525,7 +1525,7 @@ File: Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf Graphic file (type
 pdf)
  <use Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf 
-used on input line 381.
+used on input line 382.
 (pdftex.def)             Requested size: 455.24411pt x 252.92122pt.
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_5_nutrient_eff_2.eps>
 (epstopdf)                    date: 2017-03-02 11:15:20
@@ -1536,7 +1536,7 @@ rted-to.pdf>
 (epstopdf)                    size: 7556 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_5_nutrient
 _eff_2-eps-converted-to.pdf Grafiken/bm/Fig_5_nutrient_eff_2.eps>
-(epstopdf)             \includegraphics on input line 390.
+(epstopdf)             \includegraphics on input line 391.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf, id=861, 650.43pt x 361.
@@ -1545,7 +1545,7 @@ File: Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf Graphic file (type
 pdf)
  <use Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf 
-used on input line 390.
+used on input line 391.
 (pdftex.def)             Requested size: 455.24411pt x 252.92122pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1570,7 +1570,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--8
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
 
  []
 
@@ -1593,7 +1593,7 @@ Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_1_plot_locations
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 1_plot_locations-eps-converted-to.pdf Grafiken/beech_crowns/Fig_1_plot_location
 s.eps>
-(epstopdf)             \includegraphics on input line 69.
+(epstopdf)             \includegraphics on input line 70.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf, id=1108, 505.
@@ -1603,16 +1603,16 @@ ile (type pdf)
 
 <use Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_1_plot_locations-eps-convert
-ed-to.pdf used on input line 69.
+ed-to.pdf used on input line 70.
 (pdftex.def)             Requested size: 318.66948pt x 409.72343pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 74.
+               Default added (so using `tbp') on input line 75.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 97.
+               Default added (so using `tbp') on input line 98.
 
 [44] [45 <./Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1629,7 +1629,7 @@ e_amount-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 2_relative_volume_amount-eps-converted-to.pdf Grafiken/beech_crowns/Fig_2_relat
 ive_volume_amount.eps>
-(epstopdf)             \includegraphics on input line 161.
+(epstopdf)             \includegraphics on input line 162.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf, id=11
@@ -1639,7 +1639,7 @@ raphic file (type pdf)
 
 <use Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps
--converted-to.pdf used on input line 161.
+-converted-to.pdf used on input line 162.
 (pdftex.def)             Requested size: 455.24411pt x 163.89235pt.
 
 [47]
@@ -1647,7 +1647,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [48 <./Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf
 >]
-Overfull \hbox (0.79999pt too wide) detected at line 232
+Overfull \hbox (0.79999pt too wide) detected at line 233
 |[]|
  []
 
@@ -1672,7 +1672,7 @@ Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_3_bark_thickness
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 3_bark_thickness-eps-converted-to.pdf Grafiken/beech_crowns/Fig_3_bark_thicknes
 s.eps>
-(epstopdf)             \includegraphics on input line 267.
+(epstopdf)             \includegraphics on input line 268.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf, id=1278, 325.
@@ -1682,25 +1682,25 @@ ile (type pdf)
 
 <use Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_3_bark_thickness-eps-convert
-ed-to.pdf used on input line 267.
+ed-to.pdf used on input line 268.
 (pdftex.def)             Requested size: 227.62206pt x 227.62909pt.
  [52 <./Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 274.
+               Default added (so using `tbp') on input line 275.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 302.
+               Default added (so using `tbp') on input line 303.
 
 [53]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 323.
+               Default added (so using `tbp') on input line 324.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 355.
+               Default added (so using `tbp') on input line 356.
 
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_4_marginal_retur
 n.eps>
@@ -1713,7 +1713,7 @@ n-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 4_marginal_return-eps-converted-to.pdf Grafiken/beech_crowns/Fig_4_marginal_ret
 urn.eps>
-(epstopdf)             \includegraphics on input line 373.
+(epstopdf)             \includegraphics on input line 374.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf, id=1308, 325
@@ -1723,7 +1723,7 @@ file (type pdf)
 
 <use Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_4_marginal_return-eps-conver
-ted-to.pdf used on input line 373.
+ted-to.pdf used on input line 374.
 (pdftex.def)             Requested size: 227.62206pt x 227.62909pt.
 
 Underfull \vbox (badness 1210) has occurred while \output is active []
@@ -1741,7 +1741,7 @@ y_cost_revenue-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 5_left_elasticity_cost_revenue-eps-converted-to.pdf Grafiken/beech_crowns/Fig_5
 _left_elasticity_cost_revenue.eps>
-(epstopdf)             \includegraphics on input line 382.
+(epstopdf)             \includegraphics on input line 383.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to.pdf,
@@ -1752,7 +1752,7 @@ File: Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to
 <use Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to.
 pdf>
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_5_left_elasticity_cost_reven
-ue-eps-converted-to.pdf used on input line 382.
+ue-eps-converted-to.pdf used on input line 383.
 (pdftex.def)             Requested size: 223.07211pt x 223.07088pt.
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_5_right_small-en
 d_diameter_boxplot.eps>
@@ -1765,7 +1765,7 @@ d_diameter_boxplot-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 5_right_small-end_diameter_boxplot-eps-converted-to.pdf Grafiken/beech_crowns/F
 ig_5_right_small-end_diameter_boxplot.eps>
-(epstopdf)             \includegraphics on input line 383.
+(epstopdf)             \includegraphics on input line 384.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converted-to.
@@ -1776,10 +1776,10 @@ d-to.pdf Graphic file (type pdf)
 <use Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converted
 -to.pdf>
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_5_right_small-end_diameter_b
-oxplot-eps-converted-to.pdf used on input line 383.
+oxplot-eps-converted-to.pdf used on input line 384.
 (pdftex.def)             Requested size: 223.07211pt x 223.07088pt.
 
-Overfull \hbox (0.17729pt too wide) in paragraph at lines 388--389
+Overfull \hbox (0.17729pt too wide) in paragraph at lines 389--390
 []\T1/lmr/m/n/10.95 The eco-nom-ic-ally vi-able crown wood volume of European b
 eech [m$[]$] (un-der bark) $\OML/lmm/m/it/10.95 V[]$\T1/lmr/m/n/10.95 , modeled
 
@@ -1793,7 +1793,7 @@ to.pdf> <./Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-con
 verted-to.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 399.
+               Default added (so using `tbp') on input line 400.
 
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_6_allometric_rel
 ationships.eps>
@@ -1806,7 +1806,7 @@ ationships-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 6_allometric_relationships-eps-converted-to.pdf Grafiken/beech_crowns/Fig_6_all
 ometric_relationships.eps>
-(epstopdf)             \includegraphics on input line 426.
+(epstopdf)             \includegraphics on input line 427.
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf, id=
@@ -1816,11 +1816,11 @@ File: Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf
 
 <use Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_6_allometric_relationships-e
-ps-converted-to.pdf used on input line 426.
+ps-converted-to.pdf used on input line 427.
 (pdftex.def)             Requested size: 455.24411pt x 455.2582pt.
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 433.
+               Default added (so using `tbp') on input line 434.
 
 [57] [58 <./Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-
 to.pdf>] [59] [60]
@@ -1918,7 +1918,7 @@ Here is how much of TeX's memory you used:
  17837 multiletter control sequences out of 15000+600000
  92688 words of font info for 71 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 50i,23n,69p,3181b,6984s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,23n,69p,3172b,6984s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/
 texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-
 rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fon
@@ -1934,7 +1934,7 @@ s/type1/public/lm/lmmib10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb
 hare/texmf/fonts/type1/public/lm/lmri8.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Dissertation.pdf (91 pages, 4007247 bytes).
+Output written on Dissertation.pdf (91 pages, 4007527 bytes).
 PDF statistics:
  1705 PDF objects out of 1728 (max. 8388607)
  1519 compressed objects within 16 object streams
