@@ -139,7 +139,12 @@ One general assumption in regression analysis is the independence of the model e
 
 \begin{equation}
 \label{eq:bm:eq2}
-var(\hat{\bar{y}}_i)={wait} {for} {proof}
+\begin{aligned}
+var\left(\operatorname{\hat{\bar{y}}\hspace{0.25em}}\right) &=\sum_{i=1}^c var\left(\operatorname{\hat{y}_i\hspace{0.25em}}\right)+2\sum_{i<j}\sum cov\left(\operatorname{\hat{y}_i\hspace{0.25em}}, \operatorname{\hat{y}_j\hspace{0.25em}}\right)\\
+\text{Where}\hspace{0.25em}c&=\text{Number of biomass functions,}\\
+cov\left(\operatorname{\hat{y}_i},\operatorname{\hat{y}_j}\right)&=\operatorname{\hat{\rho}}_{\operatorname{\hat{y}_i},\operatorname{\hat{y}_j}}\sqrt{var\left(\operatorname{\hat{y}_i\hspace{0.25em}}\right)\hspace{0.25em}var\left(\operatorname{\hat{y}_j\hspace{0.25em}}\right)},\\
+\text{and}\hspace{0.25em}\operatorname{\hat{\rho}}_{\operatorname{\hat{y}_i},\operatorname{\hat{y}_j}}&=\text{estimated correlation between fractions $y_i$ and $y_j$.}
+\end{aligned}
 \end{equation}
 
 The multiplicative error term $\varepsilon_i$ of the nonlinear biomass function (Equation \ref{eq:bm:eq2}) implies an increasing variance with increasing covariate dimension. We quantified the resulting heteroscedasticity by parameterizing a power function with the model residuals over the fitted values. This function was then used to weight the residuals of the actual fit. Thus, neither the variances of the distinct biomass functions $var(\hat{y}_i)$ nor the combined model variance $var(\hat{\bar{y}}_i)$ showed heteroscedasticity.
@@ -148,7 +153,8 @@ In order to make the single model variances $var(\hat{y}_i)$ comparable to each 
 
 \begin{equation}
 \label{eq:bm:eq3}
-var(\hat{\bar{y}}_i)={wait} {for} {proof}
+v\left(\operatorname{\hat{y}_i}\right)=\frac{1}{N_i-1}\sqrt{
+\sum_{j=1}^{N_i}\left(\frac{\operatorname{y_{ij}}-\operatorname{\hat{y}_{ij}}}{\operatorname{\hat{y}_{ij}}}\right)^2}
 \end{equation}
 
 where $i$ denotes the fraction and $j$ the observed tree. $N_i$ is the number of observations in fraction $i$. The entire regression analysis was performed using with the R package \textit{nlme} \citep{venables_2002}. Additionally, we calculated the likelihood-ratio based pseudo-r-squared for each model using \textit{MuMIn} \citep{barton_2016}.
