@@ -23,9 +23,9 @@
 \contentsline {subsection}{\numberline {3.3.1}Biomass functions}{26}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Sensitivity analysis}{30}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Nutrient contents}{31}{subsection.3.3.3}
-\contentsline {section}{\numberline {3.4}Discussion}{34}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Biomass functions}{34}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Sensitivity analysis}{38}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.4}Discussion}{35}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Biomass functions}{35}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Sensitivity analysis}{37}{subsection.3.4.2}
 \contentsline {subsection}{\numberline {3.4.3}Nutrient contents}{38}{subsection.3.4.3}
 \contentsline {section}{\numberline {3.5}Conclusions}{39}{section.3.5}
 \contentsline {chapter}{\numberline {4}Modelling the economically viable wood in the crown of European beech trees}{40}{chapter.4}

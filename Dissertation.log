@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  8 MAR 2017 11:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  9 MAR 2017 13:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1455,7 +1455,7 @@ on_curves-eps-converted-to.pdf Grafiken/bm/Fig_2_Regression_curves.eps>
 (epstopdf)             \includegraphics on input line 284.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf, id=825, 578.16pt x 1
+<Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf, id=823, 578.16pt x 1
 084.05pt>
 File: Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -1484,7 +1484,7 @@ _Biomass-eps-converted-to.pdf Grafiken/bm/Fig_3_Fraction_Biomass.eps>
 (epstopdf)             \includegraphics on input line 301.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf, id=839, 505.89pt x 43
+<Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf, id=837, 505.89pt x 43
 3.62pt>
 File: Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -1497,7 +1497,6 @@ f used on input line 301.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 314.
 
-[31 <./Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 342.
@@ -1507,6 +1506,7 @@ Overfull \hbox (12.31271pt too wide) in paragraph at lines 346--382
  [][] 
  []
 
+[31 <./Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_4_nutrient_eff_1.eps>
 (epstopdf)                    date: 2017-03-02 11:15:20
 (epstopdf)                    size: 5617 bytes
@@ -1519,7 +1519,7 @@ _eff_1-eps-converted-to.pdf Grafiken/bm/Fig_4_nutrient_eff_1.eps>
 (epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf, id=860, 650.43pt x 361.
+<Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf, id=858, 650.43pt x 361.
 35pt>
 File: Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -1527,11 +1527,6 @@ pdf)
 Package pdftex.def Info: Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf 
 used on input line 388.
 (pdftex.def)             Requested size: 455.24411pt x 252.92122pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32]
-[33]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_5_nutrient_eff_2.eps>
 (epstopdf)                    date: 2017-03-02 11:15:20
 (epstopdf)                    size: 5682 bytes
@@ -1544,7 +1539,7 @@ _eff_2-eps-converted-to.pdf Grafiken/bm/Fig_5_nutrient_eff_2.eps>
 (epstopdf)             \includegraphics on input line 397.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf, id=873, 650.43pt x 361.
+<Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf, id=862, 650.43pt x 361.
 35pt>
 File: Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -1552,17 +1547,22 @@ pdf)
 Package pdftex.def Info: Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf 
 used on input line 397.
 (pdftex.def)             Requested size: 455.24411pt x 252.92122pt.
- [34 <./Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf>]
-Underfull \vbox (badness 2418) has occurred while \output is active []
 
- [35 <./Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf>]
+Underfull \vbox (badness 1742) has occurred while \output is active []
+
+ [32]
+[33] [34 <./Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf> <./Grafiken/
+bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf>] [35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [36]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1158) has occurred while \output is active []
 
  [37]
-[38]) (./beech_crowns.tex [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38])
+(./beech_crowns.tex [39]
 chapter 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -1596,7 +1596,7 @@ s.eps>
 (epstopdf)             \includegraphics on input line 70.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf, id=1111, 505.
+<Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf, id=1109, 505.
 89pt x 650.43pt>
 File: Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -1633,7 +1633,7 @@ ive_volume_amount.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf, id=11
-64, 903.375pt x 325.215pt>
+62, 903.375pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf G
 raphic file (type pdf)
 
@@ -1675,7 +1675,7 @@ s.eps>
 (epstopdf)             \includegraphics on input line 268.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf, id=1279, 325.
+<Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf, id=1277, 325.
 215pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -1716,7 +1716,7 @@ urn.eps>
 (epstopdf)             \includegraphics on input line 374.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf, id=1309, 325
+<Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf, id=1307, 325
 .215pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf Graphic 
 file (type pdf)
@@ -1745,7 +1745,7 @@ _left_elasticity_cost_revenue.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to.pdf,
- id=1328, 505.89pt x 505.89pt>
+ id=1326, 505.89pt x 505.89pt>
 File: Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to
 .pdf Graphic file (type pdf)
 
@@ -1769,7 +1769,7 @@ ig_5_right_small-end_diameter_boxplot.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converted-to.
-pdf, id=1329, 505.89pt x 505.89pt>
+pdf, id=1327, 505.89pt x 505.89pt>
 File: Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converte
 d-to.pdf Graphic file (type pdf)
 
@@ -1810,7 +1810,7 @@ ometric_relationships.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf, id=
-1352, 650.43pt x 650.43pt>
+1350, 650.43pt x 650.43pt>
 File: Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf
  Graphic file (type pdf)
 
@@ -1935,10 +1935,10 @@ re/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmri8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy
 8.pfb>
-Output written on Dissertation.pdf (91 pages, 4031261 bytes).
+Output written on Dissertation.pdf (91 pages, 4030812 bytes).
 PDF statistics:
- 1709 PDF objects out of 1728 (max. 8388607)
- 1522 compressed objects within 16 object streams
+ 1707 PDF objects out of 1728 (max. 8388607)
+ 1521 compressed objects within 16 object streams
  335 named destinations out of 1000 (max. 500000)
  325 words of extra memory for PDF output out of 10000 (max. 10000000)
 
