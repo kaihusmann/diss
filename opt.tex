@@ -1,6 +1,6 @@
 \chapter{Flexible Global Optimization with Simulated-Annealing}
 \label{chap:opt}
-{\large Kai Husmann$^1$, Alexander Lange$^2$}\\
+{\large Kai Husmann$^1$, Alexander Lange$^2$, Elmar Spiegel$^2$}\\
 
 \vspace{3cm}
 \noindent
@@ -36,19 +36,17 @@ Keywords
 Introduction.
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Materials and Methods %%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Materials and Methods}
-\label{sec:opt:methods}
+%%%%%%%%%%%%%
+%% Package %%
+%%%%%%%%%%%%%
+\section{The package optimization}
+\label{sec:opt:package}
 
-Examples can be found in \citet{Mandallaz_2008} see also \citep{Gregoire_2008,Mandallaz_2008}.
-
-%%-------------------------------------%%
-%% Data sampling and sample processing %%
-%%-------------------------------------%%
-\subsection{Data sampling and sample processing}
-\label{subsec:opt:methods:sampling}
+%%--------%%
+%% Method %%
+%%--------%%
+\subsection{Method}
+\label{subsec:opt:package:method}
 
 \begin{equation}
 \widehat{\overline{Y}}_{2st}=\sum^L_{h=1}w_h\frac{1}{n_h}\sum_{i=1}^{n_h}y_{hi}=\sum^L_{h=1}w_h\overline{y}_h
@@ -60,99 +58,50 @@ Example Equation \ref{eq:opt:exampleequation1} shows an unbiased estimator.
 %%-------------------%%
 %% Biomass functions %%
 %%-------------------%%
-\subsection{Biomass functions}
-\label{subsec:opt:methods:opt_functions}
+\subsection{The function optim\_sa}
+\label{subsec:opt:package:fun}
 
-Biomass functions.
-
-%%----------------------%%
-%% Sensitivity analysis %%
-%%----------------------%%
-\subsection{Sensitivity analysis}
-\label{subsec:opt:methods:sensitivity}
-
-Sensitivity.
+%%%%%%%%%%%%%%
+%% Examples %%
+%%%%%%%%%%%%%%
+\section{Examples}
+\label{sec:opt:examples}
 
 %%-------------------%%
-%% Nutrient contents %%
+%% Himmelblau, cont. %%
 %%-------------------%%
-\subsection{Nutrient contents}
-\label{subsec:opt:methods:nutrients}
-
-Sensitivity.
-
-%%%%%%%%%%%%%
-%% Results %%
-%%%%%%%%%%%%%
-\section{Results}
-\label{sec:opt:results}
+\subsection{Himmelblau Function with continuous parameter space}
+\label{subsec:opt:examples:hbcont}
 
 %%-------------------%%
-%% Biomass functions %%
+%% Himmelblau, disc. %%
 %%-------------------%%
-\subsection{Biomass functions}
-\label{subsec:opt:results:opt_functions}
+\subsection{Himmelblau Function with discrete parameter space}
+\label{subsec:opt:examples:hbdisc}
 
-Biomass functions.
+%%-----------------%%
+%% Another Example %%
+%%-----------------%%
+\subsection{Another example?}
+\label{subsec:opt:examples:something}
 
-%%----------------------%%
-%% Sensitivity analysis %%
-%%----------------------%%
-\subsection{Sensitivity analysis}
-\label{subsec:opt:results:sensitivity}
+%%-----------------------------------------%%
+%% Forest harvesting schedule optimization %%
+%%-----------------------------------------%%
+\subsection{Forest harvesting schedule optimization}
+\label{subsec:opt:examples:forest}
 
-Sensitivity.
 
-%%-------------------%%
-%% Nutrient contents %%
-%%-------------------%%
-\subsection{Nutrient contents}
-\label{subsec:opt:results:nutrients}
-
-Nutrient.
 
 %%%%%%%%%%%%%%%%
 %% Discussion %%
 %%%%%%%%%%%%%%%%
-\section{Discussion}
+\section{Discussion and outlook}
 \label{sec:opt:discussion}
 
-%%-------------------%%
-%% Biomass functions %%
-%%-------------------%%
-\subsection{Biomass functions}
-\label{subsec:opt:discussion:opt_functions}
-
-Biomass functions.
-
-%%----------------------%%
-%% Sensitivity analysis %%
-%%----------------------%%
-\subsection{Sensitivity analysis}
-\label{subsec:opt:discussion:sensitivity}
-
-Sensitivity.
-
-%%-------------------%%
-%% Nutrient contents %%
-%%-------------------%%
-\subsection{Nutrient contents}
-\label{subsec:opt:discussion:nutrients}
-
-Nutrients.
-
-%%%%%%%%%%%%%%%%%
-%% Conclusions %%
-%%%%%%%%%%%%%%%%%
-\section{Conclusions}
-\label{sec:opt:conclusions}
-
-Conclusion
 
 %%%%%%%%%%%%%%%%%%%%%%
 %% Acknowledgements %%
 %%%%%%%%%%%%%%%%%%%%%%
 \section*{Acknowledgements}
 \label{sec:opt:acknowledgements}
-We would like to thank the German Science Foundation (DFG) for financial support of this study (Sachbeihilfe SA 415/5-1) and Dr. Böckmann of the Lower Saxony Forest Planning Office for his kind provision of the inventory data.
-Moreover, we would like to thank two anonymous reviewers for their helpful comments.
