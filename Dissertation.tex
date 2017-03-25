@@ -53,6 +53,9 @@ headinclude]{scrbook}
 %% Packages für Pseudocode
 \usepackage[linesnumbered]{algorithm2e}
 
+%% Paket für Grafik
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,calc,positioning,shapes.geometric}
 
 %% Package für Zeilennummerierung
 %\usepackage{lineno}
@@ -80,7 +83,7 @@ headinclude]{scrbook}
 % Dark blue colour for all links
 \RequirePackage{color}
 \definecolor{link}{rgb}{0.45,0.51,0.67}
-\usepackage[colorlinks=true,linkcolor=black,citecolor=blue,urlcolor=blue, pdfauthor={Kai Husmann}, pdftitle={Applied Statistical Models in Bio-Economy}]{hyperref}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue, pdfauthor={Kai Husmann}, pdftitle={Applied Statistical Models in Bio-Economy}]{hyperref}
 %,backref=page
 %Zur Verlinkung des Literaturverzeichnisses mit den Textstellen bei hyperref Optionen [backref] einfügen%
 
@@ -114,7 +117,9 @@ headinclude]{scrbook}
 %\input{Abstract}
 %% Inhaltsverzeichnis %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setcounter{tocdepth}{1}
-\tableofcontents
+\hypersetup{linkcolor=black}{ % Damit nicht das ganze TOC blau ist.
+	\tableofcontents
+}
 \thispagestyle{plain}
 \newpage
 \listoffigures
