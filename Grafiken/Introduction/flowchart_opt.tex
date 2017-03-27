@@ -1,0 +1,28 @@
+% Define block styles
+\tikzstyle{decision} = [diamond, draw, 
+text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{block} = [rectangle, draw, 
+text width=6em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{line} = [draw, -latex']
+\tikzstyle{cloud} = [draw, ellipse, node distance=3cm,
+minimum height=2em]
+\tikzstyle{db} = [cylinder, draw, shape border rotate=90, minimum height=4em, text width=6em, text centered,
+aspect=0.25]
+
+
+\begin{tikzpicture}[node distance = 3.5cm, auto]
+    % Place nodes
+\node [block] (dev) {device};
+\node [block, left of=dev] (sim) {growth simulation};
+\node [block, right of=dev] (opt) {optimizer};
+\node [db, below of=sim, node distance=2.5cm] (db) {database};
+    
+% Draw edges
+\path [line] (sim) -- (db);
+\path [line] (db) -- (sim);
+\path [line] (sim) -- (dev);
+\path [line] (dev) -- (sim);
+\path [line] (dev) -- (opt);
+\path [line] (opt) -- (dev);
+
+\end{tikzpicture}
