@@ -15,36 +15,36 @@ Warning--there's a number but no volume in pretzsch_2014
 Warning--there's a number but no volume in saborowski_1999
 You've used 114 entries,
             2229 wiz_defined-function locations,
-            1154 strings with 25585 characters,
+            1155 strings with 25606 characters,
 and the built_in function-call counts, 44030 in all, are:
-= -- 4321
+= -- 4322
 > -- 1734
 < -- 101
 + -- 581
 - -- 574
-* -- 3765
-:= -- 7689
-add.period$ -- 351
+* -- 3764
+:= -- 7690
+add.period$ -- 352
 call.type$ -- 114
 change.case$ -- 822
 chr.to.int$ -- 113
 cite$ -- 124
 duplicate$ -- 1692
-empty$ -- 3110
+empty$ -- 3109
 format.name$ -- 742
 if$ -- 8584
 int.to.chr$ -- 2
 int.to.str$ -- 0
 missing$ -- 146
-newline$ -- 573
+newline$ -- 574
 num.names$ -- 344
-pop$ -- 741
+pop$ -- 740
 preamble$ -- 1
 purify$ -- 855
 quote$ -- 0
 skip$ -- 1257
 stack$ -- 0
-substring$ -- 2967
+substring$ -- 2964
 swap$ -- 215
 text.length$ -- 27
 text.prefix$ -- 0
@@ -53,5 +53,5 @@ type$ -- 608
 warning$ -- 10
 while$ -- 372
 width$ -- 0
-write$ -- 1495
+write$ -- 1497
 (There were 10 warnings)

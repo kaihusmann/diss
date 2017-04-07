@@ -12,7 +12,7 @@ Akaike, H. (1981).
 \newblock {\em Journal of Econometrics}, 16, 3--14.
 
 \bibitem[Albert et~al., 2014]{albert_2014}
-Albert, K., Annighöfer, P., Schumacher, J., \& Ammer, C. (2014).
+Albert, K., Annigh?fer, P., Schumacher, J., \& Ammer, C. (2014).
 \newblock Biomass equations for seven different tree species growing in
   coppice-with-standards forests in {Central} {Germany}.
 \newblock {\em Scandinavian Journal of Forest Research}, 29(3), 210--221.
@@ -30,8 +30,8 @@ Altherr, E., Unfried, P., \& Hrahetzky, V. (1978).
 \newblock {\em Statistische {Rindenbeziehungen} als {Hilfsmittel} zur
   {Ausformung} und {Ausmessung} unentrindeten {Stammholzes}}, volume~90 of {\em
   Mitteilungen der {Forstlichen} {Versuchs}- und {Forschungsanstalt}
-  {Baden}-{Würtemberg}}.
-\newblock FVA Baden Württemberg.
+  {Baden}-{W?rtemberg}}.
+\newblock FVA Baden W?rttemberg.
 
 \bibitem[Augusto et~al., 2000]{augusto_2000}
 Augusto, L., Ranger, J., Ponette, Q., \& Rapp, M. (2000).
@@ -48,35 +48,41 @@ Baskerville, G. (1972).
 \newblock Use of logarithmic regression in the estimation of plant biomass.
 \newblock {\em Canadian Journal of Forest Research}, 2(1), 49--53.
 
+\bibitem[Bitz, 2005]{bitz_2005}
+Bitz, M. (2005).
+\newblock {\em Vahlens {Kompendium} der {Betriebswirtschaftslehre}}.
+\newblock Vahlen.
+\newblock Google-Books-ID: vXgCT5FcHj8C.
+
 \bibitem[Block \& Meiwes, 2012]{block_2012}
 Block, J. \& Meiwes, K.~J. (2012).
-\newblock Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und
+\newblock Erhaltung der {Produktivit?t} der {Waldb?den} bei der {Holz}- und
   {Biomassenutzung}.
-\newblock In {\em Bodenschutz - {Ergänzbares} {Handbuch} der {Maßnahmen} und
-  {Empfehlungen} für {Schutz}, {Pflege} und {Sanierung} von {Böden},
+\newblock In {\em Bodenschutz - {Erg?nzbares} {Handbuch} der {Ma?nahmen} und
+  {Empfehlungen} f?r {Schutz}, {Pflege} und {Sanierung} von {B?den},
   {Landschaft} und {Grundwasser}}, volume~13  (pp.\ 1--50).
 
 \bibitem[Block et~al., 2013]{block_2013}
-Block, J., Meiwes, K.~J., Bachmann, G., König, W., \& Utermann, J. (2013).
-\newblock Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und
+Block, J., Meiwes, K.~J., Bachmann, G., K?nig, W., \& Utermann, J. (2013).
+\newblock Erhaltung der {Produktivit?t} der {Waldb?den} bei der {Holz}- und
   {Biomassenutzung}.
-\newblock In {\em Bodenschutz - {Ergänzbares} {Handbuch} der {Maßnahmen} und
-  {Empfehlungen} für {Schutz}, {Pflege} und {Sanierung} von {Böden},
+\newblock In {\em Bodenschutz - {Erg?nzbares} {Handbuch} der {Ma?nahmen} und
+  {Empfehlungen} f?r {Schutz}, {Pflege} und {Sanierung} von {B?den},
   {Landschaft} und {Grundwasser}}, volume 1. Lfg. /13  (pp.\ 1-- 50).
 
 \bibitem[{BMEL}, 2011]{bmel_2011}
 {BMEL} (2011).
 \newblock {\em Waldstrategie 2020}.
-\newblock Bonn: Bundesministerium für Verbraucherschutz, Ernährung und
+\newblock Bonn: Bundesministerium f?r Verbraucherschutz, Ern?hrung und
   Landwirtschaft.
-\newblock Bundesministerium für Ernährung, Landwirtschaft und
+\newblock Bundesministerium f?r Ern?hrung, Landwirtschaft und
   Verbraucherschutz.
 
 \bibitem[{BMEL}, 2014]{bmel_2014}
 {BMEL} (2014).
-\newblock {\em Der {Wald} in {Deutschland} - {Ausgewählte} {Ergebnisse} der
+\newblock {\em Der {Wald} in {Deutschland} - {Ausgew?hlte} {Ergebnisse} der
   dritten {Bundeswaldinventur}}.
-\newblock Berlin: Bundesministerium für Verbraucherschutz, Ernährung und
+\newblock Berlin: Bundesministerium f?r Verbraucherschutz, Ern?hrung und
   Landwirtschaft.
 
 \bibitem[Bonyad et~al., 2012]{bonyad_2012}
@@ -110,7 +116,7 @@ Chambers, J.~M. \& Hastie, T.~J. (1992).
 \newblock Boca Raton, Fla.: Chapman \& Hall/CRC.
 
 \bibitem[Cienciala et~al., 2005]{cienciala_2005}
-Cienciala, E., Apltauer, J., Cerny, M., \& Exnerová, Z. (2005).
+Cienciala, E., Apltauer, J., Cerny, M., \& Exnerov?, Z. (2005).
 \newblock Biomass functions applicable for {European} beech.
 \newblock {\em Journal of Forest Science}, 51(4), 147--154.
 
@@ -127,14 +133,14 @@ DiCiccio, T.~J. \& Efron, B. (1996).
 \newblock Bootstrap confidence intervals.
 \newblock {\em Statistical Science}, 11(3), 189--228.
 
-\bibitem[Eckmüllner, 2006]{eckmullner_2006}
-Eckmüllner, O. (2006).
+\bibitem[Eckm?llner, 2006]{eckmullner_2006}
+Eckm?llner, O. (2006).
 \newblock Allometric relations to estimate needle and branch mass of {Norway}
   spruce and {Scots} pine in {Austria}.
 \newblock {\em Austrian Journal of Forest Science}, 123(1-2), 7--15.
 
 \bibitem[Ekman et~al., 2013]{ekman_2013}
-Ekman, A., Campos, M., Lindahl, S., Co, M., Börjesson, P., Karlsson, E.~N., \&
+Ekman, A., Campos, M., Lindahl, S., Co, M., B?rjesson, P., Karlsson, E.~N., \&
   Turner, C. (2013).
 \newblock Bioresource utilisation by sustainable technologies in new
   value-added biorefinery concepts - two case studies from food and forest
@@ -153,33 +159,33 @@ Ekman, A., Campos, M., Lindahl, S., Co, M., Börjesson, P., Karlsson, E.~N., \&
 
 \bibitem[Fischer \& Husmann, 2016]{fischer_2016}
 Fischer, C. \& Husmann, K. (2016).
-\newblock Flächen-Übergangsmatrizen als erweiterte {Auswertung} der
-  {Bundeswaldinventur}: {Darstellung} am {Beispiel} der {Veränderung} der
+\newblock Fl?chen-?bergangsmatrizen als erweiterte {Auswertung} der
+  {Bundeswaldinventur}: {Darstellung} am {Beispiel} der {Ver?nderung} der
   {Bestockungszusammensetzung} in {Niedersachsen} (under review).
 \newblock {\em Allgemeine Forst- und Jagdzeitung}.
 
 \bibitem[Gaffrey \& Saborowski, 1999]{gaffrey_1999}
 Gaffrey, D. \& Saborowski, J. (1999).
-\newblock {RBS}, ein mehrstufiges {Inventurverfahren} zur {Schätzung} von
-  {Baummerkmalen} - {I}. {Schätzung} von {Nadel}- und {Asttrockenmassen} bei
-  66-jährigen {Douglasien}.
-\newblock {\em Allgemeine Forst- und Jagdzeitung}, 170. Jg 10-11, 177-- 183.
+\newblock {RBS}, ein mehrstufiges {Inventurverfahren} zur {Sch?tzung} von
+  {Baummerkmalen} - {I}. {Sch?tzung} von {Nadel}- und {Asttrockenmassen} bei
+  66-j?hrigen {Douglasien}.
+\newblock {\em Allgemeine Forst- und Jagdzeitung}, 170. Jg 10-11, 177--183.
 
 \bibitem[Gauer, 2012]{gauer_2012}
 Gauer, J. (2012).
-\newblock {\em Waldökologische {Naturräume} {Deutschlands} - {Forstliche}
+\newblock {\em Wald?kologische {Naturr?ume} {Deutschlands} - {Forstliche}
   {Wuchsgebiete} und {Wuchsbezirke}}.
-\newblock Braunschweig: Thünen Institut.
+\newblock Braunschweig: Th?nen Institut.
 
 \bibitem[Geldermann et~al., 2016]{geldermann_2016}
 Geldermann, J., Kolbe, L.~M., Krause, A., Mai, C., Militz, H., Osburg, V.-S.,
-  Schöbel, A., Schumann, M., Toporowski, W., \& Westphal, S. (2016).
+  Sch?bel, A., Schumann, M., Toporowski, W., \& Westphal, S. (2016).
 \newblock Improved resource efficiency and cascading utilisation of renewable
   materials.
 \newblock {\em Journal of Cleaner Production}, 110, 1--8.
 
 \bibitem[Genet et~al., 2011]{genet_2011}
-Genet, A., Wernsdörfer, H., Jonard, M., Pretzsch, H., Rauch, M., Ponette, Q.,
+Genet, A., Wernsd?rfer, H., Jonard, M., Pretzsch, H., Rauch, M., Ponette, Q.,
   Nys, C., Legout, A., Ranger, J., Vallet, P., \& Saint-Andre, L. (2011).
 \newblock Ontogeny partly explains the apparent heterogeneity of published
   biomass equations for {Fagus} sylvatica in central {Europe}.
@@ -205,13 +211,13 @@ Gregoire, T.~G., Valentine, H.~T., \& Furnival, G.~M. (1995).
 \bibitem[Grote et~al., 2003]{grote_2003}
 Grote, R., Schuck, J., Block, J., \& Pretzsch, H. (2003).
 \newblock Oberirdische holzige {Biomasse} in {Kiefern}-/{Buchen}- und
-  {Eichen}-/{Buchen}-{Mischbeständen}.
+  {Eichen}-/{Buchen}-{Mischbest?nden}.
 \newblock {\em Forstwissenschaftliches Centralblatt}, 122(5), 287--301.
 
 \bibitem[Gruber et~al., 2004]{gruber_2004}
 Gruber, F., Mann, T.~E., Kuhr, M., \& Eichhorn, J. (2004).
 \newblock Kronenwachstum von {Rotbuchen} ({Fagus} sylvatica {L}.) in
-  {Abhängigkeit} von der {Witterung} auf einem kalkbeeinflussten
+  {Abh?ngigkeit} von der {Witterung} auf einem kalkbeeinflussten
   {Basaltstandort} {Zierenberg}.
 \newblock {\em Allgemein Forst- und Jagdzeitung}, 175, 70--77.
 
@@ -222,18 +228,18 @@ Haarhaus, M. (2012).
 \newblock Wiegersen-Sauensiek.
 
 \bibitem[Hansen et~al., 2008]{hansen_2008}
-Hansen, J., Ludwig, A., Spellmann, H., Nagel, J., Möhring, B., von Lüpke, N.,
+Hansen, J., Ludwig, A., Spellmann, H., Nagel, J., M?hring, B., von L?pke, N.,
   \& Schmidt-Walter, P. (2008).
-\newblock {\em Rohholzpotenziale und ihre {Verfügbarkeit} in {Hessen}}.
-\newblock Veröffentlichungen der {NW}-{FVA} und der {Abteilung} für
-  {Forstökonomie} der {Georg}-{August}-{Universität} {Universität} {Göttingen}.
-  Göttingen: NW-FVA.
+\newblock {\em Rohholzpotenziale und ihre {Verf?gbarkeit} in {Hessen}}.
+\newblock Ver?ffentlichungen der {NW}-{FVA} und der {Abteilung} f?r
+  {Forst?konomie} der {Georg}-{August}-{Universit?t} {Universit?t} {G?ttingen}.
+  G?ttingen: NW-FVA.
 
 \bibitem[Hansen \& Nagel, 2014]{hansen_2014}
 Hansen, J. \& Nagel, J. (2014).
 \newblock {\em Waldwachstumskundliche {Softwaresysteme} auf {Basis} von
   {TreeGrOSS}-{Anwendung} und theoretische {Grundlagen}}.
-\newblock Göttingen: Niedersächsische Staats-und Universitätsbibliothek.
+\newblock G?ttingen: Nieders?chsische Staats-und Universit?tsbibliothek.
 
 \bibitem[Hempel \& Oppenheim, 1948]{hempel_1948}
 Hempel, C.~G. \& Oppenheim, P. (1948).
@@ -259,7 +265,7 @@ Henningsen, A. \& Hamann, J.~D. (2007).
 \newblock {\em Journal of Statistical Software}, 23(4), 1--40.
 
 \bibitem[Hildebrandt et~al., 2014]{hildebrandt_2014}
-Hildebrandt, J., Bezama, A., \& Thrän, D. (2014).
+Hildebrandt, J., Bezama, A., \& Thr?n, D. (2014).
 \newblock Establishing a robust sustainability index for the assessment of
   bioeconomy regions.
 \newblock In {\em 2014 {International} {Conference} and {Utility} {Exhibition}
@@ -267,10 +273,10 @@ Hildebrandt, J., Bezama, A., \& Thrän, D. (2014).
 
 \bibitem[{HMUKLV}, 2014]{hmuklv_2014}
 {HMUKLV} (2014).
-\newblock {\em Hessen - {Bäume}, {Wälder}, {Lebensräume} : ausgewählte
-  {Ergebnisse} der dritten {Bundeswaldinventur} ({BWI} 3) für {Hessen} -
+\newblock {\em Hessen - {B?ume}, {W?lder}, {Lebensr?ume} : ausgew?hlte
+  {Ergebnisse} der dritten {Bundeswaldinventur} ({BWI} 3) f?r {Hessen} -
   {Deutsche} {Digitale} {Bibliothek}}.
-\newblock Wiesbaden: Hessisches Ministerium für Umwelt, Klimaschutz,
+\newblock Wiesbaden: Hessisches Ministerium f?r Umwelt, Klimaschutz,
   Landwirtschaft und Verbraucherschutz.
 
 \bibitem[Hochbichler et~al., 2006]{hochbichler_2006}
@@ -278,7 +284,7 @@ Hochbichler, E., Bellos, P., \& Lick, E. (2006).
 \newblock Biomass functions for estimating needle and branch biomass of spruce
   ({Picea} abies) and {Scots} pine ({Pinus} sylvestris) and branch biomass of
   beech ({Fagus} sylvatica) and oak ({Quercus} robur and petraea).
-\newblock {\em Centralblatt für das gesamte Forstwesen (Austrian Journal of
+\newblock {\em Centralblatt f?r das gesamte Forstwesen (Austrian Journal of
   Forest Sciences)}, (123), 35--46.
 
 \bibitem[How et~al., 2016]{how_2016}
@@ -287,8 +293,8 @@ How, B.~S., Tan, K.~Y., \& Lam, H.~L. (2016).
   flow with vehicle capacity constraints.
 \newblock {\em Journal of Cleaner Production}.
 
-\bibitem[Hurmekoski \& Hetemäki, 2013]{hurmekoski_2013}
-Hurmekoski, E. \& Hetemäki, L. (2013).
+\bibitem[Hurmekoski \& Hetem?ki, 2013]{hurmekoski_2013}
+Hurmekoski, E. \& Hetem?ki, L. (2013).
 \newblock Studying the future of the forest sector: {Review} and implications
   for long-term outlook studies.
 \newblock {\em Forest Policy and Economics}, 34, 17--29.
@@ -314,13 +320,33 @@ Jessen, R.~J. (1955).
   {Sampling}.
 \newblock {\em Biometrics}, 11(1), 99--109.
 \newblock ArticleType: research-article / Full publication date: Mar., 1955 /
-  Copyright © 1955 International Biometric Society.
+  Copyright ? 1955 International Biometric Society.
 
 \bibitem[Joosten \& Schulte, 2003]{joosten_2003}
 Joosten, R. \& Schulte, A. (2003).
-\newblock Schätzung der {Nährstoffexporte} bei einer intensivierten
-  {Holznutzung} in {Buchenwäldern} ({Fagus} sylvatica).
+\newblock Sch?tzung der {N?hrstoffexporte} bei einer intensivierten
+  {Holznutzung} in {Buchenw?ldern} ({Fagus} sylvatica).
 \newblock {\em Allgemeine Forstund Jagdzeitung}, 174(9), 157--168.
+
+\bibitem[K?nig \& Fortmann, 2012a]{konig_2012b}
+K?nig, N. \& Fortmann, H. (2012a).
+\newblock {\em Elementbestimmungsmethoden und {Qualt?tskontrollmethoden}}.
+\newblock Number~80 in [{Berichte} der {Sektion} {Wald?kosystemforschung} /
+  {B}] {Berichte} der {Sektion} {Wald?kosystemforschung} / {Zentrum} f?r
+  {Biodiversit?t} und {Nachhaltige} {Landnutzung} ({CBL}) / {Sektion}
+  {Wald?kosystemforschung}. - {G?ttingen} : {CBL}, {Sektion}
+  {Wald?kosystemforschung}, 2012-. G?ttingen: Sektion Wald?kosysteforschung der
+  Univ. G?ttingen.
+
+\bibitem[K?nig \& Fortmann, 2012b]{konig_2012a}
+K?nig, N. \& Fortmann, H. (2012b).
+\newblock {\em Probenvorbereitungsmethoden und {Untersuchungsmethoden}}.
+\newblock Number~79 in [{Berichte} der {Sektion} {Wald?kosystemforschung} /
+  {B}] {Berichte} der {Sektion} {Wald?kosystemforschung} / {Zentrum} f?r
+  {Biodiversit?t} und {Nachhaltige} {Landnutzung} ({CBL}) / {Sektion}
+  {Wald?kosystemforschung}. - {G?ttingen} : {CBL}, {Sektion}
+  {Wald?kosystemforschung}, 2012-. G?ttingen: Sektion Wald?kosysteforschung der
+  Univ. G?ttingen.
 
 \bibitem[Konopka et~al., 2015]{konopka_2015}
 Konopka, B., Pajtik, J., \& Seben, V. (2015).
@@ -334,26 +360,6 @@ Kuzelka, K. \& Marusak, R. (2012).
   broadleaved tree species in {White} {Carpathian} {Mountains}.
 \newblock {\em Beskydy}, 5(2), 111--120.
 
-\bibitem[König \& Fortmann, 2012a]{konig_2012b}
-König, N. \& Fortmann, H. (2012a).
-\newblock {\em Elementbestimmungsmethoden und {Qualtätskontrollmethoden}}.
-\newblock Number~80 in [{Berichte} der {Sektion} {Waldökosystemforschung} /
-  {B}] {Berichte} der {Sektion} {Waldökosystemforschung} / {Zentrum} für
-  {Biodiversität} und {Nachhaltige} {Landnutzung} ({CBL}) / {Sektion}
-  {Waldökosystemforschung}. - {Göttingen} : {CBL}, {Sektion}
-  {Waldökosystemforschung}, 2012-. Göttingen: Sektion Waldökosysteforschung der
-  Univ. Göttingen.
-
-\bibitem[König \& Fortmann, 2012b]{konig_2012a}
-König, N. \& Fortmann, H. (2012b).
-\newblock {\em Probenvorbereitungsmethoden und {Untersuchungsmethoden}}.
-\newblock Number~79 in [{Berichte} der {Sektion} {Waldökosystemforschung} /
-  {B}] {Berichte} der {Sektion} {Waldökosystemforschung} / {Zentrum} für
-  {Biodiversität} und {Nachhaltige} {Landnutzung} ({CBL}) / {Sektion}
-  {Waldökosystemforschung}. - {Göttingen} : {CBL}, {Sektion}
-  {Waldökosystemforschung}, 2012-. Göttingen: Sektion Waldökosysteforschung der
-  Univ. Göttingen.
-
 \bibitem[Ledermann \& Neumann, 2006]{ledermann_2006}
 Ledermann, T. \& Neumann, M. (2006).
 \newblock Biomass equations from data of old long-term experimental plots.
@@ -364,11 +370,6 @@ Magee, L. (1990).
 \newblock R2 {Measures} {Based} on {Wald} and {Likelihood} {Ratio} {Joint}
   {Significance} {Tests}.
 \newblock {\em The American Statistician}, 44(3), 250--253.
-
-\bibitem[Mandallaz, 2008]{Mandallaz_2008}
-Mandallaz, D. (2008).
-\newblock {\em Sampling Techniques for Forest Inventories}.
-\newblock Chapman \& Hall/CRC. Boca Raton, London, New York.
 
 \bibitem[Mantau, 2012]{mantau_2012}
 Mantau, U. (2012).
@@ -389,21 +390,26 @@ McCormick, K. \& Kautto, N. (2013).
 
 \bibitem[Meiwes et~al., 2012]{meiwes_2012}
 Meiwes, K.~J., Rumpf, S., Klinck, U., \& Meesenburg, H. (2012).
-\newblock Vollbaumnutzung: {Untersuchungsergebnisse} zum {Nährelement}-{Export}
-  in {Nordwestdeutschland} und {Ansätze} zur standörtlichen {Bewertung}.
+\newblock Vollbaumnutzung: {Untersuchungsergebnisse} zum {N?hrelement}-{Export}
+  in {Nordwestdeutschland} und {Ans?tze} zur stand?rtlichen {Bewertung}.
 \newblock {\em Deutscher Verband Forstlicher Forschungsanstalten Sektion
   Ertragskunde Jahrestagung 2012 Ottenstein}, (pp.\ 88--92).
 
 \bibitem[{MFACP}, 2004]{mfacp_2004}
 {MFACP} (2004).
-\newblock {\em Langfristige ökologische {Waldentwicklung}- {Richtlinie} zur
+\newblock {\em Langfristige ?kologische {Waldentwicklung}- {Richtlinie} zur
   {Baumartenwahl}}, volume~54 of {\em Aus dem {Walde} - {Schriftenreihe}
   {Waldentwicklung} {Niedersachsen}}.
-\newblock Wolfenbüttel: Federal ministry of Food and Agriculture.
+\newblock Wolfenb?ttel: Federal ministry of Food and Agriculture.
 \newblock Lower Saxony Ministry of Food, Agriculture and Consumer Protection.
 
+\bibitem[M?hring, 1997]{mohring_1997}
+M?hring, B. (1997).
+\newblock Betriebswirtschaftliche {Probleme} und {Chancen}.
+\newblock {\em AFZ/ Der Wald}, 2, 67-- 71.
+
 \bibitem[Miettinen et~al., 2014]{miettinen_2014}
-Miettinen, J., Ollikainen, M., Nieminen, T.~M., Ukonmaanaho, L., Laurén, A.,
+Miettinen, J., Ollikainen, M., Nieminen, T.~M., Ukonmaanaho, L., Laur?n, A.,
   Hynynen, J., Lehtonen, M., \& Valsta, L. (2014).
 \newblock Whole-tree harvesting with stump removal versus stem-only harvesting
   in peatlands when water quality, biodiversity conservation and climate change
@@ -413,56 +419,51 @@ Miettinen, J., Ollikainen, M., Nieminen, T.~M., Ukonmaanaho, L., Laurén, A.,
 \bibitem[Mitscherlich, 1970]{mitscherlich_1970}
 Mitscherlich, G. (1970).
 \newblock {\em Form und {Wachstum} von {Baum} und {Bestand}}.
-\newblock Frankfurt a.M.: Sauerländer.
+\newblock Frankfurt a.M.: Sauerl?nder.
 
 \bibitem[{ML}, 2004]{ml_2004}
 {ML} (2004).
-\newblock {\em Langfristige ökologische {Waldentwicklung}- {Richtlinie} zur
+\newblock {\em Langfristige ?kologische {Waldentwicklung}- {Richtlinie} zur
   {Baumartenwahl}}, volume~54 of {\em Aus dem {Walde} - {Schriftenreihe}
   {Waldentwicklung} {Niedersachsen}}.
-\newblock Wolfenbüttel: Bundesministerium für Verbraucherschutz, Ernährung und
+\newblock Wolfenb?ttel: Bundesministerium f?r Verbraucherschutz, Ern?hrung und
   Landwirtschaft.
-\newblock Niedersächsisches Ministerium für Ernährung, Landwirtschaft und
+\newblock Nieders?chsisches Ministerium f?r Ern?hrung, Landwirtschaft und
   Verbraucherschutz.
 
 \bibitem[{ML}, 2014]{ml_2014}
 {ML} (2014).
 \newblock {\em Der {Wald} in {Niedersachsen}: {Ergebnisse} der
   {Bundeswaldinventur} 3}.
-\newblock Hannover: Niedersächsisches Ministerium für Ernährung, Landwirtschaft
+\newblock Hannover: Nieders?chsisches Ministerium f?r Ern?hrung, Landwirtschaft
   und Verbraucherschutz, 1 edition.
 
-\bibitem[Möhring, 1997]{mohring_1997}
-Möhring, B. (1997).
-\newblock Betriebswirtschaftliche {Probleme} und {Chancen}.
-\newblock {\em AFZ/ Der Wald}, 2, 67-- 71.
-
-\bibitem[Möller, 2007]{moller_2007}
-Möller, W. (2007).
+\bibitem[M?ller, 2007]{moller_2007}
+M?ller, W. (2007).
 \newblock {\em Umweltrecht - {Planung}, {Wald}, {Naturschutz}, {Jagd},
   {Wasser}, {Boden}, {Immissionen}, {Abfall} u.a. - {Kommentare}: {Bundesrecht}
-  und exemplarisch niedersächsisches {Landesrecht} - mit verbundenem
+  und exemplarisch nieders?chsisches {Landesrecht} - mit verbundenem
   {Nutzungsrecht}, {Europarecht}}.
-\newblock Selbstverlag des Autors, 4b., überarb. u. erw. aufl. edition.
+\newblock Selbstverlag des Autors, 4b., ?berarb. u. erw. aufl. edition.
 
-\bibitem[Müller-Using \& Rademacher, 2004]{muller-using_2004}
-Müller-Using, B. \& Rademacher, P. (2004).
-\newblock Bioelemententzüge bei der {Holznutzung} in {Rein}- und
-  {Mischbeständen} aus {Buche} und {Fichte}.
-\newblock In {\em Berichte des {Forschungszentrums} {Waldökosysteme}}, volume
-  Band 71 of {\em Reihe {B}}  (pp.\ 81--110). Göttingen.
+\bibitem[M?ller-Using \& Rademacher, 2004]{muller-using_2004}
+M?ller-Using, B. \& Rademacher, P. (2004).
+\newblock Bioelemententz?ge bei der {Holznutzung} in {Rein}- und
+  {Mischbest?nden} aus {Buche} und {Fichte}.
+\newblock In {\em Berichte des {Forschungszentrums} {Wald?kosysteme}}, volume
+  Band 71 of {\em Reihe {B}}  (pp.\ 81--110). G?ttingen.
 
 \bibitem[Nagel \& Spellmann, 2008]{nagel_2008}
 Nagel, R.-V. \& Spellmann, H. (2008).
-\newblock Wachstum, {Behandlung} und {Ertrag} von {Reinbeständen} der
+\newblock Wachstum, {Behandlung} und {Ertrag} von {Reinbest?nden} der
   {Rotbuche} ({Fagus} sylvatica {L}.) in {Nordwestdeutschland}.
 \newblock In {\em Ergebnisse angewandter {Forschung} zur {Buche}}, volume~3 of
-  {\em Beiträge aus der {Nordwestdeutschen} {Forstlichen} {Versuchsanstalt}}
-  (pp.\ 221-- 265). Göttingen: Universitätsverlag Göttingen.
+  {\em Beitr?ge aus der {Nordwestdeutschen} {Forstlichen} {Versuchsanstalt}}
+  (pp.\ 221-- 265). G?ttingen: Universit?tsverlag G?ttingen.
 
 \bibitem[Neumann-Spallart, 1952]{neumann-spallart_1952}
 Neumann-Spallart, O. (1952).
-\newblock {\em Das {Stückmassegesetz} nach {Hilf} in mathematischer
+\newblock {\em Das {St?ckmassegesetz} nach {Hilf} in mathematischer
   {Beleuchtung}}.
 \newblock Wien.
 
@@ -485,15 +486,15 @@ Parresol, B.~R. (2001).
 Pretzsch, H. (2010).
 \newblock Re-{Evaluation} of {Allometry}: {State}-of-the-{Art} and
   {Perspective} {Regarding} {Individuals} and {Stands} of {Woody} {Plants}.
-\newblock In U. Lüttge, W. Beyschlag, B. Büdel, \& D. Francis (Eds.), {\em
+\newblock In U. L?ttge, W. Beyschlag, B. B?del, \& D. Francis (Eds.), {\em
   Progress in {Botany} 71}, number~71 in Progress in {Botany}  (pp.\ 339--369).
   Springer Berlin Heidelberg.
 
 \bibitem[Pretzsch et~al., 2014]{pretzsch_2014}
-Pretzsch, H., Block, J., Dieler, J., Gauer, J., Göttlein, A., Moshammer, R.,
+Pretzsch, H., Block, J., Dieler, J., Gauer, J., G?ttlein, A., Moshammer, R.,
   Schuck, J., Weis, W., \& Wunn, U. (2014).
-\newblock Nährstoffentzüge durch die {Holz}-und {Biomassenutzung} in {Wäldern}.
-  {Teil} 1: {Schätzfunktionen} für {Biomasse} und {Nährelemente} und ihre
+\newblock N?hrstoffentz?ge durch die {Holz}-und {Biomassenutzung} in {W?ldern}.
+  {Teil} 1: {Sch?tzfunktionen} f?r {Biomasse} und {N?hrelemente} und ihre
   {Anwendung} in {Szenariorechnungen}.
 \newblock {\em Allgemeine Forst- und Jagdzeitung}, (185), 261--285.
 
@@ -510,42 +511,42 @@ Pretzsch, H. \& Dieler, J. (2012).
 \newblock Vienna, Austria: R Foundation for Statistical Computing.
 
 \bibitem[Rademacher et~al., 2011]{rademacher_2011}
-Rademacher, P., Schönfelder, E., \& Meiwes, K.~J. (2011).
+Rademacher, P., Sch?nfelder, E., \& Meiwes, K.~J. (2011).
 \newblock Elementgehalte in {Baumkompartimenten} von {Fichte}, {Kiefer},
   {Buche}, {Eiche} und {Douglasie}.
-\newblock In {\em Forschungsvorhaben: {Möglichkeiten} und {Grenzen} der
+\newblock In {\em Forschungsvorhaben: {M?glichkeiten} und {Grenzen} der
   {Vollbaumnutzung}. {Ergebnisbericht} ({FKZ}: 22015407)}  (pp.\ 125-- 154).
-  Göttingen: Fachagentur für Nachwachsende Rohstoffe des Bundesministeriums für
-  Ernährung, Landwirtschaft und Verbraucherschutz.
+  G?ttingen: Fachagentur f?r Nachwachsende Rohstoffe des Bundesministeriums f?r
+  Ern?hrung, Landwirtschaft und Verbraucherschutz.
 
 \bibitem[Roloff, 1986]{roloff_1986}
 Roloff, A. (1986).
 \newblock {\em Morphologie der {Kronenentwicklung} von {Fagus} sylvatica {L}.
-  ({Rotbuche}) unter besonderer {Berücksichtigung} möglicherweise neuartiger
-  {Veränderungen}}.
-\newblock Berichte des {Forschungszentrums} {Waldökosysteme}, {Waldsterben} /
-  {Forschungszentrum} {Waldökosysteme}, {Waldsterben}, {Göttingen}. Göttingen:
-  Forschungszentrum Waldökosysteme, Waldsterben.
+  ({Rotbuche}) unter besonderer {Ber?cksichtigung} m?glicherweise neuartiger
+  {Ver?nderungen}}.
+\newblock Berichte des {Forschungszentrums} {Wald?kosysteme}, {Waldsterben} /
+  {Forschungszentrum} {Wald?kosysteme}, {Waldsterben}, {G?ttingen}. G?ttingen:
+  Forschungszentrum Wald?kosysteme, Waldsterben.
+
+\bibitem[R?ther et~al., 2007]{ruther_2007}
+R?ther, B., Hansen, J., Ludwig, A., Spellmann, H., Nagel, J., M?hring, B., \&
+  Dieter, M. (2007).
+\newblock {\em Clusterstudie {Forst} und {Holz} {Niedersachsen}}, volume~1 of
+  {\em Beitr?ge aus der {Nordwestdeutschen} {Forstlichen} {Versuchsanstalt}}.
+\newblock G?ttingen: Universit?tsdrucke G?ttingen.
 
 \bibitem[Rumpf et~al., 2011]{rumpf_2011}
 Rumpf, S., Nagel, J., \& Schmidt, M. (2011).
-\newblock Biomasseschätzfunktionen von {Fichte}, {Kiefer}, {Buche} {Eiche} und
-  {Douglasie} für {Nordwestdeutschland}.
-\newblock In {\em Forschungsvorhaben: {Möglichkeiten} und {Grenzen} der
+\newblock Biomassesch?tzfunktionen von {Fichte}, {Kiefer}, {Buche} {Eiche} und
+  {Douglasie} f?r {Nordwestdeutschland}.
+\newblock In {\em Forschungsvorhaben: {M?glichkeiten} und {Grenzen} der
   {Vollbaumnutzung}. {Ergebnisbericht} ({FKZ}: 22015407)}  (pp.\ 25-- 124).
-  Göttingen: Fachagentur für Nachwachsende Rohstoffe des Bundesministeriums für
-  Ernährung, Landwirtschaft und Verbraucherschutz.
-
-\bibitem[Rüther et~al., 2007]{ruther_2007}
-Rüther, B., Hansen, J., Ludwig, A., Spellmann, H., Nagel, J., Möhring, B., \&
-  Dieter, M. (2007).
-\newblock {\em Clusterstudie {Forst} und {Holz} {Niedersachsen}}, volume~1 of
-  {\em Beiträge aus der {Nordwestdeutschen} {Forstlichen} {Versuchsanstalt}}.
-\newblock Göttingen: Universitätsdrucke Göttingen.
+  G?ttingen: Fachagentur f?r Nachwachsende Rohstoffe des Bundesministeriums f?r
+  Ern?hrung, Landwirtschaft und Verbraucherschutz.
 
 \bibitem[Saborowski \& Gaffrey, 1999]{saborowski_1999}
 Saborowski, J. \& Gaffrey, D. (1999).
-\newblock {RBS}, ein mehrstufiges {Inventurverfahren} zur {Schätzung} von
+\newblock {RBS}, ein mehrstufiges {Inventurverfahren} zur {Sch?tzung} von
   {Baummerkmalen} - {II}. {Modifizierte} {RBS}-{Verfahren}.
 \newblock {\em Allgemein Forst- und Jagdzeitung}, (170. Jg 12), 223-- 227.
 
@@ -559,7 +560,7 @@ Sanquetta, C.~R., Behling, A., Corte, A. P.~D., Netto, S.~P., Schikowski,
 \bibitem[Schanz, 1996]{Schanz_1996}
 Schanz, H. (1996).
 \newblock {\em {Forstliche Nachhaltigkeit}}, volume~4 of {\em {Schriften aus
-  dem Institut für Forstökonomie der Universität Freiburg}}.
+  dem Institut f?r Forst?konomie der Universit?t Freiburg}}.
 \newblock Kessel.
 
 \bibitem[Schmitz et~al., 2008]{schmitz_2008}
@@ -567,10 +568,10 @@ Schmitz, F., Polley, H., Hennig, P., Dunger, K., \& Schwitzgebel, F. (2008).
 \newblock {\em Die zweite {Bundeswaldinventur} {BWI}2. {Inventur} und
   {Auswertungsmethoden} zu den {Bundeswaldinventuren} 2001 bis 2002 und 1986
   bis 1988}.
-\newblock Braunschweig: vTI (von Thünen Institut).
+\newblock Braunschweig: vTI (von Th?nen Institut).
 
-\bibitem[Schröter et~al., 2012]{schroter_2012}
-Schröter, M., Härdtle, W., \& Oheimb, G.~v. (2012).
+\bibitem[Schr?ter et~al., 2012]{schroter_2012}
+Schr?ter, M., H?rdtle, W., \& Oheimb, G.~v. (2012).
 \newblock Crown plasticity and neighborhood interactions of {European} beech
   ({Fagus} sylvatica {L}.) in an old-growth forest.
 \newblock {\em European Journal of Forest Research}, 131(3), 787--798.
@@ -597,7 +598,7 @@ Sprugel, D.~G. (1983).
   {Equations}.
 \newblock {\em Ecology}, 64(1), 209--210.
 \newblock ArticleType: research-article / Full publication date: Feb., 1983 /
-  Copyright © 1983 Ecological Society of America.
+  Copyright ? 1983 Ecological Society of America.
 
 \bibitem[Starr \& Tapiero, 1975]{starr_1975}
 Starr, M.~K. \& Tapiero, C.~S. (1975).
@@ -619,8 +620,8 @@ Tabacchi, G., Cosmo, L.~D., \& Gasparini, P. (2011).
 Thurnher, C., Gerritzen, T., Maroschek, M., Lexer, M.~J., \& Hasenauer, H.
   (2013).
 \newblock Analysing different carbon estimation methods for {Austrian} forests
-  {Eine} {Analyse} unterschiedlicher {Kohlenstoffschätzmethoden} für {Wälder}
-  in Österreich.
+  {Eine} {Analyse} unterschiedlicher {Kohlenstoffsch?tzmethoden} f?r {W?lder}
+  in ?sterreich.
 \newblock {\em Austrian Journal of Forest Science}, 3, 141--166.
 
 \bibitem[{TI}, 2014]{ti_2014}
@@ -639,7 +640,7 @@ Valentine, H.~T., Tritton, L.~M., \& Furnival, G.~M. (1984).
 \newblock {\em Forest Science}, 30(3), 673--681.
 
 \bibitem[Vallet et~al., 2006]{vallet_2006}
-Vallet, P., Dhôte, J.-F., Moguédec, G.~L., Ravart, M., \& Pignard, G. (2006).
+Vallet, P., Dh?te, J.-F., Mogu?dec, G.~L., Ravart, M., \& Pignard, G. (2006).
 \newblock Development of total aboveground volume equations for seven important
   forest tree species in {France}.
 \newblock {\em Forest Ecology and Management}, 229(1-3), 98--110.
@@ -661,8 +662,8 @@ Vitousek, P. (1982).
 
 \bibitem[von Carlowitz, 1713]{Carlowitz_1713}
 von Carlowitz, H.-C. (1713).
-\newblock {\em {Sylvicvltvra Oeconomica, Oder Haußwirthliche Nachricht und
-  Naturmäßige Anweisung Zur Wilden Baum-Zucht}}.
+\newblock {\em {Sylvicvltvra Oeconomica, Oder Hau?wirthliche Nachricht und
+  Naturm??ige Anweisung Zur Wilden Baum-Zucht}}.
 \newblock Johann Friedrich Braun, Leipzig.
 
 \bibitem[Wagstaff et~al., 2001]{wagstaff_2001}
@@ -677,9 +678,9 @@ Warton, D.~I., Duursma, R.~A., Falster, D.~S., \& Taskinen, S. (2012).
   lines.
 \newblock {\em Methods in Ecology and Evolution}, 3(2), 257--259.
 
-\bibitem[Weis \& Göttlein, 2012]{weis_2012}
-Weis, W. \& Göttlein, A. (2012).
-\newblock Nährstoffnachhaltige {Biomassenutzung}.
+\bibitem[Weis \& G?ttlein, 2012]{weis_2012}
+Weis, W. \& G?ttlein, A. (2012).
+\newblock N?hrstoffnachhaltige {Biomassenutzung}.
 \newblock {\em LWF Aktuell}, 90, 44--47.
 
 \bibitem[West, 1999]{west_1999}
@@ -704,15 +705,15 @@ Wood, S.~N. (2006).
 \newblock {\em Generalized {Additive} {Models}: {An} {Introduction} with {R}}.
 \newblock Chapman \& Hall/CRC.
 
-\bibitem[Wördehoff et~al., 2011]{wordehoff_2011}
-Wördehoff, R., Spellmann, H., Evers, J., \& Nagel, J. (2011).
+\bibitem[W?rdehoff et~al., 2011]{wordehoff_2011}
+W?rdehoff, R., Spellmann, H., Evers, J., \& Nagel, J. (2011).
 \newblock {\em Kohlenstoffstudie {Forst} und {Holz} {Niedersachsen}}, volume~6
-  of {\em Beiträge aus der {Nordwestdeutschen} {Forstlichen}
+  of {\em Beitr?ge aus der {Nordwestdeutschen} {Forstlichen}
   {Versuchsanstalt}}.
-\newblock Göttingen: Univ.-Verl. Göttingen.
+\newblock G?ttingen: Univ.-Verl. G?ttingen.
 
 \bibitem[Zianis et~al., 2005]{zianis_2005}
-Zianis, D., Muukonen, P., Mäkipää, R., \& Mencuccini, M. (2005).
+Zianis, D., Muukonen, P., M?kip??, R., \& Mencuccini, M. (2005).
 \newblock {\em Biomass and stem volume equations for tree species in {Europe}},
   volume~4.
 \newblock Finnish Society of Forest Science, Finnish Forest Research Institute.

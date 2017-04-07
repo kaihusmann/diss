@@ -1,6 +1,6 @@
 \select@language {british}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}The role of bio-economy in foresty}{1}{section.1.1}
+\contentsline {section}{\numberline {1.1}The role of bio-economy in foresty}{2}{section.1.1}
 \select@language {ngerman}
 \contentsline {chapter}{\numberline {2}Mittelfristigem Anstieg folgt stetiger R\"uckgang - Zustand und Entwicklung der Rohholzverf\"ugbarkeit in der buchenreichen Mitte Deutschlands}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Einleitung}{5}{section.2.1}
