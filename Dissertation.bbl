@@ -50,8 +50,8 @@ Baskerville, G. (1972).
 
 \bibitem[Bitz, 2005]{bitz_2005}
 Bitz, M. (2005).
-\newblock {\em Vahlens {Kompendium} der {Betriebswirtschaftslehre}}.
-\newblock Vahlen.
+\newblock {\em Vahlens {Kompendium} der {Betriebswirtschaftslehre}}, volume~2.
+\newblock Munich: Vahlen, 5 edition.
 
 \bibitem[Block \& Meiwes, 2012]{block_2012}
 Block, J. \& Meiwes, K.~J. (2012).
@@ -113,6 +113,13 @@ Cerny, M. (1990).
 Chambers, J.~M. \& Hastie, T.~J. (1992).
 \newblock {\em Statistical models in {S}}.
 \newblock Boca Raton, Fla.: Chapman \& Hall/CRC.
+
+\bibitem[Churchman et~al., 1957]{churchman_1957}
+Churchman, C.~W., Ackoff, R.~L., \& Arnoff, E.~L. (1957).
+\newblock {\em Introduction to operations research}.
+\newblock New York, London: John Wiley \& Sons, Inc., Chapman \& Hall, Ltd.,
+  accessed via http://archive.org/details/introductiontooOOchur on 4 April
+  2017.
 
 \bibitem[Cienciala et~al., 2005]{cienciala_2005}
 Cienciala, E., Apltauer, J., Cerny, M., \& Exnerová, Z. (2005).
@@ -332,6 +339,11 @@ Kangas, A., Kurttila, M., Hujala, T., Eyvindson, K., \& Kangas, J. (2015).
 \newblock {\em Decision {Support} for {Forest} {Management}}.
 \newblock Number~30 in Managing {Forest} {Ecosystems}. Cham: Springer
   International Publishing, 2nd ed edition.
+
+\bibitem[Keeney, 1982]{keeney_1982}
+Keeney, R.~L. (1982).
+\newblock Decision analysis: an overview.
+\newblock {\em Oper Res}, 30(5), 803--838.
 
 \bibitem[Konopka et~al., 2015]{konopka_2015}
 Konopka, B., Pajtik, J., \& Seben, V. (2015).
@@ -581,6 +593,11 @@ Schröter, M., Härdtle, W., \& Oheimb, G.~v. (2012).
   ({Fagus} sylvatica {L}.) in an old-growth forest.
 \newblock {\em European Journal of Forest Research}, 131(3), 787--798.
 
+\bibitem[Simon, 1979]{simon_1979}
+Simon, H.~A. (1979).
+\newblock Rational {Decision} {Making} in {Business} {Organizations}.
+\newblock {\em The American Economic Review}, 69(4), 493--513.
+
 \bibitem[Smith, 1993]{smith_1993}
 Smith, R.~J. (1993).
 \newblock Logarithmic transformation bias in allometry.
@@ -604,6 +621,12 @@ Sprugel, D.~G. (1983).
 \newblock {\em Ecology}, 64(1), 209--210.
 \newblock ArticleType: research-article / Full publication date: Feb., 1983 /
   Copyright © 1983 Ecological Society of America.
+
+\bibitem[Stanovich \& West, 2000]{stanovich_2000}
+Stanovich, K.~E. \& West, R.~F. (2000).
+\newblock Individual differences in reasoning: {Implications} for the
+  rationality debate?
+\newblock {\em Behavioral and Brain Sciences}, 23(5), 645--665.
 
 \bibitem[Starr \& Tapiero, 1975]{starr_1975}
 Starr, M.~K. \& Tapiero, C.~S. (1975).

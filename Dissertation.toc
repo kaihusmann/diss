@@ -2,69 +2,69 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}The role of bio-economy in foresty}{2}{section.1.1}
 \select@language {ngerman}
-\contentsline {chapter}{\numberline {2}Mittelfristigem Anstieg folgt stetiger R\"uckgang - Zustand und Entwicklung der Rohholzverf\"ugbarkeit in der buchenreichen Mitte Deutschlands}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Einleitung}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}Methodik}{5}{section.2.2}
-\contentsline {section}{\numberline {2.3}Ergebnisse}{6}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Waldfl\"ache}{6}{subsection.2.3.1}
+\contentsline {chapter}{\numberline {2}Mittelfristigem Anstieg folgt stetiger R\"uckgang - Zustand und Entwicklung der Rohholzverf\"ugbarkeit in der buchenreichen Mitte Deutschlands}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Einleitung}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}Methodik}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Ergebnisse}{7}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Waldfl\"ache}{7}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}Alter des Waldes}{9}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Waldeigentum}{9}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Nachhaltiges, kontinuierliches Holzpotenzial}{10}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Entwicklung des Rohholzvorrates und des Rohholzpotenzials}{12}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.3}Waldeigentum}{11}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Nachhaltiges, kontinuierliches Holzpotenzial}{11}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Entwicklung des Rohholzvorrates und des Rohholzpotenzials}{13}{subsection.2.3.5}
 \contentsline {section}{\numberline {2.4}Konsequenzen f\"ur die Nutzung von Buchenholz}{14}{section.2.4}
 \select@language {british}
-\contentsline {chapter}{\numberline {3}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{17}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{20}{section.3.1}
-\contentsline {section}{\numberline {3.2}Materials and Methods}{22}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Data sampling and sample processing}{23}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Biomass functions}{24}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Sensitivity analysis}{25}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Nutrient contents}{26}{subsection.3.2.4}
-\contentsline {section}{\numberline {3.3}Results}{26}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Biomass functions}{26}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Sensitivity analysis}{30}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Nutrient contents}{31}{subsection.3.3.3}
-\contentsline {section}{\numberline {3.4}Discussion}{35}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Biomass functions}{35}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Sensitivity analysis}{37}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Nutrient contents}{38}{subsection.3.4.3}
-\contentsline {section}{\numberline {3.5}Conclusions}{39}{section.3.5}
-\contentsline {chapter}{\numberline {4}Modelling the economically viable wood in the crown of European beech trees}{40}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{43}{section.4.1}
-\contentsline {section}{\numberline {4.2}Materials and Methods}{44}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Selection of trees}{44}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Selection of disks}{44}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Selection of branches}{46}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Estimation of wood volume in the stem and in the crown}{47}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Economically viable wood volume in the crown}{47}{subsection.4.2.5}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{47}{section*.35}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{49}{section*.37}
-\contentsline {subsection}{\numberline {4.2.6}Allometric relationships}{51}{subsection.4.2.6}
-\contentsline {section}{\numberline {4.3}Results}{52}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Prediction of bark thickness}{52}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Economically viable wood volume in the crown}{53}{subsection.4.3.2}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{53}{section*.40}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{54}{section*.43}
-\contentsline {subsection}{\numberline {4.3.3}Allometric relationships}{57}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Discussion}{59}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Estimation of bark thickness}{59}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Economically viable wood volume in the crown}{59}{subsection.4.4.2}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{59}{section*.50}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{60}{section*.51}
-\contentsline {subsection}{\numberline {4.4.3}Allometric relationships}{62}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Conclusions and outlook}{62}{section.4.5}
-\contentsline {chapter}{\numberline {5}Flexible Global Optimization with Simulated-Annealing}{65}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{67}{section.5.1}
-\contentsline {section}{\numberline {5.2}The package optimization}{67}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Method}{67}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}The function optim\_sa}{67}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Examples}{67}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Himmelblau Function with continuous parameter space}{67}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Himmelblau Function with discrete parameter space}{67}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Another example?}{67}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}Forest harvesting schedule optimization}{67}{subsection.5.3.4}
-\contentsline {section}{\numberline {5.4}Discussion and outlook}{67}{section.5.4}
-\contentsline {chapter}{\numberline {6}General Discussion}{68}{chapter.6}
-\contentsline {chapter}{\numberline {7}Summary}{69}{chapter.7}
-\contentsline {chapter}{\numberline {8}Zusammenfassung}{70}{chapter.8}
-\contentsline {chapter}{\nonumberline Bibliography}{71}{chapter*.56}
+\contentsline {chapter}{\numberline {3}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{19}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}Materials and Methods}{23}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Data sampling and sample processing}{25}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Biomass functions}{26}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Sensitivity analysis}{27}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Nutrient contents}{27}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Results}{28}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Biomass functions}{28}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Sensitivity analysis}{32}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Nutrient contents}{33}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Discussion}{37}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Biomass functions}{37}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Sensitivity analysis}{39}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Nutrient contents}{39}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Conclusions}{40}{section.3.5}
+\contentsline {chapter}{\numberline {4}Modelling the economically viable wood in the crown of European beech trees}{42}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{45}{section.4.1}
+\contentsline {section}{\numberline {4.2}Materials and Methods}{46}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Selection of trees}{46}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Selection of disks}{46}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Selection of branches}{48}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Estimation of wood volume in the stem and in the crown}{48}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Economically viable wood volume in the crown}{49}{subsection.4.2.5}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{49}{section*.35}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{51}{section*.37}
+\contentsline {subsection}{\numberline {4.2.6}Allometric relationships}{53}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.3}Results}{53}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Prediction of bark thickness}{53}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Economically viable wood volume in the crown}{55}{subsection.4.3.2}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{55}{section*.40}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{56}{section*.43}
+\contentsline {subsection}{\numberline {4.3.3}Allometric relationships}{58}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Discussion}{60}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Estimation of bark thickness}{60}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Economically viable wood volume in the crown}{61}{subsection.4.4.2}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{61}{section*.50}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{61}{section*.51}
+\contentsline {subsection}{\numberline {4.4.3}Allometric relationships}{63}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Conclusions and outlook}{64}{section.4.5}
+\contentsline {chapter}{\numberline {5}Flexible Global Optimization with Simulated-Annealing}{66}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{68}{section.5.1}
+\contentsline {section}{\numberline {5.2}The package optimization}{68}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Method}{68}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}The function optim\_sa}{68}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Examples}{68}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Himmelblau Function with continuous parameter space}{68}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Himmelblau Function with discrete parameter space}{68}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Another example?}{68}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Forest harvesting schedule optimization}{68}{subsection.5.3.4}
+\contentsline {section}{\numberline {5.4}Discussion and outlook}{68}{section.5.4}
+\contentsline {chapter}{\numberline {6}General Discussion}{69}{chapter.6}
+\contentsline {chapter}{\numberline {7}Summary}{70}{chapter.7}
+\contentsline {chapter}{\numberline {8}Zusammenfassung}{71}{chapter.8}
+\contentsline {chapter}{\nonumberline Bibliography}{72}{chapter*.56}

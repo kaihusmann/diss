@@ -133,6 +133,23 @@
   Timestamp                = {2017.03.02}
 }
 
+@Book{bitz_2005,
+  Title                    = {Vahlens {Kompendium} der {Betriebswirtschaftslehre}},
+  Author                   = {Bitz, Michael},
+  Publisher                = {Vahlen},
+  Year                     = {2005},
+
+  Address                  = {Munich},
+  Edition                  = {5},
+  Month                    = jan,
+  Volume                   = {2},
+
+  ISBN                     = {978-3-8006-3135-3},
+  Language                 = {de},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.04.11}
+}
+
 @InCollection{block_2012,
   Title                    = {Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und {Biomassenutzung}},
   Author                   = {Block, J. and Meiwes, K. J.},
@@ -847,6 +864,23 @@
   Timestamp                = {2017.03.02}
 }
 
+@Book{kangas_2015,
+  Title                    = {Decision {Support} for {Forest} {Management}},
+  Author                   = {Kangas, Annika and Kurttila, Mikko and Hujala, Teppo and Eyvindson, Kyle and Kangas, Jyrki},
+  Publisher                = {Springer International Publishing},
+  Year                     = {2015},
+
+  Address                  = {Cham},
+  Edition                  = {2nd ed},
+  Number                   = {30},
+  Series                   = {Managing {Forest} {Ecosystems}},
+
+  File                     = {Library Catalog Entry Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/EBGCZX5P/PPN.html:text/html},
+  Keywords                 = {Electronic books},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.04.11}
+}
+
 @Book{konig_2012a,
   Title                    = {Probenvorbereitungsmethoden und {Untersuchungsmethoden}},
   Author                   = {König, Nils and Fortmann, Heike},
@@ -1433,6 +1467,23 @@ Verbraucherschutz},
   Urldate                  = {2014-10-10}
 }
 
+@Article{simon_1979,
+  Title                    = {Rational {Decision} {Making} in {Business} {Organizations}},
+  Author                   = {Simon, Herbert A.},
+  Journal                  = {The American Economic Review},
+  Year                     = {1979},
+  Number                   = {4},
+  Pages                    = {493--513},
+  Volume                   = {69},
+
+  File                     = {JSTOR Full Text PDF:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/SW5XT8V2/Simon - 1979 - Rational Decision Making in Business Organizations.pdf:application/pdf},
+  ISSN                     = {0002-8282},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.04.11},
+  Url                      = {http://www.jstor.org/stable/1808698},
+  Urldate                  = {2017-04-07}
+}
+
 @Article{smith_1993,
   Title                    = {Logarithmic transformation bias in allometry},
   Author                   = {Smith, Richard J.},
@@ -1855,3 +1906,4 @@ It was concluded that the position of neighbours' crowns were important in deter
 @comment{jabref-meta: selector_publisher:}
 
 @comment{jabref-meta: selector_author:}
+
