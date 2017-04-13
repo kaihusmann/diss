@@ -287,6 +287,15 @@
   Timestamp                = {2017.01.13}
 }
 
+@Book{churchman_1957,
+  Title                    = {Introduction to operations research},
+  Author                   = {Churchman, C West and Ackoff, Russell L and Arnoff, E Leonard},
+  Publisher                = {John Wiley \& Sons, Inc., Chapman \& Hall, Ltd., accessed via http://archive.org/details/introductiontooOOchur on 4 April 2017},
+  Year                     = {1957},
+
+  Address                  = {New York, London}
+}
+
 @Article{cienciala_2005,
   Title                    = {Biomass functions applicable for {European} beech},
   Author                   = {Cienciala, E and Apltauer, J and Cerny, M and Exnerová, Z},
@@ -879,6 +888,27 @@
   Keywords                 = {Electronic books},
   Owner                    = {khusman1},
   Timestamp                = {2017.04.11}
+}
+
+@Article{keeney_1982,
+  Title                    = {Decision analysis: an overview},
+  Author                   = {Keeney, R. L.},
+  Journal                  = {Oper Res},
+  Year                     = {1982},
+
+  Month                    = oct,
+  Number                   = {5},
+  Pages                    = {803--838},
+  Volume                   = {30},
+
+  Abstract                 = {This article, written for the nondecision analyst, describes what decision analysis is, what it can and cannot do, why one should care to do this, and how one does it. To accomplish these purposes, it is necessary first to describe the decision environment. The article also presents an overview of decision analysis and provides additional sources for its foundations, procedures, history, and applications.},
+  ISSN                     = {0030-364X},
+  Keywords                 = {decision making, Decision Theory, Humans, Public Policy, United States},
+  Language                 = {eng},
+  Owner                    = {khusman1},
+  Pmid                     = {10298708},
+  Shorttitle               = {Decision analysis},
+  Timestamp                = {2017.04.12}
 }
 
 @Book{konig_2012a,
@@ -1553,6 +1583,24 @@ Verbraucherschutz},
   Urldate                  = {2012-12-03}
 }
 
+@Article{stanovich_2000,
+  Title                    = {Individual differences in reasoning: {Implications} for the rationality debate?},
+  Author                   = {Stanovich, Keith E. and West, Richard F.},
+  Journal                  = {Behavioral and Brain Sciences},
+  Year                     = {2000},
+
+  Month                    = oct,
+  Number                   = {5},
+  Pages                    = {645--665},
+  Volume                   = {23},
+
+  ISSN                     = {1469-1825, 0140-525X},
+  Keywords                 = {biases, descriptive models, heuristics, individual differences, normative models, rationality, reasoning},
+  Shorttitle               = {Individual differences in reasoning},
+  Url                      = {https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/individual-differences-in-reasoning-implications-for-the-rationality-debate/2906AEF620B36C10018DD291F790BE97},
+  Urldate                  = {2017-04-12}
+}
+
 @Article{starr_1975,
   Title                    = {Linear {Breakeven} {Analysis} {Under} {Risk}},
   Author                   = {Starr, Martin K. and Tapiero, Charles S.},
@@ -1745,6 +1793,29 @@ It was concluded that the position of neighbours' crowns were important in deter
 
   Owner                    = {khusman1},
   Timestamp                = {2017.03.01}
+}
+
+@Article{wacker_definition_1998,
+  Title                    = {A definition of theory: research guidelines for different theory-building research methods in operations management},
+  Author                   = {Wacker, John G},
+  Journal                  = {Journal of Operations Management},
+  Year                     = {1998},
+
+  Month                    = jul,
+  Number                   = {4},
+  Pages                    = {361--385},
+  Volume                   = {16},
+
+  Abstract                 = {This study examines the definition of theory and the implications it has for the theory-building research. By definition, theory must have four basic criteria: conceptual definitions, domain limitations, relationship-building, and predictions. Theory-building is important because it provides a framework for analysis, facilitates the efficient development of the field, and is needed for the applicability to practical real world problems. To be good theory, a theory must follow the virtues (criteria) for `good' theory, including uniqueness, parsimony, conservation, generalizability, fecundity, internal consistency, empirical riskiness, and abstraction, which apply to all research methods. Theory-building research seeks to find similarities across many different domains to increase its abstraction level and its importance. The procedure for good theory-building research follows the definition of theory: it defines the variables, specifies the domain, builds internally consistent relationships, and makes specific predictions. If operations management theory is to become integrative, the procedure for good theory-building research should have similar research procedures, regardless of the research methodology used. The empirical results from a study of operations management over the last 5 years (1991–1995) indicate imbalances in research methodologies for theory-building. The analytical mathematical research methodology is by far the most popular methodology and appears to be over-researched. On the other hand, the integrative research areas of analytical statistical and the establishment of causal relationships are under-researched. This leads to the conclusion that theory-building in operations management is not developing evenly across all methodologies. Last, this study offers specific guidelines for theory-builders to increase the theory's level of abstraction and the theory's significance for operations managers.},
+  Doi                      = {10.1016/S0272-6963(98)00019-9},
+  File                     = {ScienceDirect Full Text PDF:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/U3RFS22I/Wacker - 1998 - A definition of theory research guidelines for di.pdf:application/pdf;ScienceDirect Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/NAFUBVA3/S0272696398000199.html:text/html},
+  ISSN                     = {0272-6963},
+  Keywords                 = {Operations management, Research guidelines, Theory},
+  Owner                    = {khusman1},
+  Shorttitle               = {A definition of theory},
+  Timestamp                = {2017.04.13},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0272696398000199},
+  Urldate                  = {2017-04-13}
 }
 
 @Article{wagstaff_2001,
