@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  13 APR 2017 15:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  13 APR 2017 16:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2218,7 +2218,7 @@ Here is how much of TeX's memory you used:
  29599 multiletter control sequences out of 15000+600000
  107023 words of font info for 80 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 64i,24n,69p,3375b,16499s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,24n,69p,3561b,16499s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texm
 f/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-math
 sy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/e
@@ -2235,7 +2235,7 @@ are/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri8.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy
 6.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Dissertation.pdf (89 pages, 4055582 bytes).
+Output written on Dissertation.pdf (89 pages, 4055801 bytes).
 PDF statistics:
  1748 PDF objects out of 2073 (max. 8388607)
  1565 compressed objects within 16 object streams
