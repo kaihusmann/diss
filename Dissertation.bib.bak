@@ -200,7 +200,7 @@
 }
 
 @Article{bockmann_2004,
-  Title                    = {Forsteinrichtung–als {Institution} effektiv und unverzichtbar},
+  Title                    = {Forsteinrichtung - als {Institution} effektiv und unverzichtbar},
   Author                   = {Böckmann, Thomas},
   Journal                  = {Allgemeine Forst und Jagdzeitung},
   Year                     = {2004},
@@ -319,6 +319,23 @@
 
   Owner                    = {khusman1},
   Timestamp                = {2017.02.28}
+}
+
+@Book{davis_2001,
+  Title                    = {Forest {Management}: {To} {Sustain} {Ecological}, {Economic}, and {Social} {Values}},
+  Author                   = {Davis, Lawrence S. and Johnson, K. Norman and Bettinger, Pete and Howard, Theodore E.},
+  Publisher                = {McGraw-Hill Higher Education},
+  Year                     = {2001},
+
+  Address                  = {New York},
+  Edition                  = {4},
+
+  Abstract                 = {Applying twenty-first century analytical and quantitative ways of thinking about forest resource management problems . . . Now available from Waveland Press, the fourth edition of Forest Management revised significantly from previous, successful editions offers authoritative, up-to-date coverage of broad-scope concepts and ideas for those entering the fields of forest management, forest economics, and forest ecology. Viewed as large integrated ecosystems that are often owned and managed by multiple landowners, forests continue to be at the center of debates involving global warming and the sustaining of human populations. Because long-term ecological outcomes of forest management activities continue to be of heightened concern to citizens, interest groups, and regulators, the comprehensive fourth edition recognizes the scope of ecological, economic, and social outcomes from the management and use of forest lands. It provides future decision makers and stakeholders with contemporary methods to make quantitative estimates of the consequences of implementing alternative management or policy scenarios for forests. Available on the authors' website are useful databases, files, and worksheets used to generate, solve, and report solutions to problems of forest management. Outstanding features and coverage! 1) includes greatly expanded exposition of the definition, measurement, and practical application of sustainability and sustained yield concepts; 2) stresses the critical role of comprehensive silvicultural prescriptions and their spatial assignment to provide for a multitude of forest outcomes, including timber, wildlife, and recreation within sustainable ecosystems; 3) provides an introduction to the concepts, methods, and applications of explicit spatial analysis of forest tracts, watersheds, and ecological units using new heuristic techniques, and illustrates the techniques using teaching models and data sets; and 4) offers examples and problems to illustrate analyses presented in the book. Titles of related interest from Waveland Press: Edmonds et al., Forest Health and Protection, Second Edition (ISBN 9781577666523); Hendee et al., Introduction to Forests and Renewable Resources, Eighth Edition (ISBN 9781577667469); Miller, Urban Forestry: Planning and Managing Urban Greenspaces, Second Edition (ISBN 9781577665106); and Nyland, Silviculture: Concepts and Applications, Second Edition (ISBN 9781577665274).},
+  ISBN                     = {978-1-57766-436-9},
+  Language                 = {English},
+  Owner                    = {khusman1},
+  Shorttitle               = {Forest {Management}},
+  Timestamp                = {2017.04.14}
 }
 
 @Misc{degenhard_2016,
@@ -1726,6 +1743,21 @@ It was concluded that the position of neighbours' crowns were important in deter
   Timestamp                = {2017.01.16},
   Url                      = {http://aob.oxfordjournals.org/content/75/3/259},
   Urldate                  = {2013-12-13}
+}
+
+@Book{un_2005,
+  Title                    = {2005 {World} {Summit} {Outcome}},
+  Author                   = {{United Nations General Assembly}},
+  Publisher                = {Adopted by the {General} {Assembly}},
+  Year                     = {2005},
+
+  Address                  = {New York},
+  Number                   = {A/60/1},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.04.14},
+  Url                      = {https://documents-dds-ny.un.org/doc/UNDOC/GEN/N05/487/60/PDF/N0548760.pdf?OpenElement},
+  Urldate                  = {2017-04-14}
 }
 
 @Article{valentine_1984,
