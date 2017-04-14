@@ -199,6 +199,18 @@
   Timestamp                = {2016.12.13}
 }
 
+@Article{bockmann_2004,
+  Title                    = {Forsteinrichtung–als {Institution} effektiv und unverzichtbar},
+  Author                   = {Böckmann, Thomas},
+  Journal                  = {Allgemeine Forst und Jagdzeitung},
+  Year                     = {2004},
+  Pages                    = {156--162},
+  Volume                   = {175},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.04.14}
+}
+
 @Article{bonyad_2012,
   Title                    = {Evaluation of non-destructive {Meyer} method for determination of bark volume of beech ({Fagus} orientalis {Lipsky}) in different geographical aspects},
   Author                   = {Bonyad, A. E. and Sima, A. and Bakhshandeh, A. and H., Dadras},
@@ -1795,7 +1807,7 @@ It was concluded that the position of neighbours' crowns were important in deter
   Timestamp                = {2017.03.01}
 }
 
-@Article{wacker_definition_1998,
+@Article{wacker_1998,
   Title                    = {A definition of theory: research guidelines for different theory-building research methods in operations management},
   Author                   = {Wacker, John G},
   Journal                  = {Journal of Operations Management},
