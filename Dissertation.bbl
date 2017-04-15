@@ -208,6 +208,12 @@ Genet, A., Wernsdörfer, H., Jonard, M., Pretzsch, H., Rauch, M., Ponette, Q.,
   biomass equations for {Fagus} sylvatica in central {Europe}.
 \newblock {\em Forest Ecology and Management}, 261(7), 1188--1202.
 
+\bibitem[Gorry \& Morton, 1971]{gorry_1971}
+Gorry, G.~A. \& Morton, M. S.~S. (1971).
+\newblock A framework for management information systems.
+\newblock In {\em Sloan {Management} {Review}}, volume~13  (pp.\ 21--30).
+  Massachusetts: Massachusetts Institute of Technology.
+
 \bibitem[Graham, 2003]{graham_2003}
 Graham, M.~H. (2003).
 \newblock Confronting multicollinearity in ecological multiple regression.
@@ -257,6 +263,13 @@ Hansen, J. \& Nagel, J. (2014).
 \newblock {\em Waldwachstumskundliche {Softwaresysteme} auf {Basis} von
   {TreeGrOSS}-{Anwendung} und theoretische {Grundlagen}}.
 \newblock Göttingen: Niedersächsische Staats-und Universitätsbibliothek.
+
+\bibitem[Hansen, 2012]{hansen_2012}
+Hansen, J.~H. (2012).
+\newblock {\em Modellbasierte Entscheidungsunterstützung für den Forstbetrieb:
+  Optimierung kurzfristiger Nutzungsoptionen und mittelfristiger Strategien
+  unter Verwendung metaheuristischer Verfahren und parallelen Rechnens}.
+\newblock Göttingen: Cuvillier, 1. aufl. edition.
 
 \bibitem[Hempel \& Oppenheim, 1948]{hempel_1948}
 Hempel, C.~G. \& Oppenheim, P. (1948).
@@ -604,6 +617,12 @@ Schröter, M., Härdtle, W., \& Oheimb, G.~v. (2012).
 \newblock Crown plasticity and neighborhood interactions of {European} beech
   ({Fagus} sylvatica {L}.) in an old-growth forest.
 \newblock {\em European Journal of Forest Research}, 131(3), 787--798.
+
+\bibitem[Shim et~al., 2002]{shim_2002}
+Shim, J.~P., Warkentin, M., Courtney, J.~F., Power, D.~J., Sharda, R., \&
+  Carlsson, C. (2002).
+\newblock Past, present, and future of decision support technology.
+\newblock {\em Decision Support Systems}, 33(2), 111--126.
 
 \bibitem[Simon, 1979]{simon_1979}
 Simon, H.~A. (1979).
