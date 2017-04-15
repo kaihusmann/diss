@@ -255,6 +255,19 @@
   Timestamp                = {2016.12.13}
 }
 
+@Book{bmu_2007,
+  Title                    = {National {Strategy} on {Biological} {Diversity}},
+  Author                   = {{BMU}},
+  Editor                   = {Küchler-Krischun, Jonna and Walter, Alfred Maria},
+  Publisher                = {Federal Ministry for the Environment, Nature Conservation and Nuclear Safety},
+  Year                     = {2007},
+
+  Address                  = {Berlin},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.04.15}
+}
+
 @Article{bockmann_2004,
   Title                    = {Forsteinrichtung - als {Institution} effektiv und unverzichtbar},
   Author                   = {Böckmann, Thomas},
@@ -878,23 +891,6 @@
 
   Owner                    = {kai},
   Timestamp                = {2016.12.13}
-}
-
-@Book{hansen_2014,
-  Title                    = {Waldwachstumskundliche {Softwaresysteme} auf {Basis} von {TreeGrOSS}: {Anwendung} und theoretische {Grundlagen}},
-  Author                   = {Hansen, Jan and Nagel, Jürgen},
-  Publisher                = {Univ.-Verl.},
-  Year                     = {2014},
-
-  Address                  = {Göttingen},
-  Series                   = {Beiträge aus der {Nordwestdeutschen} {Forstlichen} {Versuchsanstalt} / {Nordwestdeutsche} {Forstliche} {Versuchsanstalt}. - {Göttingen} : {Univ}.-{Verl}. {Göttingen}, 2007- ; 11Universitätsdrucke {Göttingen}},
-
-  File                     = {Library Catalog Entry Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/UITA5HV3/PPN.html:text/html},
-  ISBN                     = {978-3-86395-149-8},
-  Keywords                 = {Forstertrag / Software},
-  Owner                    = {kai},
-  Shorttitle               = {Waldwachstumskundliche {Softwaresysteme} auf {Basis} von {TreeGrOSS}},
-  Timestamp                = {2017.04.15}
 }
 
 @Book{hansen_2014,
