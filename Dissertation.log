@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  15 APR 2017 18:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  16 APR 2017 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Dissertation.tex
 (./Dissertation.tex
 LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 10 language(s) loaded.
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbook.cls
 Document Class: scrbook 2015/10/03 v3.19a KOMA-Script document class (book)
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -204,7 +204,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count90
 )
-(/usr/share/texmf/tex/latex/multibib/multibib.sty
+(/usr/share/texlive/texmf-dist/tex/latex/multibib/multibib.sty
 Package: multibib 2008/12/10 v1.4 Multiple bibliographies for one document.
 \mb@biblabelwidth=\count91
 )
@@ -260,7 +260,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
 )
-(/usr/share/texmf/tex/latex/picins/picins.sty
+(/usr/share/texlive/texmf-dist/tex/latex/picins/picins.sty
 Option `picins' Version 3.0 Sep. 1992, TH Darmstadt/HRZ
 \@BILD=\box28
 \@TEXT=\box29
@@ -363,7 +363,7 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 \f@ncyO@olf=\skip63
 \f@ncyO@orf=\skip64
 )
-(/usr/share/texmf/tex/latex/SIunits/SIunits.sty
+(/usr/share/texlive/texmf-dist/tex/latex/SIunits/SIunits.sty
 Package: SIunits 2007/12/02 v1.36 Support for the International System of units
  (MH)
 
@@ -378,7 +378,7 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen145
 ))
-(/usr/share/texmf/tex/latex/SIunits/SIunits.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/SIunits/SIunits.cfg)
 Option `squaren' provided!
 ) (/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
@@ -515,7 +515,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(/usr/share/texmf/tex/latex/algorithm2e/algorithm2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2013/01/06 v5.00 algorithms environments
 \c@AlgoLine=\count144
 \algocf@hangindent=\skip77
@@ -932,15 +932,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks43
 \@floatcapt=\box76
 )
-
-Package typearea Warning: \typearea used at group level 2.
-(typearea)                Using \typearea inside any group, e.g.
-(typearea)                environments, math mode, boxes, etc. may result in
-(typearea)                many type setting problems.
-(typearea)                You should move the command \typearea
-(typearea)                outside all groups on input line 78.
-
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 78.
+
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1345,31 +1338,17 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.10 
-      [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
-been already used, duplicate ignored
+      [2]pdfTeX warning (ext4): destination with the same identifier (name{page
+.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.38 D
-      espite all mentioned advantages, inference based decision support tool...
-[3] (./Grafiken/Introduction/flowchart_opt.tex)) (./hzb.tex
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 2.
-pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
-been already used, duplicate ignored
+l.17 
+      [3]pdfTeX warning (ext4): destination with the same identifier (name{page
+.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2 \chapter
-            {Mittelfristigem Anstieg folgt stetiger Rückgang - Zustand und E...
-[4]
+l.69 
+      [4] (./Grafiken/Introduction/flowchart_opt.tex)) (./hzb.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1379,6 +1358,15 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
  [5]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+ [6]
 chapter 2.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
@@ -1424,7 +1412,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 28.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 28.
-[6
+[7
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
@@ -1435,34 +1423,34 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 41.
- [7
-
-]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 47.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 47.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 56.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 56.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 64.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 64.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 64.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 64.
  [8
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 47.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 56.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 64.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 64.
+ [9
+
+]
+Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 69.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 69.
 
-<Grafiken/hzb/Abb_1_waldflaeche.pdf, id=515, 625.97867pt x 193.4427pt>
+<Grafiken/hzb/Abb_1_waldflaeche.pdf, id=520, 625.97867pt x 193.4427pt>
 File: Grafiken/hzb/Abb_1_waldflaeche.pdf Graphic file (type pdf)
 
 <use Grafiken/hzb/Abb_1_waldflaeche.pdf>
@@ -1470,18 +1458,18 @@ Package pdftex.def Info: Grafiken/hzb/Abb_1_waldflaeche.pdf used on input line
 79.
 (pdftex.def)             Requested size: 455.24411pt x 140.68068pt.
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_2_Buchenanteil.eps>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-08-22 09:26:27
 (epstopdf)                    size: 584101 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_2_Buchenanteil-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-12-12 18:03:19
 (epstopdf)                    size: 279833 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_2_Buchena
 nteil-eps-converted-to.pdf Grafiken/hzb/Abb_2_Buchenanteil.eps>
 (epstopdf)             \includegraphics on input line 91.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_2_Buchenanteil-eps-converted-to.pdf, id=527, 505.89pt x 505.8
+<Grafiken/hzb/Abb_2_Buchenanteil-eps-converted-to.pdf, id=532, 505.89pt x 505.8
 9pt>
 File: Grafiken/hzb/Abb_2_Buchenanteil-eps-converted-to.pdf Graphic file (type p
 df)
@@ -1497,7 +1485,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 98.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 98.
- [9 <./Grafiken/hzb/Abb_1_waldflaeche.pdf>]
+ [10 <./Grafiken/hzb/Abb_1_waldflaeche.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 98.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1506,20 +1494,20 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 98.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 98.
- [10 <./Grafiken/hzb/Abb_2_Buchenanteil-eps-converted-to.pdf>]
+ [11 <./Grafiken/hzb/Abb_2_Buchenanteil-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_3_Altersklassen.eps>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-08-22 09:45:52
 (epstopdf)                    size: 15270 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_3_Altersklassen-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-12-12 18:15:32
 (epstopdf)                    size: 13730 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_3_Altersk
 lassen-eps-converted-to.pdf Grafiken/hzb/Abb_3_Altersklassen.eps>
 (epstopdf)             \includegraphics on input line 108.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf, id=562, 505.89pt x 505.
+<Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf, id=566, 505.89pt x 505.
 89pt>
 File: Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -1535,7 +1523,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 114.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 114.
- [11]
+ [12]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 114.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1544,14 +1532,14 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 114.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 114.
- [12 <./Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf>]
+ [13 <./Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Ba
 umalter.eps>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-09-06 10:33:27
 (epstopdf)                    size: 6232 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Ba
 umalter-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-12-12 18:29:27
 (epstopdf)                    size: 10642 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_4_Zuwachs
 _Nutzung_nach_Baumalter-eps-converted-to.pdf Grafiken/hzb/Abb_4_Zuwachs_Nutzung
@@ -1559,7 +1547,7 @@ _nach_Baumalter.eps>
 (epstopdf)             \includegraphics on input line 134.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Baumalter-eps-converted-to.pdf, id=594
+<Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Baumalter-eps-converted-to.pdf, id=598
 , 505.89pt x 337.26pt>
 File: Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Baumalter-eps-converted-to.pdf Gr
 aphic file (type pdf)
@@ -1582,14 +1570,14 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 141.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 141.
-[13]
+[14]
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_5_Schutzgebietsauflagen.e
 ps>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-08-29 14:20:11
 (epstopdf)                    size: 7373 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_5_Schutzgebietsauflagen-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-12-12 18:29:28
 (epstopdf)                    size: 11913 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_5_Schutzg
 ebietsauflagen-eps-converted-to.pdf Grafiken/hzb/Abb_5_Schutzgebietsauflagen.ep
@@ -1597,7 +1585,7 @@ s>
 (epstopdf)             \includegraphics on input line 145.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_5_Schutzgebietsauflagen-eps-converted-to.pdf, id=605, 505.89p
+<Grafiken/hzb/Abb_5_Schutzgebietsauflagen-eps-converted-to.pdf, id=609, 505.89p
 t x 289.08pt>
 File: Grafiken/hzb/Abb_5_Schutzgebietsauflagen-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -1614,7 +1602,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 152.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 152.
- [14 <./Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Baumalter-eps-converted-to.pdf>
+ [15 <./Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Baumalter-eps-converted-to.pdf>
 ]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 161.
@@ -1624,20 +1612,20 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 161.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 161.
- [15 <./Grafiken/hzb/Abb_5_Schutzgebietsauflagen-eps-converted-to.pdf>]
+ [16 <./Grafiken/hzb/Abb_5_Schutzgebietsauflagen-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_6_Prognose_Vorrat.eps>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-09-06 10:38:06
 (epstopdf)                    size: 7310 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-12-12 18:38:31
 (epstopdf)                    size: 11171 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_6_Prognos
 e_Vorrat-eps-converted-to.pdf Grafiken/hzb/Abb_6_Prognose_Vorrat.eps>
 (epstopdf)             \includegraphics on input line 167.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-converted-to.pdf, id=634, 505.89pt x 50
+<Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-converted-to.pdf, id=638, 505.89pt x 50
 5.89pt>
 File: Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -1651,11 +1639,11 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 180.
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_7_Prognose_aus_Bestand.ep
 s>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-09-06 10:35:52
 (epstopdf)                    size: 6489 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_7_Prognose_aus_Bestand-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2017-01-12 16:30:38
+(epstopdf)                    date: 2016-12-12 18:38:32
 (epstopdf)                    size: 11459 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_7_Prognos
 e_aus_Bestand-eps-converted-to.pdf Grafiken/hzb/Abb_7_Prognose_aus_Bestand.eps>
@@ -1663,7 +1651,7 @@ e_aus_Bestand-eps-converted-to.pdf Grafiken/hzb/Abb_7_Prognose_aus_Bestand.eps>
 (epstopdf)             \includegraphics on input line 187.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf, id=639, 505.89pt
+<Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf, id=643, 505.89pt
  x 505.89pt>
 File: Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -1680,7 +1668,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 194.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 194.
- [16]
+ [17]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 194.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1690,7 +1678,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 194.
 
-[17 <./Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-converted-to.pdf>]
+[18 <./Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-converted-to.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 194.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1699,7 +1687,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 194.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 194.
- [18 <./Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf>]
+ [19 <./Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf>]
 Underfull \vbox (badness 1365) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
@@ -1710,8 +1698,8 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 198.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 198.
- [19])
-(./bm.tex [20]
+ [20])
+(./bm.tex [21]
 chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -1728,24 +1716,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
-[21
+[22
 
-] [22] [23
+] [23] [24
 
-] [24]
+] [25]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_1_Locations.eps>
-(epstopdf)                    date: 2016-12-09 14:16:36
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 2145667 bytes
 (epstopdf)             Output file: <Grafiken/bm/Fig_1_Locations-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2017-02-28 19:30:48
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 1315520 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_1_Location
 s-eps-converted-to.pdf Grafiken/bm/Fig_1_Locations.eps>
 (epstopdf)             \includegraphics on input line 85.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf, id=798, 505.89pt x 650.43pt>
+<Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf, id=802, 505.89pt x 650.43pt>
 File: Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf Graphic file (type pdf)
 <use Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf used 
@@ -1759,17 +1747,17 @@ LaTeX Warning: No positions in optional float specifier.
 
 Underfull \vbox (badness 5446) has occurred while \output is active []
 
- [25]
-[26 <./Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf>]
+ [26]
+[27 <./Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf>]
 Underfull \vbox (badness 7047) has occurred while \output is active []
 
- [27]
-[28]
+ [28]
+[29]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 171.
 
-[29]
+[30]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 207.
@@ -1778,20 +1766,20 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 257.
 
-[30] [31]
+[31] [32]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_2_Regression_curves.eps>
-(epstopdf)                    date: 2016-12-09 14:18:46
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 179935 bytes
 (epstopdf)             Output file: <Grafiken/bm/Fig_2_Regression_curves-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2017-03-01 16:22:42
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 71516 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_2_Regressi
 on_curves-eps-converted-to.pdf Grafiken/bm/Fig_2_Regression_curves.eps>
 (epstopdf)             \includegraphics on input line 284.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf, id=941, 578.16pt x 1
+<Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf, id=945, 578.16pt x 1
 084.05pt>
 File: Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -1803,20 +1791,20 @@ df used on input line 284.
 
 LaTeX Warning: Float too large for page by 32.07385pt on input line 287.
 
-[32] [33 <./Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf>]
+[33] [34 <./Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_3_Fraction_Biomass.eps>
-(epstopdf)                    date: 2017-02-03 15:45:14
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 1227996 bytes
 (epstopdf)             Output file: <Grafiken/bm/Fig_3_Fraction_Biomass-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2017-03-01 16:34:15
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 263049 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_3_Fraction
 _Biomass-eps-converted-to.pdf Grafiken/bm/Fig_3_Fraction_Biomass.eps>
 (epstopdf)             \includegraphics on input line 301.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf, id=956, 505.89pt x 43
+<Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf, id=960, 505.89pt x 43
 3.62pt>
 File: Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -1829,7 +1817,7 @@ f used on input line 301.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 314.
 
-[34]
+[35]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 342.
@@ -1839,20 +1827,20 @@ Overfull \hbox (12.31271pt too wide) in paragraph at lines 346--382
  [][] 
  []
 
-[35 <./Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf>]
+[36 <./Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_4_nutrient_eff_1.eps>
-(epstopdf)                    date: 2017-03-02 11:15:20
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 5617 bytes
 (epstopdf)             Output file: <Grafiken/bm/Fig_4_nutrient_eff_1-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2017-03-02 11:18:16
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 7369 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_4_nutrient
 _eff_1-eps-converted-to.pdf Grafiken/bm/Fig_4_nutrient_eff_1.eps>
 (epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf, id=977, 650.43pt x 361.
+<Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf, id=981, 650.43pt x 361.
 35pt>
 File: Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -1861,18 +1849,18 @@ Package pdftex.def Info: Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf
 used on input line 388.
 (pdftex.def)             Requested size: 455.24411pt x 252.92122pt.
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_5_nutrient_eff_2.eps>
-(epstopdf)                    date: 2017-03-02 11:15:20
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 5682 bytes
 (epstopdf)             Output file: <Grafiken/bm/Fig_5_nutrient_eff_2-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2017-03-02 11:19:06
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 7556 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_5_nutrient
 _eff_2-eps-converted-to.pdf Grafiken/bm/Fig_5_nutrient_eff_2.eps>
 (epstopdf)             \includegraphics on input line 397.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf, id=981, 650.43pt x 361.
+<Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf, id=985, 650.43pt x 361.
 35pt>
 File: Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -1883,10 +1871,10 @@ used on input line 397.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36]
-[37] [38 <./Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf> <./Grafiken/
-bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf>] [39] [40] [41] [42])
-(./beech_crowns.tex [43]
+ [37]
+[38] [39 <./Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf> <./Grafiken/
+bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf>] [40] [41] [42] [43])
+(./beech_crowns.tex [44]
 chapter 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -1898,18 +1886,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--9
 
  []
 
-[44
+[45
 
-] [45] [46
+] [46] [47
 
-] [47]
+] [48]
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_1_plot_locations
 .eps>
-(epstopdf)                    date: 2017-01-03 18:01:38
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 2139702 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_1_plot_locations
 -eps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-13 11:50:18
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 1314962 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 1_plot_locations-eps-converted-to.pdf Grafiken/beech_crowns/Fig_1_plot_location
@@ -1917,7 +1905,7 @@ s.eps>
 (epstopdf)             \includegraphics on input line 70.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf, id=1228, 505.
+<Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf, id=1232, 505.
 89pt x 650.43pt>
 File: Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -1938,16 +1926,16 @@ LaTeX Warning: No positions in optional float specifier.
 
 Underfull \vbox (badness 1173) has occurred while \output is active []
 
- [48]
-[49 <./Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf>]
-[50]
+ [49]
+[50 <./Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf>]
+[51]
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_2_relative_volum
 e_amount.eps>
-(epstopdf)                    date: 2016-12-19 10:26:50
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 9917 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_2_relative_volum
 e_amount-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-13 14:17:34
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 8951 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 2_relative_volume_amount-eps-converted-to.pdf Grafiken/beech_crowns/Fig_2_relat
@@ -1956,7 +1944,7 @@ ive_volume_amount.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf, id=12
-81, 903.375pt x 325.215pt>
+86, 903.375pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf G
 raphic file (type pdf)
 
@@ -1965,25 +1953,25 @@ Package pdftex.def Info: Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps
 -converted-to.pdf used on input line 162.
 (pdftex.def)             Requested size: 455.24411pt x 163.89235pt.
 
-[51]
+[52]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [52 <./Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf
+ [53 <./Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [53]
+ [54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [54]
-[55]
+ [55]
+[56]
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_3_bark_thickness
 .eps>
-(epstopdf)                    date: 2016-06-14 12:45:03
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 11171 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_3_bark_thickness
 -eps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-13 16:54:00
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 15275 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 3_bark_thickness-eps-converted-to.pdf Grafiken/beech_crowns/Fig_3_bark_thicknes
@@ -1991,7 +1979,7 @@ s.eps>
 (epstopdf)             \includegraphics on input line 267.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf, id=1426, 325.
+<Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf, id=1430, 325.
 215pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -2008,7 +1996,7 @@ LaTeX Warning: No positions in optional float specifier.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [56 <./Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf>]
+ [57 <./Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 302.
@@ -2017,18 +2005,18 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 323.
 
-[57]
+[58]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 355.
 
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_4_marginal_retur
 n.eps>
-(epstopdf)                    date: 2016-06-14 12:46:52
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 10574 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_4_marginal_retur
 n-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-13 17:38:14
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 12567 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 4_marginal_return-eps-converted-to.pdf Grafiken/beech_crowns/Fig_4_marginal_ret
@@ -2036,7 +2024,7 @@ urn.eps>
 (epstopdf)             \includegraphics on input line 373.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf, id=1457, 325
+<Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf, id=1461, 325
 .215pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf Graphic 
 file (type pdf)
@@ -2045,14 +2033,14 @@ file (type pdf)
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_4_marginal_return-eps-conver
 ted-to.pdf used on input line 373.
 (pdftex.def)             Requested size: 227.62206pt x 227.62909pt.
- [58]
+ [59]
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_5_left_elasticit
 y_cost_revenue.eps>
-(epstopdf)                    date: 2016-06-14 10:43:21
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 5307 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_5_left_elasticit
 y_cost_revenue-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-16 10:31:23
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 6773 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 5_left_elasticity_cost_revenue-eps-converted-to.pdf Grafiken/beech_crowns/Fig_5
@@ -2061,7 +2049,7 @@ _left_elasticity_cost_revenue.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to.pdf,
- id=1466, 505.89pt x 505.89pt>
+ id=1470, 505.89pt x 505.89pt>
 File: Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to
 .pdf Graphic file (type pdf)
 
@@ -2072,11 +2060,11 @@ ue-eps-converted-to.pdf used on input line 382.
 (pdftex.def)             Requested size: 223.07211pt x 223.07088pt.
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_5_right_small-en
 d_diameter_boxplot.eps>
-(epstopdf)                    date: 2016-06-14 10:41:12
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 7338 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_5_right_small-en
 d_diameter_boxplot-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-16 10:32:59
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 6931 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 5_right_small-end_diameter_boxplot-eps-converted-to.pdf Grafiken/beech_crowns/F
@@ -2085,7 +2073,7 @@ ig_5_right_small-end_diameter_boxplot.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converted-to.
-pdf, id=1467, 505.89pt x 505.89pt>
+pdf, id=1471, 505.89pt x 505.89pt>
 File: Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converte
 d-to.pdf Graphic file (type pdf)
 
@@ -2101,18 +2089,18 @@ eech [m$[]$] (un-der bark) $\OML/lmm/m/it/10.95 V[]$\T1/lmr/m/n/10.95 , modeled
 
  []
 
-[59 <./Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf>]
+[60 <./Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 399.
 
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_6_allometric_rel
 ationships.eps>
-(epstopdf)                    date: 2016-06-14 10:47:41
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 51740 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_6_allometric_rel
 ationships-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-16 11:13:52
+(epstopdf)                    date: 2017-03-03 21:18:56
 (epstopdf)                    size: 91336 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 6_allometric_relationships-eps-converted-to.pdf Grafiken/beech_crowns/Fig_6_all
@@ -2121,7 +2109,7 @@ ometric_relationships.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf, id=
-1483, 650.43pt x 650.43pt>
+1487, 650.43pt x 650.43pt>
 File: Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf
  Graphic file (type pdf)
 
@@ -2129,9 +2117,9 @@ File: Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_6_allometric_relationships-e
 ps-converted-to.pdf used on input line 426.
 (pdftex.def)             Requested size: 455.24411pt x 455.2582pt.
-[60 <./Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-t
+[61 <./Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-t
 o.pdf> <./Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-conv
-erted-to.pdf>] [61 <./Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-
+erted-to.pdf>] [62 <./Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-
 converted-to.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
@@ -2140,12 +2128,12 @@ LaTeX Warning: No positions in optional float specifier.
 
 Underfull \vbox (badness 1910) has occurred while \output is active []
 
- [62]
-[63] [64]
+ [63]
+[64] [65]
 Underfull \vbox (badness 6625) has occurred while \output is active []
 
- [65]
-[66]) (./opt.tex [67]
+ [66]
+[67]) (./opt.tex [68]
 chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -2162,27 +2150,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
 
-[68
+[69
 
-] [69]) (./Discussion.tex [70
+] [70]) (./Discussion.tex [71
 
 ]
 chapter 6.
-) (./Summary.tex [71
+) (./Summary.tex [72
 
 ]
 chapter 7.
-) (./Zusammenfassung.tex [72
+) (./Zusammenfassung.tex [73
 
 ]
 chapter 8.
-) (./Literatur.tex (./Dissertation.bbl [73
+) (./Literatur.tex (./Dissertation.bbl [74
 
 ]
 chapter without number
-[74
+[75
 
-] [75] [76]
+] [76] [77]
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 359.
 
  (/usr/share/texmf/tex/latex/lm/omslmr.fd
@@ -2190,11 +2178,11 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 359.
- [77] [78] [79]
-[80] [81] [82])) [83] (./Curriculum.tex
+ [78] [79] [80]
+[81] [82] [83])) [84] (./Curriculum.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [84]
+ [85]
 Overfull \hbox (1.23639pt too wide) in alignment at lines 7--14
 [][]
  []
@@ -2214,7 +2202,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--183
 
  []
 
-[85]
+[86]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
  (./Dissertation.aux)
@@ -2223,39 +2211,35 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
 Package rerunfilecheck Info: File `Dissertation.out' has not changed.
 (rerunfilecheck)             Checksum: A925C0F7E3FBA6579749E12AD430B4BF;2127.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 183.
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 1061 ({)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 27323 strings out of 494860
- 520862 string characters out of 6177603
- 718299 words of memory out of 5000000
- 29633 multiletter control sequences out of 15000+600000
+ 27324 strings out of 493029
+ 521051 string characters out of 6136234
+ 714986 words of memory out of 5000000
+ 29861 multiletter control sequences out of 15000+600000
  107023 words of font info for 80 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 64i,24n,69p,4863b,16497s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texm
-f/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-math
-sy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/e
-nc/dvips/lm/lm-mathex.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/eur
-osym/feymr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share
-/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
-/lmbx8.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
-10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf/font
-s/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmmib10.pfb
-></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type
-1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri8.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy
-6.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Dissertation.pdf (95 pages, 4070222 bytes).
+ 1141 hyphenation exceptions out of 8191
+ 64i,24n,69p,5122b,944s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
+-mathex.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/eurosym/feymr10.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx8.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/
+public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/s
+hare/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmmib10.pfb></usr/share/t
+exmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+r12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/font
+s/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb><
+/usr/share/texmf/fonts/type1/public/lm/lmri8.pfb></usr/share/texmf/fonts/type1/
+public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/sh
+are/texmf/fonts/type1/public/lm/lmsy8.pfb>
+Output written on Dissertation.pdf (96 pages, 4073655 bytes).
 PDF statistics:
- 1856 PDF objects out of 2073 (max. 8388607)
- 1666 compressed objects within 17 object streams
- 381 named destinations out of 1000 (max. 500000)
+ 1860 PDF objects out of 2073 (max. 8388607)
+ 1669 compressed objects within 17 object streams
+ 382 named destinations out of 1000 (max. 500000)
  348 words of extra memory for PDF output out of 10000 (max. 10000000)
 
