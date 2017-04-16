@@ -1796,6 +1796,28 @@ Verbraucherschutz},
   Timestamp                = {2017.04.15}
 }
 
+@InCollection{reynolds_2008,
+  Title                    = {Decision {Support} {Systems} in {Forest} {Management}},
+  Author                   = {Reynolds, Keith M. and Twery, Mark and Lexer, Manfred J. and Vacik, Harald and Ray, Duncan and Shao, Guofan and Borges, Jose G.},
+  Booktitle                = {Handbook on {Decision} {Support} {Systems} 2},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2008},
+  Note                     = {DOI: 10.1007/978-3-540-48716-6\_24},
+  Pages                    = {499--533},
+  Series                   = {International {Handbooks} {Information} {System}},
+
+  Abstract                 = {Numerous decision support systems have been developed for forest management over the past 20 years or more. In this chapter, the authors briefly review some of the more important and recent developments, including examples from North America, Europe, and Asia. In addition to specific systems, we also review some of the more-significant methodological approaches such as artificial neural networks, knowledge-based systems, and multicriteria decision models. A basic conclusion that emerges from this review is that the availability of DSSs in forest management has enabled more-effective analysis of the options for and implications of alternative management approaches for all components of forest ecosystems. The variety of tools described herein, and the approaches taken by the different systems, provide a sample of the possible methods that can be used to help stakeholders and decision makers arrive at reasoned and reasonable decisions.},
+  Copyright                = {©2008 Springer-Verlag Berlin Heidelberg},
+  File                     = {Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/ZVAPNXFF/10.html:text/html},
+  ISBN                     = {978-3-540-48715-9 978-3-540-48716-6},
+  Keywords                 = {Business Mathematics, IT in Business, Operation Research/Decision Theory},
+  Language                 = {en},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.04.15},
+  Url                      = {http://link.springer.com/chapter/10.1007/978-3-540-48716-6_24},
+  Urldate                  = {2017-04-15}
+}
+
 @Book{roloff_1986,
   Title                    = {Morphologie der {Kronenentwicklung} von {Fagus} sylvatica {L}. ({Rotbuche}) unter besonderer {Berücksichtigung} möglicherweise neuartiger {Veränderungen}},
   Author                   = {Roloff, Andreas},
@@ -2175,12 +2197,14 @@ Verbraucherschutz},
   Title                    = {Third {National} {Forest} {Inventory} - {Database}},
 
   Author                   = {{TI}},
+  HowPublished             = {{\url{https://bwi.info/}}},
+  Note                     = {{accessed: 13 January 2017}},
   Year                     = {2014},
 
   Journal                  = {Thünen Institute},
+  Organization             = {Thünen Institute},
   Owner                    = {khusman1},
   Timestamp                = {2017.01.13},
-  Url                      = {https://bwi.info/},
   Urldate                  = {2016-05-06}
 }
 

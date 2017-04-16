@@ -17,16 +17,16 @@ Warning--there's a number but no volume in saborowski_1999
 Warning--there's a number but no series in un_2005
 You've used 126 entries,
             2229 wiz_defined-function locations,
-            1225 strings with 28156 characters,
-and the built_in function-call counts, 49454 in all, are:
-= -- 4864
+            1227 strings with 28214 characters,
+and the built_in function-call counts, 49472 in all, are:
+= -- 4868
 > -- 1981
 < -- 112
 + -- 671
 - -- 660
 * -- 4253
-:= -- 8621
-add.period$ -- 392
+:= -- 8625
+add.period$ -- 394
 call.type$ -- 126
 change.case$ -- 925
 chr.to.int$ -- 125
@@ -34,13 +34,13 @@ cite$ -- 138
 duplicate$ -- 1883
 empty$ -- 3469
 format.name$ -- 844
-if$ -- 9651
+if$ -- 9655
 int.to.chr$ -- 2
 int.to.str$ -- 0
 missing$ -- 161
-newline$ -- 634
+newline$ -- 636
 num.names$ -- 380
-pop$ -- 819
+pop$ -- 817
 preamble$ -- 1
 purify$ -- 958
 quote$ -- 0
@@ -55,5 +55,5 @@ type$ -- 674
 warning$ -- 12
 while$ -- 416
 width$ -- 0
-write$ -- 1667
+write$ -- 1671
 (There were 12 warnings)

@@ -129,8 +129,8 @@ Chambers, J.~M. \& Hastie, T.~J. (1992).
 Churchman, C.~W., Ackoff, R.~L., \& Arnoff, E.~L. (1957).
 \newblock {\em Introduction to operations research}.
 \newblock New York, London: John Wiley \& Sons, Inc., Chapman \& Hall, Ltd.,
-  accessed via http://archive.org/details/introductiontooOOchur on 4 April
-  2017.
+  accessed via \url{http://archive.org/details/introductiontooOOchur} on 4
+  April 2017.
 
 \bibitem[Cienciala et~al., 2005]{cienciala_2005}
 Cienciala, E., Apltauer, J., Cerny, M., \& Exnerová, Z. (2005).
@@ -696,6 +696,8 @@ Thurnher, C., Gerritzen, T., Maroschek, M., Lexer, M.~J., \& Hasenauer, H.
 \bibitem[{TI}, 2014]{ti_2014}
 {TI} (2014).
 \newblock Third {National} {Forest} {Inventory} - {Database}.
+\newblock {\url{https://bwi.info/}}.
+\newblock {accessed: 13 January 2017}.
 
 \bibitem[Umeki, 1995]{umeki_1995}
 Umeki, K. (1995).
