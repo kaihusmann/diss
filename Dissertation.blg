@@ -5,6 +5,7 @@ The style file: apalike2.bst
 Database file #1: Dissertation.bib
 Warning--empty publisher in block_2012
 Warning--empty publisher in block_2013
+Warning--empty publisher in bmel_2016
 Warning--can't use both author and editor fields in bmu_2007
 Warning--can't use both author and editor fields in gauer_2012
 Warning--empty publisher in haarhaus_2012
@@ -15,45 +16,45 @@ Warning--empty publisher in neumann-spallart_1952
 Warning--there's a number but no volume in pretzsch_2014
 Warning--there's a number but no volume in saborowski_1999
 Warning--there's a number but no series in un_2005
-You've used 126 entries,
+You've used 135 entries,
             2229 wiz_defined-function locations,
-            1227 strings with 28214 characters,
-and the built_in function-call counts, 49472 in all, are:
-= -- 4868
-> -- 1981
-< -- 112
-+ -- 671
-- -- 660
-* -- 4253
-:= -- 8625
-add.period$ -- 394
-call.type$ -- 126
-change.case$ -- 925
-chr.to.int$ -- 125
-cite$ -- 138
-duplicate$ -- 1883
-empty$ -- 3469
-format.name$ -- 844
-if$ -- 9655
-int.to.chr$ -- 2
+            1271 strings with 30359 characters,
+and the built_in function-call counts, 53328 in all, are:
+= -- 5244
+> -- 2155
+< -- 119
++ -- 732
+- -- 720
+* -- 4594
+:= -- 9294
+add.period$ -- 423
+call.type$ -- 135
+change.case$ -- 998
+chr.to.int$ -- 133
+cite$ -- 148
+duplicate$ -- 2020
+empty$ -- 3730
+format.name$ -- 919
+if$ -- 10406
+int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 161
-newline$ -- 636
-num.names$ -- 380
-pop$ -- 817
+missing$ -- 171
+newline$ -- 682
+num.names$ -- 407
+pop$ -- 880
 preamble$ -- 1
-purify$ -- 958
+purify$ -- 1033
 quote$ -- 0
-skip$ -- 1400
+skip$ -- 1503
 stack$ -- 0
-substring$ -- 3337
-swap$ -- 246
-text.length$ -- 32
+substring$ -- 3607
+swap$ -- 264
+text.length$ -- 33
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 674
-warning$ -- 12
-while$ -- 416
+type$ -- 724
+warning$ -- 13
+while$ -- 446
 width$ -- 0
-write$ -- 1671
-(There were 12 warnings)
+write$ -- 1791
+(There were 13 warnings)

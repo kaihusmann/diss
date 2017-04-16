@@ -77,12 +77,28 @@ Block, J., Meiwes, K.~J., Bachmann, G., König, W., \& Utermann, J. (2013).
 \newblock Bundesministerium für Ernährung, Landwirtschaft und
   Verbraucherschutz.
 
-\bibitem[{BMEL}, 2014]{bmel_2014}
-{BMEL} (2014).
+\bibitem[{BMEL}, 2014a]{bmel_2014}
+{BMEL} (2014a).
 \newblock {\em Der {Wald} in {Deutschland} - {Ausgewählte} {Ergebnisse} der
   dritten {Bundeswaldinventur}}.
 \newblock Berlin: Bundesministerium für Verbraucherschutz, Ernährung und
   Landwirtschaft.
+
+\bibitem[{BMEL}, 2014b]{bmel_2014b}
+{BMEL} (2014b).
+\newblock {\em Nationale {Politikstrategie} {Bioökonomie} - {Nachwachsende}
+  {Ressourcen} und biotechnologische {Verfahren} als {Basis} für {Ernährung},
+  {Industrie} und {Energie}}.
+\newblock Berlin: Bundesministerium für Ernährung und Landwirtschaft.
+
+\bibitem[{BMEL}, 2016]{bmel_2016}
+{BMEL} (2016).
+\newblock {\em Wald und {Rohholzpotenzial} der nächsten 40 {Jahre} -
+  {Ausgewählte} {Ergebnisse} der {Waldentwicklungs}- und
+  {Holzaufkommensmodellierung} 2013 bis 2052}.
+\newblock Berlin.
+\newblock Bundesministerium für Ernährung, Landwirtschaft und
+  Verbraucherschutz.
 
 \bibitem[{BMU}, 2007]{bmu_2007}
 {BMU} (2007).
@@ -143,6 +159,12 @@ Davis, L.~S., Johnson, K.~N., Bettinger, P., \& Howard, T.~E. (2001).
   and {Social} {Values}}.
 \newblock New York: McGraw-Hill Higher Education, 4 edition.
 
+\bibitem[de~Besi \& McCormick, 2015]{debesi_2015}
+de~Besi, M. \& McCormick, K. (2015).
+\newblock Towards a {Bioeconomy} in {Europe}: {National}, {Regional} and
+  {Industrial} {Strategies}.
+\newblock {\em Sustainability}, 7(8), 10461--10478.
+
 \bibitem[Degenhard, 2016]{degenhard_2016}
 Degenhard, M. (2016).
 \newblock Holzmarkt - {Schnittholznachfrage} stabilisiert.
@@ -162,6 +184,13 @@ Eckmüllner, O. (2006).
   spruce and {Scots} pine in {Austria}.
 \newblock {\em Austrian Journal of Forest Science}, 123(1-2), 7--15.
 
+\bibitem[Efken et~al., 2012]{efken_2012}
+Efken, J., Banse, M., Rothe, A., Dieter, M., Dirksmeyer, W., Ebeling, M.,
+  Fluck, K., Hansen, H., Kreins, P., Seintsch, B., \& {others} (2012).
+\newblock {\em Volkswirtschaftliche {Bedeutung} der biobasierten {Wirtschaft}
+  in {Deutschland}}.
+\newblock Technical report, Arbeitsberichte aus der vTI-Agrarökonomie.
+
 \bibitem[Ekman et~al., 2013]{ekman_2013}
 Ekman, A., Campos, M., Lindahl, S., Co, M., Börjesson, P., Karlsson, E.~N., \&
   Turner, C. (2013).
@@ -169,6 +198,11 @@ Ekman, A., Campos, M., Lindahl, S., Co, M., Börjesson, P., Karlsson, E.~N., \&
   value-added biorefinery concepts - two case studies from food and forest
   industry.
 \newblock {\em Journal of Cleaner Production}, 57, 46--58.
+
+\bibitem[El-Chichakli et~al., 2016]{elchichakli_2016}
+El-Chichakli, B., von Braun, J., Lang, C., Barben, D., \& Philp, J. (2016).
+\newblock Policy: {Five} cornerstones of a global bioeconomy.
+\newblock {\em Nature News}, 535(7611), 221.
 
 \bibitem[{FACG}, 2014]{facg_2014}
 {FACG} (2014).
@@ -322,6 +356,12 @@ Hochbichler, E., Bellos, P., \& Lick, E. (2006).
   beech ({Fagus} sylvatica) and oak ({Quercus} robur and petraea).
 \newblock {\em Centralblatt für das gesamte Forstwesen (Austrian Journal of
   Forest Sciences)}, (123), 35--46.
+
+\bibitem[Hoganson \& Meyer, 2015]{hoganson_2015}
+Hoganson, H.~M. \& Meyer, N.~G. (2015).
+\newblock Constrained {Optimization} for {Addressing} {Forest}-{Wide} {Timber}
+  {Production}.
+\newblock {\em Current Forestry Reports}, 1(1), 33--43.
 
 \bibitem[How et~al., 2016]{how_2016}
 How, B.~S., Tan, K.~Y., \& Lam, H.~L. (2016).
@@ -507,6 +547,17 @@ Müller-Using, B. \& Rademacher, P. (2004).
 \newblock In {\em Berichte des {Forschungszentrums} {Waldökosysteme}}, volume
   Band 71 of {\em Reihe {B}}  (pp.\ 81--110). Göttingen.
 
+\bibitem[Nagel, 2009]{nagel_2009}
+Nagel, J. (2009).
+\newblock Waldwachstumssimulation mit dem {Java} {Software} {Paket}
+  {TreeGrOSS}- {Neuerungen}, {Erweiterungsmöglichkeiten} und
+  {Qualitätsmamagement}.
+\newblock In {\em Tagungsband der gemainsamen {Jahrestagung} der {Sektion}
+  {Forstliche} {Biometrie} und {Informatik} im {DVFFA} (20. {Tagung}) und der
+  {AG} Ökologie u. {Umwelt} in der {Intern}. {Biometrie} {Gesellschaft}}, Die
+  {Grüne} {Reihe}  (pp.\ 174-- 178). Nordwestdeutsche Forstliche
+  Versuchsanstalt.
+
 \bibitem[Nagel \& Spellmann, 2008]{nagel_2008}
 Nagel, R.-V. \& Spellmann, H. (2008).
 \newblock Wachstum, {Behandlung} und {Ertrag} von {Reinbeständen} der
@@ -557,6 +608,12 @@ Pretzsch, H. \& Dieler, J. (2012).
 \newblock Evidence of variant intra- and interspecific scaling of tree crown
   structure and relevance for allometric theory.
 \newblock {\em Oecologia}, 169(3), 637--649.
+
+\bibitem[Pretzsch et~al., 2008]{pretzsch_2008}
+Pretzsch, H., Grote, R., Reineking, B., Rötzer, T., \& Seifert, S. (2008).
+\newblock Models for {Forest} {Ecosystem} {Management}: {A} {European}
+  {Perspective}.
+\newblock {\em Annals of Botany}, 101(8), 1065--1087.
 
 \bibitem[{R Core Team}, 2016]{r_core_team_2016}
 {R Core Team} (2016).
@@ -787,6 +844,13 @@ Wördehoff, R., Spellmann, H., Evers, J., \& Nagel, J. (2011).
   of {\em Beiträge aus der {Nordwestdeutschen} {Forstlichen}
   {Versuchsanstalt}}.
 \newblock Göttingen: Univ.-Verl. Göttingen.
+
+\bibitem[Yousefpour \& Hanewinkel, 2009]{yousefpour_2009}
+Yousefpour, R. \& Hanewinkel, M. (2009).
+\newblock Modelling of forest conversion planning with an adaptive
+  simulation-optimization approach and simultaneous consideration of the values
+  of timber, carbon and biodiversity.
+\newblock {\em Ecological Economics}, 68(6), 1711--1722.
 
 \bibitem[Zianis et~al., 2005]{zianis_2005}
 Zianis, D., Muukonen, P., Mäkipää, R., \& Mencuccini, M. (2005).
