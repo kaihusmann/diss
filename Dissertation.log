@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  17 APR 2017 17:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  17 APR 2017 18:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1355,16 +1355,7 @@ l.20
 Underfull \vbox (badness 3428) has occurred while \output is active []
 
  [5]
-(./Grafiken/Introduction/flowchart_opt.tex)) (./hzb.tex
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 2.
- [6]
+[6] (./Grafiken/Introduction/flowchart_opt.tex)) (./hzb.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2250,7 +2241,7 @@ s/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb><
 public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmtt10.pfb>
-Output written on Dissertation.pdf (98 pages, 4107403 bytes).
+Output written on Dissertation.pdf (98 pages, 4108337 bytes).
 PDF statistics:
  1942 PDF objects out of 2073 (max. 8388607)
  1747 compressed objects within 18 object streams
