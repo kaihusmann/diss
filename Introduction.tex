@@ -40,20 +40,18 @@ The model, explained in chapter \ref{chap:beech_crowns} shows higher degree of d
 
 \subsection{Flexible Global Optimization with Simulated-Annealing}
 \label{subsec:intro:struct:opt}
+Despite the mentioned advantages, combined simulation-optimization models recently play only minor role in Germany. As the demands for wood as well as for further ecosystem benefits is steadily rising, forest planning becomes increasingly more complex. Combined methods DSS can be useful tool for practical foresters to optimize thinning activities in terms of intensity and time. International examples have shown that combined methods have opportunity to support forest planning such that continuously available wood potential can be increased without violating the concept sustainability. Looking at formal optimization techniques for decision support of forest activities therefore seems to be worthwhile.
+
+
+ We present an optimization software as DSS for forest thinning activities on operational level which is specifically adopted to German characteristics.
+
 heuristics (huys p. 93)
-Diese Netzwerk braucht DSS für viele Dinge, ...
-Da Resourcen begrenzt aber bioeconomy ansteigen soll, sind Optimierungsmodelle umso wichtiger
-Optimization methods in particular have opportunity 
-Despite all mentioned advantages, inference based decision support tools play only minor role in Germany. While forest growth and yield simulation softwares are  applied in forest mensuration 
-Oprimierungsmethoden werden in der Forstplanung der USA und Finland seit ... angewendet, in D bisher nicht. Hoganson \& Meyer
-... Behandlungsoptimierung wird möglich 
-Currently no user front-end...
-They are hence interesting for most every thinkable decision in forestry framework. Forest growth simulation based optimization models initially appeared in the 1980s. Early models were rather if-then calculation than 
 
-Optimization is useful to program sustainability \citep[p. 15]{kangas_2015}
-OM eignen sich gut für die Entscheidungsunterstützung, weil sie mehrere Kriterien berücksichtigen können. ... Unsere Anwendung optimier die ökon. Funkt. und berücksichtig Nachhaltigkeit als ...
+Hoganson \& Meyer ???
 
-Although the advantages of Decision Support Systems (DSS) are widely known and often discussed in forest-science literature, optimization procedures are recently seldom used in Germany. The forest management nowadays widely bases on expert knowledge and decades of experience. The strategic forest treatment is usually ruled by very detailed and long established forest programs. As the demands for wood as well as for further ecosystem benefits is steadily rising, forest planning becomes increasingly more complex. Looking at formal optimization techniques for decision support of forest activities, as they are already performed in foreign countries, therefore seems to be worthwhile. We present an optimization software as DSS for forest thinning activities on operational level which is specifically adopted to German characteristics.
+... Behandlungsoptimierung wird möglich .. Sensitivität- Simulation
+Bioeconomy Fragestelung . cont. available potential
+OM eignen sich gut für die Entscheidungsunterstützung, weil sie mehrere Kriterien berücksichtigen können. ... Unsere Anwendung optimier die ökon. Funkt. und berücksichtig Nachhaltigkeit als ... Optimization is useful to program sustainability \citep[p. 15]{kangas_2015} .. we did it as restr.
 
 According to the typically categorization of forest optimization models, we present a \textit{type-1} optimization software. Our software basically consists of 3 elements. The forest growth simulation module, the optimization module and the data warehouse. The tree growth is simulated with the TreeGrOSS which is an long established single-tree based growth and treatment simulation software of the Northwest German Research Institute (NW-FVA). The actual optimization bases on sequential TreeGROSS simulations with iteratively changing thinning intensity settings. The response of every iteration is calculated via dimension and tree species specific rating of the simulated harvested wood volume. To ensure sustainability of the simulations, we defined 2 restrictions. The total standing volume of all stands as well as the standing volume of each stand at the end of the simulation are not allowed to be lower than a predefined standing volume limit under standard treatment circumstances. The optimization model additionally enables definition of annual minimum harvesting volumes. As we could not find any suitable optimization algorithm, we developed a novel model basing on the ?Simulated Annealing? method. Our software is specifically parameterizable to the very complex data structure of the TreeGrOSS software. Our optimization software is already freely available as a package for the statistical software R via the Comprehensive R Archive Network. The forest stand data must be stored in a PostgreSQL database. Nagel and Hansen (NW-FVA) developed a software able to translate forest inventory data into TreeGrOSS stands.
 We present the core-element
