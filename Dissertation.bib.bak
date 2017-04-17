@@ -631,6 +631,16 @@
   Timestamp                = {2017.03.02}
 }
 
+@TechReport{efken_2012,
+  Title                    = {Volkswirtschaftliche {Bedeutung} der biobasierten {Wirtschaft} in {Deutschland}},
+  Author                   = {Efken, Josef and Banse, Martin and Rothe, Andrea and Dieter, Matthias and Dirksmeyer, Walter and Ebeling, Michael and Fluck, Katrin and Hansen, Heiko and Kreins, Peter and Seintsch, Björn and {others}},
+  Institution              = {Arbeitsberichte aus der vTI-Agrarökonomie},
+  Year                     = {2012},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.04.16}
+}
+
 @Article{ekman_2013,
   Title                    = {Bioresource utilisation by sustainable technologies in new value-added biorefinery concepts - two case studies from food and forest industry},
   Author                   = {Ekman, Anna and Campos, Monica and Lindahl, Sofia and Co, Michelle and Börjesson, Pål and Karlsson, Eva Nordberg and Turner, Charlotta},
