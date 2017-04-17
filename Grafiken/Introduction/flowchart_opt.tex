@@ -15,7 +15,7 @@ aspect=0.25]
 \node [block] (dev) {device};
 \node [block, left of=dev] (sim) {growth simulation};
 \node [block, right of=dev] (opt) {optimizer};
-\node [db, below of=sim, node distance=2.5cm] (db) {database};
+\node [db, below of=sim, node distance=2.5cm] (db) {data-warehouse};
     
 % Draw edges
 \path [line] (sim) -- (db);
