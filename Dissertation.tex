@@ -83,10 +83,17 @@ headinclude]{scrbook}
 % Dark blue colour for all links
 \RequirePackage{color}
 \definecolor{link}{rgb}{0.45,0.51,0.67}
-\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue, pdfauthor={Kai Husmann}, pdftitle={Applied Statistical Models in Bio-Economy}]{hyperref}
+\usepackage[ pdfauthor={Kai Husmann}, pdftitle={Applied Statistical Models in Bio-Economy}]{hyperref}
 %,backref=page
 %Zur Verlinkung des Literaturverzeichnisses mit den Textstellen bei hyperref Optionen [backref] einfügen%
 
+\hypersetup{
+	colorlinks,%
+	citecolor=blue,%
+	filecolor=blue,%
+	linkcolor=blue,%
+	urlcolor=blue
+}
 
 \usepackage{geometry}
 \geometry{
@@ -102,6 +109,8 @@ headinclude]{scrbook}
 \renewcommand*\dictumauthorformat[1]{--- #1}
 \renewcommand*\dictumrule{}
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%% Eigene Definitionen, kopiert von RJournal.sty
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% DOKUMENT
@@ -127,6 +136,8 @@ headinclude]{scrbook}
 \hypersetup{linkcolor=black}{ % Damit nicht das ganze TOC blau ist.
 	\tableofcontents
 }
+
+
 \thispagestyle{plain}
 \newpage
 \listoffigures
@@ -151,6 +162,7 @@ headinclude]{scrbook}
 \fancyhead[LE]{\rightmark} \fancyhead[RO]{\leftmark}
 \fancyfoot[LE]{\thepage} \fancyfoot[RO]{\thepage}
 
+\hypersetup{linkcolor=blue}{} % Links wieder blau
 
 \pagenumbering{arabic}
 \input{Introduction}
