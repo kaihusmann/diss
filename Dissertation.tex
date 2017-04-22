@@ -115,100 +115,79 @@ headinclude]{scrbook}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% DOKUMENT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \begin{document}
-\thispagestyle{empty}
-\input{Deckblatt}
-\input{Referees}
-
-\thispagestyle{empty}
-\newpage
-\cleardoublepage
-\pagestyle{empty}
-\newpage~
-\setcounter{page}{2}
-\newpage
-\cleardoublepage
-
-
-\pagenumbering{roman}
-%\input{Zusammenfassung}
-%\input{Abstract}
-%% Inhaltsverzeichnis %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{tocdepth}{1}
-\hypersetup{linkcolor=black}{ % Damit nicht das ganze TOC blau ist.
-	\tableofcontents
-	% \addtocontents{toc}{~\vspace{-3\baselineskip}}
-}
-
-
-\thispagestyle{plain}
-\newpage
-\listoffigures
-%\addcontentsline{toc}{chapter}{\listfigurename}
-\thispagestyle{plain}
-\newpage
-\listoftables
-%\addcontentsline{toc}{chapter}{\listtablename}
-\thispagestyle{plain}
-\input{Acknowledgements}
-\cleardoublepage
-\input{Summary}
-%\cleardoublepage
-\input{Zusammenfassung}
-%\cleardoublepage
-\newpage
-\thispagestyle{plain}
-% \input{Abkuerzungsverzeichnis}
-%\thispagestyle{plain}
-
-
-%Definiert die Länge der Kopfzeile
-\pagestyle{fancy} \renewcommand{\headrulewidth}{0.4pt}
-\renewcommand{\headrulewidth}{0.4pt}
-\fancyhead{} \fancyfoot{}
-\setlength{\headheight}{30pt}
-\renewcommand{\chaptermark}[1]{\markboth{\small\ \thechapter\ \ #1}{}} 
-\renewcommand{\sectionmark}[1]{\markright{\small\thesection\ #1}{}}
-\fancyhead[LE]{\rightmark} \fancyhead[RO]{\leftmark}
-\fancyfoot[LE]{\thepage} \fancyfoot[RO]{\thepage}
-
-
-\thispagestyle{empty}
-\newpage
-\cleardoublepage
-\pagestyle{empty}
-\newpage~
-\setcounter{page}{2}
-\newpage
-\cleardoublepage
-
-\hypersetup{linkcolor=blue}{} % Links wieder blau
-
-
-\pagenumbering{arabic}
-\input{Introduction}
-%\cleardoublepage
-\input{hzb}
-%\cleardoublepage
-\input{bm}
-%\cleardoublepage
-\input{beech_crowns}
-%\cleardoublepage
-\input{opt}
-%\cleardoublepage
-\input{Discussion}
-%\cleardoublepage
-\input{Literatur}
-%\cleardoublepage
-\newpage
-\thispagestyle{empty}
-\mbox{}
-\pagebreak
-\pagestyle{empty}
-\input{Curriculum}
-%\cleardoublepage
-\pagestyle{empty}
-%\input{EidesstattlicheErklaerung}
+	\thispagestyle{empty}
+	\input{Deckblatt}
+	\input{Referees}
+	\pagestyle{empty}
+	\cleardoublepage
+	\thispagestyle{empty}
+	\pagenumbering{roman}
+	%\input{Zusammenfassung}
+	%\input{Abstract}
+	%% Inhaltsverzeichnis %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\setcounter{tocdepth}{1}
+	\hypersetup{linkcolor=black}{ % Damit nicht das ganze TOC blau ist.
+		\tableofcontents
+	}
+	
+	
+	\thispagestyle{plain}
+	\newpage
+	\listoffigures
+	\thispagestyle{plain}
+	\newpage
+	\listoftables
+	\thispagestyle{plain}
+	%\newpage
+	%\thispagestyle{plain}
+	% \input{Abkuerzungsverzeichnis}
+	%\thispagestyle{plain}
+	\input{Acknowledgements}
+	%\pagestyle{empty}
+	\input{Summary}
+	%\cleardoublepage
+	\input{Zusammenfassung}
+	%\cleardoublepage
+	%\thispagestyle{empty}
+	\cleardoublepage
+	
+	
+	%Definiert die Länge der Kopfzeile
+	\pagestyle{fancy} \renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\fancyhead{} \fancyfoot{}
+	\setlength{\headheight}{30pt}
+	\renewcommand{\chaptermark}[1]{\markboth{\small\ \thechapter\ \ #1}{}} 
+	\renewcommand{\sectionmark}[1]{\markright{\small\thesection\ #1}{}}
+	\fancyhead[LE]{\rightmark} \fancyhead[RO]{\leftmark}
+	\fancyfoot[LE]{\thepage} \fancyfoot[RO]{\thepage}
+	
+	\hypersetup{linkcolor=blue}{} % Links wieder blau
+	
+	\pagenumbering{arabic}
+	\input{Introduction}
+	%\cleardoublepage
+	\input{hzb}
+	%\cleardoublepage
+	\input{bm}
+	%\cleardoublepage
+	\input{beech_crowns}
+	%\cleardoublepage
+	\input{opt}
+	%\cleardoublepage
+	\input{Discussion}
+	%\cleardoublepage
+	\input{Literatur}
+	%\cleardoublepage
+	\newpage
+	\thispagestyle{empty}
+	\mbox{}
+	\pagebreak
+	\pagestyle{empty}
+	\input{Curriculum}
+	%\cleardoublepage
+	\pagestyle{empty}
+	%\input{EidesstattlicheErklaerung}
 \end{document}
 
