@@ -120,14 +120,17 @@ headinclude]{scrbook}
 \thispagestyle{empty}
 \input{Deckblatt}
 \input{Referees}
-%\input{leereseite}
-\pagestyle{empty}
-\cleardoublepage
+
 \thispagestyle{empty}
-\input{Acknowledgements}
-%\pagestyle{empty}
-%\thispagestyle{empty}
+\newpage
 \cleardoublepage
+\pagestyle{empty}
+\newpage~
+\setcounter{page}{2}
+\newpage
+\cleardoublepage
+
+
 \pagenumbering{roman}
 %\input{Zusammenfassung}
 %\input{Abstract}
@@ -135,21 +138,29 @@ headinclude]{scrbook}
 \setcounter{tocdepth}{1}
 \hypersetup{linkcolor=black}{ % Damit nicht das ganze TOC blau ist.
 	\tableofcontents
+	% \addtocontents{toc}{~\vspace{-3\baselineskip}}
 }
 
 
 \thispagestyle{plain}
 \newpage
 \listoffigures
+%\addcontentsline{toc}{chapter}{\listfigurename}
 \thispagestyle{plain}
 \newpage
 \listoftables
+%\addcontentsline{toc}{chapter}{\listtablename}
 \thispagestyle{plain}
-%\newpage
-%\thispagestyle{plain}
+\input{Acknowledgements}
+\cleardoublepage
+\input{Summary}
+%\cleardoublepage
+\input{Zusammenfassung}
+%\cleardoublepage
+\newpage
+\thispagestyle{plain}
 % \input{Abkuerzungsverzeichnis}
 %\thispagestyle{plain}
-\cleardoublepage
 
 
 %Definiert die Länge der Kopfzeile
@@ -162,7 +173,18 @@ headinclude]{scrbook}
 \fancyhead[LE]{\rightmark} \fancyhead[RO]{\leftmark}
 \fancyfoot[LE]{\thepage} \fancyfoot[RO]{\thepage}
 
+
+\thispagestyle{empty}
+\newpage
+\cleardoublepage
+\pagestyle{empty}
+\newpage~
+\setcounter{page}{2}
+\newpage
+\cleardoublepage
+
 \hypersetup{linkcolor=blue}{} % Links wieder blau
+
 
 \pagenumbering{arabic}
 \input{Introduction}
@@ -176,10 +198,6 @@ headinclude]{scrbook}
 \input{opt}
 %\cleardoublepage
 \input{Discussion}
-%\cleardoublepage
-\input{Summary}
-%\cleardoublepage
-\input{Zusammenfassung}
 %\cleardoublepage
 \input{Literatur}
 %\cleardoublepage
