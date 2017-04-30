@@ -1,7 +1,5 @@
 \select@language {british}
 \contentsline {chapter}{Acknowledgements}{vi}{chapter*.4}
-\contentsline {chapter}{Summary}{vii}{chapter*.5}
-\contentsline {chapter}{Zusammenfassung}{viii}{chapter*.6}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Decision support systems in forest planning}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}The role of bio-economy in forestry}{5}{section.1.2}

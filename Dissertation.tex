@@ -122,6 +122,13 @@ headinclude]{scrbook}
 	\pagestyle{empty}
 	\cleardoublepage
 	\thispagestyle{empty}
+	
+	\newpage
+	\thispagestyle{empty}
+	\mbox{}
+	\pagebreak
+	%\pagenumbering{arabic}
+	
 	\pagenumbering{roman}
 	%\input{Zusammenfassung}
 	%\input{Abstract}
@@ -152,6 +159,11 @@ headinclude]{scrbook}
 	%\thispagestyle{empty}
 	\cleardoublepage
 	
+	\newpage
+	%\thispagestyle{empty}
+	\mbox{}
+	\pagebreak
+	\thispagestyle{empty}
 	
 	%Definiert die Länge der Kopfzeile
 	\pagestyle{fancy} \renewcommand{\headrulewidth}{0.4pt}
@@ -164,7 +176,6 @@ headinclude]{scrbook}
 	\fancyfoot[LE]{\thepage} \fancyfoot[RO]{\thepage}
 	
 	\hypersetup{linkcolor=blue}{} % Links wieder blau
-	
 	\pagenumbering{arabic}
 	\input{Introduction}
 	%\cleardoublepage
