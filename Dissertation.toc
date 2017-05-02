@@ -76,6 +76,5 @@
 \contentsline {section}{\numberline {5.4}Discussion and outlook}{74}{section.5.4}
 \contentsline {chapter}{\numberline {6}Conclusions}{75}{chapter.6}
 \contentsline {section}{\numberline {6.1}Findings of the thesis}{76}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Analyzing status and development of raw wood availability in the European beech-dominated central of Germany}{76}{subsection.6.1.1}
 \contentsline {section}{\numberline {6.2}Outlook}{77}{section.6.2}
 \contentsline {chapter}{\nonumberline Bibliography}{78}{chapter*.58}
