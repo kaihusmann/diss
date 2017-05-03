@@ -77,4 +77,4 @@
 \contentsline {chapter}{\numberline {6}Conclusions}{75}{chapter.6}
 \contentsline {section}{\numberline {6.1}Findings of the thesis}{76}{section.6.1}
 \contentsline {section}{\numberline {6.2}Outlook}{77}{section.6.2}
-\contentsline {chapter}{\nonumberline Bibliography}{78}{chapter*.58}
+\contentsline {chapter}{\nonumberline Bibliography}{79}{chapter*.58}
