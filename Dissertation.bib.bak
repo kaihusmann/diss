@@ -1700,6 +1700,23 @@ Verbraucherschutz},
   Timestamp                = {2017.03.02}
 }
 
+@Book{mushoff_2013,
+  Title                    = {Modernes {Agrarmanagement}: betriebswirtschaftliche {Analyse}- und {Planungsverfahren}},
+  Author                   = {Mußhoff, Oliver and Hirschauer, Norbert},
+  Publisher                = {Vahlen},
+  Year                     = {2013},
+
+  Address                  = {München},
+  Edition                  = {3., überarb. und erw. Aufl.},
+
+  File                     = {Library Catalog Entry Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/QPRT49M6/PPN.html:text/html},
+  ISBN                     = {978-3-8006-4457-5},
+  Keywords                 = {*Electronic books, *Landwirtschaftliche Betriebslehre, *Wirtschaft \# Management},
+  Owner                    = {khusman1},
+  Shorttitle               = {Modernes {Agrarmanagement}},
+  Timestamp                = {2017.05.05}
+}
+
 @Article{muys_2010,
   Title                    = {Simulation tools for decision support to adaptive forest management in {Europe}},
   Author                   = {Muys, Bart and Hynynen, Jari and Palahi, Marc and Lexer, Manfred J. and Fabrika, Marek and Pretzsch, Hans and Gillet, François and Briceño, Elemer and Nabuurs, Gert-Jan and Kint, Vincent},
