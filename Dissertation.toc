@@ -53,27 +53,27 @@
 \contentsline {section}{\numberline {4.3}Results}{55}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Prediction of bark thickness}{55}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Economically viable wood volume in the crown}{56}{subsection.4.3.2}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{56}{section*.42}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{57}{section*.45}
-\contentsline {subsection}{\numberline {4.3.3}Allometric relationships}{60}{subsection.4.3.3}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{56}{section*.43}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{57}{section*.46}
+\contentsline {subsection}{\numberline {4.3.3}Allometric relationships}{59}{subsection.4.3.3}
 \contentsline {section}{\numberline {4.4}Discussion}{60}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Estimation of bark thickness}{60}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Economically viable wood volume in the crown}{62}{subsection.4.4.2}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{62}{section*.52}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{62}{section*.53}
+\contentsline {subsection}{\numberline {4.4.2}Economically viable wood volume in the crown}{60}{subsection.4.4.2}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{60}{section*.53}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{62}{section*.54}
 \contentsline {subsection}{\numberline {4.4.3}Allometric relationships}{63}{subsection.4.4.3}
 \contentsline {section}{\numberline {4.5}Conclusions and outlook}{64}{section.4.5}
 \contentsline {chapter}{\numberline {5}Flexible Global Optimization with Simulated-Annealing}{66}{chapter.5}
 \contentsline {section}{\numberline {5.1}Introduction}{68}{section.5.1}
 \contentsline {section}{\numberline {5.2}The package optimization}{70}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}Method}{70}{subsection.5.2.1}
-\contentsline {subsubsection}{\nonumberline Inner loop}{70}{section*.56}
-\contentsline {subsubsection}{\nonumberline Outer loop}{72}{section*.57}
-\contentsline {subsection}{\numberline {5.2.2}The function optim\_sa}{73}{subsection.5.2.2}
+\contentsline {subsubsection}{\nonumberline Inner loop}{70}{section*.57}
+\contentsline {subsubsection}{\nonumberline Outer loop}{72}{section*.59}
+\contentsline {subsection}{\numberline {5.2.2}The function optim\_sa}{72}{subsection.5.2.2}
 \contentsline {section}{\numberline {5.3}Examples}{74}{section.5.3}
 \contentsline {subsection}{\numberline {5.3.1}Himmelblau Function with continuous parameter space}{74}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Himmelblau Function with discrete parameter space}{77}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Structural vector autoregressive models with least dependent innovations}{78}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.2}Himmelblau Function with discrete parameter space}{76}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Structural vector autoregressive models with least dependent innovations}{77}{subsection.5.3.3}
 \contentsline {subsection}{\numberline {5.3.4}Forest harvesting schedule optimization}{79}{subsection.5.3.4}
 \contentsline {section}{\numberline {5.4}Discussion and outlook}{80}{section.5.4}
 \contentsline {chapter}{\numberline {6}Conclusions}{81}{chapter.6}
@@ -83,4 +83,4 @@
 \contentsline {subsection}{\numberline {6.1.3}Modelling the economically viable wood in the crown of European beech trees}{83}{subsection.6.1.3}
 \contentsline {subsection}{\numberline {6.1.4}Flexible Global Optimization with Simulated-Annealing}{83}{subsection.6.1.4}
 \contentsline {section}{\numberline {6.2}Outlook}{84}{section.6.2}
-\contentsline {chapter}{\nonumberline Bibliography}{86}{chapter*.62}
+\contentsline {chapter}{\nonumberline Bibliography}{86}{chapter*.64}

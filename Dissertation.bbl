@@ -73,14 +73,6 @@ Bitz, M. (2005).
 \newblock {\em Vahlens {Kompendium} der {Betriebswirtschaftslehre}}, volume~2.
 \newblock Munich: Vahlen, 5 edition.
 
-\bibitem[Block \& Meiwes, 2012]{block_2012}
-Block, J. \& Meiwes, K.~J. (2012).
-\newblock Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und
-  {Biomassenutzung}.
-\newblock In {\em Bodenschutz - {Ergänzbares} {Handbuch} der {Maßnahmen} und
-  {Empfehlungen} für {Schutz}, {Pflege} und {Sanierung} von {Böden},
-  {Landschaft} und {Grundwasser}}, volume~13  (pp.\ 1--50).
-
 \bibitem[Block et~al., 2013]{block_2013}
 Block, J., Meiwes, K.~J., Bachmann, G., König, W., \& Utermann, J. (2013).
 \newblock Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und
@@ -313,6 +305,12 @@ Geldermann, J., Kolbe, L.~M., Krause, A., Mai, C., Militz, H., Osburg, V.-S.,
   materials.
 \newblock {\em Journal of Cleaner Production}, 110, 1--8.
 
+\bibitem[Genest et~al., 2007]{genest_2007}
+Genest, C., Quessy, J.-F., \& Remillard, B. (2007).
+\newblock Asymptotic local efficiency of cramer-von mises tests for
+  multivariate independence.
+\newblock {\em The Annals of Statistics}.
+
 \bibitem[Genet et~al., 2011]{genet_2011}
 Genet, A., Wernsdörfer, H., Jonard, M., Pretzsch, H., Rauch, M., Ponette, Q.,
   Nys, C., Legout, A., Ranger, J., Vallet, P., \& Saint-Andre, L. (2011).
@@ -410,6 +408,17 @@ Henningsen, A. \& Hamann, J.~D. (2007).
 \newblock systemfit: {A} {Package} for {Estimating} {Systems} of {Simultaneous}
   {Equations} in {R}.
 \newblock {\em Journal of Statistical Software}, 23(4), 1--40.
+
+\bibitem[Herwartz, 2014]{herwartz_2014}
+Herwartz, H. (2014).
+\newblock Structural analysis with independent innovations.
+\newblock {\em cege Discussion Papers}.
+
+\bibitem[Herwartz \& Pl{\"o}dt, 2015]{herwartz_2015}
+Herwartz, H. \& Pl{\"o}dt, M. (2015).
+\newblock The macroeconomic effects of oil price shocks: Evidence from a
+  statistical identification approach.
+\newblock {\em Journal of International Money and Finance}.
 
 \bibitem[Hildebrandt et~al., 2014]{hildebrandt_2014}
 Hildebrandt, J., Bezama, A., \& Thrän, D. (2014).
@@ -560,6 +569,11 @@ Lin, C., Haley, K., \& Sparks, C. (1995).
   threshold accepting and simulated annealing algorithms in three scheduling
   problems.
 \newblock {\em European Journal of Operational Research}, 83(2), 330--346.
+
+\bibitem[L{\"u}tkepohl, 2006]{lutkepohl_2006}
+L{\"u}tkepohl, H. (2006).
+\newblock Structural vector autoregressive analysis for cointegrated variables.
+\newblock In {\em Modern Econometric Analysis}  (pp.\ 73--86). Springer.
 
 \bibitem[Magee, 1990]{magee_1990}
 Magee, L. (1990).
