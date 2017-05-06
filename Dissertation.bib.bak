@@ -1660,6 +1660,27 @@ Verbraucherschutz},
   Timestamp                = {2016.12.13}
 }
 
+@Article{mohring_2010,
+  Title                    = {Optimierung forstlicher {Produktion} unter {Beachtung} von finanziellen {Restriktionen} {\textbar} {Optimisation} of forest production under financial restrictions},
+  Author                   = {Möhring, Bernhard},
+  Journal                  = {Schweizerische Zeitschrift fur Forstwesen},
+  Year                     = {2010},
+
+  Month                    = sep,
+  Number                   = {9},
+  Pages                    = {346--354},
+  Volume                   = {161},
+
+  Abstract                 = {The question of efficiency of resources bound in the silvicultural (biological) production of forest enterprises strikes a central topic of forest management. Using simple spreadsheet calculation models, this paper tries to explicate the relations between silvicultural treatments and economic evaluation criteria under financial restrictions. By means of actual examples, concerning thinning intensity and final harvest age under the restriction of maintenance of capital, practical silvicultural behaviour can be seen as compatible with the optimal economic solutions, determined by the model calculations. This leads to the conclusion that commonly practiced concepts of thinning intensity and productivity dependent harvest age can be interpreted as rational economic behaviour. With reference to such an economic optimum the consequences of changes in forest management, as they are often claimed for instance by directives of nature conservation, water protection etc., can be evaluated based on opportunity costs.},
+  Doi                      = {10.3188/szf.2010.0346},
+  File                     = {Full Text PDF:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/A84TT7TQ/Möhring - 2010 - Optimierung forstlicher Produktion unter Beachtung.pdf:application/pdf;Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/M9MI4FGF/szf.2010.html:text/html},
+  ISSN                     = {0036-7818},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.05.05},
+  Url                      = {http://szf-jfs.org/doi/abs/10.3188/szf.2010.0346},
+  Urldate                  = {2017-05-05}
+}
+
 @Article{mohring_1997,
   Title                    = {Betriebswirtschaftliche {Probleme} und {Chancen}},
   Author                   = {Möhring, Bernhard},

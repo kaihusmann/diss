@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  6 MAY 2017 14:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  6 MAY 2017 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2176,260 +2176,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
 [66
 
-] [67]
-
-Package natbib Warning: Citation `corana_1987' on page 68 undefined on input li
-ne 37.
-
-
-Package natbib Warning: Citation `wegener_2005' on page 68 undefined on input l
-ine 37.
-
-
-Package natbib Warning: Citation `kirkpatrick_1983' on page 68 undefined on inp
-ut line 37.
-
-
-Package natbib Warning: Citation `dantzig_1959' on page 68 undefined on input l
-ine 37.
-
-
-Package natbib Warning: Citation `clarke_1964' on page 68 undefined on input li
-ne 37.
-
-
-Package natbib Warning: Citation `kirkpatrick_1983' on page 68 undefined on inp
-ut line 37.
-
-
-Package natbib Warning: Citation `blum_2003' on page 68 undefined on input line
- 37.
-
-
-Package natbib Warning: Citation `geiger_1999' on page 68 undefined on input li
-ne 37.
-
-
-Package natbib Warning: Citation `blum_2003' on page 68 undefined on input line
- 37.
-
-
-Package natbib Warning: Citation `corana_1987' on page 68 undefined on input li
-ne 37.
-
-
-Package natbib Warning: Citation `blum_2003' on page 68 undefined on input line
- 37.
-
-
-Package natbib Warning: Citation `kirkpatrick_1983' on page 68 undefined on inp
-ut line 39.
-
-
-Package natbib Warning: Citation `blum_2003' on page 68 undefined on input line
- 39.
-
-
-Package natbib Warning: Citation `corana_1987' on page 68 undefined on input li
-ne 39.
-
-
-Package natbib Warning: Citation `agostini_2006' on page 68 undefined on input 
-line 39.
-
-
-Package natbib Warning: Citation `ingber_1993' on page 68 undefined on input li
-ne 39.
-
-
-Package natbib Warning: Citation `baskent_2002' on page 68 undefined on input l
-ine 39.
-
-
-Package natbib Warning: Citation `boston_1999' on page 68 undefined on input li
-ne 39.
-
-
-Package natbib Warning: Citation `kirkpatrick_1983' on page 68 undefined on inp
-ut line 39.
-
-
-Package natbib Warning: Citation `desarbo_1989' on page 68 undefined on input l
-ine 39.
-
-
-Package natbib Warning: Citation `goffe_1996' on page 68 undefined on input lin
-e 39.
-
-
-Package natbib Warning: Citation `xiang_2013' on page 68 undefined on input lin
-e 39.
-
-
-Package natbib Warning: Citation `wegener_2005' on page 68 undefined on input l
-ine 39.
-
-
-Package natbib Warning: Citation `corana_1987' on page 68 undefined on input li
-ne 39.
-
-
-Package natbib Warning: Citation `pronzato_1984' on page 68 undefined on input 
-line 39.
-
-[68
+] [67] [68
 
 ]
-
-Package natbib Warning: Citation `xiang_2013' on page 69 undefined on input lin
-e 41.
-
-
-Package natbib Warning: Citation `theussl_2016' on page 69 undefined on input l
-ine 41.
-
-
-Package natbib Warning: Citation `corana_1987' on page 69 undefined on input li
-ne 41.
-
-
-Package natbib Warning: Citation `pronzato_1984' on page 69 undefined on input 
-line 41.
-
-
-Package natbib Warning: Citation `kirkpatrick_1983' on page 69 undefined on inp
-ut line 52.
-
-
-LaTeX Warning: Reference `alg:alg1' on page 69 undefined on input line 52.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [69]
 
+LaTeX Warning: Reference `alg:alg1' on page 70 undefined on input line 52.
+
+
 LaTeX Warning: Reference `alg:alg1' on page 70 undefined on input line 55.
-
-
-Package natbib Warning: Citation `kirkpatrick_1983' on page 70 undefined on inp
-ut line 57.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [70]
-
-Package natbib Warning: Citation `corana_1987' on page 71 undefined on input li
-ne 89.
-
-
-Package natbib Warning: Citation `metropolis_1953' on page 71 undefined on inpu
-t line 91.
-
-
 Underfull \vbox (badness 7869) has occurred while \output is active []
 
  [71]
-
-Package natbib Warning: Citation `kirkpatrick_1983' on page 72 undefined on inp
-ut line 97.
-
-
-Package natbib Warning: Citation `metropolis_1953' on page 72 undefined on inpu
-t line 97.
-
-
-Package natbib Warning: Citation `lin_1995' on page 72 undefined on input line 
-99.
-
-
-Package natbib Warning: Citation `dueck_1990' on page 72 undefined on input lin
-e 99.
-
-
-Package natbib Warning: Citation `corana_1987' on page 72 undefined on input li
-ne 106.
-
-
-Package natbib Warning: Citation `pronzato_1984' on page 72 undefined on input 
-line 106.
-
-
-Package natbib Warning: Citation `corana_1987' on page 72 undefined on input li
-ne 106.
-
-
-Package natbib Warning: Citation `corana_1987' on page 72 undefined on input li
-ne 106.
-
-
-Package natbib Warning: Citation `pronzato_1984' on page 72 undefined on input 
-line 106.
-
-
-Package natbib Warning: Citation `corana_1987' on page 72 undefined on input li
-ne 106.
-
-
-Package natbib Warning: Citation `pronzato_1984' on page 72 undefined on input 
-line 106.
-
-
-Package natbib Warning: Citation `corana_1987' on page 72 undefined on input li
-ne 106.
-
-[72]
-
-Package natbib Warning: Citation `corana_1987' on page 73 undefined on input li
-ne 118.
-
-
-Package natbib Warning: Citation `pronzato_1984' on page 73 undefined on input 
-line 118.
-
-
-Package natbib Warning: Citation `corana_1987' on page 73 undefined on input li
-ne 125.
-
-
-Package natbib Warning: Citation `pronzato_1984' on page 73 undefined on input 
-line 125.
-
-[73]
-
-Package natbib Warning: Citation `himmelblau_1972' on page 74 undefined on inpu
-t line 145.
-
-
-Package natbib Warning: Citation `nelder_1965' on page 74 undefined on input li
-ne 145.
-
-[74]
+[72] [73] [74]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 178.
 
+[75]
 
-LaTeX Warning: Reference `alg:alg1' on page 75 undefined on input line 194.
+LaTeX Warning: Reference `alg:alg1' on page 76 undefined on input line 194.
 
-[75] (./Grafiken/opt/fig1_ex1.tex)
+(./Grafiken/opt/fig1_ex1.tex)
 Overfull \hbox (17.07289pt too wide) in paragraph at lines 203--203
  [][] 
  []
 
-
-Package natbib Warning: Citation `himmelblau_1972' on page 76 undefined on inpu
-t line 210.
-
-
-Package natbib Warning: Citation `cardoso_1997' on page 76 undefined on input l
-ine 210.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [76]
-[77]
+[76] [77]
 Package epstopdf Info: Source file: <Grafiken/opt/fig2-ex2-plot.eps>
 (epstopdf)                    date: 2017-04-15 13:56:24
 (epstopdf)                    size: 3394464 bytes
@@ -2442,7 +2222,7 @@ o.pdf>
 (epstopdf)             \includegraphics on input line 234.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf, id=1885, 607.26875pt x 303.13
+<Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf, id=2021, 607.26875pt x 303.13
 25pt>
 File: Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf Graphic file (type pdf)
  <use Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf>
@@ -2470,50 +2250,33 @@ line 246.
 Package natbib Warning: Citation `herwartz_2015' on page 78 undefined on input 
 line 248.
 
-[78 <./Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf>]
-
-Package natbib Warning: Citation `redsven_2012' on page 79 undefined on input l
-ine 258.
-
-[79]) (./Discussion.tex [80]
+[78 <./Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf>] [79])
+(./Discussion.tex [80]
 chapter 6.
 [81
 
-] [82] [83]
-
-Package natbib Warning: Citation `corana_1987' on page 84 undefined on input li
-ne 33.
-
-
-Package natbib Warning: Citation `kirkpatrick_1983' on page 84 undefined on inp
-ut line 33.
-
-
-Package natbib Warning: Citation `pronzato_1984' on page 84 undefined on input 
-line 33.
-
-) (./Literatur.tex (./Dissertation.bbl [84] [85]
+] [82] [83]) (./Literatur.tex (./Dissertation.bbl [84] [85]
 chapter without number
 [86
 
 ] [87] [88] [89]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 418.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 496.
 
  (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 418.
- [90]
-Underfull \hbox (badness 1215) in paragraph at lines 505--511
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 496.
+ [90] [91]
+Underfull \hbox (badness 1215) in paragraph at lines 601--607
 []\T1/lmr/m/n/10 MFACP (2004).  \T1/lmr/m/it/10 Lang-fristige öko-lo-gis-che Wa
 ldentwicklung- Richt-linie zur Bau-mart-en-wahl\T1/lmr/m/n/10 ,
  []
 
-[91] [92] [93] [94])) [95] (./Curriculum.tex
+[92] [93] [94] [95])) [96] (./Curriculum.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [96]
+ [97]
 Overfull \hbox (2.65912pt too wide) in alignment at lines 7--13
 [][] 
  []
@@ -2537,7 +2300,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--261
 
  []
 
-[97
+[98
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 261.
@@ -2554,10 +2317,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 261.
  ) 
 Here is how much of TeX's memory you used:
- 28290 strings out of 493029
- 534419 string characters out of 6136234
- 2169403 words of memory out of 5000000
- 30717 multiletter control sequences out of 15000+600000
+ 28360 strings out of 493029
+ 535854 string characters out of 6136234
+ 2170682 words of memory out of 5000000
+ 30763 multiletter control sequences out of 15000+600000
  125795 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,24n,69p,3384b,944s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2581,10 +2344,10 @@ lmri9.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy5.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmtt10.pfb>
-Output written on Dissertation.pdf (109 pages, 4912047 bytes).
+Output written on Dissertation.pdf (110 pages, 4921534 bytes).
 PDF statistics:
- 2219 PDF objects out of 2487 (max. 8388607)
- 2002 compressed objects within 21 object streams
- 461 named destinations out of 1000 (max. 500000)
+ 2373 PDF objects out of 2487 (max. 8388607)
+ 2154 compressed objects within 22 object streams
+ 485 named destinations out of 1000 (max. 500000)
  385 words of extra memory for PDF output out of 10000 (max. 10000000)
 

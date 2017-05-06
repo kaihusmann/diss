@@ -5,6 +5,10 @@ The style file: apalike2.bst
 Database file #1: Dissertation.bib
 Warning--I didn't find a database entry for "mohring"
 Warning--I didn't find a database entry for "hansen_2011"
+Warning--I didn't find a database entry for "lutkepohl_2006"
+Warning--I didn't find a database entry for "genest_2007"
+Warning--I didn't find a database entry for "herwartz_2014"
+Warning--I didn't find a database entry for "herwartz_2015"
 Warning--empty publisher in block_2012
 Warning--empty publisher in block_2013
 Warning--empty publisher in bmel_2016
@@ -17,46 +21,47 @@ Warning--empty publisher in muller-using_2004
 Warning--empty publisher in neumann-spallart_1952
 Warning--there's a number but no volume in pretzsch_2014
 Warning--there's a number but no volume in saborowski_1999
+Warning--empty journal in theussl_2016
 Warning--there's a number but no series in un_2005
-You've used 142 entries,
+You've used 165 entries,
             2229 wiz_defined-function locations,
-            1309 strings with 32114 characters,
-and the built_in function-call counts, 56474 in all, are:
-= -- 5534
-> -- 2347
-< -- 124
-+ -- 800
-- -- 788
-* -- 4886
-:= -- 9865
-add.period$ -- 445
-call.type$ -- 142
-change.case$ -- 1064
-chr.to.int$ -- 140
-cite$ -- 155
-duplicate$ -- 2121
-empty$ -- 3919
-format.name$ -- 997
-if$ -- 10999
+            1442 strings with 36123 characters,
+and the built_in function-call counts, 65942 in all, are:
+= -- 6474
+> -- 2738
+< -- 137
++ -- 942
+- -- 918
+* -- 5735
+:= -- 11498
+add.period$ -- 513
+call.type$ -- 165
+change.case$ -- 1240
+chr.to.int$ -- 163
+cite$ -- 179
+duplicate$ -- 2453
+empty$ -- 4577
+format.name$ -- 1167
+if$ -- 12825
 int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 179
-newline$ -- 717
-num.names$ -- 430
-pop$ -- 935
+missing$ -- 204
+newline$ -- 831
+num.names$ -- 499
+pop$ -- 1078
 preamble$ -- 1
-purify$ -- 1099
+purify$ -- 1277
 quote$ -- 0
-skip$ -- 1577
+skip$ -- 1830
 stack$ -- 0
-substring$ -- 3773
-swap$ -- 271
-text.length$ -- 33
+substring$ -- 4518
+swap$ -- 302
+text.length$ -- 34
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 764
-warning$ -- 13
-while$ -- 469
+type$ -- 898
+warning$ -- 14
+while$ -- 552
 width$ -- 0
-write$ -- 1884
-(There were 15 warnings)
+write$ -- 2177
+(There were 20 warnings)

@@ -6,6 +6,12 @@ Affleck, D. L.~R. \& Gregoire, T.~G. (2015).
   sampling.
 \newblock {\em Forestry}, 88(5), 599--611.
 
+\bibitem[Agostini et~al., 2006]{agostini_2006}
+Agostini, F.~P., Soares-Pinto, D. D.~O., Moret, M.~A., Osthoff, C., \&
+  Pascutti, P.~G. (2006).
+\newblock Generalized simulated annealing applied to protein folding studies.
+\newblock {\em Journal of computational chemistry}, 27(11), 1142--1155.
+
 \bibitem[Akaike, 1981]{akaike_1981}
 Akaike, H. (1981).
 \newblock Likelihood of a model and information criteria.
@@ -52,6 +58,11 @@ Augusto, L., Ranger, J., Ponette, Q., \& Rapp, M. (2000).
 Barton, K. (2016).
 \newblock {MuMIn}: {Multi}-{Model} {Inference}.
 
+\bibitem[Baskent \& Jordan, 2002]{baskent_2002}
+Baskent, E.~Z. \& Jordan, G.~A. (2002).
+\newblock Forest landscape management modeling using simulated annealing.
+\newblock {\em Forest Ecology and Management}, 165(1), 29--45.
+
 \bibitem[Baskerville, 1972]{baskerville_1972}
 Baskerville, G. (1972).
 \newblock Use of logarithmic regression in the estimation of plant biomass.
@@ -77,6 +88,12 @@ Block, J., Meiwes, K.~J., Bachmann, G., König, W., \& Utermann, J. (2013).
 \newblock In {\em Bodenschutz - {Ergänzbares} {Handbuch} der {Maßnahmen} und
   {Empfehlungen} für {Schutz}, {Pflege} und {Sanierung} von {Böden},
   {Landschaft} und {Grundwasser}}, volume 1. Lfg. /13  (pp.\ 1-- 50).
+
+\bibitem[Blum \& Roli, 2003]{blum_2003}
+Blum, C. \& Roli, A. (2003).
+\newblock Metaheuristics in combinatorial optimization: Overview and conceptual
+  comparison.
+\newblock {\em ACM Computing Surveys (CSUR)}, 35(3), 268--308.
 
 \bibitem[{BMEL}, 2011]{bmel_2011}
 {BMEL} (2011).
@@ -122,6 +139,12 @@ Bonyad, A.~E., Sima, A., Bakhshandeh, A., \& H., D. (2012).
   aspects.
 \newblock {\em Caspian Journal of Environmental Sciences}, 10(1), 67--73.
 
+\bibitem[Boston \& Bettinger, 1999]{boston_1999}
+Boston, K. \& Bettinger, P. (1999).
+\newblock An analysis of monte carlo integer programming, simulated annealing,
+  and tabu search heuristics for solving spatial harvest scheduling problems.
+\newblock {\em Forest science}, 45(2), 292--301.
+
 \bibitem[Bunce, 1968]{bunce_1968}
 Bunce, R. G.~H. (1968).
 \newblock Biomass and {Production} of {Trees} in a {Mixed} {Deciduous}
@@ -139,6 +162,11 @@ Cancino, J. \& Saborowski, J. (2005).
 \newblock Comparison of randomized branch sampling with and without replacement
   at the first stage.
 \newblock {\em Silva Fennica}, 39(2), 201--216.
+
+\bibitem[Cardoso et~al., 1997]{cardoso_1997}
+Cardoso, M.~F., Salcedo, R., de~Azevedo, S.~F., \& Barbosa, D. (1997).
+\newblock A simulated annealing approach to the solution of minlp problems.
+\newblock {\em Computers \& chemical engineering}, 21(12), 1349--1364.
 
 \bibitem[Cerny, 1990]{cerny_1990}
 Cerny, M. (1990).
@@ -162,6 +190,24 @@ Cienciala, E., Apltauer, J., Cerny, M., \& Exnerová, Z. (2005).
 \newblock Biomass functions applicable for {European} beech.
 \newblock {\em Journal of Forest Science}, 51(4), 147--154.
 
+\bibitem[Clarke \& Wright, 1964]{clarke_1964}
+Clarke, G. \& Wright, J.~W. (1964).
+\newblock Scheduling of vehicles from a central depot to a number of delivery
+  points.
+\newblock {\em Operations research}, 12(4), 568--581.
+
+\bibitem[Corana et~al., 1987]{corana_1987}
+Corana, A., Marchesi, M., Martini, C., \& Ridella, S. (1987).
+\newblock Minimizing multimodal functions of continuous variables with the
+  'simulated annealing' algorithm.
+\newblock {\em ACM Trans. Math. Softw.}, 13(3), 262--280.
+
+\bibitem[Dantzig et~al., 1959]{dantzig_1959}
+Dantzig, G.~B., Fulkerson, D.~R., \& Johnson, S.~M. (1959).
+\newblock On a linear-programming, combinatorial approach to the
+  traveling-salesman problem.
+\newblock {\em Operations Research}, 7(1), 58--66.
+
 \bibitem[Davis et~al., 2001]{davis_2001}
 Davis, L.~S., Johnson, K.~N., Bettinger, P., \& Howard, T.~E. (2001).
 \newblock {\em Forest {Management}: {To} {Sustain} {Ecological}, {Economic},
@@ -178,6 +224,11 @@ de~Besi, M. \& McCormick, K. (2015).
 Degenhard, M. (2016).
 \newblock Holzmarkt - {Schnittholznachfrage} stabilisiert.
 
+\bibitem[DeSarbo et~al., 1989]{desarbo_1989}
+DeSarbo, W.~S., Oliver, R.~L., \& Rangaswamy, A. (1989).
+\newblock A simulated annealing methodology for clusterwise linear regression.
+\newblock {\em Psychometrika}, 54(4), 707--736.
+
 \bibitem[{DESTATIS}, 2016]{destatis_2016}
 {DESTATIS} (2016).
 \newblock Statistisches {Bundesamt} {Deutschland} - {GENESIS}-{Online}.
@@ -186,6 +237,12 @@ Degenhard, M. (2016).
 DiCiccio, T.~J. \& Efron, B. (1996).
 \newblock Bootstrap confidence intervals.
 \newblock {\em Statistical Science}, 11(3), 189--228.
+
+\bibitem[Dueck \& Scheuer, 1990]{dueck_1990}
+Dueck, G. \& Scheuer, T. (1990).
+\newblock Threshold accepting: a general purpose optimization algorithm
+  appearing superior to simulated annealing.
+\newblock {\em Journal of computational physics}, 90(1), 161--175.
 
 \bibitem[Eckmüllner, 2006]{eckmullner_2006}
 Eckmüllner, O. (2006).
@@ -243,6 +300,12 @@ Gauer, J. (2012).
   {Wuchsgebiete} und {Wuchsbezirke}}.
 \newblock Braunschweig: Thünen Institut.
 
+\bibitem[Geiger \& Kanzow, 1999]{geiger_1999}
+Geiger, C. \& Kanzow, C. (1999).
+\newblock Das nelder-mead-verfahren.
+\newblock {\em Numerische Verfahren zur L{\"o}sung unregestrierter
+  Optimierungsaufgaben}.
+
 \bibitem[Geldermann et~al., 2016]{geldermann_2016}
 Geldermann, J., Kolbe, L.~M., Krause, A., Mai, C., Militz, H., Osburg, V.-S.,
   Schöbel, A., Schumann, M., Toporowski, W., \& Westphal, S. (2016).
@@ -256,6 +319,11 @@ Genet, A., Wernsdörfer, H., Jonard, M., Pretzsch, H., Rauch, M., Ponette, Q.,
 \newblock Ontogeny partly explains the apparent heterogeneity of published
   biomass equations for {Fagus} sylvatica in central {Europe}.
 \newblock {\em Forest Ecology and Management}, 261(7), 1188--1202.
+
+\bibitem[Goffe et~al., 1996]{goffe_1996}
+Goffe, W.~L. et~al. (1996).
+\newblock Simann: A global optimization algorithm using simulated annealing.
+\newblock {\em Studies in Nonlinear Dynamics and Econometrics}, 1(3), 169--176.
 
 \bibitem[Gorry \& Morton, 1971]{gorry_1971}
 Gorry, G.~A. \& Morton, M. S.~S. (1971).
@@ -350,6 +418,11 @@ Hildebrandt, J., Bezama, A., \& Thrän, D. (2014).
 \newblock In {\em 2014 {International} {Conference} and {Utility} {Exhibition}
   on {Green} {Energy} for {Sustainable} {Development} ({ICUE})}  (pp.\ 1--4).
 
+\bibitem[Himmelblau, 1972]{himmelblau_1972}
+Himmelblau, D.~M. (1972).
+\newblock {\em Applied nonlinear programming}.
+\newblock McGraw-Hill Companies.
+
 \bibitem[{HMUKLV}, 2014]{hmuklv_2014}
 {HMUKLV} (2014).
 \newblock {\em Hessen - {Bäume}, {Wälder}, {Lebensräume} : ausgewählte
@@ -394,6 +467,11 @@ Huxley, J. (1932).
 \newblock {\em Problems of relative growth}.
 \newblock New York: Dial Press.
 
+\bibitem[Ingber, 1993]{ingber_1993}
+Ingber, L. (1993).
+\newblock Simulated annealing: Practice versus theory.
+\newblock {\em Mathematical and computer modelling}, 18(11), 29--57.
+
 \bibitem[Ingrao et~al., 2016]{ingrao_2016}
 Ingrao, C., Bacenetti, J., Bezama, A., Blok, V., Geldermann, J., Goglio, P.,
   Koukios, E.~G., Lindner, M., Nemecek, T., Siracusa, V., Zabaniotou, A., \&
@@ -434,6 +512,11 @@ Keeney, R.~L. (1982).
 \newblock Decision analysis: an overview.
 \newblock {\em Oper Res}, 30(5), 803--838.
 
+\bibitem[Kirkpatrick et~al., 1983]{kirkpatrick_1983}
+Kirkpatrick, S., Gelatt, C.~D., Vecchi, M.~P., et~al. (1983).
+\newblock Optimization by simulated annealing.
+\newblock {\em science}, 220(4598), 671--680.
+
 \bibitem[Konopka et~al., 2015]{konopka_2015}
 Konopka, B., Pajtik, J., \& Seben, V. (2015).
 \newblock Biomass functions and expansion factors for young trees of {European}
@@ -471,6 +554,13 @@ Ledermann, T. \& Neumann, M. (2006).
 \newblock Biomass equations from data of old long-term experimental plots.
 \newblock {\em Austrian Journal of Forest Science}, 1/2(123), 47-- 64.
 
+\bibitem[Lin et~al., 1995]{lin_1995}
+Lin, C., Haley, K., \& Sparks, C. (1995).
+\newblock A comparative study of both standard and adaptive versions of
+  threshold accepting and simulated annealing algorithms in three scheduling
+  problems.
+\newblock {\em European Journal of Operational Research}, 83(2), 330--346.
+
 \bibitem[Magee, 1990]{magee_1990}
 Magee, L. (1990).
 \newblock R2 {Measures} {Based} on {Wald} and {Likelihood} {Ratio} {Joint}
@@ -500,6 +590,12 @@ Meiwes, K.~J., Rumpf, S., Klinck, U., \& Meesenburg, H. (2012).
   in {Nordwestdeutschland} und {Ansätze} zur standörtlichen {Bewertung}.
 \newblock {\em Deutscher Verband Forstlicher Forschungsanstalten Sektion
   Ertragskunde Jahrestagung 2012 Ottenstein}, (pp.\ 88--92).
+
+\bibitem[Metropolis et~al., 1953]{metropolis_1953}
+Metropolis, N., Rosenbluth, A.~W., Rosenbluth, M.~N., Teller, A.~H., \& Teller,
+  E. (1953).
+\newblock Equation of state calculations by fast computing machines.
+\newblock {\em The journal of chemical physics}, 21(6), 1087--1092.
 
 \bibitem[{MFACP}, 2004]{mfacp_2004}
 {MFACP} (2004).
@@ -609,6 +705,11 @@ Nash, J.~C. et~al. (2014).
 \newblock On best practice optimization methods in r.
 \newblock {\em Journal of Statistical Software}, 60(i02).
 
+\bibitem[Nelder \& Mead, 1965]{nelder_1965}
+Nelder, J. \& Mead, R. (1965).
+\newblock A simplex method for function minimization.
+\newblock {\em Computer Journal}, 7(4), 308--313.
+
 \bibitem[Neumann-Spallart, 1952]{neumann-spallart_1952}
 Neumann-Spallart, O. (1952).
 \newblock {\em Das {Stückmassegesetz} nach {Hilf} in mathematischer
@@ -663,6 +764,11 @@ Pretzsch, H., Grote, R., Reineking, B., Rötzer, T., \& Seifert, S. (2008).
   {Perspective}.
 \newblock {\em Annals of Botany}, 101(8), 1065--1087.
 
+\bibitem[Pronzato et~al., 1984]{pronzato_1984}
+Pronzato, L., Walter, E., Venot, A., \& Lebruchec, J.-F. (1984).
+\newblock A general-purpose global optimizer: Implimentation and applications.
+\newblock {\em Mathematics and Computers in Simulation}, 26(5), 412--422.
+
 \bibitem[{R Core Team}, 2016]{r_core_team_2016}
 {R Core Team} (2016).
 \newblock {\em R: {A} {Language} and {Environment} for {Statistical}
@@ -677,6 +783,11 @@ Rademacher, P., Schönfelder, E., \& Meiwes, K.~J. (2011).
   {Vollbaumnutzung}. {Ergebnisbericht} ({FKZ}: 22015407)}  (pp.\ 125-- 154).
   Göttingen: Fachagentur für Nachwachsende Rohstoffe des Bundesministeriums für
   Ernährung, Landwirtschaft und Verbraucherschutz.
+
+\bibitem[Redsven et~al., 2012]{redsven_2012}
+Redsven, V., Hirvelä, H., Härkönen, K., Salminen, O., \& Siitonen, M. (2012).
+\newblock {\em {MELA}2012 {Reference} {Manual} (2nd edition)}.
+\newblock The Finnish Forest Research Institute.
 
 \bibitem[Reynolds et~al., 2008]{reynolds_2008}
 Reynolds, K.~M., Twery, M., Lexer, M.~J., Vacik, H., Ray, D., Shao, G., \&
@@ -790,6 +901,11 @@ Tabacchi, G., Cosmo, L.~D., \& Gasparini, P. (2011).
   species in {Italy}.
 \newblock {\em European Journal of Forest Research}, 130(6), 911--934.
 
+\bibitem[Theussl \& Borchers, 2016]{theussl_2016}
+Theussl, S. \& Borchers, H.~W. (2016).
+\newblock {CRAN} {Task} {View}: {Optimization} and {Mathematical}
+  {Programming}.
+
 \bibitem[Thurnher et~al., 2013]{thurnher_2013}
 Thurnher, C., Gerritzen, T., Maroschek, M., Lexer, M.~J., \& Hasenauer, H.
   (2013).
@@ -859,6 +975,12 @@ Warton, D.~I., Duursma, R.~A., Falster, D.~S., \& Taskinen, S. (2012).
   lines.
 \newblock {\em Methods in Ecology and Evolution}, 3(2), 257--259.
 
+\bibitem[Wegener, 2005]{wegener_2005}
+Wegener, I. (2005).
+\newblock Simulated annealing beats metropolis in combinatorial optimization.
+\newblock In {\em International Colloquium on Automata, Languages, and
+  Programming}  (pp.\ 589--601).: Springer.
+
 \bibitem[Weis \& Göttlein, 2012]{weis_2012}
 Weis, W. \& Göttlein, A. (2012).
 \newblock Nährstoffnachhaltige {Biomassenutzung}.
@@ -892,6 +1014,12 @@ Wördehoff, R., Spellmann, H., Evers, J., \& Nagel, J. (2011).
   of {\em Beiträge aus der {Nordwestdeutschen} {Forstlichen}
   {Versuchsanstalt}}.
 \newblock Göttingen: Univ.-Verl. Göttingen.
+
+\bibitem[Xiang et~al., 2013]{xiang_2013}
+Xiang, Y., Gubian, S., Suomela, B., \& Hoeng, J. (2013).
+\newblock Generalized simulated annealing for global optimization: the gensa
+  package.
+\newblock {\em The R Journal Volume 5(1):13-29, June 2013}.
 
 \bibitem[Yousefpour \& Hanewinkel, 2009]{yousefpour_2009}
 Yousefpour, R. \& Hanewinkel, M. (2009).
