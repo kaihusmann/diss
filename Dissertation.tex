@@ -49,9 +49,13 @@ headinclude]{scrbook}
 \usepackage{amsmath}
 \usepackage{amsthm}
 \usepackage{amsfonts}
+\usepackage{amssymb}
 
 %% Packages für Pseudocode
 \usepackage[linesnumbered]{algorithm2e}
+
+
+
 
 %% Paket für Grafik
 \usepackage{tikz}
@@ -70,7 +74,7 @@ headinclude]{scrbook}
 
 %Querformat für den Anhang
 %\usepackage{lscape}
-%\usepackage{array}
+\usepackage{array}
 
 \usepackage{chapterbib}
 \usepackage{float}
@@ -109,6 +113,59 @@ headinclude]{scrbook}
 \renewcommand*\dictumwidth{\linewidth}
 \renewcommand*\dictumauthorformat[1]{--- #1}
 \renewcommand*\dictumrule{}
+
+%%%%%% R Journal specific styles
+
+% Text formatting --------------------------------------------------------------
+
+\newcommand{\R}{R}
+\newcommand{\address}[1]{\addvspace{\baselineskip}\noindent\emph{#1}}
+\newcommand{\email}[1]{\href{mailto:#1}{\normalfont\texttt{#1}}}
+
+\DeclareRobustCommand\code{\bgroup\@noligs\@codex}
+\def\@codex#1{\texorpdfstring%
+	{{\normalfont\ttfamily\hyphenchar\font=-1 #1}}%
+	{#1}\egroup}
+\newcommand{\kbd}[1]{{\normalfont\texttt{#1}}}
+\newcommand{\key}[1]{{\normalfont\texttt{\uppercase{#1}}}}
+\DeclareRobustCommand\samp{`\bgroup\@noligs\@sampx}
+\def\@sampx#1{{\normalfont\texttt{#1}}\egroup'}
+\newcommand{\var}[1]{{\normalfont\textsl{#1}}}
+\let\env=\code
+\newcommand{\file}[1]{{`\normalfont\textsf{#1}'}}
+\let\command=\code
+\let\option=\samp
+\newcommand{\dfn}[1]{{\normalfont\textsl{#1}}}
+% \acronym is effectively disabled since not used consistently
+\newcommand{\strong}[1]{\texorpdfstring%
+	{{\normalfont\fontseries{b}\selectfont #1}}%
+	{#1}}
+\let\pkg=\strong
+\newcommand{\CRANpkg}[1]{\href{https://CRAN.R-project.org/package=#1}{\pkg{#1}}}%
+\let\cpkg=\CRANpkg
+\newcommand{\ctv}[1]{\href{https://CRAN.R-project.org/view=#1}{\emph{#1}}}
+\newcommand{\BIOpkg}[1]{\href{http://www.bioconductor.org/packages/release/bioc/html/#1.html}{\pkg{#1}}}
+
+% Example environments ---------------------------------------------------------
+\RequirePackage{fancyvrb}
+\RequirePackage{alltt}
+
+\DefineVerbatimEnvironment{example}{Verbatim}{}
+\renewenvironment{example*}{\begin{alltt}}{\end{alltt}}
+
+% Support for output from Sweave, and generic session style code
+% These used to have fontshape=sl for Sinput/Scode/Sin, but pslatex
+% won't use a condensed font in that case.
+
+% Update (2015-05-28 by DS): remove fontsize=\small to match example environment
+
+\DefineVerbatimEnvironment{Sinput}{Verbatim}{}
+\DefineVerbatimEnvironment{Soutput}{Verbatim}{}
+\DefineVerbatimEnvironment{Scode}{Verbatim}{}
+\DefineVerbatimEnvironment{Sin}{Verbatim}{}
+\DefineVerbatimEnvironment{Sout}{Verbatim}{}
+\newenvironment{Schunk}{}{}
+%%%%% END R Journal specific styles
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%% Eigene Definitionen, kopiert von RJournal.sty

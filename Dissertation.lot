@@ -19,5 +19,6 @@
 \contentsline {table}{\numberline {4.7}{\ignorespaces Summary of the economically viable crown wood volume regression model. The data was fitted to a natural exponential function by the generalized nonlinear regression method with the independent variables DBH and the crown type.\relax }}{60}{table.caption.49}
 \contentsline {table}{\numberline {4.8}{\ignorespaces Summary of the log linear regression models, fitted by the SMA method. $\alpha $ and log($\beta $) are the model coefficients; l.ci.lim is the lower, u.ci.lim the upper limit of the 95 \% confidence interval; r$^2$ is the linear coefficient of determination.\relax }}{60}{table.caption.51}
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Relative frequencies of covariate combinations in \% after optimization for the four examined methods. Number of repetitions: 10,000. We used the parameters given in the example,only the \texttt {trace} options was deactivated.\relax }}{75}{table.caption.58}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
