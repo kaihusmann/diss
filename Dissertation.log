@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  7 MAY 2017 22:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  8 MAY 2017 08:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Dissertation.tex
 (./Dissertation.tex
 LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+Babel <3.9q> and hyphenation patterns for 10 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbook.cls
 Document Class: scrbook 2015/10/03 v3.19a KOMA-Script document class (book)
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -204,7 +204,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count90
 )
-(/usr/share/texlive/texmf-dist/tex/latex/multibib/multibib.sty
+(/usr/share/texmf/tex/latex/multibib/multibib.sty
 Package: multibib 2008/12/10 v1.4 Multiple bibliographies for one document.
 \mb@biblabelwidth=\count91
 )
@@ -260,7 +260,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
 )
-(/usr/share/texlive/texmf-dist/tex/latex/picins/picins.sty
+(/usr/share/texmf/tex/latex/picins/picins.sty
 Option `picins' Version 3.0 Sep. 1992, TH Darmstadt/HRZ
 \@BILD=\box28
 \@TEXT=\box29
@@ -363,7 +363,7 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 \f@ncyO@olf=\skip63
 \f@ncyO@orf=\skip64
 )
-(/usr/share/texlive/texmf-dist/tex/latex/SIunits/SIunits.sty
+(/usr/share/texmf/tex/latex/SIunits/SIunits.sty
 Package: SIunits 2007/12/02 v1.36 Support for the International System of units
  (MH)
 
@@ -378,7 +378,7 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen145
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/SIunits/SIunits.cfg)
+(/usr/share/texmf/tex/latex/SIunits/SIunits.cfg)
 Option `squaren' provided!
 ) (/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
@@ -518,7 +518,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+(/usr/share/texmf/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2013/01/06 v5.00 algorithms environments
 \c@AlgoLine=\count144
 \algocf@hangindent=\skip77
@@ -943,8 +943,15 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks44
 \@floatcapt=\box76
 )
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 81.
 
+Package typearea Warning: \typearea used at group level 2.
+(typearea)                Using \typearea inside any group, e.g.
+(typearea)                environments, math mode, boxes, etc. may result in
+(typearea)                many type setting problems.
+(typearea)                You should move the command \typearea
+(typearea)                outside all groups on input line 81.
+
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 81.
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1316,42 +1323,38 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
  [1
 
 ]
-(./Dissertation.lof
-Underfull \vbox (badness 5696) has occurred while \output is active []
-
- [2
-
-]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 28.
-
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-))
+(./Dissertation.lof)
 \tf@lof=\write8
 \openout8 = `Dissertation.lof'.
 
- [3] (./Dissertation.lot)
+ [2
+
+] (./Dissertation.lot)
 \tf@lot=\write9
 \openout9 = `Dissertation.lot'.
 
-
-(./Acknowledgements.tex [4
+ (./Acknowledgements.tex [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3--9
+Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
  []
 
-) (./Summary.tex [5
 
-]) (./Zusammenfassung.tex [6
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
-]) [7
+ []
+
+) (./Summary.tex [4
+
+]) (./Zusammenfassung.tex [5
+
+]) [6
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8
+ [7
 
 ]
 (./Introduction.tex
@@ -1378,21 +1381,376 @@ been already used, duplicate ignored
 l.7 \newpage
              [1
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
- been already used, duplicate ignored
+]
+
+Package natbib Warning: Citation `kangas_2015' on page 2 undefined on input lin
+e 10.
+
+
+Package natbib Warning: Citation `keeney_1982' on page 2 undefined on input lin
+e 10.
+
+
+Package natbib Warning: Citation `stanovich_2000' on page 2 undefined on input 
+line 10.
+
+
+Package natbib Warning: Citation `kangas_2015' on page 2 undefined on input lin
+e 10.
+
+
+Package natbib Warning: Citation `stanovich_2000' on page 2 undefined on input 
+line 10.
+
+
+Package natbib Warning: Citation `bitz_2005' on page 2 undefined on input line 
+10.
+
+
+Package natbib Warning: Citation `simon_1979' on page 2 undefined on input line
+ 10.
+
+
+Package natbib Warning: Citation `simon_1979' on page 2 undefined on input line
+ 10.
+
+
+Package natbib Warning: Citation `shim_2002' on page 2 undefined on input line 
+12.
+
+
+Package natbib Warning: Citation `simon_1979' on page 2 undefined on input line
+ 12.
+
+
+Package natbib Warning: Citation `churchman_1957' on page 2 undefined on input 
+line 12.
+
+
+Package natbib Warning: Citation `wacker_1998' on page 2 undefined on input lin
+e 12.
+
+
+Package natbib Warning: Citation `gorry_1971' on page 2 undefined on input line
+ 12.
+
+
+Package natbib Warning: Citation `kangas_2015' on page 2 undefined on input lin
+e 12.
+
+
+Package natbib Warning: Citation `churchman_1957' on page 2 undefined on input 
+line 12.
+
+
+Package natbib Warning: Citation `hansen_2012' on page 2 undefined on input lin
+e 12.
+
+
+Package natbib Warning: Citation `shim_2002' on page 2 undefined on input line 
+12.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.13 
-      [2]pdfTeX warning (ext4): destination with the same identifier (name{page
-.3}) has been already used, duplicate ignored
+      [2]
+
+Package natbib Warning: Citation `kangas_2015' on page 3 undefined on input lin
+e 16.
+
+
+Package natbib Warning: Citation `mohring_1997' on page 3 undefined on input li
+ne 16.
+
+
+Package natbib Warning: Citation `moller_2007' on page 3 undefined on input lin
+e 16.
+
+
+Package natbib Warning: Citation `un_2005' on page 3 undefined on input line 16
+.
+
+
+Package natbib Warning: Citation `kangas_2015' on page 3 undefined on input lin
+e 16.
+
+
+Package natbib Warning: Citation `kangas_2015' on page 3 undefined on input lin
+e 16.
+
+
+Package natbib Warning: Citation `kangas_2015' on page 3 undefined on input lin
+e 16.
+
+
+Package natbib Warning: Citation `bockmann_2004' on page 3 undefined on input l
+ine 16.
+
+
+Package natbib Warning: Citation `mantau_2012' on page 3 undefined on input lin
+e 18.
+
+
+Package natbib Warning: Citation `bmu_2007' on page 3 undefined on input line 1
+8.
+
+
+Package natbib Warning: Citation `ti_2014' on page 3 undefined on input line 18
+.
+
+
+Package natbib Warning: Citation `auer_2016' on page 3 undefined on input line 
+18.
+
+
+Package natbib Warning: Citation `hansen_2012' on page 3 undefined on input lin
+e 18.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.19 
-      [3] [4] [5] [6] [7] [8] (./Grafiken/Introduction/flowchart_opt.tex)
+      [3]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package natbib Warning: Citation `hansen_2014' on page 4 undefined on input lin
+e 20.
+
+
+Package natbib Warning: Citation `reynolds_2008' on page 4 undefined on input l
+ine 20.
+
+
+Package natbib Warning: Citation `kangas_2015' on page 4 undefined on input lin
+e 20.
+
+
+Package natbib Warning: Citation `hansen_2014' on page 4 undefined on input lin
+e 20.
+
+
+Package natbib Warning: Citation `bockmann_2004' on page 4 undefined on input l
+ine 20.
+
+
+Package natbib Warning: Citation `hansen_2014' on page 4 undefined on input lin
+e 20.
+
+
+Package natbib Warning: Citation `nagel_2009' on page 4 undefined on input line
+ 20.
+
+
+Package natbib Warning: Citation `davis_2001' on page 4 undefined on input line
+ 20.
+
+
+Package natbib Warning: Citation `hansen_2012' on page 4 undefined on input lin
+e 20.
+
+
+Package natbib Warning: Citation `muys_2010' on page 4 undefined on input line 
+20.
+
+
+Package natbib Warning: Citation `kangas_2015' on page 4 undefined on input lin
+e 24.
+
+
+Package natbib Warning: Citation `davis_2001' on page 4 undefined on input line
+ 24.
+
+
+Package natbib Warning: Citation `mohring_2010' on page 4 undefined on input li
+ne 24.
+
+
+Package natbib Warning: Citation `pretzsch_2008' on page 4 undefined on input l
+ine 24.
+
+
+Package natbib Warning: Citation `yousefpour_2009' on page 4 undefined on input
+ line 24.
+
+
+Package natbib Warning: Citation `hoganson_2015' on page 4 undefined on input l
+ine 24.
+
+
+Package natbib Warning: Citation `hoganson_2015' on page 4 undefined on input l
+ine 24.
+
+
+Package natbib Warning: Citation `kangas_2015' on page 4 undefined on input lin
+e 24.
+
+
+Package natbib Warning: Citation `muys_2010' on page 4 undefined on input line 
+24.
+
+
+Package natbib Warning: Citation `debesi_2015' on page 4 undefined on input lin
+e 28.
+
+
+Package natbib Warning: Citation `auer_2016' on page 4 undefined on input line 
+28.
+
+
+Package natbib Warning: Citation `geldermann_2016' on page 4 undefined on input
+ line 28.
+
+[4]
+
+Package natbib Warning: Citation `elchichakli_2016' on page 5 undefined on inpu
+t line 30.
+
+
+Package natbib Warning: Citation `hennig_2016' on page 5 undefined on input lin
+e 30.
+
+
+Package natbib Warning: Citation `efken_2012' on page 5 undefined on input line
+ 30.
+
+
+Package natbib Warning: Citation `bmel_2014b' on page 5 undefined on input line
+ 30.
+
+
+Package natbib Warning: Citation `ekman_2013' on page 5 undefined on input line
+ 30.
+
+
+Package natbib Warning: Citation `geldermann_2016' on page 5 undefined on input
+ line 32.
+
+
+Package natbib Warning: Citation `bmel_2016' on page 5 undefined on input line 
+34.
+
+
+Package natbib Warning: Citation `bockmann_2004' on page 5 undefined on input l
+ine 34.
+
+
+Package natbib Warning: Citation `ollikainen_2014' on page 5 undefined on input
+ line 34.
+
+
+Package natbib Warning: Citation `ollikainen_2014' on page 5 undefined on input
+ line 36.
+
+
+Package natbib Warning: Citation `mohring_1997' on page 5 undefined on input li
+ne 36.
+
+
+Package natbib Warning: Citation `mohring_2010' on page 5 undefined on input li
+ne 36.
+
+
+Package natbib Warning: Citation `mohring_2010' on page 5 undefined on input li
+ne 36.
+
+[5]
+
+Package natbib Warning: Citation `ingrao_2016' on page 6 undefined on input lin
+e 40.
+
+
+Package natbib Warning: Citation `bmel_2014b' on page 6 undefined on input line
+ 40.
+
+
+LaTeX Warning: Reference `chap:discussion' on page 6 undefined on input line 48
+.
+
+
+Underfull \vbox (badness 3460) has occurred while \output is active []
+
+ [6]
+
+Package natbib Warning: Citation `auer_2016' on page 7 undefined on input line 
+54.
+
+
+Package natbib Warning: Citation `schmitz_2008' on page 7 undefined on input li
+ne 56.
+
+
+Package natbib Warning: Citation `hansen_2014' on page 7 undefined on input lin
+e 56.
+
+
+Package natbib Warning: Citation `ekman_2013' on page 7 undefined on input line
+ 62.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 7 undefined on input l
+ine 62.
+
+
+Package natbib Warning: Citation `ti_2014' on page 7 undefined on input line 64
+.
+
+[7]
+
+Package natbib Warning: Citation `hansen_2014' on page 8 undefined on input lin
+e 66.
+
+
+Package natbib Warning: Citation `Gregoire_2008' on page 8 undefined on input l
+ine 78.
+
+
+Package natbib Warning: Citation `mushoff_2013' on page 8 undefined on input li
+ne 78.
+
+
+Package natbib Warning: Citation `hoganson_2015' on page 8 undefined on input l
+ine 82.
+
+
+Package natbib Warning: Citation `hoganson_2015' on page 8 undefined on input l
+ine 82.
+
+
+Package natbib Warning: Citation `pretzsch_2008' on page 8 undefined on input l
+ine 82.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+
+Package natbib Warning: Citation `hansen_2014' on page 9 undefined on input lin
+e 84.
+
+
+Package natbib Warning: Citation `nagel_1996' on page 9 undefined on input line
+ 84.
+
+
+Package natbib Warning: Citation `hansen_2014' on page 9 undefined on input lin
+e 84.
+
+(./Grafiken/Introduction/flowchart_opt.tex)
+
+Package natbib Warning: Citation `nash_2014' on page 9 undefined on input line 
+93.
+
+
+Package natbib Warning: Citation `hansen_2014' on page 9 undefined on input lin
+e 95.
 
 [9]
+
+Package natbib Warning: Citation `kangas_2015' on page 10 undefined on input li
+ne 97.
+
 
 Class scrbook Warning: Usage of deprecated font command `\tt'!
 (scrbook)              You should note, that in 1994 font command `\tt' has
@@ -1407,7 +1765,19 @@ Class scrbook Warning: Usage of deprecated font command `\tt'!
 (scrbook)              But for now, KOMA-Script will replace deprecated `\tt'
 (scrbook)              by `\normalfont \ttfamily ' on input line 97.
 
-[10]) (./hzb.tex
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 97.
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) (./hzb.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+ [10]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1490,10 +1860,50 @@ Overfull \hbox (32.84885pt too wide) in paragraph at lines 50--51
  Holz-roh-stoff-ver-sor-gung der Bio-ökonomie-Clusterregion
  []
 
+
+Package natbib Warning: Citation `bmel_2014' on page 14 undefined on input line
+ 52.
+
+
+Package natbib Warning: Citation `ti_2014' on page 14 undefined on input line 5
+2.
+
+
+Package natbib Warning: Citation `ml_2014' on page 14 undefined on input line 5
+2.
+
+
+Package natbib Warning: Citation `bmel_2011' on page 14 undefined on input line
+ 52.
+
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 57.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 57.
+
+Package natbib Warning: Citation `ml_2014' on page 14 undefined on input line 6
+1.
+
+
+Package natbib Warning: Citation `schmitz_2008' on page 14 undefined on input l
+ine 61.
+
+
+Package natbib Warning: Citation `r_core_team_2016' on page 14 undefined on inp
+ut line 61.
+
+
+Package natbib Warning: Citation `hansen_2014' on page 14 undefined on input li
+ne 65.
+
+
+Package natbib Warning: Citation `hansen_2008' on page 14 undefined on input li
+ne 65.
+
+
+Package natbib Warning: Citation `wordehoff_2011' on page 14 undefined on input
+ line 65.
+
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 66.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1509,26 +1919,47 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 70.
- <Grafiken/hzb/Abb_1_waldflaeche.pdf, id=713, 625.97867pt x 193.4427pt>
+ <Grafiken/hzb/Abb_1_waldflaeche.pdf, id=257, 625.97867pt x 193.4427pt>
 File: Grafiken/hzb/Abb_1_waldflaeche.pdf Graphic file (type pdf)
 
 <use Grafiken/hzb/Abb_1_waldflaeche.pdf>
 Package pdftex.def Info: Grafiken/hzb/Abb_1_waldflaeche.pdf used on input line 
 80.
 (pdftex.def)             Requested size: 426.79135pt x 131.89053pt.
+
+
+Package natbib Warning: Citation `ml_2014' on page 15 undefined on input line 8
+1.
+
+
+Package natbib Warning: Citation `ml_2014' on page 15 undefined on input line 8
+1.
+
+
+Package natbib Warning: Citation `ti_2014' on page 15 undefined on input line 8
+5.
+
+
+Package natbib Warning: Citation `ti_2014' on page 15 undefined on input line 8
+5.
+
+
+Package natbib Warning: Citation `gauer_2012' on page 15 undefined on input lin
+e 87.
+
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_2_Buchenanteil.eps>
-(epstopdf)                    date: 2016-08-22 09:26:27
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 584101 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_2_Buchenanteil-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2016-12-12 18:03:19
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 279833 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_2_Buchena
 nteil-eps-converted-to.pdf Grafiken/hzb/Abb_2_Buchenanteil.eps>
 (epstopdf)             \includegraphics on input line 92.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_2_Buchenanteil-eps-converted-to.pdf, id=725, 505.89pt x 505.8
+<Grafiken/hzb/Abb_2_Buchenanteil-eps-converted-to.pdf, id=259, 505.89pt x 505.8
 9pt>
 File: Grafiken/hzb/Abb_2_Buchenanteil-eps-converted-to.pdf Graphic file (type p
 df)
@@ -1550,18 +1981,18 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 99.
 [15 <./Grafiken/hzb/Abb_1_waldflaeche.pdf>]
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_3_Altersklassen.eps>
-(epstopdf)                    date: 2016-08-22 09:45:52
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 15270 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_3_Altersklassen-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2016-12-12 18:15:32
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 13730 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_3_Altersk
 lassen-eps-converted-to.pdf Grafiken/hzb/Abb_3_Altersklassen.eps>
 (epstopdf)             \includegraphics on input line 109.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf, id=744, 505.89pt x 505.
+<Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf, id=280, 505.89pt x 505.
 89pt>
 File: Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -1569,6 +2000,19 @@ pdf)
 Package pdftex.def Info: Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf 
 used on input line 109.
 (pdftex.def)             Requested size: 256.07741pt x 256.07838pt.
+
+
+Package natbib Warning: Citation `hmuklv_2014' on page 16 undefined on input li
+ne 114.
+
+
+Package natbib Warning: Citation `ml_2014' on page 16 undefined on input line 1
+14.
+
+
+Package natbib Warning: Citation `hmuklv_2014' on page 16 undefined on input li
+ne 114.
+
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 115.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1577,23 +2021,31 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 115.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 115.
- [16 <./Grafiken/hzb/Abb_2_Buchenanteil-eps-converted-to.pdf>]
+[16 <./Grafiken/hzb/Abb_2_Buchenanteil-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `ti_2014' on page 17 undefined on input line 1
+23.
+
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 128.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 128.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 128.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 124.
- [17 <./Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf>]
+(babel)             in language  on input line 128.
+[17 <./Grafiken/hzb/Abb_3_Altersklassen-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `speidel_1972' on page 18 undefined on input l
+ine 130.
+
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Ba
 umalter.eps>
-(epstopdf)                    date: 2016-09-06 10:33:27
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 6232 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Ba
 umalter-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-12 18:29:27
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 10642 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_4_Zuwachs
 _Nutzung_nach_Baumalter-eps-converted-to.pdf Grafiken/hzb/Abb_4_Zuwachs_Nutzung
@@ -1601,7 +2053,7 @@ _nach_Baumalter.eps>
 (epstopdf)             \includegraphics on input line 135.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Baumalter-eps-converted-to.pdf, id=784
+<Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Baumalter-eps-converted-to.pdf, id=310
 , 505.89pt x 337.26pt>
 File: Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Baumalter-eps-converted-to.pdf Gr
 aphic file (type pdf)
@@ -1610,23 +2062,27 @@ aphic file (type pdf)
 Package pdftex.def Info: Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Baumalter-eps-
 converted-to.pdf used on input line 135.
 (pdftex.def)             Requested size: 341.43437pt x 227.62523pt.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 142.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 142.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 142.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 142.
 
+
+Package natbib Warning: Citation `moller_2007' on page 18 undefined on input li
+ne 141.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 142.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 142.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 142.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 142.
 [18 <./Grafiken/hzb/Abb_4_Zuwachs_Nutzung_nach_Baumalter-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_5_Schutzgebietsauflagen.e
 ps>
-(epstopdf)                    date: 2016-08-29 14:20:11
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 7373 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_5_Schutzgebietsauflagen-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-12 18:29:28
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 11913 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_5_Schutzg
 ebietsauflagen-eps-converted-to.pdf Grafiken/hzb/Abb_5_Schutzgebietsauflagen.ep
@@ -1634,7 +2090,7 @@ s>
 (epstopdf)             \includegraphics on input line 146.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_5_Schutzgebietsauflagen-eps-converted-to.pdf, id=802, 505.89p
+<Grafiken/hzb/Abb_5_Schutzgebietsauflagen-eps-converted-to.pdf, id=328, 505.89p
 t x 289.08pt>
 File: Grafiken/hzb/Abb_5_Schutzgebietsauflagen-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -1643,6 +2099,11 @@ e (type pdf)
 Package pdftex.def Info: Grafiken/hzb/Abb_5_Schutzgebietsauflagen-eps-converted
 -to.pdf used on input line 146.
 (pdftex.def)             Requested size: 384.1096pt x 219.49576pt.
+
+
+Package natbib Warning: Citation `mantau_2012' on page 19 undefined on input li
+ne 152.
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1656,18 +2117,18 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 160.
  [19 <./Grafiken/hzb/Abb_5_Schutzgebietsauflagen-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_6_Prognose_Vorrat.eps>
-(epstopdf)                    date: 2016-09-06 10:38:06
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 7310 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2016-12-12 18:38:31
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 11171 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_6_Prognos
 e_Vorrat-eps-converted-to.pdf Grafiken/hzb/Abb_6_Prognose_Vorrat.eps>
 (epstopdf)             \includegraphics on input line 168.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-converted-to.pdf, id=817, 505.89pt x 50
+<Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-converted-to.pdf, id=342, 505.89pt x 50
 5.89pt>
 File: Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -1678,6 +2139,10 @@ f used on input line 168.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `ti_2014' on page 20 undefined on input line 1
+74.
 
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 181.
@@ -1697,11 +2162,11 @@ Package babel Info: Redefining ngerman shorthand "~
  [20]
 Package epstopdf Info: Source file: <Grafiken/hzb/Abb_7_Prognose_aus_Bestand.ep
 s>
-(epstopdf)                    date: 2016-09-06 10:35:52
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 6489 bytes
 (epstopdf)             Output file: <Grafiken/hzb/Abb_7_Prognose_aus_Bestand-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2016-12-12 18:38:32
+(epstopdf)                    date: 2017-01-12 16:30:38
 (epstopdf)                    size: 11459 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/hzb/Abb_7_Prognos
 e_aus_Bestand-eps-converted-to.pdf Grafiken/hzb/Abb_7_Prognose_aus_Bestand.eps>
@@ -1709,7 +2174,7 @@ e_aus_Bestand-eps-converted-to.pdf Grafiken/hzb/Abb_7_Prognose_aus_Bestand.eps>
 (epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf, id=829, 505.89pt
+<Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf, id=351, 505.89pt
  x 505.89pt>
 File: Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -1718,6 +2183,31 @@ File: Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf Graphic file
 Package pdftex.def Info: Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-
 to.pdf used on input line 188.
 (pdftex.def)             Requested size: 256.07741pt x 256.07838pt.
+
+
+Package natbib Warning: Citation `nagel_2008' on page 21 undefined on input lin
+e 194.
+
+
+Package natbib Warning: Citation `ochs_2007' on page 21 undefined on input line
+ 194.
+
+
+Package natbib Warning: Citation `ruther_2007' on page 21 undefined on input li
+ne 196.
+
+
+Package natbib Warning: Citation `mantau_2012' on page 21 undefined on input li
+ne 196.
+
+
+Package natbib Warning: Citation `mccormick_2013' on page 21 undefined on input
+ line 196.
+
+
+Package natbib Warning: Citation `destatis_2016' on page 21 undefined on input 
+line 196.
+
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 197.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1726,7 +2216,20 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 197.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 197.
- [21 <./Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-converted-to.pdf>]
+[21 <./Grafiken/hzb/Abb_6_Prognose_Vorrat-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `fischer_2016' on page 22 undefined on input l
+ine 198.
+
+
+Package natbib Warning: Citation `ml_2004' on page 22 undefined on input line 1
+98.
+
+
+Package natbib Warning: Citation `bmel_2011' on page 22 undefined on input line
+ 198.
+
+
 Underfull \vbox (badness 1859) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
@@ -1737,8 +2240,16 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 199.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 199.
- [22 <./Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf>]) (./bm.t
-ex [23]
+ [22 <./Grafiken/hzb/Abb_7_Prognose_aus_Bestand-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `ochs_2007' on page 23 undefined on input line
+ 200.
+
+
+Package natbib Warning: Citation `mccormick_2013' on page 23 undefined on input
+ line 200.
+
+) (./bm.tex [23]
 chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -1757,27 +2268,157 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
 [24
 
-] [25] [26
+] [25]
 
-] [27]
+Package natbib Warning: Citation `ekman_2013' on page 26 undefined on input lin
+e 57.
+
+
+Package natbib Warning: Citation `hurmekoski_2013' on page 26 undefined on inpu
+t line 57.
+
+
+Package natbib Warning: Citation `hennig_2016' on page 26 undefined on input li
+ne 57.
+
+[26
+
+]
+
+Package natbib Warning: Citation `mantau_2012' on page 27 undefined on input li
+ne 59.
+
+
+Package natbib Warning: Citation `geldermann_2016' on page 27 undefined on inpu
+t line 59.
+
+
+Package natbib Warning: Citation `mccormick_2013' on page 27 undefined on input
+ line 59.
+
+
+Package natbib Warning: Citation `mohring_1997' on page 27 undefined on input l
+ine 61.
+
+
+Package natbib Warning: Citation `hennig_2016' on page 27 undefined on input li
+ne 61.
+
+
+Package natbib Warning: Citation `block_2013' on page 27 undefined on input lin
+e 61.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 27 undefined on input 
+line 61.
+
+
+Package natbib Warning: Citation `geldermann_2016' on page 27 undefined on inpu
+t line 65.
+
+
+Package natbib Warning: Citation `how_2016' on page 27 undefined on input line 
+65.
+
+
+Package natbib Warning: Citation `mccormick_2013' on page 27 undefined on input
+ line 67.
+
+
+Package natbib Warning: Citation `ruther_2007' on page 27 undefined on input li
+ne 67.
+
+
+Package natbib Warning: Citation `wordehoff_2011' on page 27 undefined on input
+ line 67.
+
+
+Package natbib Warning: Citation `mantau_2012' on page 27 undefined on input li
+ne 67.
+
+
+Package natbib Warning: Citation `vallet_2006' on page 27 undefined on input li
+ne 69.
+
+
+Package natbib Warning: Citation `tabacchi_2011' on page 27 undefined on input 
+line 69.
+
+
+Package natbib Warning: Citation `wordehoff_2011' on page 27 undefined on input
+ line 69.
+
+
+Package natbib Warning: Citation `grote_2003' on page 27 undefined on input lin
+e 71.
+
+
+Package natbib Warning: Citation `cienciala_2005' on page 27 undefined on input
+ line 71.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 27 undefined on input 
+line 71.
+
+
+Package natbib Warning: Citation `augusto_2000' on page 27 undefined on input l
+ine 71.
+
+
+Package natbib Warning: Citation `jacobsen_2003' on page 27 undefined on input 
+line 71.
+
+
+Package natbib Warning: Citation `weis_2012' on page 27 undefined on input line
+ 71.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 27 undefined on input 
+line 71.
+
+
+Package natbib Warning: Citation `albert_2014' on page 27 undefined on input li
+ne 71.
+
+
+Package natbib Warning: Citation `alberti_2005' on page 27 undefined on input l
+ine 71.
+
+
+Package natbib Warning: Citation `bunce_1968' on page 27 undefined on input lin
+e 71.
+
+
+Package natbib Warning: Citation `ti_2014' on page 27 undefined on input line 7
+3.
+
+[27]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_1_Locations.eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2016-12-09 14:16:36
 (epstopdf)                    size: 2145667 bytes
 (epstopdf)             Output file: <Grafiken/bm/Fig_1_Locations-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-02-28 19:30:48
 (epstopdf)                    size: 1315520 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_1_Location
 s-eps-converted-to.pdf Grafiken/bm/Fig_1_Locations.eps>
 (epstopdf)             \includegraphics on input line 86.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf, id=985, 505.89pt x 650.43pt>
+<Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf, id=405, 505.89pt x 650.43pt>
 File: Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf Graphic file (type pdf)
 <use Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf used 
 on input line 86.
 (pdftex.def)             Requested size: 298.75264pt x 384.11758pt.
+
+
+Package natbib Warning: Citation `facg_2014' on page 28 undefined on input line
+ 87.
+
+
+Package natbib Warning: Citation `facg_2014' on page 28 undefined on input line
+ 87.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1787,17 +2428,112 @@ LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 93.
 
 
-Underfull \vbox (badness 1168) has occurred while \output is active []
+Package natbib Warning: Citation `saborowski_1999' on page 28 undefined on inpu
+t line 122.
 
- [28]
-Underfull \vbox (badness 1112) has occurred while \output is active []
 
- [29 <./Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf>] [30]
+Package natbib Warning: Citation `Gregoire_2008' on page 28 undefined on input 
+line 122.
+
+
+Package natbib Warning: Citation `jessen_1955' on page 28 undefined on input li
+ne 122.
+
+
+Package natbib Warning: Citation `valentine_1984' on page 28 undefined on input
+ line 122.
+
+
+Package natbib Warning: Citation `gaffrey_1999' on page 28 undefined on input l
+ine 122.
+
+
+Package natbib Warning: Citation `affleck_2015' on page 28 undefined on input l
+ine 122.
+
+
+Package natbib Warning: Citation `west_1999' on page 28 undefined on input line
+ 122.
+
+
+Package natbib Warning: Citation `Gregoire_2008' on page 28 undefined on input 
+line 122.
+
+[28]
+
+Package natbib Warning: Citation `rademacher_2011' on page 29 undefined on inpu
+t line 124.
+
+
+Package natbib Warning: Citation `konig_2012a' on page 29 undefined on input li
+ne 124.
+
+
+Package natbib Warning: Citation `konig_2012b' on page 29 undefined on input li
+ne 124.
+
+
+Package natbib Warning: Citation `hochbichler_2006' on page 29 undefined on inp
+ut line 132.
+
+
+Package natbib Warning: Citation `rumpf_2011' on page 29 undefined on input lin
+e 132.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29 <./Grafiken/bm/Fig_1_Locations-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `graham_2003' on page 30 undefined on input li
+ne 139.
+
+
+Package natbib Warning: Citation `parresol_2001' on page 30 undefined on input 
+line 139.
+
+
+Package natbib Warning: Citation `venables_2002' on page 30 undefined on input 
+line 161.
+
+
+Package natbib Warning: Citation `barton_2016' on page 30 undefined on input li
+ne 161.
+
+[30]
+
+Package natbib Warning: Citation `diciccio_1996' on page 31 undefined on input 
+line 163.
+
+
+Package natbib Warning: Citation `r_core_team_2016' on page 31 undefined on inp
+ut line 163.
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 172.
 
+
+Package natbib Warning: Citation `hansen_2014' on page 31 undefined on input li
+ne 186.
+
+
+Package natbib Warning: Citation `henderson_2012' on page 31 undefined on input
+ line 192.
+
+
+Package natbib Warning: Citation `vitousek_1982' on page 31 undefined on input 
+line 192.
+
+
+Package natbib Warning: Citation `vitousek_1982' on page 31 undefined on input 
+line 192.
+
 [31]
+
+Package natbib Warning: Citation `akaike_1981' on page 32 undefined on input li
+ne 206.
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 208.
@@ -1806,21 +2542,20 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 258.
 
-[32] [33]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_2_Regression_curves.eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2016-12-09 14:18:46
 (epstopdf)                    size: 179935 bytes
 (epstopdf)             Output file: <Grafiken/bm/Fig_2_Regression_curves-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-03-01 16:22:42
 (epstopdf)                    size: 71516 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_2_Regressi
 on_curves-eps-converted-to.pdf Grafiken/bm/Fig_2_Regression_curves.eps>
 (epstopdf)             \includegraphics on input line 288.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf, id=1115, 578.16pt x 
-1084.05pt>
+<Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf, id=455, 578.16pt x 1
+084.05pt>
 File: Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf>
@@ -1828,28 +2563,32 @@ Package pdftex.def Info: Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.p
 df used on input line 288.
 (pdftex.def)             Requested size: 298.75264pt x 560.15288pt.
 
-[34] [35 <./Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf>]
+[32] [33]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_3_Fraction_Biomass.eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-02-03 15:45:14
 (epstopdf)                    size: 1227996 bytes
 (epstopdf)             Output file: <Grafiken/bm/Fig_3_Fraction_Biomass-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-03-01 16:34:15
 (epstopdf)                    size: 263049 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_3_Fraction
 _Biomass-eps-converted-to.pdf Grafiken/bm/Fig_3_Fraction_Biomass.eps>
 (epstopdf)             \includegraphics on input line 302.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf, id=1127, 505.89pt x 4
-33.62pt>
+<Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf, id=468, 505.89pt x 43
+3.62pt>
 File: Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pd
 f used on input line 302.
 (pdftex.def)             Requested size: 298.75264pt x 256.07838pt.
- [36 <./Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[34] [35 <./Grafiken/bm/Fig_2_Regression_curves-eps-converted-to.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 315.
@@ -1863,51 +2602,254 @@ Overfull \hbox (9.57152pt too wide) in paragraph at lines 347--383
  [][] 
  []
 
+[36 <./Grafiken/bm/Fig_3_Fraction_Biomass-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_4_nutrient_eff_1.eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-03-02 11:15:20
 (epstopdf)                    size: 5617 bytes
 (epstopdf)             Output file: <Grafiken/bm/Fig_4_nutrient_eff_1-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-03-02 11:18:16
 (epstopdf)                    size: 7369 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_4_nutrient
 _eff_1-eps-converted-to.pdf Grafiken/bm/Fig_4_nutrient_eff_1.eps>
 (epstopdf)             \includegraphics on input line 389.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf, id=1143, 650.43pt x 361
-.35pt>
+<Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf, id=499, 650.43pt x 361.
+35pt>
 File: Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf 
 used on input line 389.
 (pdftex.def)             Requested size: 426.79135pt x 237.1133pt.
- [37]
-[38]
 Package epstopdf Info: Source file: <Grafiken/bm/Fig_5_nutrient_eff_2.eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-03-02 11:15:20
 (epstopdf)                    size: 5682 bytes
 (epstopdf)             Output file: <Grafiken/bm/Fig_5_nutrient_eff_2-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-03-02 11:19:06
 (epstopdf)                    size: 7556 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/bm/Fig_5_nutrient
 _eff_2-eps-converted-to.pdf Grafiken/bm/Fig_5_nutrient_eff_2.eps>
 (epstopdf)             \includegraphics on input line 398.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf, id=1157, 650.43pt x 361
-.35pt>
+<Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf, id=503, 650.43pt x 361.
+35pt>
 File: Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf>
 Package pdftex.def Info: Grafiken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf 
 used on input line 398.
 (pdftex.def)             Requested size: 426.79135pt x 237.1133pt.
- [39 <./Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf>] [40 <./Grafiken
-/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf>] [41] [42]) (./beech_crowns.tex 
-[43] [44]
+
+
+Package natbib Warning: Citation `ledermann_2006' on page 37 undefined on input
+ line 418.
+
+
+Package natbib Warning: Citation `eckmullner_2006' on page 37 undefined on inpu
+t line 418.
+
+
+Package natbib Warning: Citation `marklund_1988' on page 37 undefined on input 
+line 418.
+
+
+Package natbib Warning: Citation `hochbichler_2006' on page 37 undefined on inp
+ut line 418.
+
+
+Package natbib Warning: Citation `baskerville_1972' on page 37 undefined on inp
+ut line 418.
+
+
+Package natbib Warning: Citation `smith_1993' on page 37 undefined on input lin
+e 418.
+
+[37] [38] [39 <./Grafiken/bm/Fig_4_nutrient_eff_1-eps-converted-to.pdf> <./Graf
+iken/bm/Fig_5_nutrient_eff_2-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `magee_1990' on page 40 undefined on input lin
+e 422.
+
+
+Package natbib Warning: Citation `zianis_2005' on page 40 undefined on input li
+ne 422.
+
+
+Package natbib Warning: Citation `ledermann_2006' on page 40 undefined on input
+ line 424.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 40 undefined on input 
+line 424.
+
+
+Package natbib Warning: Citation `ledermann_2006' on page 40 undefined on input
+ line 424.
+
+
+Package natbib Warning: Citation `hochbichler_2006' on page 40 undefined on inp
+ut line 424.
+
+
+Package natbib Warning: Citation `pretzsch_2012' on page 40 undefined on input 
+line 424.
+
+
+Package natbib Warning: Citation `henningsen_2007' on page 40 undefined on inpu
+t line 426.
+
+
+Package natbib Warning: Citation `sanquetta_2015' on page 40 undefined on input
+ line 426.
+
+[40]
+
+Package natbib Warning: Citation `grote_2003' on page 41 undefined on input lin
+e 432.
+
+
+Package natbib Warning: Citation `grote_2003' on page 41 undefined on input lin
+e 432.
+
+
+Package natbib Warning: Citation `konopka_2015' on page 41 undefined on input l
+ine 432.
+
+
+Package natbib Warning: Citation `cienciala_2005' on page 41 undefined on input
+ line 432.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 41 undefined on input 
+line 432.
+
+
+Package natbib Warning: Citation `genet_2011' on page 41 undefined on input lin
+e 432.
+
+
+Package natbib Warning: Citation `altherr_1978' on page 41 undefined on input l
+ine 432.
+
+
+Package natbib Warning: Citation `grote_2003' on page 41 undefined on input lin
+e 432.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 41 undefined on input 
+line 432.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 41 undefined on input 
+line 432.
+
+
+Package natbib Warning: Citation `grote_2003' on page 41 undefined on input lin
+e 432.
+
+
+Package natbib Warning: Citation `altherr_1978' on page 41 undefined on input l
+ine 432.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 41 undefined on input 
+line 432.
+
+
+Package natbib Warning: Citation `altherr_1978' on page 41 undefined on input l
+ine 432.
+
+
+Package natbib Warning: Citation `albert_2014' on page 41 undefined on input li
+ne 432.
+
+
+Package natbib Warning: Citation `alberti_2005' on page 41 undefined on input l
+ine 432.
+
+
+Package natbib Warning: Citation `bunce_1968' on page 41 undefined on input lin
+e 432.
+
+
+Package natbib Warning: Citation `albert_2014' on page 41 undefined on input li
+ne 432.
+
+
+Package natbib Warning: Citation `cerny_1990' on page 41 undefined on input lin
+e 432.
+
+
+Package natbib Warning: Citation `thurnher_2013' on page 41 undefined on input 
+line 432.
+
+[41]
+
+Package natbib Warning: Citation `augusto_2000' on page 42 undefined on input l
+ine 446.
+
+
+Package natbib Warning: Citation `muller-using_2004' on page 42 undefined on in
+put line 446.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 42 undefined on input 
+line 446.
+
+
+Package natbib Warning: Citation `joosten_2003' on page 42 undefined on input l
+ine 446.
+
+
+Package natbib Warning: Citation `vitousek_1982' on page 42 undefined on input 
+line 448.
+
+
+Package natbib Warning: Citation `rumpf_2011' on page 42 undefined on input lin
+e 448.
+
+
+Package natbib Warning: Citation `meiwes_2012' on page 42 undefined on input li
+ne 448.
+
+
+Package natbib Warning: Citation `vitousek_1982' on page 42 undefined on input 
+line 448.
+
+
+Package natbib Warning: Citation `block_2013' on page 42 undefined on input lin
+e 448.
+
+
+Package natbib Warning: Citation `meiwes_2012' on page 42 undefined on input li
+ne 448.
+
+
+Package natbib Warning: Citation `pretzsch_2014' on page 42 undefined on input 
+line 448.
+
+[42]
+
+Package natbib Warning: Citation `pretzsch_2014' on page 43 undefined on input 
+line 455.
+
+
+Package natbib Warning: Citation `ti_2014' on page 43 undefined on input line 4
+55.
+
+
+Package natbib Warning: Citation `bmel_2014' on page 43 undefined on input line
+ 455.
+
+
+Package natbib Warning: Citation `ti_2014' on page 43 undefined on input line 4
+55.
+
+) (./beech_crowns.tex [43]
 chapter 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -1919,21 +2861,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--9
 
  []
 
-[45
+[44
 
-] [46] [47
+] [45]
+
+Package natbib Warning: Citation `fanc_2010' on page 46 undefined on input line
+ 50.
+
+
+Package natbib Warning: Citation `ti_2014' on page 46 undefined on input line 5
+0.
+
+
+Package natbib Warning: Citation `mfacp_2004' on page 46 undefined on input lin
+e 50.
+
+
+Package natbib Warning: Citation `nagel_2008' on page 46 undefined on input lin
+e 52.
+
+
+Package natbib Warning: Citation `hildebrandt_2014' on page 46 undefined on inp
+ut line 52.
+
+
+Package natbib Warning: Citation `mantau_2012' on page 46 undefined on input li
+ne 52.
+
+
+Package natbib Warning: Citation `miettinen_2014' on page 46 undefined on input
+ line 52.
+
+
+Package natbib Warning: Citation `mohring_1997' on page 46 undefined on input l
+ine 52.
+
+
+Package natbib Warning: Citation `kuzelka_2012' on page 46 undefined on input l
+ine 52.
+
+[46
 
 ]
-Underfull \vbox (badness 1297) has occurred while \output is active []
 
- [48]
+Package natbib Warning: Citation `gaffrey_1999' on page 47 undefined on input l
+ine 54.
+
+
+Package natbib Warning: Citation `gaffrey_1999' on page 47 undefined on input l
+ine 62.
+
+
+Package natbib Warning: Citation `jessen_1955' on page 47 undefined on input li
+ne 62.
+
+[47]
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_1_plot_locations
 .eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-01-03 18:01:38
 (epstopdf)                    size: 2139702 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_1_plot_locations
 -eps-converted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-01-13 11:50:18
 (epstopdf)                    size: 1314962 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 1_plot_locations-eps-converted-to.pdf Grafiken/beech_crowns/Fig_1_plot_location
@@ -1941,8 +2930,8 @@ s.eps>
 (epstopdf)             \includegraphics on input line 72.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf, id=1394, 505.
-89pt x 650.43pt>
+<Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf, id=598, 505.8
+9pt x 650.43pt>
 File: Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf Graphic f
 ile (type pdf)
 
@@ -1952,22 +2941,69 @@ ed-to.pdf used on input line 72.
 (pdftex.def)             Requested size: 298.75264pt x 384.11758pt.
 
 
+Package natbib Warning: Citation `facg_2014' on page 48 undefined on input line
+ 73.
+
+
+Package natbib Warning: Citation `facg_2014' on page 48 undefined on input line
+ 73.
+
+
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 77.
 
-[49 <./Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `Gregoire_2008' on page 48 undefined on input 
+line 98.
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 100.
 
-[50]
+
+Package natbib Warning: Citation `jessen_1955' on page 48 undefined on input li
+ne 117.
+
+
+Package natbib Warning: Citation `gaffrey_1999' on page 48 undefined on input l
+ine 117.
+
+
+Underfull \vbox (badness 1028) has occurred while \output is active []
+
+ [48 <./Grafiken/beech_crowns/Fig_1_plot_locations-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `gregoire_1995' on page 49 undefined on input 
+line 119.
+
+
+Package natbib Warning: Citation `Gregoire_2008' on page 49 undefined on input 
+line 119.
+
+
+Package natbib Warning: Citation `valentine_1984' on page 49 undefined on input
+ line 119.
+
+
+Package natbib Warning: Citation `west_1999' on page 49 undefined on input line
+ 119.
+
+
+Package natbib Warning: Citation `Gregoire_2008' on page 49 undefined on input 
+line 126.
+
+[49]
+
+Package natbib Warning: Citation `Gregoire_2008' on page 50 undefined on input 
+line 140.
+
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_2_relative_volum
 e_amount.eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2016-12-19 10:26:50
 (epstopdf)                    size: 9917 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_2_relative_volum
 e_amount-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-01-13 14:17:34
 (epstopdf)                    size: 8951 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 2_relative_volume_amount-eps-converted-to.pdf Grafiken/beech_crowns/Fig_2_relat
@@ -1975,8 +3011,8 @@ ive_volume_amount.eps>
 (epstopdf)             \includegraphics on input line 164.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf, id=14
-43, 903.375pt x 325.215pt>
+<Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf, id=62
+3, 903.375pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf G
 raphic file (type pdf)
 
@@ -1985,22 +3021,117 @@ Package pdftex.def Info: Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps
 -converted-to.pdf used on input line 164.
 (pdftex.def)             Requested size: 426.79135pt x 153.64505pt.
 
-[51] [52 <./Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to
-.pdf>]
+
+Package natbib Warning: Citation `r_core_team_2016' on page 50 undefined on inp
+ut line 169.
+
+
+Package natbib Warning: Citation `wagstaff_2001' on page 50 undefined on input 
+line 169.
+
+
+Package natbib Warning: Citation `hutcheson_2008' on page 50 undefined on input
+ line 171.
+
+[50]
+
+Package natbib Warning: Citation `venables_2002' on page 51 undefined on input 
+line 192.
+
+
+Package natbib Warning: Citation `venables_2002' on page 51 undefined on input 
+line 192.
+
+
+Package natbib Warning: Citation `cancino_2005' on page 51 undefined on input l
+ine 198.
+
+[51 <./Grafiken/beech_crowns/Fig_2_relative_volume_amount-eps-converted-to.pdf>
+]
+
+Package natbib Warning: Citation `mohring_1997' on page 52 undefined on input l
+ine 202.
+
+
+Package natbib Warning: Citation `starr_1975' on page 52 undefined on input lin
+e 202.
+
+
+Package natbib Warning: Citation `r_core_team_2016' on page 52 undefined on inp
+ut line 202.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[53]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [54]
+Package natbib Warning: Citation `degenhard_2016' on page 52 undefined on input
+ line 237.
+
+
+Package natbib Warning: Citation `haarhaus_2012' on page 52 undefined on input 
+line 237.
+
+
+Package natbib Warning: Citation `r_core_team_2016' on page 52 undefined on inp
+ut line 244.
+
+
+Package natbib Warning: Citation `wood_2006' on page 52 undefined on input line
+ 244.
+
+[52]
+
+Package natbib Warning: Citation `huxley_1932' on page 53 undefined on input li
+ne 250.
+
+
+Package natbib Warning: Citation `niklas_1994' on page 53 undefined on input li
+ne 250.
+
+
+Package natbib Warning: Citation `pretzsch_2010' on page 53 undefined on input 
+line 250.
+
+
+Package natbib Warning: Citation `west_1997' on page 53 undefined on input line
+ 250.
+
+
+Package natbib Warning: Citation `stumpf_2012' on page 53 undefined on input li
+ne 252.
+
+
+Package natbib Warning: Citation `warton_2012' on page 53 undefined on input li
+ne 252.
+
+
+Package natbib Warning: Citation `sprugel_1983' on page 53 undefined on input l
+ine 252.
+
+[53]
+
+Package natbib Warning: Citation `altherr_1978' on page 54 undefined on input l
+ine 264.
+
+
+Package natbib Warning: Citation `altherr_1978' on page 54 undefined on input l
+ine 264.
+
+
+Package natbib Warning: Citation `altherr_1978' on page 54 undefined on input l
+ine 264.
+
+
+Package natbib Warning: Citation `wood_2006' on page 54 undefined on input line
+ 266.
+
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_3_bark_thickness
 .eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2016-06-14 12:45:03
 (epstopdf)                    size: 11171 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_3_bark_thickness
 -eps-converted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-01-13 16:54:00
 (epstopdf)                    size: 15275 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 3_bark_thickness-eps-converted-to.pdf Grafiken/beech_crowns/Fig_3_bark_thicknes
@@ -2008,8 +3139,8 @@ s.eps>
 (epstopdf)             \includegraphics on input line 270.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf, id=1575, 325.
-215pt x 325.215pt>
+<Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf, id=700, 325.2
+15pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf Graphic f
 ile (type pdf)
 
@@ -2022,27 +3153,39 @@ ed-to.pdf used on input line 270.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 277.
 
-[55]
+[54 <./Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 305.
 
-[56 <./Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf>]
+
+Package natbib Warning: Citation `venables_2002' on page 55 undefined on input 
+line 324.
+
+
+Package natbib Warning: Citation `chambers_1992' on page 55 undefined on input 
+line 324.
+
+
+Package natbib Warning: Citation `akaike_1981' on page 55 undefined on input li
+ne 324.
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 326.
 
+[55]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 358.
 
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_4_marginal_retur
 n.eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2016-06-14 12:46:52
 (epstopdf)                    size: 10574 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_4_marginal_retur
 n-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-01-13 17:38:14
 (epstopdf)                    size: 12567 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 4_marginal_return-eps-converted-to.pdf Grafiken/beech_crowns/Fig_4_marginal_ret
@@ -2050,8 +3193,8 @@ urn.eps>
 (epstopdf)             \includegraphics on input line 376.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf, id=1614, 325
-.215pt x 325.215pt>
+<Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf, id=729, 325.
+215pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf Graphic 
 file (type pdf)
 
@@ -2059,14 +3202,14 @@ file (type pdf)
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_4_marginal_return-eps-conver
 ted-to.pdf used on input line 376.
 (pdftex.def)             Requested size: 213.39568pt x 213.40196pt.
- [57]
+ [56]
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_5_left_elasticit
 y_cost_revenue.eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2016-06-14 10:43:21
 (epstopdf)                    size: 5307 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_5_left_elasticit
 y_cost_revenue-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-01-16 10:31:23
 (epstopdf)                    size: 6773 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 5_left_elasticity_cost_revenue-eps-converted-to.pdf Grafiken/beech_crowns/Fig_5
@@ -2075,7 +3218,7 @@ _left_elasticity_cost_revenue.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to.pdf,
- id=1623, 505.89pt x 505.89pt>
+ id=739, 505.89pt x 505.89pt>
 File: Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to
 .pdf Graphic file (type pdf)
 
@@ -2086,11 +3229,11 @@ ue-eps-converted-to.pdf used on input line 385.
 (pdftex.def)             Requested size: 209.1301pt x 209.1299pt.
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_5_right_small-en
 d_diameter_boxplot.eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2016-06-14 10:41:12
 (epstopdf)                    size: 7338 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_5_right_small-en
 d_diameter_boxplot-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-01-16 10:32:59
 (epstopdf)                    size: 6931 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 5_right_small-end_diameter_boxplot-eps-converted-to.pdf Grafiken/beech_crowns/F
@@ -2099,7 +3242,7 @@ ig_5_right_small-end_diameter_boxplot.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converted-to.
-pdf, id=1624, 505.89pt x 505.89pt>
+pdf, id=740, 505.89pt x 505.89pt>
 File: Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converte
 d-to.pdf Graphic file (type pdf)
 
@@ -2108,21 +3251,25 @@ d-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Grafiken/beech_crowns/Fig_5_right_small-end_diameter_b
 oxplot-eps-converted-to.pdf used on input line 386.
 (pdftex.def)             Requested size: 209.1301pt x 209.1299pt.
- [58 <./Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf>]
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 402.
 
-[59 <./Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-t
-o.pdf> <./Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-conv
-erted-to.pdf>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf>] [58 
+<./Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to.pd
+f> <./Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converte
+d-to.pdf>]
 Package epstopdf Info: Source file: <Grafiken/beech_crowns/Fig_6_allometric_rel
 ationships.eps>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2016-06-14 10:47:41
 (epstopdf)                    size: 51740 bytes
 (epstopdf)             Output file: <Grafiken/beech_crowns/Fig_6_allometric_rel
 ationships-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-03-03 21:18:56
+(epstopdf)                    date: 2017-01-16 11:13:52
 (epstopdf)                    size: 91336 bytes
 (epstopdf)             Command: <repstopdf --outfile=Grafiken/beech_crowns/Fig_
 6_allometric_relationships-eps-converted-to.pdf Grafiken/beech_crowns/Fig_6_all
@@ -2131,7 +3278,7 @@ ometric_relationships.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf, id=
-1658, 650.43pt x 650.43pt>
+775, 650.43pt x 650.43pt>
 File: Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf
  Graphic file (type pdf)
 
@@ -2143,8 +3290,88 @@ ps-converted-to.pdf used on input line 429.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 436.
 
-[60] [61 <./Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-
-to.pdf>] [62] [63] [64]) (./opt.tex [65]
+
+Package natbib Warning: Citation `altherr_1978' on page 59 undefined on input l
+ine 463.
+
+
+Package natbib Warning: Citation `bonyad_2012' on page 59 undefined on input li
+ne 463.
+
+
+Package natbib Warning: Citation `neumann-spallart_1952' on page 59 undefined o
+n input line 478.
+
+[59] [60 <./Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-
+to.pdf>]
+
+Package natbib Warning: Citation `starr_1975' on page 61 undefined on input lin
+e 491.
+
+
+Package natbib Warning: Citation `varian_2010' on page 61 undefined on input li
+ne 491.
+
+[61]
+
+Package natbib Warning: Citation `niklas_1994' on page 62 undefined on input li
+ne 508.
+
+
+Package natbib Warning: Citation `pretzsch_2012' on page 62 undefined on input 
+line 508.
+
+
+Package natbib Warning: Citation `pretzsch_2012' on page 62 undefined on input 
+line 508.
+
+[62]
+
+Package natbib Warning: Citation `mitscherlich_1970' on page 63 undefined on in
+put line 521.
+
+
+Package natbib Warning: Citation `gruber_2004' on page 63 undefined on input li
+ne 521.
+
+
+Package natbib Warning: Citation `umeki_1995' on page 63 undefined on input lin
+e 521.
+
+
+Package natbib Warning: Citation `pretzsch_2012' on page 63 undefined on input 
+line 521.
+
+
+Package natbib Warning: Citation `wilson_2000' on page 63 undefined on input li
+ne 521.
+
+
+Package natbib Warning: Citation `roloff_1986' on page 63 undefined on input li
+ne 521.
+
+
+Package natbib Warning: Citation `schroter_2012' on page 63 undefined on input 
+line 521.
+
+
+Package natbib Warning: Citation `pretzsch_2012' on page 63 undefined on input 
+line 521.
+
+
+Package natbib Warning: Citation `zianis_2005' on page 63 undefined on input li
+ne 521.
+
+
+Package natbib Warning: Citation `hempel_1948' on page 63 undefined on input li
+ne 523.
+
+[63]
+
+Package natbib Warning: Citation `miettinen_2014' on page 64 undefined on input
+ line 525.
+
+) (./opt.tex [64]
 chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -2161,155 +3388,269 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
 
-[66
+[65
 
-] [67] [68
+] [66]
+
+Package natbib Warning: Citation `corana_1987' on page 67 undefined on input li
+ne 38.
+
+
+Package natbib Warning: Citation `wegener_2005' on page 67 undefined on input l
+ine 38.
+
+
+Package natbib Warning: Citation `kirkpatrick_1983' on page 67 undefined on inp
+ut line 38.
+
+
+Package natbib Warning: Citation `dantzig_1959' on page 67 undefined on input l
+ine 38.
+
+
+Package natbib Warning: Citation `clarke_1964' on page 67 undefined on input li
+ne 38.
+
+
+Package natbib Warning: Citation `kirkpatrick_1983' on page 67 undefined on inp
+ut line 38.
+
+
+Package natbib Warning: Citation `blum_2003' on page 67 undefined on input line
+ 38.
+
+
+Package natbib Warning: Citation `geiger_1999' on page 67 undefined on input li
+ne 38.
+
+
+Package natbib Warning: Citation `blum_2003' on page 67 undefined on input line
+ 38.
+
+
+Package natbib Warning: Citation `corana_1987' on page 67 undefined on input li
+ne 38.
+
+
+Package natbib Warning: Citation `blum_2003' on page 67 undefined on input line
+ 38.
+
+
+Package natbib Warning: Citation `kirkpatrick_1983' on page 67 undefined on inp
+ut line 40.
+
+
+Package natbib Warning: Citation `blum_2003' on page 67 undefined on input line
+ 40.
+
+
+Package natbib Warning: Citation `corana_1987' on page 67 undefined on input li
+ne 40.
+
+
+Package natbib Warning: Citation `agostini_2006' on page 67 undefined on input 
+line 40.
+
+
+Package natbib Warning: Citation `ingber_1993' on page 67 undefined on input li
+ne 40.
+
+
+Package natbib Warning: Citation `baskent_2002' on page 67 undefined on input l
+ine 40.
+
+
+Package natbib Warning: Citation `boston_1999' on page 67 undefined on input li
+ne 40.
+
+
+Package natbib Warning: Citation `kirkpatrick_1983' on page 67 undefined on inp
+ut line 40.
+
+
+Package natbib Warning: Citation `desarbo_1989' on page 67 undefined on input l
+ine 40.
+
+
+Package natbib Warning: Citation `goffe_1996' on page 67 undefined on input lin
+e 40.
+
+
+Package natbib Warning: Citation `xiang_2013' on page 67 undefined on input lin
+e 40.
+
+
+Package natbib Warning: Citation `wegener_2005' on page 67 undefined on input l
+ine 40.
+
+
+Package natbib Warning: Citation `corana_1987' on page 67 undefined on input li
+ne 40.
+
+
+Package natbib Warning: Citation `pronzato_1984' on page 67 undefined on input 
+line 40.
+
+[67
 
 ]
+
+Package natbib Warning: Citation `xiang_2013' on page 68 undefined on input lin
+e 42.
+
+
+Package natbib Warning: Citation `theussl_2016' on page 68 undefined on input l
+ine 42.
+
+
+Package natbib Warning: Citation `corana_1987' on page 68 undefined on input li
+ne 42.
+
+
+Package natbib Warning: Citation `pronzato_1984' on page 68 undefined on input 
+line 42.
+
+
+Package natbib Warning: Citation `kirkpatrick_1983' on page 68 undefined on inp
+ut line 53.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
+ [68]
+
+Package natbib Warning: Citation `kirkpatrick_1983' on page 69 undefined on inp
+ut line 58.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[70]
-Underfull \vbox (badness 8170) has occurred while \output is active []
 
- [71]
-[72] [73] [74]
+Package natbib Warning: Citation `corana_1987' on page 69 undefined on input li
+ne 90.
+
+
+Package natbib Warning: Citation `metropolis_1953' on page 69 undefined on inpu
+t line 92.
+
+
+Package natbib Warning: Citation `kirkpatrick_1983' on page 69 undefined on inp
+ut line 98.
+
+
+Package natbib Warning: Citation `metropolis_1953' on page 69 undefined on inpu
+t line 98.
+
+[69]
+
+Package natbib Warning: Citation `lin_1995' on page 70 undefined on input line 
+100.
+
+
+Package natbib Warning: Citation `hansen_2012' on page 70 undefined on input li
+ne 100.
+
+
+Package natbib Warning: Citation `dueck_1990' on page 70 undefined on input lin
+e 100.
+
+[70]
+
+Package natbib Warning: Citation `corana_1987' on page 71 undefined on input li
+ne 107.
+
+
+Package natbib Warning: Citation `pronzato_1984' on page 71 undefined on input 
+line 107.
+
+
+Package natbib Warning: Citation `corana_1987' on page 71 undefined on input li
+ne 107.
+
+
+Package natbib Warning: Citation `corana_1987' on page 71 undefined on input li
+ne 107.
+
+
+Package natbib Warning: Citation `pronzato_1984' on page 71 undefined on input 
+line 107.
+
+
+Package natbib Warning: Citation `corana_1987' on page 71 undefined on input li
+ne 107.
+
+
+Package natbib Warning: Citation `pronzato_1984' on page 71 undefined on input 
+line 107.
+
+
+Package natbib Warning: Citation `corana_1987' on page 71 undefined on input li
+ne 107.
+
+[71]
+
+Package natbib Warning: Citation `corana_1987' on page 72 undefined on input li
+ne 119.
+
+
+Package natbib Warning: Citation `pronzato_1984' on page 72 undefined on input 
+line 119.
+
+
+Package natbib Warning: Citation `corana_1987' on page 72 undefined on input li
+ne 126.
+
+
+Package natbib Warning: Citation `pronzato_1984' on page 72 undefined on input 
+line 126.
+
+[72]
+
+Package natbib Warning: Citation `himmelblau_1972' on page 73 undefined on inpu
+t line 146.
+
+
+Package natbib Warning: Citation `nelder_1965' on page 73 undefined on input li
+ne 146.
+
+[73]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 179.
 
-[75] (./Grafiken/opt/fig1_ex1.tex)
-Overfull \hbox (17.07289pt too wide) in paragraph at lines 204--204
- [][] 
- []
 
-[76]
-Package epstopdf Info: Source file: <Grafiken/opt/fig2-ex2-plot.eps>
-(epstopdf)                    date: 2017-04-15 13:56:24
-(epstopdf)                    size: 3394464 bytes
-(epstopdf)             Output file: <Grafiken/opt/fig2-ex2-plot-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2017-04-15 13:56:24
-(epstopdf)                    size: 405952 bytes
-(epstopdf)             Command: <repstopdf --outfile=Grafiken/opt/fig2-ex2-plot
--eps-converted-to.pdf Grafiken/opt/fig2-ex2-plot.eps>
-(epstopdf)             \includegraphics on input line 235.
-Package epstopdf Info: Output file is already uptodate.
-
-<Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf, id=2023, 607.26875pt x 303.13
-25pt>
-File: Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf Graphic file (type pdf)
- <use Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf>
-Package pdftex.def Info: Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf used o
-n input line 235.
-(pdftex.def)             Requested size: 437.45853pt x 218.37086pt.
-
-Overfull \hbox (10.66718pt too wide) in paragraph at lines 235--236
- [][] 
- []
-
-[77] [78 <./Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [79])
-(./Discussion.tex [80]
-chapter 6.
-[81
-
-] [82] [83]
-Overfull \hbox (0.89247pt too wide) in paragraph at lines 33--34
-\T1/lmr/m/n/10 gorithm (sub-sec-tion [][]1.6.4[][]). A ro-bust op-tim-iz-a-tion
- pro-ced-ure is pre-requis-ite for a re-li-able simulation-
- []
-
-) (./Literatur.tex (./Dissertation.bbl [84] [85]
-chapter without number
-[86
-
-] [87] [88] [89] [90]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 505.
-
- (/usr/share/texmf/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 505.
- [91]
-Underfull \hbox (badness 1215) in paragraph at lines 615--621
-[]\T1/lmr/m/n/10 MFACP (2004).  \T1/lmr/m/it/10 Lang-fristige öko-lo-gis-che Wa
-ldentwicklung- Richt-linie zur Bau-mart-en-wahl\T1/lmr/m/n/10 ,
- []
-
-[92] [93] [94] [95])) [96] (./Curriculum.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [97]
-Overfull \hbox (2.65912pt too wide) in alignment at lines 7--13
-[][] 
- []
+LaTeX Warning: Reference `fig:opt:fig1' on page 74 undefined on input line 193.
 
 
-Overfull \hbox (2.65912pt too wide) in alignment at lines 17--25
-[][] 
- []
+
+LaTeX Warning: Reference `fig:opt:fig1' on page 74 undefined on input line 193.
 
 
-Overfull \hbox (2.65912pt too wide) in alignment at lines 30--35
-[][] 
- []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 29--260
+LaTeX Warning: Reference `fig:opt:fig1' on page 74 undefined on input line 195.
 
- []
 
-[98
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 260.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
- (./Dissertation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 260.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 260.
-Package rerunfilecheck Info: File `Dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 74B3B863E70018AACB652F5C03B3AC33;2453.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
- ) 
+! LaTeX Error: File `Grafiken/opt/fig1_ex1.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.204 	\end{figure}}
+                    ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
 Here is how much of TeX's memory you used:
- 28368 strings out of 493029
- 536092 string characters out of 6136234
- 2167038 words of memory out of 5000000
- 30767 multiletter control sequences out of 15000+600000
+ 27595 strings out of 494860
+ 519924 string characters out of 6177603
+ 720524 words of memory out of 5000000
+ 29997 multiletter control sequences out of 15000+600000
  125795 words of font info for 90 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 64i,24n,69p,3481b,944s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
--mathex.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/eurosym/feymr10.p
-fb></usr/share/texmf/fonts/type1/public/lm/lmb10.pfb></usr/share/texmf/fonts/ty
-pe1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></u
-sr/share/texmf/fonts/type1/public/lm/lmbx7.pfb></usr/share/texmf/fonts/type1/pu
-blic/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public
-/lm/lmmi5.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/tex
-mf/fonts/type1/public/lm/lmmib10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
-r10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fon
-ts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></
-usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/pu
-blic/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share
-/texmf/fonts/type1/public/lm/lmri7.pfb></usr/share/texmf/fonts/type1/public/lm/
-lmri9.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy5.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmtt10.pfb>
-Output written on Dissertation.pdf (109 pages, 4921705 bytes).
-PDF statistics:
- 2391 PDF objects out of 2487 (max. 8388607)
- 2173 compressed objects within 22 object streams
- 489 named destinations out of 1000 (max. 500000)
- 385 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 36 hyphenation exceptions out of 8191
+ 64i,24n,69p,3481b,17003s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
