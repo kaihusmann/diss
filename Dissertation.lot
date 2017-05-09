@@ -1,0 +1,24 @@
+\select@language {british}
+\addvspace {10\p@ }
+\select@language {ngerman}
+\addvspace {10\p@ }
+\select@language {british}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Descriptive statistics of the sampled trees.\relax }}{28}{table.caption.20}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Tree layer specific parameters of the test site. Growth region: Middle German Trias High and Hill Land. Growth district: G\"ottingen Forest. Altitude: 340 m. hm: Height of stem of mean basal area. dm: Diameter of stem of mean basal area.\relax }}{31}{table.caption.21}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Coefficients and standard deviation of the biomass functions (Equation \ref {eq:bm:eq1}) for the tree species European beech, oak, ash and sycamore including a combined model error (Equation \ref {eq:bm:eq2}) for each species. $v(\mathaccentV {hat}05E{y}_i)$: Coefficient of variation. $r^{2}_{LR}$: likelihood-ratio based pseudo-r-squared.\relax }}{33}{table.caption.22}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Sum of total aboveground biomass on stand level for stands with differing share of species. The biomass is calculated with distinct tree species specific biomass functions and also with oak biomass functions for ash and sycamore.\relax }}{37}{table.caption.26}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Group mean and standard deviation of nutrient content [g kg$^{-1}$] for the tree species European beech, oak, ash and sycamore. N: Observed number of trees.\relax }}{38}{table.caption.27}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Summary statistics of the sampled trees. The sample size was 163.\relax }}{50}{table.caption.35}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Summary statistics of disks for bark thickness measurements.\relax }}{50}{table.caption.36}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Summary statistics of the linear double bark thickness [mm] regression model. Independent variable is the diameter over bark [cm] (fresh).\relax }}{55}{table.caption.42}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Summary statistics of all used variables, c. v. = coefficient of variation.\relax }}{56}{table.caption.44}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Summary statistics of the multi-nominal logistic crown type prediction model with independent variables DBH [cm], tree height (H) [m], height at crown base (CB) [m] and branch diameter ratio at crown base (DR) including the results of the leave-one-out cross-validation (c.-v.) and the within-model reclassification (w.-m.).\relax }}{57}{table.caption.45}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Proportion of economically viable crown wood in beech crowns according to the whole crown wood (each under bark). n. d. = no data.\relax }}{57}{table.caption.47}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Summary of the economically viable crown wood volume regression model. The data was fitted to a natural exponential function by the generalized nonlinear regression method with the independent variables DBH and the crown type.\relax }}{59}{table.caption.50}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Summary of the log linear regression models, fitted by the SMA method. $\alpha $ and log($\beta $) are the model coefficients; l.ci.lim is the lower, u.ci.lim the upper limit of the 95 \% confidence interval; r$^2$ is the linear coefficient of determination.\relax }}{60}{table.caption.52}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Relative frequencies of covariate combinations in \% after optimization for the four examined methods. Number of repetitions: 10,000. We used the parameters given in the example,only the \texttt {trace} options was deactivated.\relax }}{75}{table.caption.60}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
