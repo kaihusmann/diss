@@ -231,18 +231,6 @@
   Timestamp                = {2017.04.11}
 }
 
-@InCollection{block_2012,
-  Title                    = {Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und {Biomassenutzung}},
-  Author                   = {Block, J. and Meiwes, K. J.},
-  Booktitle                = {Bodenschutz - {Ergänzbares} {Handbuch} der {Maßnahmen} und {Empfehlungen} für {Schutz}, {Pflege} und {Sanierung} von {Böden}, {Landschaft} und {Grundwasser}},
-  Year                     = {2012},
-  Pages                    = {1--50},
-  Volume                   = {13},
-
-  Owner                    = {khusman1},
-  Timestamp                = {2017.03.02}
-}
-
 @InCollection{block_2013,
   Title                    = {Erhaltung der {Produktivität} der {Waldböden} bei der {Holz}- und {Biomassenutzung}},
   Author                   = {Block, J. and Meiwes, K. J. and Bachmann, G. and König, W. and Utermann, J.},
@@ -1872,6 +1860,19 @@ Verbraucherschutz},
   Owner                    = {khusman1},
   Shorttitle               = {Plant allometry},
   Timestamp                = {2017.01.13}
+}
+
+@Misc{nlf_www.landesforsten.-_2017,
+  Title                    = {www.landesforsten.de -- {Niedersächsische} {Landesforsten}: {Kurzinformationen} und {Kenndaten} -- {Niedersächsisches} {Forstamt} {Reinhausen}},
+
+  Author                   = {{NLF}},
+  Year                     = {2017},
+
+  File                     = {www.landesforsten.de - Niedersächsische Landesforsten\: Kurzinformationen und Kenndaten:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/NNRQDRUD/Kurzinformationen-und-Kenndaten.370.0.html:text/html},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.05.19},
+  Url                      = {http://www.landesforsten.de/Kurzinformationen-und-Kenndaten.370.0.html},
+  Urldate                  = {2017-05-19}
 }
 
 @Article{ochs_2007,

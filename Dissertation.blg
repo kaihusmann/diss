@@ -3,7 +3,6 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Dissertation.aux
 The style file: apalike2.bst
 Database file #1: Dissertation.bib
-Warning--I didn't find a database entry for "block_2012"
 Warning--empty publisher in block_2013
 Warning--empty publisher in bmel_2016
 Warning--can't use both author and editor fields in bmu_2007
@@ -17,45 +16,45 @@ Warning--there's a number but no volume in pretzsch_2014
 Warning--there's a number but no volume in saborowski_1999
 Warning--empty journal in theussl_2016
 Warning--there's a number but no series in un_2005
-You've used 168 entries,
+You've used 169 entries,
             2229 wiz_defined-function locations,
-            1451 strings with 36603 characters,
-and the built_in function-call counts, 66845 in all, are:
-= -- 6563
-> -- 2770
-< -- 138
-+ -- 954
-- -- 928
-* -- 5792
-:= -- 11669
-add.period$ -- 523
-call.type$ -- 168
-change.case$ -- 1260
-chr.to.int$ -- 166
-cite$ -- 181
-duplicate$ -- 2494
-empty$ -- 4639
-format.name$ -- 1180
-if$ -- 12998
+            1454 strings with 36752 characters,
+and the built_in function-call counts, 67081 in all, are:
+= -- 6587
+> -- 2777
+< -- 139
++ -- 956
+- -- 930
+* -- 5807
+:= -- 11716
+add.period$ -- 525
+call.type$ -- 169
+change.case$ -- 1266
+chr.to.int$ -- 167
+cite$ -- 182
+duplicate$ -- 2504
+empty$ -- 4654
+format.name$ -- 1183
+if$ -- 13041
 int.to.chr$ -- 3
 int.to.str$ -- 0
 missing$ -- 207
-newline$ -- 846
-num.names$ -- 508
-pop$ -- 1096
+newline$ -- 850
+num.names$ -- 511
+pop$ -- 1100
 preamble$ -- 1
-purify$ -- 1297
+purify$ -- 1303
 quote$ -- 0
-skip$ -- 1864
+skip$ -- 1873
 stack$ -- 0
-substring$ -- 4561
+substring$ -- 4573
 swap$ -- 306
 text.length$ -- 33
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 916
+type$ -- 922
 warning$ -- 13
-while$ -- 558
+while$ -- 560
 width$ -- 0
-write$ -- 2213
-(There were 14 warnings)
+write$ -- 2223
+(There were 13 warnings)

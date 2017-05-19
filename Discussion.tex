@@ -32,6 +32,34 @@ Optimization of forest stands treatments offers opportunity to calculate forest 
 
 The combined simulation-optimization method implies high demands on the optimization algorithm (subsection \ref{subsec:intro:struct:opt}). A robust optimization procedure is prerequisite for a reliable simulation-optimization model. It showed up that stochastic methods with dynamic random structures were able to cope with the specific needs of the combined simulation-optimization method. The favorable optimization is hence a composition of three optimization strategies \citep{corana_1987, kirkpatrick_1983, pronzato_1984} which are all separately available as software packages. A composition of the two methods, however, is not published yet. Development of a specific software for optimization of forest thinning activities was straightforward. Intensive  sensitivity analysis revealed the applicability and the efficiency of the package as optimization element in the simulation-optimization software.
 
+\subsubsection{First application of the simulation-optimization software}
+\label{subsubsec:discussion:struct:opt:application}
+To confirm the introduced advantages of the combined simulation-optimization software, I performed optimizations for two exemplary forest enterprises. The first exemplary enterprise is comprised of five forest sites. It was used to explain the basic behavior of the optimization system. The second exemplary forest enterprise was composed of 100 systematically chosen forest sites. The sites were chosen such that all economically relevant age classes of European beech are uniformly available. The tree age distribution of the exemplary forest enterprise hence followed the characteristic distribution in the European beech dominated central Germany (Figure \ref{fig:hzb:fig3_altersklassen}). The exemplary forest enterprise represented a typical enterprise with 560 ha of forest land covering all relevant age classes and tree species. The exemplary enterprise was used to demonstrate the practical applicability of the simulation-optimization software. 
+
+The selected sites were entirely located in the public forest district of Reinhausen \citep{nlf_2017}. The official inventory data of the sites were imported into the WaldPlaner DSS \citep{hansen_2014}. The growth and yield of each exemplary enterprise was forecasted for 20 years using standard treatment configurations. Table \ref{tab:discussion:struct:opt:application:tab1} gives an overview of the crucial settings for the standard treatment. After the simulation with these standard settings, the exemplary enterprises were forecasted with optimized treatments using the simulation-optimization software (Figure \ref{fig:Introduction:flowopt}). The optimizations were firstly performed without minimum delivery restrictions to assess their entire wood potential for 20 years. After calculation of the potential, minimum delivery restrictions for low-dimensioned deciduous wood were defined to examine the impact of delivery contracts.
+
+\begin{table}[h]
+	\centering
+	\caption{Simulation settings of the standard treatment. The detailed listing of the specific tree species within the species groups can be found in \citet[p. 193-195]{hansen_2014}.}
+	\label{tab:discussion:struct:opt:application:tab1}
+	\begin{tabular}{cccc}
+		\hline
+		species group & \begin{tabular}[c]{@{}c@{}}target diameter\\ {[}cm{]}\end{tabular} & \begin{tabular}[c]{@{}c@{}}tree height at\\initial thinning\\ {[}m{]}\end{tabular} & \begin{tabular}[c]{@{}c@{}}number of future\\crop trees\\ {[}N ha$^{-1}${]}\end{tabular} \\ \hline
+		oak         & 80 &14     & 80     \\
+		European beech         & 60                                                                 & 16                                                                                  & 100                                                                                \\
+		long-term deciduous trees           & 60                                                                 & 12                                                                                  & 80                                                                                 \\
+		short-term deciduous trees           & 35-45                                                              & 10                                                                                  & 80                                                                                 \\
+		spruce        & 45                                                                 & 12                                                                                  & 200                                                                                \\
+		douglas fir     & 65                                                                 & 14                                                                                  & 120                                                                                \\
+		pine        & 45                                                                 & 13                                                                                  & 180                                                                                \\
+		larch        & 60                                                                 & 12                                                                                  & 120                                                                                \\ \hline
+	\end{tabular}
+\end{table}
+
+
+
+
+
 \section{Outlook}
 \label{sec:discussion:outlook}
 The next steps will be to implement the developed and evaluated models into proper software, providing the findings for scientists, students and practitioners. The WaldPlaner DSS provides a favorable front-end for the models as it is already established in forest science and practice.

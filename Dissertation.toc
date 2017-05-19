@@ -82,5 +82,6 @@
 \contentsline {subsection}{\numberline {6.1.2}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{83}{subsection.6.1.2}
 \contentsline {subsection}{\numberline {6.1.3}Modelling the economically viable wood in the crown of European beech trees}{83}{subsection.6.1.3}
 \contentsline {subsection}{\numberline {6.1.4}Flexible Global Optimization with Simulated-Annealing}{83}{subsection.6.1.4}
-\contentsline {section}{\numberline {6.2}Outlook}{84}{section.6.2}
-\contentsline {chapter}{\nonumberline Bibliography}{86}{chapter*.64}
+\contentsline {subsubsection}{\nonumberline First application of the simulation-optimization software}{84}{section*.64}
+\contentsline {section}{\numberline {6.2}Outlook}{85}{section.6.2}
+\contentsline {chapter}{\nonumberline Bibliography}{86}{chapter*.66}
