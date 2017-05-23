@@ -84,4 +84,4 @@
 \contentsline {subsection}{\numberline {6.1.4}Flexible Global Optimization with Simulated-Annealing}{83}{subsection.6.1.4}
 \contentsline {subsubsection}{\nonumberline Application of the forest harvesting schedule optimization}{84}{section*.64}
 \contentsline {section}{\numberline {6.2}Outlook}{85}{section.6.2}
-\contentsline {chapter}{\nonumberline Bibliography}{87}{chapter*.66}
+\contentsline {chapter}{\nonumberline Bibliography}{87}{chapter*.67}
