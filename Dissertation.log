@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  23 MAY 2017 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  23 MAY 2017 19:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1487,12 +1487,6 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 48.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 48.
-
-Overfull \hbox (32.84885pt too wide) in paragraph at lines 50--51
-\T1/lmr/m/n/10 Die Mög-lich-keit ei-ner lang-fris-ti-gen, kon-ti-nu-ier-li-chen
- Holz-roh-stoff-ver-sor-gung der Bio-ökonomie-Clusterregion
- []
-
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 57.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1505,14 +1499,15 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 66.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 66.
-[14
+ [14
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 70.
- <Grafiken/hzb/Abb_1_waldflaeche.pdf, id=735, 625.97867pt x 193.4427pt>
+
+<Grafiken/hzb/Abb_1_waldflaeche.pdf, id=735, 625.97867pt x 193.4427pt>
 File: Grafiken/hzb/Abb_1_waldflaeche.pdf Graphic file (type pdf)
 
 <use Grafiken/hzb/Abb_1_waldflaeche.pdf>
@@ -2277,7 +2272,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 260.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 260.
 Package rerunfilecheck Info: File `Dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 12F1CEC55F38A223193346015DE58C48;2453.
+(rerunfilecheck)             Checksum: 2F9C6B0AE619BA14681B78A749A27C55;2453.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
  )
 (\end occurred inside a group at level 1)
@@ -2285,10 +2280,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
 ### simple group (level 1) entered at line 1061 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 28382 strings out of 494860
- 536251 string characters out of 6177603
- 2178082 words of memory out of 5000000
- 30547 multiletter control sequences out of 15000+600000
+ 28388 strings out of 494860
+ 536492 string characters out of 6177603
+ 2178180 words of memory out of 5000000
+ 30551 multiletter control sequences out of 15000+600000
  125795 words of font info for 90 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  64i,24n,69p,3481b,17002s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2312,10 +2307,10 @@ pe1/public/lm/lmri9.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsy5.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Dissertation.pdf (110 pages, 4929571 bytes).
+Output written on Dissertation.pdf (110 pages, 4930840 bytes).
 PDF statistics:
- 2446 PDF objects out of 2487 (max. 8388607)
- 2222 compressed objects within 23 object streams
- 495 named destinations out of 1000 (max. 500000)
+ 2451 PDF objects out of 2487 (max. 8388607)
+ 2227 compressed objects within 23 object streams
+ 497 named destinations out of 1000 (max. 500000)
  385 words of extra memory for PDF output out of 10000 (max. 10000000)
 
