@@ -85,5 +85,6 @@
 \contentsline {subsection}{\numberline {6.1.5}Application of the forest harvesting schedule optimization}{84}{subsection.6.1.5}
 \contentsline {subsubsection}{\nonumberline Introduction}{84}{section*.64}
 \contentsline {subsubsection}{\nonumberline Materials and Methods}{84}{section*.65}
+\contentsline {subsubsection}{\nonumberline Discussion}{86}{section*.69}
 \contentsline {section}{\numberline {6.2}Outlook}{86}{section.6.2}
-\contentsline {chapter}{\nonumberline Bibliography}{87}{chapter*.68}
+\contentsline {chapter}{\nonumberline Bibliography}{88}{chapter*.70}
