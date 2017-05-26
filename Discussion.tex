@@ -28,7 +28,7 @@ The model is able to calculate the maximal wood potential from an economic persp
 
 \subsection{Flexible Global Optimization with Simulated-Annealing}
 \label{subsec:discussion:struct:opt}
-The optimization of forest stand treatments makes it possible to determine those forest operations with the highest marginal return (chapter \ref{chap:opt}). The model can be used to calculate the full wood potential of an entire forest enterprise in a time period of between 10 and 20 years. It is, in contrast to the other models mentioned, a model for the support of intermediate-term decisions on a lager spatial scale. The calculation of the full economic wood potential allows a sensitivity analysis of different optimization scenarios, which is of interest for planning purposes. If delivery agreements with upcoming bio-economy companies, or any other recipient, lead to opportunity costs, source providers must weigh the advantages and disadvantages very carefully. The optimization model enables the calculation of opportunity costs. The forest decision-maker can use the result to balance between the drawbacks of delivery contracts and their benefits in terms of planning security. They can decide whether the benefits in intermediate-term planning justify the opportunity costs. Furthermore, wood demanders can use the results to calculate adequate wood prices. The calculations can build an objective, evidence-based fundament for a binding agreement on intermediate-term wood prizes.
+The optimization of forest stand treatments makes it possible to determine those forest operations with the highest marginal return (chapter \ref{chap:opt}). The model can be used to calculate the full wood potential of an entire forest enterprise in a time period of between 10 and 20 years. It is, in contrast to the other models mentioned, a model for the support of intermediate-term decisions on a lager spatial scale. The calculation of the full economic wood potential allows a sensitivity analysis of different optimization scenarios, which is of interest for planning purposes. If delivery agreements with upcoming bio-economy companies, or any other recipient, lead to opportunity costs, source providers must weigh the advantages and disadvantages very carefully. The optimization model enables the calculation of opportunity costs. The forest decision-maker can use the result to balance between the drawbacks of delivery contracts and their benefits in terms of planning security. They can decide whether the benefits in intermediate-term planning justify the opportunity costs. Furthermore, wood demander can use the results to calculate adequate wood prices. The calculations can build an objective, evidence-based fundament for a binding agreement on intermediate-term wood prizes.
 
 The combined si\-mu\-la\-tion-op\-ti\-mi\-za\-tion method makes high demands on the optimization algorithm (subsection \ref{subsec:intro:struct:opt}). A robust optimization procedure is a prerequisite for a reliable si\-mu\-la\-tion-op\-ti\-mi\-za\-tion model. Stochastic methods with dynamic random structures were able to cope with the specific needs of the combined si\-mu\-la\-tion-op\-ti\-mi\-za\-tion method. The best optimization is hence a composition of three optimization strategies \citep{corana_1987, kirkpatrick_1983, pronzato_1984}, which are all separately available as software packages. A composition of the two methods, simulation and optimization, is however, previously unpublished. The development of a specific software solution for the optimization of forest thinning activities was straightforward. An intensive sensitivity analysis confirmed the applicability and the efficiency of the package as the optimization element in the si\-mu\-la\-tion-op\-ti\-mi\-za\-tion software.
 
@@ -36,24 +36,20 @@ The combined si\-mu\-la\-tion-op\-ti\-mi\-za\-tion method makes high demands on 
 \label{subsec:discussion:struct:opt:application}
 \subsubsection{Introduction}
 \label{subsubsec:discussion:struct:opt:application:introduction}
-The two introduced practical examples (Subsection \ref{subsec:opt:examples:forest}) are mainly discussed from a technical perspective. In this subsection, the two examples are described in more detail and discussed from perspective of forestry. To explain its basic behavior and confirm its practical applicability for forest enterprises, the si\-mu\-la\-tion-op\-ti\-mi\-za\-tion software was used to calculate optimized stand developments of two exemplary forest enterprises. These two examples explain how the model can be used to support the intermediate-term forest planning. The first exemplary enterprise was created to show the basic behavior of the simulation-optimization software. It is comprised of five systematically chosen forest stands. The stands of the second enterprise were chosen such that they represented a typical forest enterprise of central Germany. The second example explains the reasonability of the simulation-optimization approach for typical forest enterprises of the most important region for the supply European beech wood (Section \ref{sec:hzb:Einleitung}). It is hence reflects a common forest enterprise of the most important region for the wood supply of an upcoming wood-based bio-economy industry.
+In chapter \ref{chap:opt}, the application of the simulation-optimization model is mainly discussed from a technical perspective. In this subsection, the two examples from subsection \ref{subsec:opt:examples:forest}) are described in more detail to strengthen the discussion of the simulation-optimization model with view to research question (Section \ref{sec:intro:aim}). This subsection provides supplemental information about the parameterization and the interpretation of the two examples from chapter \ref{chap:opt}.
 
-To explain the advantages of the simulation-optimization approach, the forest developments and the wood potentials of both enterprises were firstly foretasted without any optimization using the TreeGroSS packages. To perform a sensitivity analysis, a second scenario with optimized development using the simulation-optimization approach (Figure \ref{fig:Introduction:flowopt}) was calculated. In a third scenario, minimum harvesting volumes restrictions were implemented into the optimization system. The third scenario was performed to explain how the drawbacks of binding delivery contracts can be calculated via the si\-mu\-la\-tion-op\-ti\-mi\-za\-tion software.
+To explain its basic behavior and confirm its practical applicability for forest enterprises, the si\-mu\-la\-tion-op\-ti\-mi\-za\-tion software was used to calculate optimized stand developments of two exemplary forest enterprises. These two examples explain how the model can be used to support the intermediate-term forest planning. The first exemplary enterprise was created to show the basic behavior of the simulation-optimization software. It is comprised of five forest stands that were specifically chosen for exemplary purposes. The stands of the second enterprise were chosen such that they represented a typical forest enterprise of central Germany. The second example explains the reasonability of the simulation-optimization approach for typical forest enterprises of the most important region for the supply European beech wood (Section \ref{sec:hzb:Einleitung}). It is hence reflects a common forest enterprise of the most important region for the wood supply of an upcoming wood-based bio-economy industry.
+
+The forest developments and the wood potentials of both exemplary enterprises were firstly forecasted without any optimization using standard parameterizations of the TreeGrOSS packages. To perform a sensitivity analysis, a second scenario with optimized simulated development was calculated using the simulation-optimization approach (Figure \ref{fig:Introduction:flowopt}). In a third scenario, annual minimum harvesting volumes restrictions were implemented into the optimization system. The third scenario was performed to explain how the si\-mu\-la\-tion-op\-ti\-mi\-za\-tion software can be used to examine the drawbacks of binding delivery contracts.
 
 \subsubsection{Materials and Methods}
 \label{subsubsec:discussion:struct:opt:application:method}
-Each exemplary forest enterprise was created using forest inventory data of a public forest district. The simulated stands were not 
-The inventory data of intermediate-term forest planning built the data-base
- (see \ref{sec:intro:dss} for further details)
- 
-Unrestricted optimizations as well as optimization with delivery restrictions were performed on both enterprises using the introduced si\-mu\-la\-tion-op\-ti\-mi\-za\-tion approach (Section \ref{sec:intro:opt} and Chapter \ref{chap:opt}).
+All selected stands of both exemplary enterprises were located in the public forest district of Reinhausen \citep{nlf_2017}. Using the WaldPlaner import plug-in \citep[p. 58]{hansen_2014}, the official inventory data of Reinhausen were used to generate TreeGrOSS forest simulation stands. The plug-in stored the stands directly in a PostgreSQL data-warehouse \citep{eisentraut_2003}. The inventory data were originally collected for the intermediate-term forest development planning in Reinhausen (see \ref{sec:intro:dss} for further details of the intermediate-term planning). All stands that built the data-base of both exemplary forest enterprises thus based on real forest stands of southern Lower Saxony. To explain the basic behavior of the optimization software, the five stands of the first enterprise were consciously chosen such that they cover a broad age range (Table \ref{tab:discussion:struct:opt:application:tab1}).
 
-The first enterprise, which was used to explain the basic behavior of the optimization software, consisted of five European beech forest stands. The exemplary enterprise was used to demonstrate the practical applicability of the si\-mu\-la\-tion-op\-ti\-mi\-za\-tion software for typical forest enterprises.
-Die 100 Bestande wurden zufallig gezogen. 100 mit Buche
 \begin{table}[h]
 	\centering
-	\caption{Stand specific parameters of the first exemplary forest enterprise. The informations were generated with the stand summary function of the WaldPlaner \citep[p. 64]{hansen_2014}. dm: Diameter of stem of mean basal area. hm: Height of stem of mean basal area.}
-	\label{my-label}
+	\caption{Stand specific informations of the first exemplary forest enterprise at the date of the forest inventory (2011). The informations were generated with the stand summary function of the WaldPlaner \citep[p. 64]{hansen_2014}. dm: Diameter of stem of mean basal area. hm: Height of stem of mean basal area.}
+	\label{tab:discussion:struct:opt:application:tab1}
 	\begin{tabular}{cccccccc}
 		\hline
 		stand              & species & 
@@ -61,7 +57,7 @@ Die 100 Bestande wurden zufallig gezogen. 100 mit Buche
 		
 		& \begin{tabular}[c]{@{}c@{}} mean age\\ {[}a{]} \end{tabular} & 
 		\begin{tabular}[c]{@{}c@{}} dm\\ {[}cm{]} \end{tabular} &
-		\begin{tabular}[c]{@{}c@{}} hm\\ {[}m{]} \end{tabular} &  \begin{tabular}[c]{@{}c@{}}stand volume\\ {[}m$^3$ ha$^-1${]}\end{tabular} \\ \hline
+		\begin{tabular}[c]{@{}c@{}} hm\\ {[}m{]} \end{tabular} &  \begin{tabular}[c]{@{}c@{}}stand volume\\ {[}m$^3$ ha$^{-1}${]}\end{tabular} \\ \hline
 		1                  & beech   & 100            & 52               & 14          & 21.3        & 215                                                                  \\
 		2                  & beech   & 100            & 62               & 16          & 21.0        & 288                                                                  \\
 		3                  & beech   & 100            & 102              & 30          & 28.3        & 381                                                                  \\
@@ -70,12 +66,13 @@ Die 100 Bestande wurden zufallig gezogen. 100 mit Buche
 		& spruce  & 33             & 61               & 22          & 26.6       & 233                                                                  \\ \hline
 	\end{tabular}
 \end{table}
-The second forest enterprise was composed of 100 forest stands with 560 ha of forest land. The stands of the second example were systematically chosen such that all economically relevant age classes of European beech are represented. The tree age distribution of the exemplary forest enterprise hence followed the characteristic distribution in European beech dominated central Germany (Figure \ref{fig:hzb:fig3_altersklassen}) covering all economically relevant age classes and tree species. The exemplary forest enterprise hence represented a typical enterprise of central Germany with usual species mixture and forest area (Chapter \ref{chap:hzb}; see also \citealp{ti_2014}).
+
+The second forest enterprise was comprised of 100 forest stands covering altogether 560 ha of forest land. The stands of the second enterprise were randomly chosen from a population of 994 forest stands covering all forest stands of Reinhausen with European beech shares of at least 10 \%. The volume distribution of tree species and tree ages in Reinhausen followed the characteristic distribution of central Germany (Figure \ref{fig:hzb:fig3_altersklassen}; \citealp{nlf_2017}). The second exemplary forest enterprise therefore represented a typical forest enterprise of central Germany in terms of enterprise size (Subsection \ref{subsec:hzb:Ergebnisse:Waldeigentum}) and tree age volume distribution of European beech. All economically relevant age classes for the European beech wood processing industry are represented in the sampled 100 stands. \textcolor{red}{Figure X} shows the volume distribution of the tree species at the date of the inventory (2011).
 
 \begin{table}[h]
 	\centering
 	\caption{Simulation settings of the standard treatment. The detailed listing of the specific tree species within the species groups can be found in \citet[p. 193-195]{hansen_2014}.}
-	\label{tab:discussion:struct:opt:application:tab1}
+	\label{tab:discussion:struct:opt:application:tab2}
 	\begin{tabular}{cccc}
 		\hline
 		species group & \begin{tabular}[c]{@{}c@{}}target diameter\\ {[}cm{]}\end{tabular} & \begin{tabular}[c]{@{}c@{}}tree height at\\initial thinning\\ {[}m{]}\end{tabular} & \begin{tabular}[c]{@{}c@{}}number of future\\crop trees\\ {[}N ha$^{-1}${]}\end{tabular} \\ \hline
@@ -90,28 +87,34 @@ The second forest enterprise was composed of 100 forest stands with 560 ha of fo
 	\end{tabular}
 \end{table}
 
-The stands of the two exemplary forest enterprises 
-All selected sites were located in the public forest district of Reinhausen \citep{nlf_2017}. Using the WaldPlaner import plug-in \citep[p. 58]{hansen_2014}, the official inventory data of Reinhausen were used to generate TreeGrOSS stands. The two exemplary forest enterprises thus both based on real forest stands from southern Lower Saxony. The stands were stored in a PostgreSQL data-warehouse \citep{eisentraut_2003}. The si\-mu\-la\-tion-op\-ti\-mi\-za\-tion software requires treatment settings that determine the standard scenario for the optimization. The respective options for the TreeGrOSS growth and yield simulation packages were developed by a work group of forest scientists and practitioners. The standard scenario represented the typical forest treatments in central Germany. Table \ref{tab:discussion:struct:opt:application:tab1} gives an overview of the crucial settings. With these stands and settings three scenarios were performed for each exemplary enterprise. Firstly, growth and yield of the exemplary enterprises were forecasted for 20 years using standard treatment configurations without optimization using TreeGrOSS (Figure \ref{fig:Introduction:flowopt}). After the simulation with these standard settings, the exemplary enterprises were forecasted with optimized treatments using the si\-mu\-la\-tion-op\-ti\-mi\-za\-tion software. The optimizations were  performed without minimum delivery restrictions to assess their entire wood potential for 20 years. In a third scenario, minimum delivery restrictions for low-dimensioned deciduous wood were defined to examine the impact of delivery contracts.
-%
-%\textsc{\begin{figure}[h]
-%		\center
-%		\resizebox{1\linewidth}{!}{\input{Grafiken/discussion/out_reinhausen_5.tex}}
-%		\caption{Simulated yield of the three different scenarios in 5-year periods, beginning with the period from 2011 to 2016. The yield is differentiated in coniferous and deciduous wood volume.}
-%		\label{fig:discussion:fig1}
-%	\end{figure}
-%}
+The si\-mu\-la\-tion-op\-ti\-mi\-za\-tion software requires treatment settings that determine the standard scenario for the optimization (Sussection \ref{subsec:intro:struct:opt}). The respective options for the TreeGrOSS growth and yield simulation packages were developed by a work group of forest scientists and practitioners. The standard scenario represented the typical forest treatments in central Germany. Table \ref{tab:discussion:struct:opt:application:tab2} gives an overview of the crucial settings. These settings built the basis for the three scenarios that are calculated for the sensitivity analysis of the simulation-optimization model. Firstly, the standard settings were used to forecast the growth and yield of the two exemplary enterprises for 20 years using the TreeGrOSS packages. Growth and yield were hence determined in the first scenario. The first scenario represents the standard forest development without numerical optimization. After simulation of the standard scenario, the exemplary enterprises were forecasted with optimized treatments using the si\-mu\-la\-tion-op\-ti\-mi\-za\-tion software (Figure \ref{fig:Introduction:flowopt}). The second scenario was an actual numerical optimization in which the settings of the standard scenario built the reference thinning intensity. Standard settings are necessary as the optimizer can only optimize the harvesting intensity in relation to a reference (Section \ref{sec:intro:opt}). The optimizations in scenario 2 were performed without delivery restrictions in order to assess the entire wood potential for 20 years. In a third scenario, minimum delivery restrictions for low-dimensioned deciduous wood were defined to examine the impact of delivery contracts with companies from the bio-economy sector. Despite these minimum harvesting restrictions, all settings were similar to the second scenario.
+
+\subsubsection{Results}
+\label{subsubsec:discussion:struct:opt:application:results}
+As the first exemplary enterprise was composed of five stands only, the development of each stand was recorded in detail. Table \ref{tab:discussion:struct:opt:application:tab1} shows the standing volumes at the beginning of the simulations. The standard treatment simulation (scenario one) led to standing volume amounts of 308, 290, 356, 392 and 373 m$^3$ ha$^{-1}$ in 2031 in the five forest stands, where the standing volume of the fifth stand not separated by tree species. The distinct standing volumes at the end of the optimizations (scenarios 2 and 3) differed only slightly from the standing volumes at the end of the standard simulations. The highest difference amounted to only 1 \% in relation to the standard treatment simulation. The simulated yield, however, differed substantially between the three scenarios (Figure \ref{fig:discussion:fig1}). Yielded wood volume from target usage was negligible. The simulated harvested wood volumes are thus not separated into target usage and thinning. It showed up that intensive harvesting in the second five-year time period is favorable in terms of total yields. The overall wood potential of the optimized treatment scenario was \textcolor{red}{X \%} higher than the standard scenario. The minimum harvesting restriction, which amounted to 5 m$^3$ year$^{-1}$ for deciduous wood, had substantial influence on the optimal stand treatments. Figure \ref{fig:discussion:fig1} (right) shows that minimum restrictions lead to homogeneous yields for deciduous wood volumes. The deciduous harvesting volumes in the first time period, which was below the minimum restriction in the optimization without restrictions, amounted practically exactly the minimum restriction. This usage ahead of schedule leads to reduced growth in the following time periods. The overall wood potential of the scenario 3 is hence \textcolor{red}{X \%} below the potential of the unrestricted scenario.
+
+\textsc{\begin{figure}[h]
+		\center
+		\resizebox{1\linewidth}{!}{\input{Grafiken/discussion/out_reinhausen_5.tex}}
+		\caption{Summed simulated yields of the first exemplary forest enterprise in five-year periods, beginning with the period from 2011 to 2016. The simulated yield amounts are differentiated into coniferous and deciduous wood volume (including bark).}
+		\label{fig:discussion:fig1}
+	\end{figure}
+}
 
 
 \textsc{\begin{figure}[h]
 		\center
 		\resizebox{1\linewidth}{!}{\input{Grafiken/discussion/out_reinhausen_100.tex}}
-		\caption{Simulated yield of the three different scenarios in 5-year periods, beginning with the period from 2011 to 2016. The yield is differentiated in coniferous and deciduous wood volume as well as in thinning and target usage. The goal diameters for the target usages are given in Table \ref{tab:discussion:struct:opt:application:tab1}}
+		\caption{Summed simulated yields of the second exemplary forest enterprise in 5-year periods, beginning with the period from 2011 to 2016. The simulated yield amounts are differentiated into coniferous and deciduous as well as in thinning and target usage wood volume (including bark). The goal diameters for the target usages are given in Table \ref{tab:discussion:struct:opt:application:tab1}.}
 		\label{fig:discussion:fig2}
 	\end{figure}
 }
 
 \subsubsection{Discussion}
+\label{subsubsec:discussion:struct:opt:application:discussion}
 rh 5: 3. ist eine Umverteilung des Volumens von 1. 2. ist das beste aber entspricht nicht unbedingt den Waldbaurichtlinien
+
+If a forest enterprise was interested in the highest wood potential only, the second scenario would be favorable.
 
 So kann also die Wachstumssoftware die sowieso schon i nder Forstplanung benutzt wird erweitert werden. Es koennen auch optimierte Entwicklungen berechnet werden.
 
