@@ -57,15 +57,23 @@ All selected stands of both exemplary enterprises were located in the public for
 		
 		& \begin{tabular}[c]{@{}c@{}} mean age\\ {[}a{]} \end{tabular} & 
 		\begin{tabular}[c]{@{}c@{}} dm\\ {[}cm{]} \end{tabular} &
-		\begin{tabular}[c]{@{}c@{}} hm\\ {[}m{]} \end{tabular} &  \begin{tabular}[c]{@{}c@{}}stand volume\\ {[}m$^3$ ha$^{-1}${]}\end{tabular} \\ \hline
-		1                  & beech   & 100            & 52               & 14          & 21.3        & 215                                                                  \\
-		2                  & beech   & 100            & 62               & 16          & 21.0        & 288                                                                  \\
-		3                  & beech   & 100            & 102              & 30          & 28.3        & 381                                                                  \\
-		4                  & beech   & 100            & 109              & 34          & 30.2       & 403                                                                  \\
-		\multirow{2}{*}{5} & beech   & 66             & 69               & 18          & 22.9        & 113                                                                  \\
-		& spruce  & 33             & 61               & 22          & 26.6       & 233                                                                  \\ \hline
+		\begin{tabular}[c]{@{}c@{}} hm\\ {[}m{]} \end{tabular} &  \begin{tabular}[c]{@{}c@{}}stand volume\\ {[}m$^3$ ha$^{-1}${]}\end{tabular} & \begin{tabular}[c]{@{}c@{}} plot size\\ {[}ha{]} \end{tabular} \\ \hline
+		1                  & beech   & 100            & 52               & 14          & 21.3        & 215  & 1.4                                                                \\
+		2                  & beech   & 100            & 62               & 16          & 21.0        & 288  &0.2                                                                \\
+		3                  & beech   & 100            & 102              & 30          & 28.3        & 381                                                        & 0.75          \\
+		4                  & beech   & 100            & 109              & 34          & 30.2       & 403                                                          & 0.4        \\
+		
+		\multirow{2}{*}{5} & beech   & 66  & 69   & 18   & 22.9 & 113 & \multirow{2}{*}{0.2}      \\
+		& spruce  & 33  & 61    & 22  & 26.6 & 233     \\
+		
+		 \hline
 	\end{tabular}
 \end{table}
+Durchschnittlicher Zuwachs je ha und Jahr Std 5 = 3,44 -> spiegelt den Vorratsaufbau wider
+Bei Opt 4,55
+Bei Rest. 3,88
+Wenn man ehrlich ist, musss man die Opportunitat mit dem Opt, nichjt mit dem std Lauf vergleichen
+Durchschn. Z. 100: Std: 6.39 je ha a; Opt: 7.01; Rest: 6.92: wg. des Nadelholzes besser. Da Bei nadelholz nicht so starker Vorrausaufbau wie beim Laubh
 
 The second forest enterprise was comprised of 100 forest stands covering altogether 560 ha of forest land. The stands of the second enterprise were randomly chosen from a population of 994 forest stands covering all forest stands of Reinhausen with European beech shares of at least 10 \%. The volume distribution of tree species and tree ages in Reinhausen followed the characteristic distribution of central Germany (Figure \ref{fig:hzb:fig3_altersklassen}; \citealp{nlf_2017}). The second exemplary forest enterprise therefore represented a typical forest enterprise of central Germany in terms of enterprise size (Subsection \ref{subsec:hzb:Ergebnisse:Waldeigentum}) and tree age volume distribution of European beech. All economically relevant age classes for the European beech wood processing industry are represented in the sampled 100 stands. \textcolor{red}{Figure X} shows the volume distribution of the tree species at the date of the inventory (2011).
 
@@ -104,9 +112,18 @@ As the first exemplary enterprise was composed of five stands only, the developm
 
 \textsc{\begin{figure}[h]
 		\center
+		\resizebox{.6\linewidth}{!}{\input{Grafiken/discussion/standard_development_100.tex}}
+		\caption{development}
+		\label{fig:discussion:fig2}
+	\end{figure}
+}
+
+
+\textsc{\begin{figure}[h]
+		\center
 		\resizebox{1\linewidth}{!}{\input{Grafiken/discussion/out_reinhausen_100.tex}}
 		\caption{Summed simulated yields of the second exemplary forest enterprise in 5-year periods, beginning with the period from 2011 to 2016. The simulated yield amounts are differentiated into coniferous and deciduous as well as in thinning and target usage wood volume (including bark). The goal diameters for the target usages are given in Table \ref{tab:discussion:struct:opt:application:tab1}.}
-		\label{fig:discussion:fig2}
+		\label{fig:discussion:fig3}
 	\end{figure}
 }
 

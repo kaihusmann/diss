@@ -86,6 +86,6 @@
 \contentsline {subsubsection}{\nonumberline Introduction}{84}{section*.64}
 \contentsline {subsubsection}{\nonumberline Materials and Methods}{84}{section*.65}
 \contentsline {subsubsection}{\nonumberline Results}{86}{section*.68}
-\contentsline {subsubsection}{\nonumberline Discussion}{86}{section*.71}
-\contentsline {section}{\numberline {6.2}Outlook}{86}{section.6.2}
-\contentsline {chapter}{\nonumberline Bibliography}{89}{chapter*.72}
+\contentsline {subsubsection}{\nonumberline Discussion}{86}{section*.72}
+\contentsline {section}{\numberline {6.2}Outlook}{87}{section.6.2}
+\contentsline {chapter}{\nonumberline Bibliography}{90}{chapter*.73}
