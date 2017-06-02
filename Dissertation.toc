@@ -8,7 +8,7 @@
 \contentsline {section}{\numberline {1.5}Aim of the thesis}{6}{section.1.5}
 \contentsline {section}{\numberline {1.6}Structure of the thesis}{7}{section.1.6}
 \contentsline {subsection}{\numberline {1.6.1}Analyzing status and development of raw wood availability in European beech-dominated central Germany}{7}{subsection.1.6.1}
-\contentsline {subsection}{\numberline {1.6.2}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{7}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.2}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{8}{subsection.1.6.2}
 \contentsline {subsection}{\numberline {1.6.3}Modelling the economically viable wood in the crown of European beech trees}{8}{subsection.1.6.3}
 \contentsline {subsection}{\numberline {1.6.4}Flexible Global Optimization with Simulated-Annealing}{9}{subsection.1.6.4}
 \select@language {ngerman}
