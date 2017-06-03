@@ -644,6 +644,21 @@
   Timestamp                = {2017.04.16}
 }
 
+@Book{eisentraut_2003,
+  Title                    = {{PostgreSQL} - das offizielle {Handbuch}},
+  Author                   = {Eisentraut, Peter},
+  Publisher                = {REDLINE},
+  Year                     = {2003},
+
+  Address                  = {Bonn},
+  Edition                  = {1},
+
+  ISBN                     = {978-3-8266-1337-1},
+  Language                 = {Deutsch},
+  Owner                    = {kai},
+  Timestamp                = {2017.05.21}
+}
+
 @Article{ekman_2013,
   Title                    = {Bioresource utilisation by sustainable technologies in new value-added biorefinery concepts - two case studies from food and forest industry},
   Author                   = {Ekman, Anna and Campos, Monica and Lindahl, Sofia and Co, Michelle and Börjesson, Pål and Karlsson, Eva Nordberg and Turner, Charlotta},

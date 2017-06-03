@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  3 JUN 2017 12:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  3 JUN 2017 17:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2228,7 +2228,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[88] [89]) (./Literatur.tex (./Dissertation.bbl [90]
+[88]
+Underfull \vbox (badness 2285) has occurred while \output is active []
+
+ [89])
+(./Literatur.tex (./Dissertation.bbl [90]
 chapter without number
 [91
 
@@ -2309,10 +2313,10 @@ lmri9.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy5.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmtt10.pfb>
-Output written on Dissertation.pdf (114 pages, 4953705 bytes).
+Output written on Dissertation.pdf (114 pages, 4954759 bytes).
 PDF statistics:
- 2515 PDF objects out of 2984 (max. 8388607)
- 2286 compressed objects within 23 object streams
+ 2517 PDF objects out of 2984 (max. 8388607)
+ 2288 compressed objects within 23 object streams
  505 named destinations out of 1000 (max. 500000)
  385 words of extra memory for PDF output out of 10000 (max. 10000000)
 
