@@ -189,6 +189,12 @@ Clarke, G. \& Wright, J.~W. (1964).
   points.
 \newblock {\em Operations research}, 12(4), 568--581.
 
+\bibitem[Conway et~al., 2016]{conway_2016}
+Conway, J., Eddelbuettel, D., Nishiyama, T., Prayaga, S.~K., \& Tiffin, N.
+  (2016).
+\newblock {\em RPostgreSQL: R interface to the PostgreSQL database system}.
+\newblock R package version 0.4-1.
+
 \bibitem[Corana et~al., 1987]{corana_1987}
 Corana, A., Marchesi, M., Martini, C., \& Ridella, S. (1987).
 \newblock Minimizing multimodal functions of continuous variables with the
@@ -472,6 +478,11 @@ Hurmekoski, E. \& Hetemäki, L. (2013).
   for long-term outlook studies.
 \newblock {\em Forest Policy and Economics}, 34, 17--29.
 
+\bibitem[Husmann \& Lange, 2017]{husmann_2017}
+Husmann, K. \& Lange, A. (2017).
+\newblock {\em optimization: Flexible optimizer with numerous input
+  specifications. R package version 1.0-4}.
+
 \bibitem[Hutcheson \& Moutinho, 2008]{hutcheson_2008}
 Hutcheson, G.~D. \& Moutinho, L. (2008).
 \newblock {\em Statistical {Modeling} for {Management}}.
@@ -610,6 +621,11 @@ Meiwes, K.~J., Rumpf, S., Klinck, U., \& Meesenburg, H. (2012).
   in {Nordwestdeutschland} und {Ansätze} zur standörtlichen {Bewertung}.
 \newblock {\em Deutscher Verband Forstlicher Forschungsanstalten Sektion
   Ertragskunde Jahrestagung 2012 Ottenstein}, (pp.\ 88--92).
+
+\bibitem[Mersmann, 2015]{mersmann_2015}
+Mersmann, O. (2015).
+\newblock {\em microbenchmark: Accurate Timing Functions}.
+\newblock R package version 1.4-2.1.
 
 \bibitem[Metropolis et~al., 1953]{metropolis_1953}
 Metropolis, N., Rosenbluth, A.~W., Rosenbluth, M.~N., Teller, A.~H., \& Teller,

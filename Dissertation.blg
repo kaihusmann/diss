@@ -16,45 +16,45 @@ Warning--there's a number but no volume in pretzsch_2014
 Warning--there's a number but no volume in saborowski_1999
 Warning--empty journal in theussl_2016
 Warning--there's a number but no series in un_2005
-You've used 170 entries,
+You've used 173 entries,
             2229 wiz_defined-function locations,
-            1458 strings with 36910 characters,
-and the built_in function-call counts, 67368 in all, are:
-= -- 6615
-> -- 2784
-< -- 140
-+ -- 958
-- -- 932
-* -- 5827
-:= -- 11769
-add.period$ -- 528
-call.type$ -- 170
-change.case$ -- 1272
-chr.to.int$ -- 168
-cite$ -- 183
-duplicate$ -- 2518
-empty$ -- 4677
-format.name$ -- 1186
-if$ -- 13098
+            1469 strings with 37324 characters,
+and the built_in function-call counts, 68317 in all, are:
+= -- 6701
+> -- 2832
+< -- 142
++ -- 974
+- -- 948
+* -- 5902
+:= -- 11944
+add.period$ -- 536
+call.type$ -- 173
+change.case$ -- 1292
+chr.to.int$ -- 171
+cite$ -- 186
+duplicate$ -- 2557
+empty$ -- 4737
+format.name$ -- 1207
+if$ -- 13272
 int.to.chr$ -- 3
 int.to.str$ -- 0
 missing$ -- 209
-newline$ -- 855
-num.names$ -- 514
-pop$ -- 1106
+newline$ -- 869
+num.names$ -- 523
+pop$ -- 1128
 preamble$ -- 1
-purify$ -- 1309
+purify$ -- 1332
 quote$ -- 0
-skip$ -- 1883
+skip$ -- 1915
 stack$ -- 0
-substring$ -- 4585
-swap$ -- 307
+substring$ -- 4621
+swap$ -- 313
 text.length$ -- 33
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 926
+type$ -- 944
 warning$ -- 13
-while$ -- 562
+while$ -- 568
 width$ -- 0
-write$ -- 2237
+write$ -- 2271
 (There were 13 warnings)
