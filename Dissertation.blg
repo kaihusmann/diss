@@ -18,7 +18,7 @@ Warning--empty journal in theussl_2016
 Warning--there's a number but no series in un_2005
 You've used 170 entries,
             2229 wiz_defined-function locations,
-            1458 strings with 36881 characters,
+            1458 strings with 36910 characters,
 and the built_in function-call counts, 67368 in all, are:
 = -- 6615
 > -- 2784
