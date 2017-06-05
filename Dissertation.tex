@@ -179,7 +179,6 @@ headinclude]{scrbook}
 	\pagestyle{empty}
 	\cleardoublepage
 	\thispagestyle{empty}
-	
 	\newpage
 	\thispagestyle{empty}
 	\mbox{}
@@ -202,13 +201,11 @@ headinclude]{scrbook}
 	\thispagestyle{plain}
 	\newpage
 	\listoftables
-	\thispagestyle{plain}
-	%\newpage
-	%\thispagestyle{plain}
-	% \input{Abkuerzungsverzeichnis}
-	%\thispagestyle{plain}
+	% \thispagestyle{plain}
+	\cleardoublepage
 	\input{Acknowledgements}
-	%\pagestyle{empty}
+	\hypersetup{linkcolor=blue}{} % Links wieder blau
+	\cleardoublepage
 	\input{Summary}
 	%\cleardoublepage
 	\input{Zusammenfassung}
@@ -232,7 +229,7 @@ headinclude]{scrbook}
 	\fancyhead[LE]{\rightmark} \fancyhead[RO]{\leftmark}
 	\fancyfoot[LE]{\thepage} \fancyfoot[RO]{\thepage}
 	
-	\hypersetup{linkcolor=blue}{} % Links wieder blau
+	
 	\pagenumbering{arabic}
 	\input{Introduction}
 	%\cleardoublepage
@@ -256,6 +253,6 @@ headinclude]{scrbook}
 	\input{Curriculum}
 	%\cleardoublepage
 	\pagestyle{empty}
-	%\input{EidesstattlicheErklaerung}
+	\input{erklaerung}
 \end{document}
 
