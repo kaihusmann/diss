@@ -1,6 +1,6 @@
 \select@language {british}
 \contentsline {chapter}{Acknowledgements}{vii}{chapter*.4}
-\contentsline {chapter}{Summary}{ix}{chapter*.5}
+\contentsline {chapter}{Abstract}{ix}{chapter*.5}
 \select@language {ngerman}
 \contentsline {chapter}{Zusammenfassung}{xi}{chapter*.6}
 \select@language {british}
