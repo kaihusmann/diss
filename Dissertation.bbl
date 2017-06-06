@@ -974,6 +974,11 @@ Umeki, K. (1995).
 \newblock {\em 2005 {World} {Summit} {Outcome}}.
 \newblock Number A/60/1. New York: Adopted by the {General} {Assembly}.
 
+\bibitem[Urbanek, 2016]{urbanek_2016}
+Urbanek, S. (2016).
+\newblock {\em rJava: Low-Level R to Java Interface}.
+\newblock R package version 0.9-8.
+
 \bibitem[Valentine et~al., 1984]{valentine_1984}
 Valentine, H.~T., Tritton, L.~M., \& Furnival, G.~M. (1984).
 \newblock Subsampling {Trees} for {Biomass}, {Volume}, or {Mineral} {Content}.
