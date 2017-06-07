@@ -190,6 +190,14 @@
   Timestamp                = {2017.03.02}
 }
 
+@Manual{conway_2016,
+    title = {RPostgreSQL: R interface to the PostgreSQL database system},
+    author = {Joe Conway and Dirk Eddelbuettel and Tomoaki Nishiyama and Sameer Kumar Prayaga and Neil Tiffin},
+    year = {2016},
+    note = {R package version 0.4-1},
+    url = {https://CRAN.R-project.org/package=RPostgreSQL},
+  }
+
 @Article{debesi_2015,
   Title                    = {Towards a {Bioeconomy} in {Europe}: {National}, {Regional} and {Industrial} {Strategies}},
   Author                   = {de Besi, Matteo and McCormick, Kes},
@@ -450,7 +458,7 @@
 @Book{churchman_1957,
   Title                    = {Introduction to operations research},
   Author                   = {Churchman, C West and Ackoff, Russell L and Arnoff, E Leonard},
-  Publisher                = {John Wiley \& Sons, Inc., Chapman \& Hall, Ltd., accessed via \url{http://archive.org/details/introductiontooOOchur} on 4 April 2017},
+  Publisher                = {John Wiley \& Sons, Inc., Chapman \& Hall, Ltd., accessed via \url{http://archive.org/stream/introductiontoo00chur/introductiontoo00chur_djvu.txt} on 4 June 2017},
   Year                     = {1957},
 
   Address                  = {New York, London}
@@ -1222,6 +1230,13 @@
   Timestamp                = {2017.01.13}
 }
 
+@Manual{husmann_2017,
+    title = {optimization: Flexible optimizer with numerous input specifications. R package version 1.0-4},
+    author = {Kai Husmann and Alexander Lange},
+    year = {2017},
+    url = {https://CRAN.R-project.org/package=optimization},
+  }
+
 @Book{huxley_1932,
   Title                    = {Problems of relative growth},
   Author                   = {Huxley, Julian},
@@ -1601,6 +1616,14 @@
   Publisher                = {AIP},
   Timestamp                = {2017.04.15}
 }
+
+@Manual{mersmann_2015,
+    title = {microbenchmark: Accurate Timing Functions},
+    author = {Olaf Mersmann},
+    year = {2015},
+    note = {R package version 1.4-2.1},
+    url = {https://CRAN.R-project.org/package=microbenchmark},
+  }
 
 @Book{mfacp_2004,
   Title                    = {Langfristige ökologische {Waldentwicklung}- {Richtlinie} zur {Baumartenwahl}},
@@ -2053,12 +2076,12 @@ In our opinion, the current challenge of forest ecosystem management in Europe i
   Title                    = {R: {A} {Language} and {Environment} for {Statistical} {Computing}},
   Author                   = {{R Core Team}},
   Publisher                = {R Foundation for Statistical Computing},
-  Year                     = {2016},
+  Year                     = {2017},
 
   Address                  = {Vienna, Austria},
 
   Owner                    = {kai},
-  Timestamp                = {2016.12.13},
+  Timestamp                = {2017.06.04},
   Url                      = {http://www.R-project.org/}
 }
 
@@ -2550,6 +2573,14 @@ It was concluded that the position of neighbours' crowns were important in deter
   Url                      = {https://documents-dds-ny.un.org/doc/UNDOC/GEN/N05/487/60/PDF/N0548760.pdf?OpenElement},
   Urldate                  = {2017-04-14}
 }
+
+@Manual{urbanek_2016,
+    title = {rJava: Low-Level R to Java Interface},
+    author = {Simon Urbanek},
+    year = {2016},
+    note = {R package version 0.9-8},
+    url = {https://CRAN.R-project.org/package=rJava},
+  }
 
 @Article{valentine_1984,
   Title                    = {Subsampling {Trees} for {Biomass}, {Volume}, or {Mineral} {Content}},
