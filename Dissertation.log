@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  9 JUN 2017 11:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  9 JUN 2017 12:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1419,25 +1419,7 @@ l.13
                    \relax 
 l.17 
       [3] [4] [5] [6] [7] [8] (./Grafiken/Introduction/flowchart_opt.tex)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9]
-
-Class scrbook Warning: Usage of deprecated font command `\tt'!
-(scrbook)              You should note, that in 1994 font command `\tt' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\tt' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\tt' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\tt'
-(scrbook)              by `\normalfont \ttfamily ' on input line 97.
-
-[10] [11]) (./hzb.tex
+[9] [10] [11]) (./hzb.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2034,7 +2016,7 @@ s.eps>
 (epstopdf)             \includegraphics on input line 270.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf, id=1693, 325.
+<Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf, id=1692, 325.
 215pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_3_bark_thickness-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -2076,7 +2058,7 @@ urn.eps>
 (epstopdf)             \includegraphics on input line 376.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf, id=1733, 325
+<Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf, id=1732, 325
 .215pt x 325.215pt>
 File: Grafiken/beech_crowns/Fig_4_marginal_return-eps-converted-to.pdf Graphic 
 file (type pdf)
@@ -2101,7 +2083,7 @@ _left_elasticity_cost_revenue.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to.pdf,
- id=1742, 505.89pt x 505.89pt>
+ id=1741, 505.89pt x 505.89pt>
 File: Grafiken/beech_crowns/Fig_5_left_elasticity_cost_revenue-eps-converted-to
 .pdf Graphic file (type pdf)
 
@@ -2125,7 +2107,7 @@ ig_5_right_small-end_diameter_boxplot.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converted-to.
-pdf, id=1743, 505.89pt x 505.89pt>
+pdf, id=1742, 505.89pt x 505.89pt>
 File: Grafiken/beech_crowns/Fig_5_right_small-end_diameter_boxplot-eps-converte
 d-to.pdf Graphic file (type pdf)
 
@@ -2157,7 +2139,7 @@ ometric_relationships.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf, id=
-1777, 650.43pt x 650.43pt>
+1776, 650.43pt x 650.43pt>
 File: Grafiken/beech_crowns/Fig_6_allometric_relationships-eps-converted-to.pdf
  Graphic file (type pdf)
 
@@ -2226,7 +2208,7 @@ o.pdf>
 (epstopdf)             \includegraphics on input line 235.
 Package epstopdf Info: Output file is already uptodate.
 
-<Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf, id=2141, 607.26875pt x 303.13
+<Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf, id=2140, 607.26875pt x 303.13
 25pt>
 File: Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf Graphic file (type pdf)
  <use Grafiken/opt/fig2-ex2-plot-eps-converted-to.pdf>
@@ -2316,11 +2298,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 257.
 Here is how much of TeX's memory you used:
  28466 strings out of 494860
  538347 string characters out of 6177603
- 1947865 words of memory out of 5000000
+ 1947842 words of memory out of 5000000
  30594 multiletter control sequences out of 15000+600000
  119768 words of font info for 88 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 64i,24n,69p,3483b,17004s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,24n,69p,3483b,17003s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texm
 f/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-math
 sy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/e
@@ -2340,10 +2322,10 @@ fb></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy5.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmtt10.pfb>
-Output written on Dissertation.pdf (124 pages, 4900613 bytes).
+Output written on Dissertation.pdf (124 pages, 4900517 bytes).
 PDF statistics:
- 2646 PDF objects out of 2984 (max. 8388607)
- 2407 compressed objects within 25 object streams
+ 2645 PDF objects out of 2984 (max. 8388607)
+ 2406 compressed objects within 25 object streams
  524 named destinations out of 1000 (max. 500000)
  417 words of extra memory for PDF output out of 10000 (max. 10000000)
 

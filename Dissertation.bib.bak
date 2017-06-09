@@ -190,14 +190,6 @@
   Timestamp                = {2017.03.02}
 }
 
-@Manual{conway_2016,
-    title = {RPostgreSQL: R interface to the PostgreSQL database system},
-    author = {Joe Conway and Dirk Eddelbuettel and Tomoaki Nishiyama and Sameer Kumar Prayaga and Neil Tiffin},
-    year = {2016},
-    note = {R package version 0.4-1},
-    url = {https://CRAN.R-project.org/package=RPostgreSQL},
-  }
-
 @Article{debesi_2015,
   Title                    = {Towards a {Bioeconomy} in {Europe}: {National}, {Regional} and {Industrial} {Strategies}},
   Author                   = {de Besi, Matteo and McCormick, Kes},
@@ -489,6 +481,15 @@
   Owner                    = {kai},
   Publisher                = {INFORMS},
   Timestamp                = {2017.04.15}
+}
+
+@Manual{conway_2016,
+  Title                    = {RPostgreSQL: R interface to the PostgreSQL database system},
+  Author                   = {Joe Conway and Dirk Eddelbuettel and Tomoaki Nishiyama and Sameer Kumar Prayaga and Neil Tiffin},
+  Note                     = {R package version 0.4-1},
+  Year                     = {2016},
+
+  Url                      = {https://CRAN.R-project.org/package=RPostgreSQL}
 }
 
 @Article{corana_1987,
@@ -1147,8 +1148,8 @@
   Author                   = {Hochbichler, E. and Bellos, P. and Lick, E.},
   Journal                  = {Centralblatt für das gesamte Forstwesen (Austrian Journal of Forest Sciences)},
   Year                     = {2006},
-  Number                   = {123},
   Pages                    = {35--46},
+  Volume                   = {123},
 
   ISSN                     = {0008-9583},
   Owner                    = {khusman1},
@@ -1216,6 +1217,14 @@
   Urldate                  = {2016-06-24}
 }
 
+@Manual{husmann_2017,
+  Title                    = {optimization: Flexible optimizer with numerous input specifications. R package version 1.0-4},
+  Author                   = {Kai Husmann and Alexander Lange},
+  Year                     = {2017},
+
+  Url                      = {https://CRAN.R-project.org/package=optimization}
+}
+
 @Book{hutcheson_2008,
   Title                    = {Statistical {Modeling} for {Management}},
   Author                   = {Hutcheson, Graeme D. and Moutinho, Luiz},
@@ -1229,13 +1238,6 @@
   Owner                    = {khusman1},
   Timestamp                = {2017.01.13}
 }
-
-@Manual{husmann_2017,
-    title = {optimization: Flexible optimizer with numerous input specifications. R package version 1.0-4},
-    author = {Kai Husmann and Alexander Lange},
-    year = {2017},
-    url = {https://CRAN.R-project.org/package=optimization},
-  }
 
 @Book{huxley_1932,
   Title                    = {Problems of relative growth},
@@ -1603,6 +1605,15 @@
   Timestamp                = {2017.03.02}
 }
 
+@Manual{mersmann_2015,
+  Title                    = {microbenchmark: Accurate Timing Functions},
+  Author                   = {Olaf Mersmann},
+  Note                     = {R package version 1.4-2.1},
+  Year                     = {2015},
+
+  Url                      = {https://CRAN.R-project.org/package=microbenchmark}
+}
+
 @Article{metropolis_1953,
   Title                    = {Equation of state calculations by fast computing machines},
   Author                   = {Metropolis, Nicholas and Rosenbluth, Arianna W and Rosenbluth, Marshall N and Teller, Augusta H and Teller, Edward},
@@ -1616,14 +1627,6 @@
   Publisher                = {AIP},
   Timestamp                = {2017.04.15}
 }
-
-@Manual{mersmann_2015,
-    title = {microbenchmark: Accurate Timing Functions},
-    author = {Olaf Mersmann},
-    year = {2015},
-    note = {R package version 1.4-2.1},
-    url = {https://CRAN.R-project.org/package=microbenchmark},
-  }
 
 @Book{mfacp_2004,
   Title                    = {Langfristige ökologische {Waldentwicklung}- {Richtlinie} zur {Baumartenwahl}},
@@ -1740,6 +1743,29 @@ Verbraucherschutz},
 
   Owner                    = {khusman1},
   Timestamp                = {2017.01.13}
+}
+
+@InCollection{mohring_2010b,
+  Title                    = {Die wirtschaftliche {Situation} der {Forstwirtschaft}},
+  Author                   = {Möhring, Bernhard and Leefken, Georg and Finckenstein, Bernhard Graf von},
+  Booktitle                = {Waldeigentum},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2010},
+  Editor                   = {Depenheuer, Otto and Möhring, Bernhard},
+  Note                     = {DOI: 10.1007/978-3-642-00232-8\_5},
+  Number                   = {8},
+  Pages                    = {73--97},
+  Series                   = {Bibliothek des {Eigentums}},
+
+  Copyright                = {©2010 Springer - Verlag Berlin Heidelberg},
+  File                     = {Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/IKQW2BMK/978-3-642-00232-8_5.html:text/html},
+  ISBN                     = {978-3-642-00231-1 978-3-642-00232-8},
+  Keywords                 = {Agricultural Economics, Constitutional Law, Cultural Heritage, Environmental Law/Policy/Ecojustice},
+  Language                 = {de},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.06.07},
+  Url                      = {http://link.springer.com/chapter/10.1007/978-3-642-00232-8_5},
+  Urldate                  = {2017-06-07}
 }
 
 @Book{moller_2007,
@@ -1995,8 +2021,8 @@ Verbraucherschutz},
   Author                   = {Pretzsch, Hans and Block, Joachim and Dieler, Jochen and Gauer, Jürgen and Göttlein, Axel and Moshammer, Ralf and Schuck, Julius and Weis, Wendelin and Wunn, Uwe},
   Journal                  = {Allgemeine Forst- und Jagdzeitung},
   Year                     = {2014},
-  Number                   = {185},
   Pages                    = {261--285},
+  Volume                   = {185},
 
   Owner                    = {khusman1},
   Shorttitle               = {Allg. {Forst}- u. {J}.-{Ztg}},
@@ -2211,8 +2237,9 @@ In our opinion, the current challenge of forest ecosystem management in Europe i
   Author                   = {Saborowski, J. and Gaffrey, D.},
   Journal                  = {Allgemein Forst- und Jagdzeitung},
   Year                     = {1999},
-  Number                   = {170. Jg 12},
+  Number                   = {170},
   Pages                    = {223-- 227},
+  Volume                   = {12},
 
   Owner                    = {khusman1},
   Timestamp                = {2017.02.28}
@@ -2375,6 +2402,41 @@ In our opinion, the current challenge of forest ecosystem management in Europe i
   ISBN                     = {3-490-08716-X},
   Owner                    = {kai},
   Timestamp                = {2016.12.13}
+}
+
+@InCollection{spellmann_2010,
+  Title                    = {Nachhaltige {Waldbewirtschaftung} auf ükologischen {Grundlagen}},
+  Author                   = {Spellmann, Hermann},
+  Booktitle                = {Waldeigentum},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2010},
+  Editor                   = {Depenheuer, Otto and Möhring, Bernhard},
+  Note                     = {DOI: 10.1007/978-3-642-00232-8\_6},
+  Number                   = {8},
+  Pages                    = {99--116},
+  Series                   = {Bibliothek des {Eigentums}},
+
+  Copyright                = {©2010 Springer - Verlag Berlin Heidelberg},
+  File                     = {Snapshot:/home/khusman1/.mozilla/firefox/ykffmvee.default/zotero/storage/4IJA2T3V/978-3-642-00232-8_6.html:text/html},
+  ISBN                     = {978-3-642-00231-1 978-3-642-00232-8},
+  Keywords                 = {Agricultural Economics, Constitutional Law, Cultural Heritage, Environmental Law/Policy/Ecojustice},
+  Language                 = {de},
+  Owner                    = {khusman1},
+  Timestamp                = {2017.06.07},
+  Url                      = {http://link.springer.com/chapter/10.1007/978-3-642-00232-8_6},
+  Urldate                  = {2017-06-07}
+}
+
+@Article{spellmann_2013,
+  Title                    = {Masse statt {Klasse} - {Waldbauliche} {Konsequenzen} aus einer veränderten {Rohholznachfrage}.},
+  Author                   = {Spellmann, Hermann},
+  Journal                  = {AFZ-DerWald},
+  Year                     = {2013},
+  Pages                    = {10--15},
+  Volume                   = {9},
+
+  Owner                    = {khusman1},
+  Timestamp                = {2017.06.07}
 }
 
 @Article{sprugel_1983,
@@ -2566,7 +2628,7 @@ It was concluded that the position of neighbours' crowns were important in deter
   Year                     = {2005},
 
   Address                  = {New York},
-  Number                   = {A/60/1},
+  Volume                   = {A/60/1},
 
   Owner                    = {khusman1},
   Timestamp                = {2017.04.14},
@@ -2575,12 +2637,13 @@ It was concluded that the position of neighbours' crowns were important in deter
 }
 
 @Manual{urbanek_2016,
-    title = {rJava: Low-Level R to Java Interface},
-    author = {Simon Urbanek},
-    year = {2016},
-    note = {R package version 0.9-8},
-    url = {https://CRAN.R-project.org/package=rJava},
-  }
+  Title                    = {rJava: Low-Level R to Java Interface},
+  Author                   = {Simon Urbanek},
+  Note                     = {R package version 0.9-8},
+  Year                     = {2016},
+
+  Url                      = {https://CRAN.R-project.org/package=rJava}
+}
 
 @Article{valentine_1984,
   Title                    = {Subsampling {Trees} for {Biomass}, {Volume}, or {Mineral} {Content}},

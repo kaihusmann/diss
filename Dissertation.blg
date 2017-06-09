@@ -8,44 +8,40 @@ Warning--empty publisher in bmel_2016
 Warning--can't use both author and editor fields in bmu_2007
 Warning--can't use both author and editor fields in gauer_2012
 Warning--empty publisher in haarhaus_2012
-Warning--there's a number but no volume in hochbichler_2006
 Warning--empty publisher in jacobsen_2003
 Warning--empty publisher in muller-using_2004
 Warning--empty publisher in neumann-spallart_1952
-Warning--there's a number but no volume in pretzsch_2014
-Warning--there's a number but no volume in saborowski_1999
 Warning--empty journal in theussl_2016
-Warning--there's a number but no series in un_2005
 You've used 176 entries,
             2229 wiz_defined-function locations,
-            1486 strings with 37796 characters,
-and the built_in function-call counts, 69701 in all, are:
-= -- 6842
+            1486 strings with 37789 characters,
+and the built_in function-call counts, 69674 in all, are:
+= -- 6838
 > -- 2880
 < -- 148
 + -- 988
 - -- 962
-* -- 6008
-:= -- 12170
-add.period$ -- 549
+* -- 5998
+:= -- 12168
+add.period$ -- 548
 call.type$ -- 176
 change.case$ -- 1311
 chr.to.int$ -- 174
-cite$ -- 189
+cite$ -- 185
 duplicate$ -- 2620
-empty$ -- 4842
+empty$ -- 4840
 format.name$ -- 1224
-if$ -- 13566
+if$ -- 13560
 int.to.chr$ -- 3
 int.to.str$ -- 0
 missing$ -- 211
 newline$ -- 886
 num.names$ -- 536
-pop$ -- 1146
+pop$ -- 1144
 preamble$ -- 1
 purify$ -- 1352
 quote$ -- 0
-skip$ -- 1965
+skip$ -- 1973
 stack$ -- 0
 substring$ -- 4708
 swap$ -- 333
@@ -53,8 +49,8 @@ text.length$ -- 37
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 962
-warning$ -- 13
+warning$ -- 9
 while$ -- 582
 width$ -- 0
 write$ -- 2317
-(There were 13 warnings)
+(There were 9 warnings)
