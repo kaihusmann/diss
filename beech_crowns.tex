@@ -15,7 +15,7 @@ Published in:\\
 \newpage
 \renewcommand{\labelitemi}{--}
 \begin{itemize}
-	\item Bernhard Möhring supported analysis of the results, writing of the manuscript and the review process.
+	\item Bernhard Möhring supported the review of the results, the writing of the manuscript and the review process.
 \end{itemize}
 
 \clearpage
@@ -36,7 +36,7 @@ Economically optimal wood cut, Crown morphology, European beech, viable crown wo
 \subsection*{Highlights}
 \renewcommand{\labelitemi}{--}
 \begin{itemize}
-\item Morphological measurements of 163 European beech tree crowns via \textit{RBS} method.
+\item Morphological measurements of 163 European beech tree crowns via RBS method.
 \item Distinguishing the economically viable from the whole crown wood.
 \item Categorization of European beech crowns into morphological types.
 \item Development of a viable crown timber prediction model for forest management.
@@ -95,7 +95,7 @@ The data were collected during 2009 and 2014. Altogether 163 trees were destruct
 \subsection{Selection of disks}
 \label{subsec:beech_crowns:methods:disk_selection}
 
-To subtract bark from the wood volume, stem and branch disks for bark thickness measurement were taken from 37 trees of the NW-FVA study (Table \ref{tab:beech_crowns:tab2}). Up to 6 disks were randomly selected using the importance sampling method \citep{Gregoire_2008}. The proxy function, which is necessary for calculation of the sampling probability, was derived by the volume distribution of the branch diameters over the approximated tree height (which were both measured for volume estimation via RBS anyway). The selection probability of the disks was thus proportional to their disk diameter. Diameter and the bark thickness of the disks were measured at 4 directions of the selected disks directly after extraction.
+To subtract bark from the wood volume, stem and branch disks for bark thickness measurement were taken from 37 trees of the NW-FVA study (Table \ref{tab:beech_crowns:tab2}). Up to 6 disks were randomly selected using the \textit{Importance Sampling Method} \citep{Gregoire_2008}. The proxy function, which is necessary for calculation of the sampling probability, was derived by the volume distribution of the branch diameters over the approximated tree height (which were both measured for volume estimation via RBS anyway). The selection probability of the disks was thus proportional to their disk diameter. Diameter and the bark thickness of the disks were measured at 4 directions of the selected disks directly after extraction.
 
 \begin{table}[]
 	\centering
@@ -116,7 +116,7 @@ To subtract bark from the wood volume, stem and branch disks for bark thickness 
 \label{subsec:beech_crowns:methods:branch_selection}
 The estimation of the wood volume in the crown was based on the RBS method of multistage probability sampling. RBS is an unbiased method of probability sampling used for estimating specific tree parameters by measurable auxiliary variables \citep{jessen_1955,gaffrey_1999}. In our application, RBS enables estimation of the wood volume in the crown or in specific parts of the crown by measuring only a sample of branch segments instead of measuring all branch segments in the crown. Only relatively few measurements of branch diameters and branch segment lengths have to be taken for an accurate estimate of the whole wood volume in the crown or the wood volume of specific crown parts.
 
-RBS is based on the knowledge of the conditional probability $q_{lj}$ of choosing the $j$-th out of n \textit{branches} at a \textit{node} $l$ in the crown instead of choosing another branch of this node. The probability $q_{lj}$ can be calculated by an auxiliary variable instead of the (complicated measurable) target variable itself \citep{gregoire_1995,Gregoire_2008,valentine_1984}. Instead of measuring the volume of all branches at a node, in our case, we only had to measure the base diameters $d_{lj}$ of the branches to calculate $q_{lj}$ and the volume of one branch. As \citet{west_1999} examined an allometric coefficient of 2.67 between branch volume and branch base diameter, the branch base diameter to the power of 2.67 is expected to provide efficient estimates. In our study, the conditional probability has been selected to be
+RBS is based on the knowledge of the conditional probability $q_{lj}$ of choosing the $j$-th out of $n$ \textit{branches} at a \textit{node} $l$ in the crown instead of choosing another branch of this node. The probability $q_{lj}$ can be calculated by an auxiliary variable instead of the (complicated measurable) target variable itself \citep{gregoire_1995,Gregoire_2008,valentine_1984}. Instead of measuring the volume of all branches at a node, in our case, we only had to measure the base diameters $d_{lj}$ of the branches to calculate $q_{lj}$ and the volume of one branch. As \citet{west_1999} examined an allometric coefficient of 2.67 between branch volume and branch base diameter, the branch base diameter to the power of 2.67 is expected to provide efficient estimates. In our study, the conditional probability has been selected to be
 
 \begin{equation}
 	\label{eq:beech_crowns:eq1}
@@ -137,7 +137,7 @@ The crown base, which is the height where the throughout stem ends and the sympo
 %%--------------------------------------------------------%%
 \subsection{Estimation of wood volume in the stem and in the crown}
 \label{subsec:beech_crowns:methods:crown_vol_est}
-The calculation method for the point estimates of the volumes as well as for the estimated variance is described in the literature \citep[e. g.][]{Gregoire_2008}. The stem form was assessed by section-wise diameter measurements at certain tree heights up to the crown base. The sum of these section volumes, also calculated by the conical frustum formula (Equation 2), gave the whole stem volume from the ground up to the crown base.
+The calculation method for the point estimates of the volumes as well as for the estimated variance is described in the literature \citep[e.g.][]{Gregoire_2008}. The stem form was assessed by section-wise diameter measurements at certain tree heights up to the crown base. The sum of these section volumes, also calculated by the conical frustum formula (Equation 2), gave the whole stem volume from the ground up to the crown base.
 
 %%----------------------------------------------%%
 %% Economically viable wood volume in the crown %%
@@ -150,7 +150,7 @@ The calculation method for the point estimates of the volumes as well as for the
 %%++++++++++++++++++++++++++++%%
 \subsubsection{Crown type differentiation}
 \label{subsubsec:beech_crowns:methods:viable:crown_types}
-To calculate the volume distribution according to the branch diameters in individual tree crowns, the cumulative wood volume amount $\hat{V}_i(d)$ in the crown was calculated from the crown base up to each recorded branch base diameter $(d)$ along each RBS path. This distribution was normalized by dividing the predicted cumulative crown volume below $\hat{V}_i(d)$ [m3] by the whole wood volume from the crown $\hat{V}_i(0)$ [m3] (Equation \ref{eq:beech_crowns:eq3}) and by dividing the base diameter of every branch $d_{ij}$ by the maximum diameter found $d_{max}$. $F(d)$ thus denotes the wood volume amount over branch diameter in the crown.
+To calculate the volume distribution according to the branch diameters in individual tree crowns, the cumulative wood volume amount $\hat{V}_i(d)$ in the crown was calculated from the crown base up to each recorded branch base diameter $(d)$ along each RBS path. This distribution was normalized by dividing the predicted cumulative crown volume below $\hat{V}_i(d)$ [m$^3$] by the whole wood volume from the crown $\hat{V}_i(0)$ [m$^3$] (Equation \ref{eq:beech_crowns:eq3}) and by dividing the base diameter of every branch $d_{ij}$ by the maximum diameter found $d_{max}$. $F(d)$ thus denotes the wood volume amount over branch diameter in the crown.
 
 \begin{equation}
 \label{eq:beech_crowns:eq3}
@@ -168,7 +168,7 @@ The diameter where half of the wood volume amount was located above (below respe
 
 As there were 3 paths per tree, the tree individual median diameter was calculated by the median of the 3 median branch diameters. The lower and upper quartiles were created in the same way. We thus generated 3 tree individual continuous variables. These enabled a clustering of the trees into 3 crown types which differ in their wood volume amount. As the crown types based on the volume distribution in the crowns, they should represent groups with different economically viable wood volumes. We chose the \textit{k-means} cluster algorithm \citep{r_core_team_2016}, which minimizes the within-cluster Euclidean distance among observations and group means by the sum-of-squares method \citep{wagstaff_2001}, to cluster the data into 3 morphological crown types.
 
-The median tree diameter as well as the quantile tree diameters are not measurable in practice. To differentiate a beach crown into 1 of the 3 mentioned groups in forest management, it is thus necessary to predict the crown type by other tree attributes. A multinomial logistic regression method \citep{hutcheson_2008} was parameterized to predict the crown type clusters from practically measurable morphological tree variables $x_i$ (equation 4). In this case, the $x_i$ are the dbh, the tree height, the tree height at crown base and the ratio of the base diameters at crown base. The ratios of the branch diameters at crown base were calculated by dividing the 2nd largest base diameter at the crown base by the respective largest branch diameter.
+The median tree diameter as well as the quantile tree diameters are not measurable in practice. To differentiate a beach crown into 1 of the 3 mentioned groups in forest management, it is thus necessary to predict the crown type by other tree attributes. A multinomial logistic regression method \citep{hutcheson_2008} was parameterized to predict the crown type clusters from practically measurable morphological tree variables $x_i$ (Equation \ref{eq:beech_crowns:eq4}). In this case, the $x_i$ are the dbh, the tree height, the tree height at crown base and the ratio of the base diameters at crown base. The ratios of the branch diameters at crown base were calculated by dividing the 2nd largest base diameter at the crown base by the respective largest branch diameter.
 
 We fitted a log odd model with $J=3$ categories to a probability function which predicts the probability that an individual tree is belonging to a crown type category $j$ rather than to the reference category $j^{'}= 1$ by $i=4$ variables.
 
@@ -176,19 +176,19 @@ We fitted a log odd model with $J=3$ categories to a probability function which 
 \label{eq:beech_crowns:eq4}
 \operatorname{log}\left(\frac{P\left(Y=j\right)}{P\left(Y=j^{'}\right)}\right)=\beta_{j0}+\beta_{j1}x_{1}+\beta_{j2}x_{2}+\dots+\beta_{ji}x_{i}
 \end{equation}
-
+% No space in between
 The probability of an individual to belong to group j in relation to the reference is therefore calculated as
 
 \begin{equation*}
 P\left(Y=j\right)=\frac{\operatorname{exp}\left(\beta_{0}+\beta_{j1}x_{1}+\beta_{j2}x_{2}+\dots+\beta_{jk}x_{k}\right)}{1+\operatorname{exp}\left(\beta_{0}+\beta_{j1}x_1+\beta_{j2}x_{2}+\dots+\beta_{jk}x_{k}\right)}=\frac{exp(\boldsymbol{x}_i^{'}\boldsymbol{\beta}_j)}{1+exp(\boldsymbol{x}_i^{'}\boldsymbol{\beta}_j)}
 \end{equation*}
-
+% No space in between
 and the probability of an individual to belong to group j considering all groups calculates as
 
 \begin{equation*}
 P\left(Y=j\right)=\frac{exp(\boldsymbol{x}_i^{'}\boldsymbol{\beta}_j)}{1+\sum_{s=1,s\neq j'}^{J} exp(\boldsymbol{x}_i^{'}\boldsymbol{\beta}_s)}
 \end{equation*}
-
+% No space in between
 where crown type 1 represented the reference category $j^{'}$. The model was fitted with the R package \textit{NNET} \citep{venables_2002}. The significance of a variable was examined by linear discriminant analysis. For model quality testing we predicted the crown type with our model and compared the result with the actual crown classification by the k-means analysis. This classification was performed by a leave-one-out cross-validation \citep[R package \textit{MASS};][]{venables_2002} and an in-sample reclassification.
 %%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%%
 %% Modelling the economically viable wood volume in the crown %%
@@ -199,7 +199,7 @@ As biasedness of the point and the variance estimate do not depend on the number
 
 To distinguish viable from unviable branches, each RBS node and subsequent selected branch segment were aggregated into one \textit{branch structure}. In the event that many nodes occurred in close succession (no branch segments in between), they were regarded as one large node and aggregated with the following node and branch segment to form a large branch structure.
 
-Each of the branch structures were then, starting at the crown base, successively rated in terms of revenue and cost. The revenue was calculated by multiplying wood volume [$\text{m}^3$] (under bark) by timber price [$\text{\euro} \text{m}^{-3}$]. The cost associated with any one branch structure was assumed to be constant per processing step and was interpreted as marginal cost \citep{mohring_1997} of processing this branch structure. Whenever a branch structure had a positive marginal return, it was additionally proofed if the former branch structure was viable. If this was the case, the branch structure was labeled to be economically viable. A branch segment is thus only considered as economically viable if its piece-volume is large enough to have a positive marginal return. If a former branch structure was unviable, the processing costs doubled, because the continuation of processing thereafter would require an additional cut. Each RBS path of every crown thus had a specific break-even point \citep{starr_1975} after which further processing would result in lower marginal returns. The small-end diameter of this last viable branch structure was recorded. The model was programmed in the statistical programming language R \citep{r_core_team_2016}.
+Each of the branch structures were then, starting at the crown base, successively rated in terms of revenue and cost. The revenue was calculated by multiplying wood volume [$\text{m}^3$] (under bark) by timber price [$\text{\euro} \; \text{m}^{-3}$]. The cost associated with any one branch structure was assumed to be constant per processing step and was interpreted as marginal cost \citep{mohring_1997} of processing this branch structure. Whenever a branch structure had a positive marginal return, it was additionally proofed if the former branch structure was viable. If this was the case, the branch structure was labeled to be economically viable. A branch segment is thus only considered as economically viable if its piece-volume is large enough to have a positive marginal return. If a former branch structure was unviable, the processing costs doubled, because the continuation of processing thereafter would require an additional cut. Each RBS path of every crown thus had a specific break-even point \citep{starr_1975} after which further processing would result in lower marginal returns. The small-end diameter of this last viable branch structure was recorded. The model was programmed in the statistical programming language R \citep{r_core_team_2016}.
 
 After neglecting the unviable branch structures, the tree individual viable wood volume from the crown as well as the variance were estimated by means of RBS. The final small-end diameter of an individual tree was defined as the mean of the end diameter of all 3 paths.
 
@@ -263,7 +263,7 @@ To consider the assumption of allometric regressions \citep{stumpf_2012}, we tra
 \label{subsec:beech_crowns:results:bark}
 To subtract the bark from the wood volume, models for the double bark thickness over branch diameter are necessary. The predicted double bark thickness enabled the bark subtraction from both sides of the RBS diameter measurements. The commonly used double bark thickness model of \citet{altherr_1978} was parameterized with stem and branch disks of diameters above 7 cm. As the wood volume model in this study should be able to predict smaller branches as well, parameterization of an own bark thickness model became necessary. In addition, comparison of the observed bark thickness to the predicted bark thickness with the equation by \citet{altherr_1978} revealed that application of the Altherr model would have led to an overestimation of the bark thickness. The estimated double bark thickness with the function by \citet{altherr_1978} was 1.4 mm higher than with the new parameterized function for branches with a diameter of 10 cm. For branches with diameter of 30 cm, the difference amounted to 3.1 mm.
 
-The double bark thickness regression equation was calculated via a \textit{Generalized Additive Mixed Model} \citep{wood_2006} using the untransformed normally distributed identity link function. A linear curve trend was found in the bark thickness model (Fig \ref{fig:beech_crowns:fig3}). There were multiple measurements in one tree (see section \ref{subsec:beech_crowns:methods:disk_selection}). To exclude regional as well as tree specific influences, the tree id was considered a random effect. As we found heteroscedasticity, we weighted our data by a power function, which was parameterized by the model residuals over the fitted values.
+The double bark thickness regression equation was calculated via a \textit{Generalized Additive Mixed Model} \citep{wood_2006} using the untransformed normally distributed identity link function. A linear curve trend was found in the bark thickness model (Figure \ref{fig:beech_crowns:fig3}). There were multiple measurements in one tree (see section \ref{subsec:beech_crowns:methods:disk_selection}). To exclude regional as well as tree specific influences, the tree id was considered a random effect. As we found heteroscedasticity, we weighted our data by a power function, which was parameterized by the model residuals over the fitted values.
 
 \begin{figure}
 	\center
@@ -304,11 +304,11 @@ All calculated and measured crown morphology variables and tree metadata, includ
 
 \begin{table}[]
 	\centering
-	\caption{Summary statistics of all used variables, c. v. = coefficient of variation.}
+	\caption{Summary statistics of all used variables, c.v. = coefficient of variation.}
 	\label{tab:beech_crowns:tab4}
 	\begin{tabular}{cccccccc}
 		\hline
-		variable                       &                            & unit     & min   & median & mean  & max    & c. v. \\ \hline
+		variable                       &                            & unit     & min   & median & mean  & max    & c.v. \\ \hline
 		diameter at breast height      & $dbh$                        & {[}cm{]} & 8.0   & 34.8   & 35.4  & 78.3   & -     \\
 		tree height                    & $H$                          & {[}m{]}  & 13.1  & 26.0   & 25.3  & 38.5   & -     \\
 		whole tree wood volume         & $V_t$                       & [$\text{m}^3$] & 0.05 & 1.46  & 2.25 & 11.70 & 0.07 \\
@@ -353,19 +353,19 @@ The trees were clustered into 3 groups, where 50 trees were assigned to the firs
 %%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%%
 \subsubsection{Modelling the economically viable wood volume in the crown}
 \label{subsubsec:beech_crowns:results:viable:econ_viable}
-Table \ref{tab:beech_crowns:tab6} shows that crown type 3 crowns yielded more economically viable wood volume than the other two types for trees with similar dbh. The percentage volume of economically viable wood modeled in relation to the whole wood volume from the crown was considerably different among the crown types. Especially crowns of type 3 differed from the other 2 types. The small-end diameter of the trees did not differ between the diameter-crown type-groups from Table 6. In all dbh-crown type-groups, except for the groups below 20 cm, the group mean of the small-end diameter was randomly scattering around 10 cm. Trees in the groups below 20 cm dbh usually don't show crown branches with a base diameter of 10 cm. Their group mean small-end diameter was not calculated.
+Table \ref{tab:beech_crowns:tab6} shows that crown type 3 crowns yielded more economically viable wood volume than the other two types for trees with similar dbh. The percentage volume of economically viable wood modeled in relation to the whole wood volume from the crown was considerably different among the crown types. Especially crowns of type 3 differed from the other 2 types. The small-end diameter of the trees did not differ between the diameter-crown type-groups from Table \ref{tab:beech_crowns:tab6}. In all dbh-crown type-groups, except for the groups below 20 cm, the group mean of the small-end diameter was randomly scattering around 10 cm. Trees in the groups below 20 cm dbh usually don't show crown branches with a base diameter of 10 cm. Their group mean small-end diameter was not calculated.
 
 \begin{table}[]
 	\centering
-	\caption{Proportion of economically viable crown wood in beech crowns according to the whole crown wood (each under bark). n. d. = no data.}
+	\caption{Proportion of economically viable crown wood in beech crowns according to the whole crown wood (each under bark). n.d. = no data.}
 	\label{tab:beech_crowns:tab6}
 	\begin{tabular}{ccccccccc}
 		\cline{2-9}
 		\multicolumn{1}{l}{} & \multicolumn{8}{c}{dbh-interval {[}cm{]}}                                                    \\ \cline{2-9} 
 		crown type           & {[}0-10) & {[}10-20) & {[}20-30) & {[}30-40) & {[}40-50) & {[}50-60) & {[}60-70) & {[}70-80) \\ \hline
-		1                    & n .d.    & 0.19      & 0.35      & 0.57      & 0.71      & 0.74      & 0.84      & 0.80      \\
+		1                    & n.d.    & 0.19      & 0.35      & 0.57      & 0.71      & 0.74      & 0.84      & 0.80      \\
 		2                    & 0.00     & 0.25      & 0.42      & 0.65      & 0.72      & 0.71      & 0.84      & 0.80      \\
-		3                    & 0.08     & 0.27      & 0.57      & 0.77      & 0.88      & 0.86      & 0.89      & n. d.     \\ \hline
+		3                    & 0.08     & 0.27      & 0.57      & 0.77      & 0.88      & 0.86      & 0.89      & n.d.     \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -468,7 +468,7 @@ Application of our new parametrized bark thickness model in further studies appe
 %%----------------------------------------------%%
 \subsection{Economically viable wood volume in the crown}
 \label{subsec:beech_crowns:discussion:viable}
-The mains advantage of the RBS method are its unbiasedness, its efficiency and its flexibility. Based on the morphologic measurements, it is possible to estimate the volume of various parts of the crown. In our approach, we focused on the economically viable branch structures. Although the measurements for this study were relatively time and cost expensive they represent an efficient trade-off between accuracy and measuring costs.
+The main advantages of the RBS method are its unbiasedness, its efficiency and its flexibility. Based on the morphologic measurements, it is possible to estimate the volume of various parts of the crown. In our approach, we focused on the economically viable branch structures. Although the measurements for this study were relatively time and cost expensive they represent an efficient trade-off between accuracy and measuring costs.
 
 %%++++++++++++++++++++++++++++%%
 %% Crown type differentiation %%
