@@ -175,6 +175,8 @@ headinclude]{scrbook}
 \begin{document}
 	\thispagestyle{empty}
 	\input{Deckblatt}
+	\pagestyle{empty}
+	\cleardoublepage
 	\input{Referees}
 	\pagestyle{empty}
 	\cleardoublepage
@@ -201,16 +203,17 @@ headinclude]{scrbook}
 	\thispagestyle{plain}
 	\newpage
 	\listoftables
-	% \thispagestyle{plain}
+	\thispagestyle{plain}
 	\cleardoublepage
 	\input{Acknowledgements}
 	\hypersetup{linkcolor=blue}{} % Links wieder blau
 	\cleardoublepage
 	\input{Summary}
+	\thispagestyle{plain}
 	%\cleardoublepage
 	\input{Zusammenfassung}
 	%\cleardoublepage
-	%\thispagestyle{empty}
+	\thispagestyle{plain}
 	\clearpage
 	
 	\newpage
