@@ -12,45 +12,45 @@ Warning--empty publisher in jacobsen_2003
 Warning--empty publisher in muller-using_2004
 Warning--empty publisher in neumann-spallart_1952
 Warning--empty journal in theussl_2016
-You've used 176 entries,
+You've used 177 entries,
             2229 wiz_defined-function locations,
-            1486 strings with 37789 characters,
-and the built_in function-call counts, 69674 in all, are:
-= -- 6838
-> -- 2880
-< -- 148
-+ -- 988
-- -- 962
-* -- 5998
-:= -- 12168
-add.period$ -- 548
-call.type$ -- 176
-change.case$ -- 1311
-chr.to.int$ -- 174
-cite$ -- 185
-duplicate$ -- 2620
-empty$ -- 4840
-format.name$ -- 1224
-if$ -- 13560
+            1490 strings with 37891 characters,
+and the built_in function-call counts, 69962 in all, are:
+= -- 6866
+> -- 2887
+< -- 149
++ -- 990
+- -- 964
+* -- 6016
+:= -- 12222
+add.period$ -- 552
+call.type$ -- 177
+change.case$ -- 1316
+chr.to.int$ -- 175
+cite$ -- 186
+duplicate$ -- 2634
+empty$ -- 4863
+format.name$ -- 1227
+if$ -- 13617
 int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 211
-newline$ -- 886
-num.names$ -- 536
-pop$ -- 1144
+missing$ -- 213
+newline$ -- 892
+num.names$ -- 539
+pop$ -- 1150
 preamble$ -- 1
-purify$ -- 1352
+purify$ -- 1358
 quote$ -- 0
-skip$ -- 1973
+skip$ -- 1983
 stack$ -- 0
-substring$ -- 4708
-swap$ -- 333
+substring$ -- 4720
+swap$ -- 334
 text.length$ -- 37
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 962
+type$ -- 966
 warning$ -- 9
-while$ -- 582
+while$ -- 584
 width$ -- 0
-write$ -- 2317
+write$ -- 2332
 (There were 9 warnings)

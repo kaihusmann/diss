@@ -249,6 +249,12 @@ Eckmüllner, O. (2006).
   spruce and {Scots} pine in {Austria}.
 \newblock {\em Austrian Journal of Forest Science}, 123(1-2), 7--15.
 
+\bibitem[Eddelbuettel, 2013]{eddelbuettel_2013}
+Eddelbuettel, D. (2013).
+\newblock {\em Seamless {R} and {C++} Integration with {Rcpp}}.
+\newblock New York: Springer.
+\newblock ISBN 978-1-4614-6867-7.
+
 \bibitem[Efken et~al., 2012]{efken_2012}
 Efken, J., Banse, M., Rothe, A., Dieter, M., Dirksmeyer, W., Ebeling, M.,
   Fluck, K., Hansen, H., Kreins, P., Seintsch, B., \& {others} (2012).
