@@ -86,7 +86,7 @@ headinclude]{scrbook}
 % Dark blue colour for all links
 \RequirePackage{color}
 \definecolor{link}{rgb}{0.45,0.51,0.67}
-\usepackage[ pdfauthor={Kai Husmann}, pdftitle={Applied Statistical Models in Bio-Economy}]{hyperref}
+\usepackage[ pdfauthor={Kai Husmann}, pdftitle={Dissertation, Kai Husmann}]{hyperref}
 %,backref=page
 %Zur Verlinkung des Literaturverzeichnisses mit den Textstellen bei hyperref Optionen [backref] einfügen%
 
@@ -175,15 +175,15 @@ headinclude]{scrbook}
 \begin{document}
 	\thispagestyle{empty}
 	\input{Deckblatt}
-	\pagestyle{empty}
-	\cleardoublepage
+	%\pagestyle{empty}
+	%\cleardoublepage
 	\input{Referees}
 	\pagestyle{empty}
-	\cleardoublepage
-	\thispagestyle{empty}
-	\newpage
-	\thispagestyle{empty}
-	\mbox{}
+	%\cleardoublepage
+	%\thispagestyle{empty}
+	%\newpage
+	%\thispagestyle{empty}
+	%\mbox{}
 	\pagebreak
 	%\pagenumbering{arabic}
 	
@@ -196,18 +196,26 @@ headinclude]{scrbook}
 		\tableofcontents
 	}
 	
-	
 	\thispagestyle{plain}
 	\newpage
 	\listoffigures
 	\thispagestyle{plain}
 	\newpage
 	\listoftables
-	\thispagestyle{plain}
-	\cleardoublepage
+	\pagestyle{plain}
+	%\clearpage
+	%\newpage
+	%\mbox{}
+	%\pagebreak
+	%\thispagestyle{empty}
 	\input{Acknowledgements}
+	\thispagestyle{plain}
+	%\clearpage
+	%\newpage
+	%\mbox{}
+	%\pagebreak
+	%\thispagestyle{empty}
 	\hypersetup{linkcolor=blue}{} % Links wieder blau
-	\cleardoublepage
 	\input{Summary}
 	\thispagestyle{plain}
 	%\cleardoublepage
@@ -215,7 +223,6 @@ headinclude]{scrbook}
 	%\cleardoublepage
 	\thispagestyle{plain}
 	\clearpage
-	
 	\newpage
 	%\thispagestyle{empty}
 	\mbox{}
@@ -239,20 +246,22 @@ headinclude]{scrbook}
 	\input{hzb}
 	%\cleardoublepage
 	\input{bm}
-	%\cleardoublepage
+	\clearpage
+	\newpage
+	\mbox{}
+	\pagebreak
+	\thispagestyle{empty}
 	\input{beech_crowns}
-	%\cleardoublepage
+	\clearpage
+	\newpage
+	\mbox{}
+	\pagebreak
+	\thispagestyle{empty}
 	\input{opt}
 	%\cleardoublepage
 	\input{Discussion}
 	%\cleardoublepage
 	\input{Literatur}
-	%\cleardoublepage
-	\newpage
-	\thispagestyle{empty}
-	\mbox{}
-	\pagebreak
-	\pagestyle{empty}
 	\input{Curriculum}
 	%\cleardoublepage
 	%\pagestyle{empty}
