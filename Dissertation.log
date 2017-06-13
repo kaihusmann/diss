@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  12 JUN 2017 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  13 JUN 2017 07:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2216,9 +2216,19 @@ Underfull \vbox (badness 1033) has occurred while \output is active []
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[85] [86] (./Grafiken/discussion/out_reinhausen_5.tex) [87]
-(./Grafiken/discussion/standard_development_100.tex) [88]
+[85]
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86]
+(./Grafiken/discussion/out_reinhausen_5.tex)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[87] (./Grafiken/discussion/standard_development_100.tex)
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [88]
+Underfull \vbox (badness 3954) has occurred while \output is active []
 
  [89]
 (./Grafiken/discussion/out_reinhausen_100.tex)) (./Discussion.tex [90]
@@ -2284,7 +2294,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 269.
 Here is how much of TeX's memory you used:
  28470 strings out of 493029
  538625 string characters out of 6136234
- 1938562 words of memory out of 5000000
+ 1938561 words of memory out of 5000000
  30825 multiletter control sequences out of 15000+600000
  119768 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2308,10 +2318,10 @@ lic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri7.pfb></usr/share
 lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.
 pfb>
-Output written on Dissertation.pdf (123 pages, 4905956 bytes).
+Output written on Dissertation.pdf (123 pages, 4905935 bytes).
 PDF statistics:
- 2662 PDF objects out of 2984 (max. 8388607)
- 2424 compressed objects within 25 object streams
+ 2664 PDF objects out of 2984 (max. 8388607)
+ 2426 compressed objects within 25 object streams
  525 named destinations out of 1000 (max. 500000)
  417 words of extra memory for PDF output out of 10000 (max. 10000000)
 

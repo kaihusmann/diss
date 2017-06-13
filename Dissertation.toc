@@ -83,7 +83,7 @@
 \contentsline {section}{\numberline {5.5}Appendix: Case studies of the combined simulation-optimization approach}{84}{section.5.5}
 \contentsline {subsection}{\numberline {5.5.1}Motivation}{84}{subsection.5.5.1}
 \contentsline {subsection}{\numberline {5.5.2}Scenario definitions}{84}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}Detailed results}{86}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.3}Detailed results}{87}{subsection.5.5.3}
 \contentsline {chapter}{\numberline {6}Conclusions}{91}{chapter.6}
 \contentsline {section}{\numberline {6.1}Findings of the thesis}{92}{section.6.1}
 \contentsline {subsection}{\numberline {6.1.1}Analyzing status and development of raw wood availability in European beech-dominated central Germany}{92}{subsection.6.1.1}
