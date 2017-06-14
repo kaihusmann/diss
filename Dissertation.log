@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  14 JUN 2017 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  14 JUN 2017 23:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2235,8 +2235,11 @@ Underfull \vbox (badness 3954) has occurred while \output is active []
 chapter 6.
 [91
 
-] [92] [93]
-Overfull \hbox (1.60175pt too wide) in paragraph at lines 51--52
+] [92]
+Underfull \vbox (badness 1383) has occurred while \output is active []
+
+ [93]
+Overfull \hbox (1.60175pt too wide) in paragraph at lines 43--44
 []\T1/lmr/m/n/10 The im-ple-men-ted sus-tain-ab-il-ity re-stric-tions fo-cus on
 ly on the sus-tain-ab-il-ity of the stand volumes.
  []
@@ -2322,7 +2325,7 @@ lic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri7.pfb></usr/share
 lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.
 pfb>
-Output written on Dissertation.pdf (123 pages, 4907839 bytes).
+Output written on Dissertation.pdf (123 pages, 4907699 bytes).
 PDF statistics:
  2667 PDF objects out of 2984 (max. 8388607)
  2429 compressed objects within 25 object streams
