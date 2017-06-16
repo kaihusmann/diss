@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  16 JUN 2017 16:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.14)  16 JUN 2017 19:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1401,9 +1401,9 @@ l.7 \newpage
 l.13 
       [2] [3] [4] [5] [6] [7]
 
-LaTeX Warning: Reference `bm' on page 8 undefined on input line 71.
+LaTeX Warning: Reference `bm' on page 8 undefined on input line 64.
 
-[8] [9] (./Grafiken/Introduction/flowchart_opt.tex) [10] [11]) (./hzb.tex
+[8] [9] (./Grafiken/Introduction/flowchart_opt.tex) [10] [11] [12]) (./hzb.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1413,16 +1413,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
 
-[12]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 2.
- [13]
+[13]
 chapter 2.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
@@ -2314,7 +2305,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 269.
 Here is how much of TeX's memory you used:
  28475 strings out of 493029
  538688 string characters out of 6136234
- 1938525 words of memory out of 5000000
+ 1938291 words of memory out of 5000000
  30829 multiletter control sequences out of 15000+600000
  119768 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2338,10 +2329,10 @@ lic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri7.pfb></usr/share
 lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.
 pfb>
-Output written on Dissertation.pdf (124 pages, 4911750 bytes).
+Output written on Dissertation.pdf (124 pages, 4910508 bytes).
 PDF statistics:
- 2673 PDF objects out of 2984 (max. 8388607)
- 2434 compressed objects within 25 object streams
+ 2672 PDF objects out of 2984 (max. 8388607)
+ 2433 compressed objects within 25 object streams
  526 named destinations out of 1000 (max. 500000)
  417 words of extra memory for PDF output out of 10000 (max. 10000000)
 
