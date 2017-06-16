@@ -13,8 +13,8 @@
 \contentsline {section}{\numberline {1.6}Structure of the thesis}{7}{section.1.6}
 \contentsline {subsection}{\numberline {1.6.1}Analyzing status and development of raw wood availability in European beech-dominated central Germany}{7}{subsection.1.6.1}
 \contentsline {subsection}{\numberline {1.6.2}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{8}{subsection.1.6.2}
-\contentsline {subsection}{\numberline {1.6.3}Modelling the economically viable wood in the crown of European beech trees}{8}{subsection.1.6.3}
-\contentsline {subsection}{\numberline {1.6.4}Flexible Global Optimization with Simulated-Annealing}{9}{subsection.1.6.4}
+\contentsline {subsection}{\numberline {1.6.3}Modelling the economically viable wood in the crown of European beech trees}{9}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Flexible Global Optimization with Simulated-Annealing}{10}{subsection.1.6.4}
 \select@language {ngerman}
 \contentsline {chapter}{\numberline {2}Mittelfristigem Anstieg folgt stetiger R\"uckgang - Zustand und Entwicklung der Rohholzverf\"ugbarkeit in der buchenreichen Mitte Deutschlands}{13}{chapter.2}
 \contentsline {section}{\numberline {2.1}Einleitung}{15}{section.2.1}
@@ -82,8 +82,8 @@
 \contentsline {section}{\numberline {5.4}Discussion and outlook}{83}{section.5.4}
 \contentsline {section}{\numberline {5.5}Appendix: Case studies of the combined simulation-optimization approach}{84}{section.5.5}
 \contentsline {subsection}{\numberline {5.5.1}Motivation}{84}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Scenario definitions}{84}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}Detailed results}{87}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.2}Scenario definitions}{85}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Detailed results}{86}{subsection.5.5.3}
 \contentsline {chapter}{\numberline {6}Conclusions}{91}{chapter.6}
 \contentsline {section}{\numberline {6.1}Findings of the thesis}{92}{section.6.1}
 \contentsline {subsection}{\numberline {6.1.1}Analyzing status and development of raw wood availability in European beech-dominated central Germany}{92}{subsection.6.1.1}
