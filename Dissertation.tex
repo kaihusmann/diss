@@ -54,8 +54,7 @@ headinclude]{scrbook}
 %% Packages für Pseudocode
 \usepackage[linesnumbered, algochapter]{algorithm2e}
 
-
-
+\usepackage{enumerate}
 %% Paket für Grafik
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows,calc,positioning,shapes.geometric}
@@ -242,7 +241,11 @@ headinclude]{scrbook}
 	
 	\pagenumbering{arabic}
 	\input{Introduction}
-	%\cleardoublepage
+	\clearpage
+	\newpage
+	\mbox{}
+	\pagebreak
+	\thispagestyle{empty}
 	\input{hzb}
 	%\cleardoublepage
 	\input{bm}
@@ -262,9 +265,14 @@ headinclude]{scrbook}
 	\input{Discussion}
 	%\cleardoublepage
 	\input{Literatur}
+	%\thispagestyle{empty}
 	\input{Curriculum}
 	%\cleardoublepage
+	
+	\clearpage
+	\newpage
+	\mbox{}
+	\pagebreak
 	\thispagestyle{empty}
-	%\input{erklaerung}
 \end{document}
 

@@ -16,80 +16,80 @@
 \contentsline {subsection}{\numberline {1.6.3}Modelling the economically viable wood in the crown of European beech trees}{9}{subsection.1.6.3}
 \contentsline {subsection}{\numberline {1.6.4}Flexible Global Optimization with Simulated-Annealing}{10}{subsection.1.6.4}
 \select@language {ngerman}
-\contentsline {chapter}{\numberline {2}Mittelfristigem Anstieg folgt stetiger R\"uckgang - Zustand und Entwicklung der Rohholzverf\"ugbarkeit in der buchenreichen Mitte Deutschlands}{14}{chapter.2}
-\contentsline {section}{\numberline {2.1}Einleitung}{16}{section.2.1}
-\contentsline {section}{\numberline {2.2}Methodik}{16}{section.2.2}
-\contentsline {section}{\numberline {2.3}Ergebnisse}{17}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Waldfl\"ache}{17}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Alter des Waldes}{18}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Waldeigentum}{19}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Nachhaltiges, kontinuierliches Holzpotenzial}{20}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Entwicklung des Rohholzvorrates und des Rohholzpotenzials}{22}{subsection.2.3.5}
-\contentsline {section}{\numberline {2.4}Konsequenzen f\"ur die Nutzung von Buchenholz}{23}{section.2.4}
+\contentsline {chapter}{\numberline {2}Mittelfristigem Anstieg folgt stetiger R\"uckgang - Zustand und Entwicklung der Rohholzverf\"ugbarkeit in der buchenreichen Mitte Deutschlands}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}Einleitung}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}Methodik}{17}{section.2.2}
+\contentsline {section}{\numberline {2.3}Ergebnisse}{18}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Waldfl\"ache}{18}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Alter des Waldes}{19}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Waldeigentum}{20}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Nachhaltiges, kontinuierliches Holzpotenzial}{21}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Entwicklung des Rohholzvorrates und des Rohholzpotenzials}{23}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Konsequenzen f\"ur die Nutzung von Buchenholz}{24}{section.2.4}
 \select@language {british}
-\contentsline {chapter}{\numberline {3}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{26}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{28}{section.3.1}
-\contentsline {section}{\numberline {3.2}Materials and Methods}{30}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Data sampling and sample processing}{31}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Biomass functions}{32}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Sensitivity analysis}{33}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Nutrient contents}{33}{subsection.3.2.4}
-\contentsline {section}{\numberline {3.3}Results}{34}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Biomass functions}{34}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Sensitivity analysis}{38}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Nutrient contents}{39}{subsection.3.3.3}
-\contentsline {section}{\numberline {3.4}Discussion}{41}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Biomass functions}{41}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Sensitivity analysis}{44}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Nutrient contents}{44}{subsection.3.4.3}
-\contentsline {section}{\numberline {3.5}Conclusions}{45}{section.3.5}
-\contentsline {chapter}{\numberline {4}Modelling the economically viable wood in the crown of European beech trees}{48}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{50}{section.4.1}
-\contentsline {section}{\numberline {4.2}Materials and Methods}{51}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Selection of trees}{52}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Selection of disks}{52}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Selection of branches}{53}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Estimation of wood volume in the stem and in the crown}{54}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Economically viable wood volume in the crown}{54}{subsection.4.2.5}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{54}{section*.37}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{56}{section*.39}
-\contentsline {subsection}{\numberline {4.2.6}Allometric relationships}{58}{subsection.4.2.6}
-\contentsline {section}{\numberline {4.3}Results}{58}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Prediction of bark thickness}{58}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Economically viable wood volume in the crown}{59}{subsection.4.3.2}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{59}{section*.43}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{60}{section*.46}
-\contentsline {subsection}{\numberline {4.3.3}Allometric relationships}{62}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Discussion}{63}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Estimation of bark thickness}{63}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Economically viable wood volume in the crown}{63}{subsection.4.4.2}
-\contentsline {subsubsection}{\nonumberline Crown type differentiation}{63}{section*.53}
-\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{65}{section*.54}
-\contentsline {subsection}{\numberline {4.4.3}Allometric relationships}{66}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Conclusions and outlook}{67}{section.4.5}
-\contentsline {chapter}{\numberline {5}Flexible Global Optimization with Simulated-Annealing}{70}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{72}{section.5.1}
-\contentsline {section}{\numberline {5.2}The package optimization}{74}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Method}{74}{subsection.5.2.1}
-\contentsline {subsubsection}{\nonumberline Inner loop}{74}{section*.57}
-\contentsline {subsubsection}{\nonumberline Outer loop}{76}{section*.59}
-\contentsline {subsection}{\numberline {5.2.2}The function optim\_sa}{76}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Examples}{78}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Himmelblau Function with continuous parameter space}{78}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Himmelblau Function with discrete parameter space}{80}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Structural vector autoregressive models with least dependent innovations}{82}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}Forest harvesting schedule optimization}{83}{subsection.5.3.4}
-\contentsline {section}{\numberline {5.4}Discussion and outlook}{84}{section.5.4}
-\contentsline {section}{\numberline {5.5}Appendix: Case studies of the combined simulation-optimization approach}{85}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Motivation}{85}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Scenario definitions}{86}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}Detailed results}{87}{subsection.5.5.3}
-\contentsline {chapter}{\numberline {6}Conclusions}{92}{chapter.6}
-\contentsline {section}{\numberline {6.1}Findings of the thesis}{93}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Analyzing status and development of raw wood availability in European beech-dominated central Germany}{93}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{94}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Modelling the economically viable wood in the crown of European beech trees}{94}{subsection.6.1.3}
-\contentsline {subsection}{\numberline {6.1.4}Flexible Global Optimization with Simulated-Annealing}{95}{subsection.6.1.4}
-\contentsline {section}{\numberline {6.2}Outlook}{96}{section.6.2}
-\contentsline {chapter}{\nonumberline Bibliography}{98}{chapter*.71}
-\contentsline {chapter}{Curriculum Vitae}{110}{chapter*.72}
+\contentsline {chapter}{\numberline {3}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{29}{section.3.1}
+\contentsline {section}{\numberline {3.2}Materials and Methods}{31}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Data sampling and sample processing}{32}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Biomass functions}{33}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Sensitivity analysis}{34}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Nutrient contents}{34}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Results}{35}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Biomass functions}{35}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Sensitivity analysis}{39}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Nutrient contents}{40}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Discussion}{42}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Biomass functions}{42}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Sensitivity analysis}{45}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Nutrient contents}{45}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Conclusions}{46}{section.3.5}
+\contentsline {chapter}{\numberline {4}Modelling the economically viable wood in the crown of European beech trees}{49}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{51}{section.4.1}
+\contentsline {section}{\numberline {4.2}Materials and Methods}{52}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Selection of trees}{53}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Selection of disks}{53}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Selection of branches}{54}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Estimation of wood volume in the stem and in the crown}{55}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Economically viable wood volume in the crown}{55}{subsection.4.2.5}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{55}{section*.37}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{57}{section*.39}
+\contentsline {subsection}{\numberline {4.2.6}Allometric relationships}{59}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.3}Results}{59}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Prediction of bark thickness}{59}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Economically viable wood volume in the crown}{60}{subsection.4.3.2}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{60}{section*.43}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{61}{section*.46}
+\contentsline {subsection}{\numberline {4.3.3}Allometric relationships}{63}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Discussion}{64}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Estimation of bark thickness}{64}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Economically viable wood volume in the crown}{64}{subsection.4.4.2}
+\contentsline {subsubsection}{\nonumberline Crown type differentiation}{64}{section*.53}
+\contentsline {subsubsection}{\nonumberline Modelling the economically viable wood volume in the crown}{66}{section*.54}
+\contentsline {subsection}{\numberline {4.4.3}Allometric relationships}{67}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Conclusions and outlook}{68}{section.4.5}
+\contentsline {chapter}{\numberline {5}Flexible Global Optimization with Simulated-Annealing}{71}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{73}{section.5.1}
+\contentsline {section}{\numberline {5.2}The package optimization}{75}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Method}{75}{subsection.5.2.1}
+\contentsline {subsubsection}{\nonumberline Inner loop}{75}{section*.57}
+\contentsline {subsubsection}{\nonumberline Outer loop}{77}{section*.59}
+\contentsline {subsection}{\numberline {5.2.2}The function optim\_sa}{77}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Examples}{79}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Himmelblau Function with continuous parameter space}{79}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Himmelblau Function with discrete parameter space}{81}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Structural vector autoregressive models with least dependent innovations}{83}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Forest harvesting schedule optimization}{84}{subsection.5.3.4}
+\contentsline {section}{\numberline {5.4}Discussion and outlook}{85}{section.5.4}
+\contentsline {section}{\numberline {5.5}Appendix: Case studies of the combined simulation-optimization approach}{86}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Motivation}{86}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Scenario definitions}{87}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Detailed results}{88}{subsection.5.5.3}
+\contentsline {chapter}{\numberline {6}Conclusions}{93}{chapter.6}
+\contentsline {section}{\numberline {6.1}Findings of the thesis}{94}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Analyzing status and development of raw wood availability in European beech-dominated central Germany}{94}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Biomass functions and nutrient contents of European beech, oak, sycamore maple and ash and their meaning for the biomass supply chain}{95}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Modelling the economically viable wood in the crown of European beech trees}{95}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Flexible Global Optimization with Simulated-Annealing}{96}{subsection.6.1.4}
+\contentsline {section}{\numberline {6.2}Outlook}{97}{section.6.2}
+\contentsline {chapter}{\nonumberline Bibliography}{99}{chapter*.71}
+\contentsline {chapter}{Curriculum Vitae}{111}{chapter*.72}
