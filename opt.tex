@@ -16,8 +16,8 @@ $^3$University of Göttingen\\Chair of Statistics, Humboldtallee 3, 37073 Götting
 
 \vspace{\fill}
 \noindent
-Submitted to:\\
-\textit{The R Journal.}
+Published online:\\
+\textit{https://cran.r-project.org/package=optimization}
 
 \newpage
 \renewcommand{\labelitemi}{--}
@@ -111,6 +111,7 @@ The main functions of the outer while loop (Algorithm \ref{alg:opt:alg1}, lines 
 After finishing the inner loop, firstly \textit{t} is adjusted (line 30). \textit{t} is necessary for the stochastic part in the inner loop (line 19, Equation~\ref{eq:opt:eq1}). In our function, \textit{t} decreases per definition as it is calculated by multiplying the temperature of the current iteration by \textit{r} which is a user defined real number between 0 and 1. The number of outer loop repetitions is thus implied by initial temperature $t_0$, $t_{min}$ and \textit{r}.
 
 Afterwards \textit{rf} changes (line 31). The dynamic adaption of \textit{rf} after \citet{corana_1987} and \citet{pronzato_1984} is another major novelty of our function. As each covariate can have its own random factor, \textit{rf} is a vector of the same size as $x_i$. \textit{rf} is needed for the covariate variation in the inner loop (lines 6 and 12). Dividing the numbers of invalid trials distinctively for each covariate by the total number of trials of the respective covariate gives the ratio of invalid trials for each covariate. The numbers of invalid trials are counted in line 13. According to \citet{corana_1987}, this ratio of invalid trials can be used to find a trade-off between accuracy and the size of the search domain. They argue that if only valid covariate combinations are drawn, the search domain could be too small for multimodal problems. For this, the ratio of invalid trials in the current iteration is used to generate the \textit{rf} for the following outer loop repetition. They suggest ratios between 0.4 and 0.6. If any observed ratio of invalid trials is < 0.4 or > 0.6, the respective random factors are modified following the suggested equation by \citet{corana_1987}. This strategy allows an adjustment of \textit{rf} for the next iteration. \citet{pronzato_1984} who developed the \textit{Adaptive Random Search method}, propose a time decreasing search domain. Thus they suggest a search domain adjustment that does not depend on former information, as \citet{corana_1987} did, but on the number of iterations. They argue that the search domain should be wide at the beginning to give the algorithm the chance to cope with local optima, and small in the end to allow higher precisions. Later iterations thus require smaller search domains than earlier iterations. We integrated the idea of \citet{pronzato_1984} into the dynamic search domain adjustment of \citep{corana_1987} by linearly shrinking the favorable range of ratios from the suggested ratios from \{0.4, 0.6\} to \{0.04, 0.06\}. As mentioned in the inner loop explanations, the variation function can be user defined (lines 6 and 12). The user thus has the option to define flexibly in which way \textit{t} and \textit{rf} influence the covariate variation. Per default, the search domain around the covariates shrinks by trend as the number of outer loop iterations increases.
+
 %%-----------------------%%
 %% The function optim_sa %%
 %%-----------------------%%
@@ -258,6 +259,7 @@ However, optimizing the test statistic is challenging, because the loss function
 The irregular response pattern and the high demands on the solution precision are the main challenges. The combination of SA with the adaptive variation of the search seems to be promising for the optimization problem. The relatively broad parameter variation at the beginning of the optimization process should ensure adequate search-grid size while the stochastic component of the SA should be able to tackle the irregular responses. Dynamically decreasing parameter variation is particular advantageous for optimizing the rotation angles as sufficient parameter accuracy is crucial for the reliability of the solution.
 
 Practical application of \texttt{optim\_sa} revealed its advantages. Using parameterizations for low performance and high precision, like an initial temperature of 100,000, a maximum number of 10,000 inner loops and temperature reductions between 0.7 and 0.9, still converged faster than all other investigated methods. Sensitivity analysis of exemplary optimization problems confirmed the general applicability of \texttt{optim\_sa}. The function was able to find the actual global optimum sufficiently often.
+
 %%-----------------------------------------%%
 %% Forest harvesting schedule optimization %%
 %%-----------------------------------------%%
